@@ -342,6 +342,27 @@
 "src": "Reuters",
 "title": "Opinion polls point to deadlock in Israel's election on Tuesday",
 "ts": 1792925550.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2NFB1SEJUSFFKM3gyTmlUYTE0MUY0SEV1a0Rqc0JqekdpVmxoQ3N0OXFlcmFYUHpLYmpzWFVodmJYRXFWNUxqdmVRUjZDS2RoYXF4T2hJQnNGVUJNWjlxLUExN1dhblY1SzBRTTNva0FuLThmcUdTX1ZWY0Q0ejNPOGRTUQ?oc=5",
+"src": "CNN",
+"title": "I’m a guy turning 42. This is how I just revamped my skin care routine",
+"ts": 1792934940.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVpMQlNuWnNJS0JyQ0IxbElTUUxaa2NldEVWNDhaYVBiZ28yWURhcEl3aGd5NUpzVElwN1VDaF9KQUFTSTZkNldnSW1YTk5oVTM5X1ZCTUU3dXdEUnJuWUFidWg4WHJqRjlXRlV1M0pZNndUenc2TmJid1FvLTJSVm42RUI?oc=5",
+"src": "CNN",
+"title": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
+"ts": 1792935263.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
+"src": "Le Monde Politique",
+"title": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
+"ts": 1792935779.0
 }
 ],
 "seen": {
@@ -508,8 +529,10 @@
 "CNN|CBMiggFBVV95cUxOYThXZG02UlhVY2hGb3BmSGxiRTJEQ2ZvR3o1QlpnWU5TUEdWaFRSMDJONWFzdlN6VGdqMUQ4RjlsWkVFOWZQS1p4a0ViQzE4SDFYR0o3cXdFTXhHZkVrbWtWclhvelN4dm85RGFrSWZuRWNhT04zTW4ycndLRncycXVn": 1792912921.1568482,
 "CNN|CBMihAFBVV95cUxPWWJ6VXpuZXdmTmhRcXE3Yko5bURpenBtYTNocWh0T3lYcHBJcE1OSnZZRVM1eFVZZmJ3cllnMGhwMVBGdnh3cjRjZUVuYzJlVmJHYWl2SS1wMG9WNmRTdDNoZG51OE9WbEtLQVVnUzZJNEdFR2dELUt2VDg1MzhMSHFscWE": 1792912921.1568482,
 "CNN|CBMihAFBVV95cUxQRzBsLTBPRXROVU1IMHNFTVlJeElOWlF6NVFvR3EwcnpFUEpoLU82QjJnQVo1ZW5UNFQ0OGVsRnQ0YktJWW5BRUdDSzdKTHU5bXUwa0xZdVNuSFJvMGNqN2NhRlZLeUkwQ0RKOGs2c1dhVEd5Ymt5UjVuSVpJa3pScjg2aG4": 1792912921.1568482,
+"CNN|CBMihAFBVV95cUxQcVpMQlNuWnNJS0JyQ0IxbElTUUxaa2NldEVWNDhaYVBiZ28yWURhcEl3aGd5NUpzVElwN1VDaF9KQUFTSTZkNldnSW1YTk5oVTM5X1ZCTUU3dXdEUnJuWUFidWg4WHJqRjlXRlV1M0pZNndUenc2TmJid1FvLTJSVm42RUI": 1792935924.8490515,
 "CNN|CBMihgFBVV95cUxOOGJTbGN5cmVOYzZUM2FzZTlna1puOFJnZXVlLW9LMmltZ1Bacmt6VVd2aDhvYmNQNEFxR19QWXE0QVd2QlZ1OE1OY1ZhVzlacTJFajVpOGVKMlVGVVFFblY1b011ZGR3NlVUdV9DQTVZazFmMG9JVURQMDAxcVVla1g3UE9kdw": 1792912921.1568482,
 "CNN|CBMihgFBVV95cUxPcnJGMnhiR1pQcDBHZ2xOR19UbXp2RDN5U3BuNFJnY1VrcEtWUEVKd1Qydnk5Rzg4WWdyRDcyWlRQVS0wY0gtcnFsZDYyX1N1VmVtdmxSUjBBVE9GN1JjWS1TZEVweThlbzVTTEMyVHdlMC1ILWh3c20tV0N5bW5FZzdXRllRdw": 1792925608.8006206,
+"CNN|CBMihgFBVV95cUxQM0M2NFB1SEJUSFFKM3gyTmlUYTE0MUY0SEV1a0Rqc0JqekdpVmxoQ3N0OXFlcmFYUHpLYmpzWFVodmJYRXFWNUxqdmVRUjZDS2RoYXF4T2hJQnNGVUJNWjlxLUExN1dhblY1SzBRTTNva0FuLThmcUdTX1ZWY0Q0ejNPOGRTUQ": 1792935924.8490515,
 "CNN|CBMihwFBVV95cUxNenNHYWYzWnV5bVR4eFlueTZjZVA2TkpoTlMzLXVkWVQ0NFRGVWlUMGhkclVCblVXMUc3YVN4YThjb0hiQmJ6LVNsdTRfWW1ibEQ2Z2FfM1pUSWdWekZoalZiTjQ0azFTNmtpNC1MR2I3N2RoekN2cVctTjlNbTNQSmREcXpVX28": 1792912921.1568482,
 "CNN|CBMiiAFBVV95cUxNTTE1cDZCMklaV21ZZDl1bXVYcEJpNnMtclN1dm93MnZnRVlaczRrNTFvODFEX0psNlJoS1FzeTdIZGVibUstVlZjU3FwdnQ2QloyZmN3cVA2ZWxPY2ZjVmFBRU1fNERVQVVzSkJhc1JXa2dQZDZSZGswdjg4bC0yQlpBYlMtYUEx": 1792912921.1568482,
 "CNN|CBMiiAFBVV95cUxPRERzY2I1ckluNjVKR2FvZ3Zoa3VNSU5RenBBcHpOQXZaeG5Semc2aFkxVVNRVXNRLXBnMGp2NE5xT3M1V2dMV1JYUVE1ejlGem1DWkt5Tmh4dGZZam8yWG5vM2tzM2NTRmxDaXBoSmVNbTVlSGp6M3AyUmM2UlhzYXpyZm1keXlG": 1792912921.1568482,
@@ -610,6 +633,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/emmanuel-macron-plus-que-jamais-affaibli-tente-d-appeler-a-l-unite-et-la-concorde_6799679_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html": 1792912031.9234908,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html": 1792935924.8490515,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestation-142-personnes-interpellees-dont-120-placees-en-garde-a-vue-a-paris-selon-la-prefecture-de-police_6800057_823448.html": 1792925608.8006206,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html": 1792926037.6441834,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-le-patron-des-deputes-horizons-laurent-marcangeli-suggere-de-faire-payer-les-degradations-par-lfi-jugeant-le-mouvement-solidaire-des-casseurs_6800056_823448.html": 1792925608.8006206,
