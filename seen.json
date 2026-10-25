@@ -636,6 +636,20 @@
 "src": "CNN",
 "title": "When will there be a flying car in your garage? Not anytime soon.",
 "ts": 1792944016.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-au-congr%C3%A8s-du-rn-les-militants-confiants-avant-le-discours-de-le-pen",
+"src": "France 24",
+"title": "Au congrès du RN, les militants confiants avant le discours de Le Pen",
+"ts": 1792947168.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-appelle-ses-militants-%C3%A0-%C3%AAtre-au-rendez-vous-de-l-histoire",
+"src": "France 24",
+"title": "Marine Le Pen appelle ses militants à être \"au rendez-vous de l’histoire\"",
+"ts": 1792947382.0
 }
 ],
 "seen": {
@@ -883,6 +897,7 @@
 "CNN|CBMivgFBVV95cUxORVhuajZDSVk3c1cwUFZ2Ukd3UWh4YVFfYUtBSHJBR2NGT0lsRk92UnVGb0hnWW1kUVN5WkkxNXpvTGctcFRlN0lLa1EtUTRFZWpvUFhmZWFWeHdBbVI3bkV4bVJrZU9qaFVXSE14enpZTXlRaXROeVdfX3Vyc1BFVEVjY1VQaDd3TmkwdThveDZFTi12aVp4NHNJellybjc3Q2s5V19sLURnbEZieHJKLUFRNmN1OW5RamVPT053": 1792912921.1568482,
 "CNN|CBMixAFBVV95cUxOT3U3dU1sbnNNUVQ1SkFKdzBoU2F5alpHdlBlYnJTbDc2WklCNzJhWGwxRWd2c3NtbzB6UGN1WE15TDlRdzZRY1lTazYwWkpOamJyS1pRMFNsOERJc0FGM29xUkNFRF9mUGpCdS1HYzFjS2wwMlhnUHg5MWI1MHlnQ1B1UzlGa0lBTlgtYzcxek1rVnY5a2xjRDFxQ0xyWkpDcjk4M1ZiOUNNc2Q5aTdkaDlOb0NpUGJTdnFRVUJ1ZFRuRHFD": 1792912921.1568482,
 "France 24|01d50a32-cfe3-11f1-a275-cdac6671750f": 1792912031.9234908,
+"France 24|11c9a972-d090-11f1-82fa-930c9773237b": 1792947639.24719,
 "France 24|1313ded6-d083-11f1-9a99-09d2c60347d4": 1792941329.610085,
 "France 24|17ce5350-cff4-11f1-b3b8-378cf206546a": 1792912031.9234908,
 "France 24|22453492-d081-11f1-87ab-b156efee61e0": 1792940439.4304676,
@@ -900,8 +915,10 @@
 "France 24|61ebe486-cfe3-11f1-9cc8-cdac6671750f": 1792912031.9234908,
 "France 24|62bebdd6-d068-11f1-80fe-23179a81db4f": 1792930525.0455637,
 "France 24|66a051f4-cfd1-11f1-8945-0de2af5a5538": 1792912031.9234908,
+"France 24|677a61d8-d093-11f1-8dca-a9969940cd50": 1792947639.24719,
 "France 24|6e73b6a0-ced2-11f1-a037-4f7b3f106fa3": 1792937725.1038725,
 "France 24|6f1e891c-d059-11f1-b92d-1f8f659a9952": 1792929640.0968695,
+"France 24|773faec2-d07d-11f1-b6e1-37dd3010ebf0": 1792947639.24719,
 "France 24|77f90082-d07a-11f1-8f77-83411c56a6a1": 1792939531.0152667,
 "France 24|7a775a02-cfc6-11f1-8d51-ebc768a835ba": 1792912031.9234908,
 "France 24|7ce75bc0-cfb7-11f1-a3d2-a30ecf487026": 1792912031.9234908,
@@ -916,6 +933,7 @@
 "France 24|aa20ee20-cebe-11f1-ac2b-4d683987d47e": 1792927832.803806,
 "France 24|abfb2604-cfca-11f1-9983-f9b22d73c7a1": 1792912031.9234908,
 "France 24|ac5df4c8-d074-11f1-8ead-c9c9a59307e9": 1792938632.6359444,
+"France 24|b21fcde2-d091-11f1-a101-fd2ca0af2a88": 1792947639.24719,
 "France 24|b52bfd54-cfb9-11f1-8924-c7c079fe7763": 1792912031.9234908,
 "France 24|b8e36bea-d080-11f1-b063-890c6afbe230": 1792940439.4304676,
 "France 24|bdede502-cfbd-11f1-a5f8-6574028a4c26": 1792912031.9234908,
