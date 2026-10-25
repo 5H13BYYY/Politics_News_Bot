@@ -259,27 +259,37 @@ def main():
             continue
 
         pattern = re.compile(src["filter"], re.I) if src.get("filter") else None
+        st = dict(fetched=len(entries), known=0, new=0, filtered=0, old=0, dupe=0, queued=0)
         for e in entries:
             uid = f"{src['name']}|{e.get('id') or e.get('link')}"
             if uid in seen:
+                st["known"] += 1
                 continue
             title = clean_title(e.get("title", ""), src["gnews"])
             link = e.get("link", "")
             if not title or not link:
                 continue
             seen[uid] = now                     # mark seen even if filtered out
+            st["new"] += 1
             if first_run:                       # seed silently, don't flood
                 continue
             if pattern and not pattern.search(f"{title} {e.get('summary', '')}"):
+                st["filtered"] += 1
                 continue
             when = entry_time(e) or datetime.now(timezone.utc)
             if when < cutoff:
+                st["old"] += 1
                 continue
             key = (src["lang"], norm_title(title))
             if key in seen_titles:              # same headline from two feeds
+                st["dupe"] += 1
                 continue
             seen_titles.add(key)
             queue.append((when, src, title, link))
+            st["queued"] += 1
+
+        print(f"[{src['name']}] " + ", ".join(f"{k}={v}" for k, v in st.items())
+              + (" (first run: seeded)" if first_run else ""))
 
         if src["name"] not in state["initialized"]:
             state["initialized"].append(src["name"])
