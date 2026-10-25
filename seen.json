@@ -776,6 +776,13 @@
 "src": "Reuters",
 "title": "'Full of excitement:' Sydney's new airport opens to passengers",
 "ts": 1792955539.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lection-pr%C3%A9sidentielle-%C3%A0-orl%C3%A9ans",
+"src": "France 24",
+"title": "Marine Le Pen lance sa campagne pour l'élection présidentielle à Orléans",
+"ts": 1792955495.0
 }
 ],
 "seen": {
@@ -1055,6 +1062,7 @@
 "France 24|62bebdd6-d068-11f1-80fe-23179a81db4f": 1792930525.0455637,
 "France 24|66a051f4-cfd1-11f1-8945-0de2af5a5538": 1792912031.9234908,
 "France 24|677a61d8-d093-11f1-8dca-a9969940cd50": 1792947639.24719,
+"France 24|69aaa3e6-d0a2-11f1-a3f5-d1b1ac3f2234": 1792956112.7710567,
 "France 24|6e73b6a0-ced2-11f1-a037-4f7b3f106fa3": 1792937725.1038725,
 "France 24|6f1e891c-d059-11f1-b92d-1f8f659a9952": 1792929640.0968695,
 "France 24|773faec2-d07d-11f1-b6e1-37dd3010ebf0": 1792947639.24719,
