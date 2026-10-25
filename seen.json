@@ -755,6 +755,27 @@
 "src": "CNN",
 "title": "CNN.com - Transcripts",
 "ts": 1792936800.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège",
+"ts": 1792954919.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ?oc=5",
+"src": "CNN",
+"title": "Possible ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say",
+"ts": 1792955239.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nbW1GTmJYeWF4ZnVXbk8tWkNBV2lTcHNUU0xQS1htVGZ1VEszLWd0QWlZbnYwOXRVRFU2elZabUFBTnNiWENucmVOZnVja1FHREdoNm91NGFrMDhlRVRELWVSNk1PZkNQRGVJV1B1N0FjVG1mb0dfMkxn?oc=5",
+"src": "Reuters",
+"title": "'Full of excitement:' Sydney's new airport opens to passengers",
+"ts": 1792955539.0
 }
 ],
 "seen": {
@@ -933,6 +954,7 @@
 "CNN|CBMifkFVX3lxTE1zeWJxV3NiOWM3bGYxUzF5a0ota19uLS16cXpscG5KbDRLc09VSjJtMFVZenRCN0J2anJoTWVvVFNDZzFwM2FXeGxGNkQ1M0Y5bTZ4S0NNV0REcEtzNmE2MXloVm9mamVHWjEyMjFCTlFPc3M3bVh1YXJURUh3QQ": 1792912921.1568482,
 "CNN|CBMifkFVX3lxTE9EUHZGY2tqMVA3eUNNRGRkNnRxNDB6Z3AxdWJjc04wNHdRVDVjRmpRNzNSQkNJdkRnMUF2LVk1Nzk2cVJnYVJQc2ZSUjc0M3ppOXM4ZU50b2ktN1lHMjB0Sm1GaHRlMmtzcE5rWHRZYzBfb0tIMWdQak5BaEs3QQ": 1792912921.1568482,
 "CNN|CBMifkFVX3lxTE9TQ1RZNFpjOWE0NS0yOXd6M2VteWotTHF1VDlCUkJVN1ZLdlNUeXBqMi14dzJxR1Q3RkJ3eHBmVTEwcHhweGROQ2lZY1o5LXFXZ0FrenVFOGUwUHU2bDZBQkNaeWpwVjR1aG9vdW5kQ1c2aV83TFc1R0tEV01BZw": 1792912921.1568482,
+"CNN|CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ": 1792955725.6519537,
 "CNN|CBMigAFBVV95cUxNLUtfOUY3VUpvSHdtZnJ6V3ZKRzBDTnpyaVIxVm02TE9IUkZZVlRuMnB0bDJlRkhsbUpfdXJlaGwzcUNNcXMtMGxQZC1jRDVHYkRSWV9jc2NSNi1hdktibUdJamUyYUNaR1lkRzdjdjRZQ3p6Z0FLUVUxQTFPanFQSA": 1792912921.1568482,
 "CNN|CBMigAFBVV95cUxObzJxMUFWNVlKZUxJZjJ6OVZIVERjOFJGOFd5UE14Nk81b0JyUElzTGo2bnZBZXBJcjZCTUdGdEpncnpQM3RrOU5BUUtEcEYyQmJ3RGtBbTVRR2FXX25OanljZjUwQ2xZV3JkZlRPX1dWM2ttdDg2bi1JT19oS3AtYw": 1792935031.8835816,
 "CNN|CBMigAFBVV95cUxQY2xaQ3NxcDRYM2twckZ4SlJQdGxDZUdqNVlFbjhLMGtYUUxWZndma2lZc0Vhd2p4UkdyTnRBNUpOQ19LUFZwZVFpYWs0aVJ2T3Z4S21UOXRyNUNjRTdvZzQ4T2hXVHBBZEphMlJBUUZkOFI2NWVfY1RTYUtfeHIwMw": 1792912921.1568482,
@@ -1090,6 +1112,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestation-142-personnes-interpellees-dont-120-placees-en-garde-a-vue-a-paris-selon-la-prefecture-de-police_6800057_823448.html": 1792925608.8006206,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html": 1792926037.6441834,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-le-patron-des-deputes-horizons-laurent-marcangeli-suggere-de-faire-payer-les-degradations-par-lfi-jugeant-le-mouvement-solidaire-des-casseurs_6800056_823448.html": 1792925608.8006206,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html": 1792955725.6519537,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/a-lyon-la-manifestation-interdite-etouffee-par-le-gaz-lacrymogene_6799727_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html": 1792912031.9234908,
@@ -1118,6 +1141,7 @@
 "Reuters|CBMib0FVX3lxTE9ZX1UzSU1mZFFoc05FelNZanRuUXhYamNKNkxMdVZHdmRiR3hNd3BKNXo5S3VrM0dzck9fdnhwYjJ1dGNRTng3S0pqSWloN2F4MGttakZSSTByR2h4eENZQXY1QXJTS1A3bFhxSDRrTQ": 1792912031.9234908,
 "Reuters|CBMidEFVX3lxTE9HQ01nYTg1ZFpTYVJUNXlRdTlTa3FmWS1PUTNfX1E2VFBSS1hZdFRWblZhUGtzVnY0N1poQkJXdkg0b21oWGMzWmw3S2NVbE1tajJzQ0xBa0J3U1dtMVBKXzl3cVFEMzEtck9Fa2pTb3dUYXAw": 1792912031.9234908,
 "Reuters|CBMiekFVX3lxTE1nQWdfYjU0akxFWG5TTW0tWjNoYlFMR3hOZUpXbnIweEtVaEZlek45eHR4Ui13dE9UXzVrTzBtcUVtX3BpTEdXVlE5MFAtQ2hTa0xvWVJDa2EwMDB5ZXpzVzNic05URno2WjBxWl9UWUVLT3RHa2M0MkR3": 1792912031.9234908,
+"Reuters|CBMiekFVX3lxTE1nbW1GTmJYeWF4ZnVXbk8tWkNBV2lTcHNUU0xQS1htVGZ1VEszLWd0QWlZbnYwOXRVRFU2elZabUFBTnNiWENucmVOZnVja1FHREdoNm91NGFrMDhlRVRELWVSNk1PZkNQRGVJV1B1N0FjVG1mb0dfMkxn": 1792955725.6519537,
 "Reuters|CBMiekFVX3lxTE1uenBrZWE0dnpNNlFjTDFtR0VYLTgwd0tIUURHNHlDeTNJRkdPT3JTR1FoVm53WHhzTURaa1VmdkVCaDJnSXByZ0poOEN4SndGNjM0QVU3ZE1LLVpGUnRUQ1U5Wk5ZT2hEVE5yTTBUNGJ1NDJsbG9LdVhn": 1792934126.3624318,
 "Reuters|CBMiekFVX3lxTFBRTjc1T3pFTTVPYU90a1lQTVdVdDRIU0tyaDdMZXNkOEtSZ0QxYXAxNFF1bXloSEtZQUJQRDRLcXR5S3ZkbkRwbVZlZmd4dk10MnRGT0hzalJGV0ZCU01OWTNxMTR6X3FRZFVDOUI4dnQ1c092aU5IOUdR": 1792946722.1411147,
 "Reuters|CBMiigFBVV95cUxNWlNYdXZFSVVub19GWi1BVW1wTTNpWGtQUTVrUHVDMjZsTmE4d3NiZndYUDk5TlhjNDFuWnYyUWxoT2FGbU1DcGt1ODdLOHRBMjk3ckZzZHFsMElhbGx1Q0N0Y1h2akRtaDJpV28xQXlBdnFyUWFhc1dHTDVzQ1NPRnh4bDJIbi1vSkE": 1792912031.9234908,
