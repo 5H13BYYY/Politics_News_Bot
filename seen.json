@@ -671,6 +671,20 @@
 "src": "Reuters",
 "title": "Trump has no designs on taking over state elections, US attorney general says",
 "ts": 1792948063.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html",
+"src": "Le Monde Politique",
+"title": "Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « Renaissance » de la France",
+"ts": 1792948216.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
+"src": "France 24",
+"title": "Midterms 2026 : Obama fait campagne pour les démocrates et épingle Trump",
+"ts": 1792948425.0
 }
 ],
 "seen": {
@@ -945,6 +959,7 @@
 "France 24|773faec2-d07d-11f1-b6e1-37dd3010ebf0": 1792947639.24719,
 "France 24|77f90082-d07a-11f1-8f77-83411c56a6a1": 1792939531.0152667,
 "France 24|7a775a02-cfc6-11f1-8d51-ebc768a835ba": 1792912031.9234908,
+"France 24|7b7bbece-d094-11f1-833f-67b07772b1fd": 1792949433.1849196,
 "France 24|7ce75bc0-cfb7-11f1-a3d2-a30ecf487026": 1792912031.9234908,
 "France 24|8240f25c-ced6-11f1-a66b-dffc9efb96b0": 1792942233.6861115,
 "France 24|882180a8-c876-11f1-a6a6-4ba086e41259": 1792925608.8006206,
@@ -954,6 +969,7 @@
 "France 24|99d92ce4-cfb8-11f1-be8d-6deb5437196b": 1792912031.9234908,
 "France 24|9aab8084-d055-11f1-a720-a52885e10a86": 1792925608.8006206,
 "France 24|a21fa4de-cfb6-11f1-8b01-ab88639f5dbe": 1792912031.9234908,
+"France 24|a8ee057a-d098-11f1-86c6-4bb56b4bb3f4": 1792949433.1849196,
 "France 24|aa20ee20-cebe-11f1-ac2b-4d683987d47e": 1792927832.803806,
 "France 24|abfb2604-cfca-11f1-9983-f9b22d73c7a1": 1792912031.9234908,
 "France 24|ac5df4c8-d074-11f1-8ead-c9c9a59307e9": 1792938632.6359444,
@@ -991,6 +1007,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html": 1792941329.610085,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html": 1792935924.8490515,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html": 1792949433.1849196,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestation-142-personnes-interpellees-dont-120-placees-en-garde-a-vue-a-paris-selon-la-prefecture-de-police_6800057_823448.html": 1792925608.8006206,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html": 1792926037.6441834,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/manifestations-le-patron-des-deputes-horizons-laurent-marcangeli-suggere-de-faire-payer-les-degradations-par-lfi-jugeant-le-mouvement-solidaire-des-casseurs_6800056_823448.html": 1792925608.8006206,
