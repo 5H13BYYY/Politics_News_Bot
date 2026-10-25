@@ -1,0 +1,42 @@
+name: Politics News Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # GitHub's minimum interval; runs may be delayed a few minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: politics-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Optional: send each language to its own chat/channel
+          CHAT_ID_EN: ${{ secrets.CHAT_ID_EN }}
+          CHAT_ID_FR: ${{ secrets.CHAT_ID_FR }}
+        run: python bot.py
+
+      - name: Save state
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || (git commit -m "update state" && git push)
