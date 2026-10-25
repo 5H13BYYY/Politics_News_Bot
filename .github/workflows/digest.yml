@@ -1,0 +1,30 @@
+name: Politics Morning Digest
+
+on:
+  schedule:
+    - cron: "7 0 * * *"   # 00:07 UTC = 07:07 at UTC+7; GitHub may start it a bit late
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Send digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CHAT_ID_EN: ${{ secrets.CHAT_ID_EN }}
+          CHAT_ID_FR: ${{ secrets.CHAT_ID_FR }}
+        run: python bot.py digest

@@ -16,6 +16,9 @@ TIMEZONE = ZoneInfo("Asia/Phnom_Penh")   # timezone shown in the alert timestamp
 MAX_AGE_HOURS = 6        # ignore items older than this
 MAX_SENDS_PER_RUN = 15   # safety cap so a bad run can't flood the chat
 KEEP_DAYS = 7            # how long to remember seen items
+RECENT_HOURS = 36        # how long sent alerts are kept for the digest
+DIGEST_HOURS = 24        # digest covers the last N hours
+DIGEST_PER_SOURCE = 4    # headlines per source in the digest
 STATE_FILE = "seen.json"
 UA = "Mozilla/5.0 (compatible; PoliticsNewsBot/1.0)"
 
@@ -37,7 +40,7 @@ SOURCES = [
          url="https://feeds.bbci.co.uk/news/politics/rss.xml"),
     # CNN's own RSS (rss.cnn.com) stopped updating in 2023 -> Google News workaround
     dict(name="CNN", lang="en", enabled=True, gnews=True,
-         url=GNEWS_EN.format(q="when:1d+site:cnn.com/politics")),
+         url=GNEWS_EN.format(q="when:1d+site:cnn.com+politics")),
     # Reuters has had no official RSS since 2020 -> Google News workaround
     dict(name="Reuters", lang="en", enabled=True, gnews=True,
          url=GNEWS_EN.format(q="when:1d+site:reuters.com+politics")),
@@ -71,14 +74,17 @@ def load_state():
             s = json.load(f)
         s.setdefault("seen", {})
         s.setdefault("initialized", [])
+        s.setdefault("recent", [])
         return s
     except (FileNotFoundError, json.JSONDecodeError):
-        return {"seen": {}, "initialized": []}
+        return {"seen": {}, "initialized": [], "recent": []}
 
 
 def save_state(state):
     cutoff = time.time() - KEEP_DAYS * 86400
     state["seen"] = {k: v for k, v in state["seen"].items() if v > cutoff}
+    rc = time.time() - RECENT_HOURS * 3600
+    state["recent"] = [r for r in state["recent"] if r["ts"] > rc]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=0, sort_keys=True)
 
@@ -109,14 +115,34 @@ def fetch(src):
     return feedparser.parse(r.content).entries
 
 
+def time_ago(when, lang):
+    secs = max(0, int((datetime.now(timezone.utc) - when).total_seconds()))
+    mins = secs // 60
+    if mins < 1:
+        return "just now" if lang == "en" else "à l'instant"
+    if mins < 60:
+        n, unit_en, unit_fr = mins, "min", "min"
+    else:
+        hours = mins // 60
+        n = hours
+        unit_en = "hour" if hours == 1 else "hours"
+        unit_fr = "heure" if hours == 1 else "heures"
+    return f"{n} {unit_en} ago" if lang == "en" else f"il y a {n} {unit_fr}"
+
+
 def send(lang, src, title, link, when):
     chat = CHATS[lang]
     ts = when.astimezone(TIMEZONE).strftime("%d %b %Y, %H:%M")
+    ago = time_ago(when, lang)
     text = (
         f"{FLAGS[lang]} <b>{html.escape(src['name'])}</b> · {LABELS[lang]}\n"
         f"<a href=\"{html.escape(link, quote=True)}\">{html.escape(title)}</a>\n"
-        f"🕒 {ts}"
+        f"🕒 {ts} · {ago}"
     )
+    return tg_post(chat, text)
+
+
+def tg_post(chat, text, preview=True):
     if DRY_RUN:
         print(text, "\n")
         return True
@@ -124,7 +150,7 @@ def send(lang, src, title, link, when):
         r = requests.post(
             f"https://api.telegram.org/bot{TOKEN}/sendMessage",
             json={"chat_id": chat, "text": text, "parse_mode": "HTML",
-                  "disable_web_page_preview": False},
+                  "disable_web_page_preview": not preview},
             timeout=20,
         )
         if r.status_code == 429:
@@ -136,6 +162,78 @@ def send(lang, src, title, link, when):
         print(f"Telegram error {r.status_code}: {r.text}", file=sys.stderr)
         return False
     return False
+
+
+# ---------------------------------------------------------------- digest
+DAYS = {
+    "en": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "fr": ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+}
+MONTHS = {
+    "en": ["January", "February", "March", "April", "May", "June", "July",
+           "August", "September", "October", "November", "December"],
+    "fr": ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+           "août", "septembre", "octobre", "novembre", "décembre"],
+}
+DIGEST_TEXT = {
+    "en": dict(title="Morning digest", empty="No political stories were alerted in the last {h} hours."),
+    "fr": dict(title="Résumé du matin", empty="Aucune actualité politique signalée ces {h} dernières heures."),
+}
+
+
+def digest_date(lang):
+    d = datetime.now(TIMEZONE)
+    day, month = DAYS[lang][d.weekday()], MONTHS[lang][d.month - 1]
+    return f"{day} {d.day} {month}" if lang == "fr" else f"{day}, {month} {d.day}"
+
+
+def build_digest(lang, items):
+    """Return a list of message strings (split to fit Telegram's 4096 limit)."""
+    t = DIGEST_TEXT[lang]
+    header = f"☀️ {FLAGS[lang]} <b>{t['title']}</b> · {digest_date(lang)}"
+    if not items:
+        return [f"{header}\n\n{t['empty'].format(h=DIGEST_HOURS)}"]
+
+    blocks = []
+    for src in [s_ for s_ in SOURCES if s_["lang"] == lang]:
+        mine = sorted((i for i in items if i["src"] == src["name"]),
+                      key=lambda i: i["ts"], reverse=True)[:DIGEST_PER_SOURCE]
+        if not mine:
+            continue
+        lines = [f"<b>{html.escape(src['name'])}</b>"]
+        for i in mine:
+            link = html.escape(i["link"], quote=True)
+            lines.append(f"• <a href=\"{link}\">{html.escape(i['title'])}</a>")
+        blocks.append("\n".join(lines))
+
+    messages, cur = [], header
+    for b in blocks:
+        if len(cur) + len(b) + 2 > 3800:
+            messages.append(cur)
+            cur = header
+        cur += "\n\n" + b
+    messages.append(cur)
+    return messages
+
+
+def run_digest():
+    if not DRY_RUN and (not TOKEN or not any(CHATS.values())):
+        sys.exit("Missing TELEGRAM_BOT_TOKEN / chat id")
+    state = load_state()
+    cutoff = time.time() - DIGEST_HOURS * 3600
+    for lang in ("en", "fr"):
+        items, seen_titles = [], set()
+        for r in sorted(state["recent"], key=lambda r: r["ts"], reverse=True):
+            if r["lang"] != lang or r["ts"] < cutoff:
+                continue
+            key = norm_title(r["title"])
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
+            items.append(r)
+        for msg in build_digest(lang, items):
+            tg_post(CHATS[lang], msg, preview=False)
+        print(f"Digest {lang}: {len(items)} stories")
 
 
 # ---------------------------------------------------------------- main
@@ -191,9 +289,16 @@ def main():
     for when, src, title, link in queue[-MAX_SENDS_PER_RUN:]:
         if send(src["lang"], src, title, link, when):
             sent += 1
+            state["recent"].append({"lang": src["lang"], "src": src["name"],
+                                    "title": title, "link": link,
+                                    "ts": when.timestamp()})
     print(f"Queued {len(queue)}, sent {sent}")
-    save_state(state)
+    if not DRY_RUN:
+        save_state(state)
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "digest":
+        run_digest()
+    else:
+        main()
