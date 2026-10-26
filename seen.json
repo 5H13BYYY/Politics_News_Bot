@@ -1749,6 +1749,20 @@
 "src": "Reuters",
 "title": "Brazil election: Lula seals comeback win, but Bolsonaro rejects result",
 "ts": 1793005283.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHFUQUU0dDFFdWVRY3p6a1hmQzZyc3VQd3lUbGowZVAzQ0VEMGNHUHhSSTdsQlQ0ZWkwNGxtYWJKRk9XMmtpc0o5VUlTVGEwT0ZVajZiZXhUR1JXNDJCY25KanZKakU5dXF1RTBHQzZteDd3T1h6OVRCaS1QR0d2MWphSGNDOVZMSlR3VGplZTdvRklwNjNGeU5vdFZBbkhJ?oc=5",
+"src": "CNN",
+"title": "US Marine Devin Jacob Ballard indicted over alleged murder of woman in Okinawa",
+"ts": 1793002089.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html",
+"src": "Le Monde Politique",
+"title": "EN DIRECT, mobilisations sociales : Emmanuel Macron en déplacement à Marseille ; le gouvernement doit présenter ses réponses au mouvement lycéen",
+"ts": 1793006104.0
 }
 ],
 "seen": {
@@ -2059,6 +2073,7 @@
 "CNN|CBMinwFBVV95cUxOa3pMWFY0dzBfMklFS3BqYi1jelo4Y2ktOGRJOE1ld2ozQ2VPTVJSVHdOVU41S0FiNmJNZlJPVzJJMXl1UXpDZHRFR3N2ZDg3WnNUcGNKeFR0ZVdtdFppOUktUFhpb0Q2eVk0VUtVLVdDOWVLYnRxMmRaR3dqRzRSWmg4TDJoU1Jxa05sMkstdlhiSUdaQlE0amMtX3BFZ00": 1792912921.1568482,
 "CNN|CBMinwFBVV95cUxQcjE3dDFXcXAtbDVDX2U1QmhDUC1oN2F1UWlrQlE2eDY2b1JnRF9KUkRTWnVHZ0Z0NXJnY2FxZFQ2M3RFZTNaaFRORXFCMjlISHd1SzJKbGlObDY2R1Bpb3Q3d0lyazJueFhUckNtaEl4OVF3bnk5NndZMTJqalVwUGNCY3RxOVJJSUNIZEt3Q1d3RkJBbkYyV3JienhkekE": 1792983642.4900694,
 "CNN|CBMioAFBVV95cUxNOWlYZEZvOHNIS2xnTzhuaktMUllORlFkbmJBUmdZakpfQlR2SjE4d2FVbXIzUDBLODZFVjVfdmRhTkVWcXNSSnJ1LTZKdFR5QjJ6bVdhNEtDWUttSHkxckktOVZvUEpmeVg1OEdFTlltTkVLVExqVm83dTViSC1lQ3R5UjhsUWxmSnFRbVVqQnNabHZlX25PNDhQWXRYTjRM": 1792944039.906151,
+"CNN|CBMioAFBVV95cUxNdHFUQUU0dDFFdWVRY3p6a1hmQzZyc3VQd3lUbGowZVAzQ0VEMGNHUHhSSTdsQlQ0ZWkwNGxtYWJKRk9XMmtpc0o5VUlTVGEwT0ZVajZiZXhUR1JXNDJCY25KanZKakU5dXF1RTBHQzZteDd3T1h6OVRCaS1QR0d2MWphSGNDOVZMSlR3VGplZTdvRklwNjNGeU5vdFZBbkhJ": 1793007037.3187764,
 "CNN|CBMioAFBVV95cUxQU2dsdnkzc0l3cXM3Wkl2TzMxVExDSHRDLTZvaHJVRVg0OTEtajhVUi1TUlRVZS1fb1c3RE9SRHRaZUpPU0ZFWWJMNU5HSk5zMjl3cXNqUjl1dzdZTzQyREQ4VXotanctY21Vdjd2RUZCalotZnpBNTJCNE5DU0pXN2piMVR1RXRfbEpySFVIOTY2M1BzSVhOUHZKakZ6aXdz": 1792944924.586585,
 "CNN|CBMiogFBVV95cUxNQjN4WW0zWGxTay1NYXVsQ1pkVUx6LWdrdnlNVVhCMlAzOFN5UVNjZlY5RkRIekhvMjZjd255ZzM2VmJsS1N5aE1aeWt2eHJLTFZVOE1Fb2JHckwySG8tNkE1OV9zVU5QVzRsOFphREFMTVpOWWUzR0dLYkpkTk9BSlNLUTR4MGlqdlNRWTdqUHphcGp4ZklmUzRQNTA5QzA3Rnc": 1792927832.803806,
 "CNN|CBMiowFBVV95cUxNdVFLOUdqczRsWXpNYmg1S0dtX0lOUWZBeVpOVjZFZUk0WTR4bnpVOVhYWkdhc0hLRDI1b3pNSlliQVFmWGlXVGdfOEpBQndRWmdaaEE3bDBaSzBCMFByS1VuXzdyUEFZcGtsUWxaY3pkREJsOWhlZmxqaHR4elgtV19CVHY3U0VTZXBDcmJxdmVtYUctNTZMRGFac0VzN3ZaZ1Fj": 1793003438.31473,
@@ -2186,6 +2201,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/apres-les-manifestations-du-24-octobre-l-executif-confronte-a-la-perspective-d-un-long-automne-social_6800384_823448.html": 1792988126.4511454,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/jonas-haddad-le-porte-parole-de-bruno-retailleau-qui-veut-defendre-les-jeunes-actifs-ecrases-par-le-systeme_6800601_823448.html": 1793006128.8469532,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html": 1792989924.9740305,
+"Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/a-lyon-la-manifestation-interdite-etouffee-par-le-gaz-lacrymogene_6799727_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/mobilisation-du-17-octobre-l-homme-suspecte-d-avoir-declenche-l-incendie-de-la-mairie-de-limoges-a-ete-mis-en-examen-pour-tentative-de-meurtre-sur-des-policiers_6799692_3224.html": 1792912031.9234908,
@@ -2251,6 +2267,7 @@
 "Reuters|CBMiiwFBVV95cUxNRTNSaEwxV3hGdnZUajFpTmc1WGNMelBmUEtGRjVnR0MyR19aV2ljdXZzVVptc2c4c0Qwa0RJbnBndHRlb0txcWxyenZzWXVuNjAzZnhvLU1Gb21NYzlwRkFGTmg4YzhOem1JemlzNC1VZlN5Tk5SeDI3U2VRV01FN3M3N21FUXpCWUdv": 1792912031.9234908,
 "Reuters|CBMiiwFBVV95cUxOQThreThHUjh1NXBySlVTTlV1RXdkeDFVUkdPR2dYaE04a1I4RlVEVEhJOXFZWVNTc1VmbWhpeFZlb3pmYS1CXzFJQV9qX2w4MFh2ZEVoRFJtdHNRYWRLSjMzOHplZWp2b0xsaFVOODJuRW5XU2htc2ZZTnd2aDM3Z19GMm1Sc2FRcHpz": 1792977327.180606,
 "Reuters|CBMiiwFBVV95cUxPdVBwV1RGdGc5bVh2czU4NVZ5QW9DYTBOZWRkLWIyZENPRkhFTWlLenMzVC1IUmx5blNZX282VEZRZzh4N3dJY0J6WEZZNXRKTlhhUURkNkhyN1JXek15dDZIaHh0MDc5bUh4dnFqc0lrMUZOTjYwd2szbVhKZ2JKd2tIQzAybGU5dlZ3": 1792980927.5227904,
+"Reuters|CBMiiwFBVV95cUxQSk55U0JXZDFWMjdUYlg0X2lGOXBpZXhfNlB0b1drenZPLUtZelNEX2JvOFc5NmNkRmw2SXRBU1NnbkQ0R3RZVVhYQ2hoOFplZldMNlQwQXZjTnl3S2szQlJSVm9PV1ZFRk4yb25oTGlBazJrMVVyYW1QbTNaMFJ1cUg1ZVpyTi1HVG5v": 1793007037.3187764,
 "Reuters|CBMikAFBVV95cUxNc08wOVYzT3pKR0lSY3VtZWt6TkhvTGRieHE2eVJqeTZiZnhzQUFQMFAzd1hlT3l0QS01ZlhlQVZDWWNCUkpiSFg3OEtDcGJLMzNXcnhsRWZrSW5ELTlIZFpnMnl1NkVfZnFwZnFYZGVXUTVJUVJmZ2ZuVFlXWU1oWm9ZOXRVbVZSUGhDX2xKR1Q": 1792990839.6790755,
 "Reuters|CBMikwFBVV95cUxNZFFtSkZDaktTdnFfWEY2d3JHRlVJbU1GT2cyN054TmtlWXd0VmNha1B6NHp4M2l4Wjd5T2hTaVFuNGxJZllacHFKbkR1THpqYktzYUZkQ3VENDNCdjRjSHVoUUZrOHBkbUM3dVc1NGZaR2ZJTWtlU0ZjREV0QkJ3cENMc2ZONXp5Qng1NzRsdzEwMlk": 1792971032.0584002,
 "Reuters|CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0": 1792986327.7948549,
