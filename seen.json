@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/25/manifestation-142-personnes-interpellees-dont-120-placees-en-garde-a-vue-a-paris-selon-la-prefecture-de-police_6800057_823448.html",
-"src": "Le Monde Politique",
-"title": "Manifestation du 24 octobre à Paris : 142 personnes interpellées, dont 126 placées en garde à vue, annonce la Préfecture de police",
-"ts": 1792914166.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjBwQUNuRVJjUTVsYWVud2JYbFlqdF9jM3FwRXNhLWNqd2lBNnR6R0c2T1Z2NXVBbUhxVGlkU3JwVXdzdEgtMmk2S2p5Tm1TemVhOUNVODlTSC1BYXlQaXd4YlZaTU1TNGFJMkRKaWNxOEd2Q0M5VzRXWUVTcDdQaWpEenpKc3JWUUJGeXpFMEJ5NjA?oc=5",
 "src": "CNN",
@@ -3478,6 +3471,20 @@
 "src": "Le Monde Politique",
 "title": "Paris : le couvre-feu limité à République et les interdictions de rassemblement sont prolongés",
 "ts": 1793042140.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HMXBya2M4aWl5LWZrSEJrckt5TFotWjc5eGE1R0JvLUd6ODJLZjVmNDN2LWhKT3pVbC16QjJvenljS3h1UHVPdjhHUWtTNXBNTlRPQ1pTWkZNRUxvRFF3Wlk1SU1ZWmU0?oc=5",
+"src": "CNN",
+"title": "The 31 best gifts to spoil all the women in your life this holiday season",
+"ts": 1793041380.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261026-lula-une-victoire-mais-quel-pourvoir",
+"src": "France 24",
+"title": "Lula : une victoire mais quel pourvoir ?",
+"ts": 1793043010.0
 }
 ],
 "seen": {
@@ -3646,6 +3653,7 @@
 "CNN|CBMia0FVX3lxTE9VQ0lxdlVpT3hZcUF1TG0yMzFaQVBuVF85QUJ4R3hNU0tyVDBfVk10RW1GSUpyRGI2TEVoR3ViTF9RaEdzMThpeURxYzc2alpuSEc2MUc1VTRxZmxuVVRqeGNOVDNrdEdlWTk0": 1793025933.3217628,
 "CNN|CBMia0FVX3lxTFBfN21CNVhPT3ZLaWNUWVJwalNtMzZ4YUtYOVRUVlBnakt1S3pJYjJqMXQycWtvVXRjanZWUnJQR0ZXbUI2eGFtQm1aajBJU1NvWHptY0tib1JWcHZ4MXlnVXFSZEVES29ocE84": 1793029529.2200255,
 "CNN|CBMia0FVX3lxTFBmRUtDTFhGMDB5dUl4RFRNeTNzaEZmc0Z3amJjajhFSlBYWjFiRHdfRFktSXZ0bTRBMWc2eEtvUWpTaUxvQ2FLMG43T0tIUnhwczJweXphOG9uTmo2aWdxMkRiVGFZZlVBNWlV": 1792965505.8590639,
+"CNN|CBMiaEFVX3lxTE1HMXBya2M4aWl5LWZrSEJrckt5TFotWjc5eGE1R0JvLUd6ODJLZjVmNDN2LWhKT3pVbC16QjJvenljS3h1UHVPdjhHUWtTNXBNTlRPQ1pTWkZNRUxvRFF3Wlk1SU1ZWmU0": 1793043926.9561915,
 "CNN|CBMiaEFVX3lxTE5YVWx4VlQxM0thOUdVMGowaHZZMXY4NktoRU5jRkFCZFQyQ29CblRqTUdpMFVRbXR3TnlKVlZFamktQW0wTjJFb005MmI5LThNQ01GeGJwVldkcTFuX0xFTnF0THBtc3JY": 1792912921.1568482,
 "CNN|CBMiaEFVX3lxTE9IS1RqdDZhNXAyekdKMHNIa2FWQ3JjcGdFQy01YjhrTVZOU1VtZl9RRDlYM2xnN2QySVFDY3FjdFk3ZVFBT3JDckN3djFKV0hvSmI1dWY0UFdzc01jLVBDVmxrQWQtalhN": 1792912921.1568482,
 "CNN|CBMiaEFVX3lxTFBJbnVRY0dPaE1zazl4NUxxRFV6Q1JmU1ZvT2RQcHZ4dnZiUzJ3X1pIQUttYzZkdUVsNlRVQnZTbXg5NmRRcUZoOEZpSWhJVVB6MHhWU3cxdmlvSWo4R21lOTJyZ3l3Ny1B": 1792912921.1568482,
@@ -4056,6 +4064,7 @@
 "France 24|e15cad94-d15b-11f1-89d9-1ddf298cfddf": 1793034044.801758,
 "France 24|e3f2db4c-d128-11f1-a63c-bf64bc1c5adf": 1793029529.2200255,
 "France 24|e4aee706-cfe8-11f1-8aec-bdcd937426ba": 1792912031.9234908,
+"France 24|e5d700f8-d166-11f1-8b8e-2b7b3a2a6346": 1793043926.9561915,
 "France 24|e64b6cfe-cfb3-11f1-824a-51ddb86eddf6": 1792912031.9234908,
 "France 24|eb58d85a-cc91-11f1-b115-11a79f3a0219": 1792932324.948729,
 "France 24|f096e032-d132-11f1-82a4-fdebef7242c6": 1793016926.187019,
