@@ -114,13 +114,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
-"src": "Reuters",
-"title": "Electoral workers prepare for Brazil's tense presidential runoff",
-"ts": 1792912891.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc053akhxZENrN0R5UWdIdjRLT3VIU3NvWTV4eFhXd204Zk84TFlQLUlOa2RLTmpXM0h2UWRZbHh6dkd6eHdNNlJNYUxIbXJWSDVObWVFLVk2T2dqZWNHMEh1elZZOFViVTVNQzJJOEFkbTFDVl9BRnpuMTVlSGJ3UDhHeEdNYTdSakwwbW5NZzU?oc=5",
 "src": "CNN",
 "title": "Swapping horses for ninja warriors: The Olympic sport undergoing massive change",
@@ -3464,6 +3457,27 @@
 "src": "Le Monde Politique",
 "title": "EN DIRECT, mouvement lycéen et étudiant : Edouard Geffray, le ministre de l’éducation nationale, annonce un plafonnement des classes de seconde à 28 élèves maximum",
 "ts": 1793041590.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzFwcmN1emNyMGZ2aHZaVzg0dmhFVE1lNTRMYW5HNENOUUdhalMybDR0WEJMMXZjajBKSTB0X3RVTTRkTmo0SkZabUtBRlUwWjNSLWlObGVhQW9UNzEtMThWaThSbWNFbjdEeVZSdHRoNWFBSUlIMkJVRmhUVEN6TnVoZzc3UC1TMWE5X0N5YV9MZkZzOHppLWZ4QTk5YzE5WXFoZGd0OUY?oc=5",
+"src": "CNN",
+"title": "'We are paying the cost of corruption here in the Kentucky 6th'. Democratic candidate closes campaign on corruption message",
+"ts": 1793037709.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E?oc=5",
+"src": "CNN",
+"title": "Lula secures a fourth term in historic comeback in Brazil",
+"ts": 1793041804.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html",
+"src": "Le Monde Politique",
+"title": "Paris : le couvre-feu limité à République et les interdictions de rassemblement sont prolongés",
+"ts": 1793042140.0
 }
 ],
 "seen": {
@@ -3734,6 +3748,7 @@
 "CNN|CBMiekFVX3lxTE9hTF9Xd3F5OWxUYVlVOXdrbElzcmM4R1RwZHBfQjNKODhfeDVnT1N1dHhFdHBJakhYeTVfVlZia1dNM2hSOGhNWnhqRDdFMTVrU1N1ejBFYnhKZnladkV4bFBEbXNodjQwSDJVYVZYZ3VDa3V4R0tlRExn": 1793031325.941255,
 "CNN|CBMiekFVX3lxTFA1eEdqeFRTenEyeUk0cnlGaUFBMFg0LTJYb2t6cDJ5ZWJmVlh3NzVnM3dtSm5sa2FhMXFYaE41WXBaUmhwalNxc3dVNE9PVE5hMXNJc3o2U3Vtd05oVE13TUdtYUJpMU81R184THFQcEh1RU5aWjd5UGJB": 1793016042.671506,
 "CNN|CBMiekFVX3lxTFBQM2RxbzY5VUZzb09uS3cxd3AtenRoTF9kYUI3X0pMSGpsb2lZX0lMWFd6ZTNkZTc2Vk9jR21PTDRhWXl5NV9HOVFySExZNDh6dDNzYlVGRnZZMjlFd3hTUU84MHljTnBsb3BiLXA4ZEZkdmJvQnVaTWln": 1793042126.6168418,
+"CNN|CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E": 1793043032.0944161,
 "CNN|CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0": 1792912921.1568482,
 "CNN|CBMif0FVX3lxTFBVSHRKMmZvOEtfNDdaRmlUSjlZRUFNQVpwczR1SXNBOU5mVVUyc0xjVUc3WVIzTXNkUmRaWk5adWdSZkFIWUNMd1hySHA4YUFHbnFQSkFmQ210R19kN1BGNERmX1UyTnFacG5HeEl1a1l5TUJKM2I5Zy1MQXpQb0U": 1792912921.1568482,
 "CNN|CBMifEFVX3lxTE11cGp0dXpmLS1xdDBpSk4xY1FuT3o5RUdhQ3ZXZ3FDRUNCb0VKMkhoVE5NUjRmdVRpbVVNQjZkZGEyNS1md1RXME5OZHFjdXp3Uy1DSDN2YlI0Z2V3TmVrV2ljR0N3S200TEpQd3VLczFjTzFqV2xDWlRQS0o": 1792912921.1568482,
@@ -3887,6 +3902,7 @@
 "CNN|CBMipwFBVV95cUxPWFpRNEV4MWFWQlhBTGRXclVnLWphNkdPU0V3SzVYVTFfU1lRdjloZkN6QzlyTzJFUG9NS1NvZjBnaHJFdmZDSUZjTzRhd0VxWWt5ZXF0aXdlelBueEpsTDJ6eV96ckJjMnpOSnlmVEdzWFhRSmNBa2xCZmdDSGpYbHFmemUwcFFpQ3NBMUxLcEVhNVJXd3FOT0gxdXJlSDZRc09FSnNUNA": 1793025038.3195713,
 "CNN|CBMipwFBVV95cUxQT1hVVV95cTdfdjJLYk9DOEVjNEFWWnI5Z3UxNHZlU210MVVwMEVuZDlEVTdfWldKcS1SNUprd2hoVmNBUElfZ3Fhd1hEMURqYzJZZi1wMjJvNVd6SHZKSHNGNFYzWXE1VDdnZGMzXzl1YldWNlYtUkpkbWx3WUR6c3ZwTXdfTlJ4YkdPRUdXS2VMWms3X3hWcWsweGRGWHNmQlRNRUlsYw": 1793009727.4528742,
 "CNN|CBMipwJBVV95cUxORUdtREN2bWdIb016enBfakhMZVNrVDQ5cHhPeHM5M0xXS1RxTEpjSm90T0ZQTldfYlZRdVNOa3NDVktoZzJRNGZ3MEVDU01QODRGYUdKWlhTNC1iRGQ0T19RcE9WdWtrcDUyM1VNOXVQejNVTE5ja0RQZFhMRW5qc1RUVjZrRVVmTUJRaWUweWM1dUhIZXVXMHRGdF9kZHVRY3F6N05ZSGYzenM0dEU3MEwzV2xRbnMtLWRLRnZXdnhRcERES2Jla25JZWxRbGwtVkhTdkQ2NVJiZXRiaThLZDVBS1pzYVBwamtTUnU5czItbWFyVjh5R01KWDc1NXB1VzFFLWt4dzRQVXkzZkJUdUZFVFJRUjdZMUE0Wl9aQW10bzBfUEpB": 1792998039.3769457,
+"CNN|CBMiqAFBVV95cUxQUzFwcmN1emNyMGZ2aHZaVzg0dmhFVE1lNTRMYW5HNENOUUdhalMybDR0WEJMMXZjajBKSTB0X3RVTTRkTmo0SkZabUtBRlUwWjNSLWlObGVhQW9UNzEtMThWaThSbWNFbjdEeVZSdHRoNWFBSUlIMkJVRmhUVEN6TnVoZzc3UC1TMWE5X0N5YV9MZkZzOHppLWZ4QTk5YzE5WXFoZGd0OUY": 1793043032.0944161,
 "CNN|CBMiqgFBVV95cUxQeGJQblhENzZwNkZhQ2RNYXBxRE1hd0ZnUXRRMldFdVhsRzNDTWtCOGN6cDVwcVFIeHFLOWJLbmhLNWJhcFItMkNtQUZHWXJoMXJKUTR5TFdGMGhraUJLYmF3UDBsbnR6NGRCOGpobFRHeFBtUElBb1V1eUxsanhQbnlnbHZrTElTUV9weE1zVl9xRGR4Zk82MnRzTVA2WFU0bGVzTWF1QURVQQ": 1793016926.187019,
 "CNN|CBMiqwFBVV95cUxNVmxpem4wb3Z1QkVrUllHbFBrWHVmMGVUVjRvVjV2RUZ5THBfbDVQTk1GQmlrdWgxdnJObjUxWXRIRTZxMHYxeTRNODVFUWxGRU1aSkVJVGNlcDlfZWxMSHRoaE1PMjJvRWo0STR5eHFKa0tUbFlnOFN2N3ItOW5ReC1rYTgzMVVpMjZtUnZObVZpX3RHbVpBVW5jRk5SRXY2U0tVOFNjQlg0dkU": 1793039433.9108324,
 "CNN|CBMiqwFBVV95cUxPTlFiMjk3UzBlQ2ZfWlc1UE5qczBORlNwWTFBYkhXdlRkV3J2QThJVXU5bWU3SGhoUU1GbDZTWFlJR1RsR2Y2RkZibWZrUFB4YUlVNUw2anRBcE9WaEp4aHltS0xZZ0M1bElndFJPelNJeTJaVFNsSlRDaEdBVm5PSXFRWjRvbElWWWRPQy1peU5TQl9kZFEwdDZIUHBVZUxuTHJrenZkX0ppYU0": 1793029529.2200255,
@@ -4099,6 +4115,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/mobilisation-du-17-octobre-l-homme-suspecte-d-avoir-declenche-l-incendie-de-la-mairie-de-limoges-a-ete-mis-en-examen-pour-tentative-de-meurtre-sur-des-policiers_6799692_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html": 1792937725.1038725,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html": 1793043032.0944161,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/violences-de-militants-d-ultradroite-en-marge-du-24-octobre-plusieurs-enquetes-ouvertes-a-aucun-moment-la-police-ne-les-a-proteges-defend-laurent-nunez_6800799_3224.html": 1793028637.2954068,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
