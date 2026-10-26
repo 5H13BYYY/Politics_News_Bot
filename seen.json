@@ -2421,6 +2421,55 @@
 "src": "Reuters",
 "title": "Audi CEO speaks at Trump rally as $4 billion US factory announced",
 "ts": 1793018246.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0xKN3NiZXBfNy0zVk1OU3RLVmdydXhXVERkQ0JZMEpEMUxTWVJXY2lqaUo3MmJXblNqYXBmY2xGUTFmaDdEb0VGeGwxbG1RS3FRSFhaeHRTeVkzOEhWWE94cEhVLWhKQXdZeFVxdHUxTnRZa09rLVJBYTA2TFlqQWphZ2ZzU1N4Y1gyOXZZeVZfTXlRcXc?oc=5",
+"src": "Reuters",
+"title": "Investors expect Brazilian stocks to fall after Lula re-elected",
+"ts": 1793014322.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVVGd09lcmxpeGpEOEFyaWx0LTFsSG5nQjdDS2d2ZDVyQXpnNjhhVGgyeUh0eXBubTlRYzNWeXF4TmRrTDR4bWkxTVlXb2ZFbnhwdmY4ZnI0Z0d5Y2V1bW9hU0NrVjZnbFhMTmxOaV9ITC1MQXJHMlFtbklQYm1vWkFCLWxvQzJvWHNia09rbUc1NXZya0NYcTd6NGFxLWIzMTExTFNkclNsak9PM1hwc2s4UktHOVpBVmc?oc=5",
+"src": "Reuters",
+"title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
+"ts": 1793017466.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/france/20261026-france-en-direct-emmanuel-macron-juge-que-samedi-prochain-sera-%C3%A0-risque",
+"src": "France 24",
+"title": "France en direct : Emmanuel Macron juge que samedi prochain sera \"à risque\"",
+"ts": 1793017835.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261026-l%C3%A9gislatives-en-serbie-explosion-de-joie-%C3%A0-belgrade-apr%C3%A8s-la-d%C3%A9faite-d-alexander-vucic",
+"src": "France 24",
+"title": "Législatives en Serbie : explosion de joie à Belgrade après la défaite d'Alexander Vucic",
+"ts": 1793018205.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
+"src": "Le Monde Politique",
+"title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
+"ts": 1793018595.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTJmVnc5RVQwTTN5eXdXcTQtY0k2cEJCNzNrcWs1REpXZTZOUlJZdUxtcG1KMGRKNFdveXJsbFhUdjFhTkFUNFdvQnVNNzA4aVRHWDNzUTM0U09kcnVfQm9yTlJob2lhZ2YtOGt0b2tCdXc4Qk1VWDZUQUdTWmVZQ0M1WjdwTGx3WFpPeW85Z0Z6M0dsYlpzSDlReHZHZmpYRG1SWmlBR0JocEdOX2c?oc=5",
+"src": "Reuters",
+"title": "Brazil's Lula hangs on, but his final term promises to be toughest yet",
+"ts": 1793019090.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/10/26/trois-echecs-du-macronisme-se-cumulent-et-se-renforcent-aujourd-hui-les-uns-les-autres_6800785_3232.html",
+"src": "Le Monde Politique",
+"title": "« Trois échecs du macronisme se cumulent et se renforcent aujourd’hui les uns les autres »",
+"ts": 1793019604.0
 }
 ],
 "seen": {
@@ -2829,6 +2878,7 @@
 "France 24|4f4b386c-cefe-11f1-9f86-893b2ea568b8": 1792925608.8006206,
 "France 24|519dc540-d128-11f1-8b5d-fb324aff572b": 1793013327.7299454,
 "France 24|5243795c-cff4-11f1-a899-3307b3a9ac94": 1792912031.9234908,
+"France 24|54bfb542-d134-11f1-a39b-152ba4980d02": 1793019644.3332078,
 "France 24|56b1ce18-cfd5-11f1-ba05-db6a9992a249": 1792912031.9234908,
 "France 24|5e3e91ec-cfb3-11f1-8d53-19d45b4609cc": 1792912031.9234908,
 "France 24|5e5d19aa-cfc2-11f1-871d-0b47a52666d4": 1792912031.9234908,
@@ -2881,6 +2931,7 @@
 "France 24|d333b2ec-d068-11f1-8100-e5dca930bc20": 1792930525.0455637,
 "France 24|d361121e-d059-11f1-a052-1f8f659a9952": 1792929640.0968695,
 "France 24|d9f9d060-cfb5-11f1-a74c-03cb5e484910": 1792912031.9234908,
+"France 24|da4bc312-d135-11f1-91a0-b31e6bb7153d": 1793019644.3332078,
 "France 24|dea3ee40-d0df-11f1-b700-c51233eb9774": 1792980042.310782,
 "France 24|dfc5191c-ce1d-11f1-b8e6-195c9f5e7e9c": 1792943124.2310648,
 "France 24|e4aee706-cfe8-11f1-8aec-bdcd937426ba": 1792912031.9234908,
@@ -2893,6 +2944,7 @@
 "France 24|fdbeaf96-d07a-11f1-b3d0-f3ad5062cd50": 1792939531.0152667,
 "France 24|fec01900-cf05-11f1-925f-c136e5df6558": 1793016926.187019,
 "France 24|ff92341a-d01a-11f1-9e4a-6d00e474ca20": 1792912031.9234908,
+"Le Monde Politique|https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/24/en-images-manifestations-du-24-octobre-un-dispositif-policier-important-des-premiers-rassemblements-assez-calmes_6799697_6717263.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/la-discipline-budgetaire-et-l-ambition-productive-ne-peuvent-pas-etre-concurrentes-la-france-a-besoin-des-deux_6799700_3232.html": 1792912031.9234908,
@@ -2904,6 +2956,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/anne-cordier-chercheuse-les-lyceens-et-etudiants-abreuvent-les-reseaux-sociaux-de-scenes-de-joie-d-espoir-et-de-solidarite_6800600_3232.html": 1793006128.8469532,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/hausse-des-taux-d-interet-sans-accalmie-sur-les-marches-financiers-la-france-pourrait-bien-avoir-besoin-d-une-aide-de-la-bce-rapidement_6800743_3232.html": 1793013327.7299454,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/myriam-revault-d-allonnes-philosophe-la-juste-colere-des-lyceens-demande-que-l-ecole-republicaine-assure-sa-promesse-d-emancipation_6800385_3232.html": 1792988126.4511454,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/trois-echecs-du-macronisme-se-cumulent-et-se-renforcent-aujourd-hui-les-uns-les-autres_6800785_3232.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html": 1792931431.0547247,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html": 1792912031.9234908,
@@ -3022,6 +3075,7 @@
 "Reuters|CBMilgFBVV95cUxNTk1SbHg4cktKOVFKYlR1cUprSkRQN3F0T1hNV0dSU1RLQjAzbnpwQnVCaW15aXpjM191M19PNE9CRGtZYmU4ZzA0WE9vUkJOcXE2djdJVjlEQkFtRkpKbzREZlhJVDUtNjhYT2hiUi13dzhNTVIxWWRDSlNGRktVRkZGX01oRGtnY1RtcDUwWXVUSEw5MkE": 1793006128.8469532,
 "Reuters|CBMilgFBVV95cUxNVlgyUFNDZjBOZFJzSG5IQ0ZCUXpMYlFUSjVMSjFIYTdGaXR6RU1BbDJQVkJveEl1ekU4WXNTUzVCN3VfYnJJMTZJUDBlODlZVERxdWZlRzBDUTFoNkdDbEJNN3pNazZ4UWFGTDE1b3Z1LW5KZ203TjY1dHI4c2luaU9Db2M5NUM1Y2NPYW5pTUhadjBoamc": 1792990119.441059,
 "Reuters|CBMilgFBVV95cUxOc2dXNDVrMUktNjNXZ3Jac0pnN2EtQjNhLUlxZWtRZlNMelpPc2FjaDFveTJWdnB0VUJhMk13WjMwTnd1dV9PQWhrbzdCa2hxWGVnRUE2NDdESk5vSzhHN29aUzBmb0hTMDVLcC1lSFVJcFZlcWlOV013djd3N2RJQ0g4WVJ2OWlXYXhHcXphdWJ3a0loS3c": 1792992634.2696579,
+"Reuters|CBMilgFBVV95cUxPQ0xKN3NiZXBfNy0zVk1OU3RLVmdydXhXVERkQ0JZMEpEMUxTWVJXY2lqaUo3MmJXblNqYXBmY2xGUTFmaDdEb0VGeGwxbG1RS3FRSFhaeHRTeVkzOEhWWE94cEhVLWhKQXdZeFVxdHUxTnRZa09rLVJBYTA2TFlqQWphZ2ZzU1N4Y1gyOXZZeVZfTXlRcXc": 1793019644.3332078,
 "Reuters|CBMilwFBVV95cUxONXpXaDZ6NXp6dTJIbS1Td2tDMU1mamg0VndnOFBHdDNlYzk5S21NTEh5UVRyZTJiODhoZVhKVDdnN0xWdzZ1c3g0WklfNHZjSUZQMEhXUlpxN0pHd2xwdXFWQW9uLXg3SmlxbVpfRTg0c2FBRVQ1VDc3VmdjTjBXSDM5LURvOEJkWW5FRlNuLWhFdGZ1WGpJ": 1793010634.9602375,
 "Reuters|CBMilwFBVV95cUxOU2dWMmpFQzZycGRvOEhvNXViZ3R5a2hsRnFZMHc5UFpYQ3dJSFVUalphWkJLNW4yQi1zcjlNWFdHZmJZalNXVktlWWlldDN1UVNBVFlNZ0xkVnl6S2o2RDhqRGpVVmdNOEVKRkh3bFNTVmQ3Zk5pc3ZuSVQ1ekFYQ0xiS2ZWUExRSVBTN3FEOWo3Mmo1elJF": 1792983642.4900694,
 "Reuters|CBMilwFBVV95cUxOX1VaMGpldVlMbXlyQ0ExaGFfbU9nMU1OT0g2QnZJOXo0cS1tNHJNV1RXMkZvY19hRGFQNjVLR2RWTXRCM3pmXy15S0w4ZHJGeVhPeTBJZllnUXdUa3hDY2F4dGQ3cm1xRlJtd29IZmg3SlR4SDQ5Vklacmg5Qy1WQzFaTXRBZ2lvQXRndF91NTIydWZTQUsw": 1792980042.310782,
@@ -3070,6 +3124,7 @@
 "Reuters|CBMirAFBVV95cUxPM0Fvemt6SG5qdVkxRlpqR2pzWGVaSFl5U3ZUMzE5MkZPZWhfWFZuWU1OYkV4NFBDaEp3NXBfdlRzc1RlTllja01WSkEweWRaVjBEbW9PVmVPWDNtdU1QTGZjTXF0TFpaeDZkYk1ZTGZlQkpMWXc3dlAzUU4taVkwSVludVVmUFRMQkdDbFFhcXEtNlNGRDlSV1dtSWwzdTFpMHhsUG9mSlV3LU5Z": 1793005244.1092002,
 "Reuters|CBMirAFBVV95cUxPUzhtWHRXdTY3T1I4cld1ZUpvbGotRl9ySmtDd0Y4THhhLWMyYm9IQ1BwZWpHa3NDTnQtTGJYWm9IX01yUVhpNmE3OUtvSjJsUVJrQ3VPS1ktdllQWG1Xbno3SjBPT21CcTVDdkVIcHhDaVdoLVNEN3Z0QjF1Tm5HWHFQcTY0eEJGcnhYQTZrRk1tRG5PM01fbVJ6MXg5UGpMWTM4Vy1fcFRsQlMt": 1792912031.9234908,
 "Reuters|CBMirAFBVV95cUxQdEJMMGdRVDJoVkVSSGFSV1FvRmJMTy1LWnZhMWRzeUFjNlN4QUFKQ2tZc285cEs4akdIZ0dvZzJtSTBWU3ZwX1VGX2l3TllKVGxfNnh0Vm5rOTVtX2JpLXhwOXdJTEJURVBjYjRLS3hWSHk4bXBCT3lIWmZGMS1YTE5WQmpYVTVWcEk3YnE3WWV6anVTdElYUlV0Q3o4cnF2N0Z1NXJlazBvcG9L": 1792972841.7553523,
+"Reuters|CBMirgFBVV95cUxOUTJmVnc5RVQwTTN5eXdXcTQtY0k2cEJCNzNrcWs1REpXZTZOUlJZdUxtcG1KMGRKNFdveXJsbFhUdjFhTkFUNFdvQnVNNzA4aVRHWDNzUTM0U09kcnVfQm9yTlJob2lhZ2YtOGt0b2tCdXc4Qk1VWDZUQUdTWmVZQ0M1WjdwTGx3WFpPeW85Z0Z6M0dsYlpzSDlReHZHZmpYRG1SWmlBR0JocEdOX2c": 1793019644.3332078,
 "Reuters|CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE": 1792971032.0584002,
 "Reuters|CBMirgFBVV95cUxObWZfYnBPV3BLYUptRjI0ek1nOGItdmRNNFFPcXpjR0pBMkNMVDdvbEp4ZGFsSjFKM3lPVm5YNk91MVZJMkhrTDV2OGU1VVY2eTZzMklrOWVuMVFMekdTRkJGZXFLbzdTeVg2MC10UktvNXh6RExSMTJvZEJJSDVILVhhM1k4Y2RCaDNQTW9FS0xFeWdKLVRlLWVLdEJhNzc0T0tJN1Z3YXA0SWdzaUE": 1792997126.902378,
 "Reuters|CBMirgFBVV95cUxPNzNSakVvaTFJdVVXTkhsSDA3T0doSVJfVXIzaU9oNEY4RjRDNUxSbjJpZ2RuUGE4VkV4Vm9XRGdidEFUZkJyRXpsRmR6YWROSlRxajdpUDItNi12TV9HaHFhVXZxVFpGMUppdVRFckZIYnZSc0VoalRDeVpUX1BKR1lsN1NiWmFxRGliR2FidktEaHQwU2x5bzA1ejlvd0s3cFMtYmpJTWZaTm4yM1E": 1792990119.441059,
@@ -3108,6 +3163,7 @@
 "Reuters|CBMiuAFBVV95cUxQVld0UG1RcjdxblEyYy11WmdUZDJYUVNaaF9wdTkzZjF5d0FzZFppSllra1RqaGdDbUV4NGhTS01udGJ1RlNQSFl6cHlzNHhCNzN5Yk04eXJhQmZzVlZ3X0xmVUU0T0RHd2JsWEpvelN0YVQ5eVhTdVpaQzZvRnBFY19wZU9kWGFSZmo4bE5zeHdwVng1U1RPV05NOXFXZnd1elJMOFBwSkxHbmxJemJaRjkwQmlZeGZs": 1792925608.8006206,
 "Reuters|CBMiugFBVV95cUxPUG42aUpCNmlxUXpHUzRPWFpWWVZZclY2anZvbUZ2cld4eEVRaUtPeHNkMDBCcG9SN0JJY2FaZ3RfMnNzNkZQcUNzc1JWZjhsWUVPSTZaX0Z0UmJ1SWdFQlNFMkx0dEZ3enFJMjZ6TFNCNHhwV19MYldONE44a2lTdERfLXYzMU1xR0ZNTmdURnhNUDFnc3VIOEV4ZWhHTGhxYTBmWUtuOEdyTHRJenR6cTIzajB4SGFxenc": 1792989924.9740305,
 "Reuters|CBMiugFBVV95cUxPblVTN1p0WUdCV2FocHA2N1VTcThyWDdaRUpoTWppb0tUXzJCT0E0Nmg1dGZIS0l6dXVXQ25SNDBLTzhuakJvSnpfejJYWGk2ZVVTNDA1bXBHQXgybXB5SUpJOW42Rm1IVEw5YU5pS2NLeFZON25xbDViZE1LUVpzd0xhZ3JDNEpfdUoxdS1wV00yLUZSNndlQmFacXVSY0pUeTdmdkRRbWloWW5heEQ5ejMxUEpOOFNIZkE": 1793011025.7552662,
+"Reuters|CBMiugFBVV95cUxQNVVGd09lcmxpeGpEOEFyaWx0LTFsSG5nQjdDS2d2ZDVyQXpnNjhhVGgyeUh0eXBubTlRYzNWeXF4TmRrTDR4bWkxTVlXb2ZFbnhwdmY4ZnI0Z0d5Y2V1bW9hU0NrVjZnbFhMTmxOaV9ITC1MQXJHMlFtbklQYm1vWkFCLWxvQzJvWHNia09rbUc1NXZya0NYcTd6NGFxLWIzMTExTFNkclNsak9PM1hwc2s4UktHOVpBVmc": 1793019644.3332078,
 "Reuters|CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc": 1792987240.4590352,
 "Reuters|CBMiuwFBVV95cUxNVXJIajdRV1c5bHF6T191cVFwTWxIUjhibThXYWJUQ3J4LWctRFR3THZpQ09OcG9adG93MTJPdHdxb1psaVpvU2RhMzNwR00wNm91RlozRW9QRHFLYXg4aW8ybzRDUWc3c1pXRng2RU02bmp1bVhld3hBMmViUW9CRy1MS0x3TUJCTm4yZUVERVVQcXhmandmTVVabzExTnRwQmowZmQwa2cxRktqWWF5UTNIY282QWFXOXZZ": 1792984525.7398882,
 "Reuters|CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR": 1792973310.356862,
