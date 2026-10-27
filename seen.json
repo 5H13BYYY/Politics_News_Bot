@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUlocHg0Wi1HZlV3d1NxZTgzNnI4VnpNaXl2OWNfaWVPT0dUQTZZdUVuMWx4QVQ1YTk2QTF5aEltWF9FdExLRnUwZ2d1RTh2alVlMWxVLUxQVUhLdGQ0V29uaFBxeWFSUEdhNFBZOEJYM2EwbEhkZFJ1WGl5WUwyd1NQMk9qM1hfWkY0Wjg2Z1lQTldRQmQweUV5VTFQQjhUaEx3a1V6OTNaZm5pWUc4VnFyNXdHY1lSSjVZTHdiZ0lhaEU?oc=5",
-"src": "Reuters",
-"title": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
-"ts": 1792993920.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HSjB0RWlmLUluSTZrNzRiOGY3MFVSTzRCdkxzYUJVY01BMXVfUThLNXN5Y1kwTFF6ekVMektsdTVrX2xZdFNPYU5vbEMxRW81NzFHU2dsdzZlYUdYMVZfWEdXeVpKT0hMby1VekkxR1Y4WUU?oc=5",
-"src": "CNN",
-"title": "How the world’s highest bridge became a tourist hot spot in China",
-"ts": 1792994415.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2g2RGFiQXBkbmViQkVPM3ZxX0hlUF9XczIwMFdzOVFmRE1VZEVlM0ZYamdScHdyaTBYYTRRWDcyTF9NT0tSRjh0WWVmbWlfcWNtUmlrekFLRWlhTzZfTVlDZUQ5ZEF4ZGhaNjF1VFN0QVRHRzltRmJEbDlWM05nX1JGUkI0UDJpOE9xSWZFSjc3MENNb05vLTJUdGVjQQ?oc=5",
 "src": "Reuters",
 "title": "Who are the leading candidates in Israel's election?",
@@ -41,13 +27,6 @@
 "src": "France 24",
 "title": "Le gouvernement promet ce lundi \"des réponses très concrètes\" à la mobilisation lycéenne",
 "ts": 1792997882.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LMUI3UXd6YmJMYkxTemxFOW5tN0ZmNDJxYk5qbHplWjBneVEzODNGVlZWVmQ2UDJxeVZ4Yi1IYWlGTVBUNS00cG9ocXRqcF94bnRKV2tnbmttcm84dmFhcmdwNG5Ma2R4emZ4c1VZQ3FNNks4NFJOUQ?oc=5",
-"src": "CNN",
-"title": "How the world’s highest bridge became a tourist hot spot in China",
-"ts": 1792994415.0
 },
 {
 "lang": "en",
@@ -4430,6 +4409,27 @@
 "src": "Reuters",
 "title": "Trump says he will respect midterm results 'if they're honest elections'",
 "ts": 1793122503.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
+"src": "CNN",
+"title": "Flávio Bolsonaro’s whereabouts unknown after reportedly failing to hand passports to Brazilian police",
+"ts": 1793121761.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-images-de-la-seance-houleuse-a-l-assemblee-nationale_6801333_823448.html",
+"src": "Le Monde Politique",
+"title": "Attentat raciste de Trappes : les images de la séance houleuse à l’Assemblée nationale",
+"ts": 1793123140.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/27/manifestations-du-24-octobre-a-rouen-une-enquete-ouverte-apres-un-jet-de-grenade-policiere-pres-d-enfants_6801334_3224.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 24 octobre : à Rouen, une enquête ouverte après un jet de grenade policière près d’enfants",
+"ts": 1793123351.0
 }
 ],
 "seen": {
@@ -4871,6 +4871,7 @@
 "CNN|CBMiiwFBVV95cUxPcXBMd2ZIeHhhTzZnQ25IdVZIR2RQRlczVkhHOUpRZWNRMGxGMHVaMVRCOGpiNEQzZFRRdXp0dlN2cEk2d0JOYVZjSnhqY0tVU2FLNW4zcElrbDVJdlNDbk9aZXlIc2laX3hwMlhTbk4xSTFmU19Yd0JtR0hIYzBwMlE4VVZWelExemcw": 1793085327.0261214,
 "CNN|CBMiiwFBVV95cUxQRHY3QjgzVVRwd3hxRmhndVo3bXVsUzZhM2p2bTdiOGJ3WkdDcEFhWDF0RXlfc3FVRnpVRjdzTXBlclF0NDgySE80Z1pIR2NRYkxPQ2FYZ0RmWEM1eVZDZzM2LS1YN2w4Njd5U3B6YmVGSXZ5ekp0M05paGVLNkJiaC1PZVhseDdBNWVZ": 1793048443.460441,
 "CNN|CBMiiwFBVV95cUxQakJ1aTVmTFhrNnFDaDJLZnZ6M2NsZ3Z2OS11U2hMX0FLUnl0V0ttdFlqTkFmdWt0S2RQekZtRHd4UXVudEhWM2hNdldpcjdCWWk5Um1qWGRvTjNITklIZnFLa001Tk9zUGVFUzFoSEQza3hYTm1DTXR4d242SDZSYlBJcWR3UlNSOW13": 1792925608.8006206,
+"CNN|CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA": 1793124039.6769316,
 "CNN|CBMijAFBVV95cUxNZ0F6QjByT3d4N1VVZGhiWlpvRjc4eFlTaHVJUGVWekRIN3plV3RnT2Nva19kRnByc0JVcGxpRkdZUDlzcjZlUVBHdVd0ZjFxUmtvRFEtOUlBUTNOZGhWZTRncU4yODMyb212NDQzc18tdHdJVk1td0pwYzBTcFpNUTQxMFV5OXk1ZWZ2Tg": 1793029529.2200255,
 "CNN|CBMijAFBVV95cUxNcUlEYlR2VzlKY2NraFVLd0FPOVBPd3llb2FJVGRnMEtlZHBYdXZYYTQ4Nm03NTVqbGVwZ29FZ3RUYlFpdXg3X2MxdDM1UzVSdlRzZ1lGT2tVLVZaQXNjV3JTTWp5dUlWWGJXRXFkYWhXWHI1eG1EaTRBT2lTVFg2NXVxQWNlWXlXQzh4Rg": 1793099725.458703,
 "CNN|CBMijAFBVV95cUxOQUs4c1NWTFMwSHJQX2tDM3pCdTV5Y3hjQmpRRkpzOHh3cWEteUlZd2ZUemNjMWF2WEl5OGdObFpOZUF3QjdyR0l0UVBUOGZIR0ZXdDhQQWZpcmozOVUyS0RRc281Ym90aUhFQ1ViaXUzaHh4RVQ4bW9FSVMtNkx5U1NBMEhhU2Q3ck44Vg": 1792912921.1568482,
@@ -5347,6 +5348,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/26/on-n-avait-pas-anticipe-ce-qui-s-est-passe-les-images-d-emmanuel-macron-en-visite-a-marseille_6800795_823448.html": 1793025933.3217628,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-deputes-ont-observe-une-minute-de-silence_6801315_823448.html": 1793118633.9665923,
+"Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-images-de-la-seance-houleuse-a-l-assemblee-nationale_6801333_823448.html": 1793124039.6769316,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/a-lyon-la-manifestation-interdite-etouffee-par-le-gaz-lacrymogene_6799727_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/mobilisation-du-17-octobre-l-homme-suspecte-d-avoir-declenche-l-incendie-de-la-mairie-de-limoges-a-ete-mis-en-examen-pour-tentative-de-meurtre-sur-des-policiers_6799692_3224.html": 1792912031.9234908,
@@ -5357,6 +5359,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html": 1793072725.925812,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/l-absence-prolongee-de-defenseur-des-enfants-adresse-un-message-preoccupant-le-gouvernement-presse-par-des-associations-de-pourvoir-le-poste_6801285_3224.html": 1793110530.5799909,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html": 1793078125.0864997,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/manifestations-du-24-octobre-a-rouen-une-enquete-ouverte-apres-un-jet-de-grenade-policiere-pres-d-enfants_6801334_3224.html": 1793124039.6769316,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mobilisation-sociale-devant-les-tribunaux-administratifs-la-bataille-acharnee-d-associations-contre-les-couvre-feux-decretes-par-l-etat_6801293_3224.html": 1793113242.844439,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html": 1793075435.2638454,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
@@ -5380,6 +5383,7 @@
 "Reuters|CBMi2wFBVV95cUxNLVlneFRqcVJHMTZlOGpILW51QW1qWXBtVHd3aFpRZGRjT1NDUnVaUW9US2dMTUg2SGp0SGx4YjFENFZQYjVKamhPemJoYlpNQzlHS0E1ZTBHZnlwOXE2OVVJS0NqcFpCaGFuQ3lqUjZxalpSZkVzRUhTOEEzSk9jZTBhSVRuZUZreWtkWkJULXplX2VZMV9KRlN4SklZb0ZlVnhPZVRRMDNoWEdSanlPbEI3SGxSZmI3ZER6X2NneHFwMjNkUS1Dc1lid1ZPa1h1RURSTXFOX0JOSEE": 1792912031.9234908,
 "Reuters|CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ": 1792912031.9234908,
 "Reuters|CBMi4gFBVV95cUxPaWEweDRwbzhDSUxWMmNkVVFsa2w4M1dxODllY0tBYW9XU0ZsRkdrWklIU2tSWEhwMW9WT29NenFUMTlWNHBkbl9xdTl3U3hON1Z2MURncExuZWpYN09sUHBGVF9HSkVZb3VqUVUzd3RBYmdwMEVDWnNWQzhpM0QwUGVJNk1XMUxSWFhoSy1La0hvUHQ2UXJMWXBVZWFvV21xZUJTRDhubGNaNFVhaVY2TjUtcHJ4bGQxYl9NMUMyczdGcHZFRkhfcnI4czE4RXAyTjFtU1VkUWR2WFZ5bk9KcElR": 1792943124.2310648,
+"Reuters|CBMiREFVX3lxTE9PMUFScktaRExaN19HZ0lSWWtzSjJMQ0lqMy1McThUanJVajBZcXBLeU8wY2daN2RUWnEyZ19oZzNoQndw": 1793124039.6769316,
 "Reuters|CBMiREFVX3lxTFA1aWlfTHBOUUVBVXg1Y2RNZXRGMHA1Z2kybE9wSHlsc244YUFYcEdYNG91bkVCWWpXbV9RWVAwZl94ODhy": 1793123126.183316,
 "Reuters|CBMiS0FVX3lxTFBDQl9maHF3TGc5aDRLUTZvYnItQng0VFlfR0FGMTJjSjdTOUJNdk5OalhBWWRzMGJjd19EWDVBczRfLVIxVC1MOFBIZw": 1792993526.4830055,
 "Reuters|CBMiTkFVX3lxTE4xd0RyY25HZjh4LVZaNFE4VWFydnF3WlI3YW55aWtLY1ZPRktBZ0RZbGdiOUlDSlFSZzVXd2V2dENkVXV1MHZTUERleVhWZw": 1792925608.8006206,
