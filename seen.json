@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFJ1cFo1cDJBWHdoYXFvd1daZjVtcVlRbGxfWDk3eWVrUFhVU05EeHBqVE9NZWVnN3RIQzlKUjVDcGtuQWxFNjhERUVTWm94MFhtOHZrRWJPVlFLZ1MyMHNsa0tyYVNhZ3dKazdvUEpMdHNUWEdwVHh5aDBlZVkwaWV2R1VoVzFfUTJ0Tm5mYWdJVl9TTlpfU05JVWJOVzl0Ylo3SGtxLVphU0tzeUZhNUpCU2lvWVFiNDhxaG9UX2diNU9PZTkzMGR0Rm5BbmVvQXZIOGdFZ0xPb1o3SVhuRVVpankxQkFoRkw1VXl4SExmUQ?oc=5",
-"src": "CNN",
-"title": "2 Dan Sullivans on the ballot? It’s actually happened before",
-"ts": 1792983607.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXJIajdRV1c5bHF6T191cVFwTWxIUjhibThXYWJUQ3J4LWctRFR3THZpQ09OcG9adG93MTJPdHdxb1psaVpvU2RhMzNwR00wNm91RlozRW9QRHFLYXg4aW8ybzRDUWc3c1pXRng2RU02bmp1bVhld3hBMmViUW9CRy1MS0x3TUJCTm4yZUVERVVQcXhmandmTVVabzExTnRwQmowZmQwa2cxRktqWWF5UTNIY282QWFXOXZZ?oc=5",
 "src": "Reuters",
 "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
@@ -83,13 +76,6 @@
 "src": "CNN",
 "title": "US Marine Devin Jacob Ballard indicted over alleged murder of woman in Okinawa",
 "ts": 1792985175.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcDVCVUZlMDU4NENkbmhPNzAwbTBvSWtLNTFXU010VlFpZnpQNi0wOTBwSGpNeU4yYkpZMWFENnd6YXZuakpiTU5Ob1MtTGNjaVVQTnJoRV94Tm56SFJCMVl4YkszTTBHUWdsTndJM0xzQ1hWMW1zcjcxTS1QbnRYVVNkczMzRUhrLXpyc2JZRUpwSE81Z0REcXBVczB4S1BBQWZTOGxfMW9PSmFKSHBPYnUtN0NncHJwZ05fMi00T3ZWV3l4Y1o0Q2pEN3hOcU4xV0owdEk1Si1JUkdhcUlFa21meG1UakxjWl9yRmpnbnQtdEl1eW9B?oc=5",
-"src": "CNN",
-"title": "2 Dan Sullivans on the ballot? It's actually happened before",
-"ts": 1792983607.0
 },
 {
 "lang": "en",
@@ -4395,6 +4381,48 @@
 "src": "France 24",
 "title": "Attentat raciste de Trappes : minute de silence à l'Assemblée",
 "ts": 1793111548.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjIxbUNsVkxOOUhueWdIUG5IbnZaRExTbHBtckV5dERFekJEZGtkWEcwLXB0eEwxSW5nUlVTSjh6ZkJ3SEp0TW1EeVRpbkd0TGdHMWlhdlZBZTNaRnBQQ3phbEtoV2F0Z1JEal9IYnRWellKblNnM1U3bE1ISFRzQnE3UEI5Mndka0Q3eG5fUXptQmRxOWF3dThXTnlWdUZX?oc=5",
+"src": "Reuters",
+"title": "بقاء نتنياهو في السلطة على المحك مع انطلاق انتخابات إسرائيل",
+"ts": 1793104765.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVU3bHNQZEhUanRZS2UzcE9oeUIySWpnV2liUWRtNWtVZ3lVa2lRN3NLY01MZ3J6QmtGZnI2NHB5bVo2UUZTTWtXTE1UNlRPNjNrX2ZDalZZR3M4SmROeDluR2d5S2Nna1d3XzZDNFFiSG1OVWlIbDAzZGNIckVLZkpoR1JKRlUzZGkwLU9aN1A?oc=5",
+"src": "CNN",
+"title": "The Odds: Pressure at the Pump",
+"ts": 1793108958.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-attentat-raciste-de-trappes-une-minute-de-silence-observ%C3%A9e-%C3%A0-l-assembl%C3%A9e",
+"src": "France 24",
+"title": "Attentat raciste de Trappes : une minute de silence observée à l'Assemblée",
+"ts": 1793111758.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261027-lula-r%C3%A9%C3%A9lu-au-br%C3%A9sil-une-bonne-nouvelle-pour-l-environnement",
+"src": "France 24",
+"title": "Lula réélu au Brésil : une bonne nouvelle pour l'environnement ?",
+"ts": 1793111921.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-raciste-de-trappes-sebastien-lecornu-denonce-des-gens-qui-portent-des-discours-qui-finissent-par-armer-d-autres-qui-eux-passent-a-l-acte_6801291_823448.html",
+"src": "Le Monde Politique",
+"title": "Attentat raciste de Trappes : Sébastien Lecornu dénonce « des gens qui portent des discours qui finissent par armer d’autres qui, eux, passent à l’acte »",
+"ts": 1793112256.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/27/mobilisation-sociale-devant-les-tribunaux-administratifs-la-bataille-acharnee-d-associations-contre-les-couvre-feux-decretes-par-l-etat_6801293_3224.html",
+"src": "Le Monde Politique",
+"title": "Mobilisation sociale : devant les tribunaux administratifs, la bataille acharnée d’associations contre les couvre-feux décrétés par l’Etat",
+"ts": 1793112475.0
 }
 ],
 "seen": {
@@ -4859,6 +4887,7 @@
 "CNN|CBMikAFBVV95cUxNU2o1YUw2UzI5Q0s3QUt2R0NjRFdQajU5c3VYdFJoc3lTV0Z5b2ZkU0ZVUFhhOVJOT0hfV1ZxVlM3dUdTNTh4NWdsRGZBQ1VNRXBjTGhtdXA5a25kczJNVHdqREdiQ0pnZk1EdklpYmFSaW5vYkE4UUR1YWNHVUZKa0N4SHktcUxfZEZRRURrN28": 1793100123.5113935,
 "CNN|CBMikAFBVV95cUxNUUxGOWVfRDhHZjNWVnNCUHNmdERxX0NRQ2lrV2RzLTVVeEd2STVUQkswN09kY0V6MnVDQkZSTFBCNV9SQ1BKMG03ck5sR1J3QkJWMDByeVVSZ21zZG9zc1FJampNeGVwVnJ4U0lJY2hmVFNCSGxTaWp6cm1vbkVCY2ZydHRDYURNOGh6THZ4S0I": 1793027734.901764,
 "CNN|CBMikAFBVV95cUxNWGZXN1lyR0doQ2U2NFJBa0dSRkxONXk1bXhpaVpkMVFiQ1h5MEw1c1kzLWRjOHFlWlktblh0LVdUMFlITTlJOWo4clhtUGJ6RzQ0enIxbVc0UjNuelNxVVBBWUZjN3BlcTMyRHlmQ0NNSnVYUXAyNDBCRUFEb0JRcnBDWGhuNWlGTDBpejNqazY": 1793023247.452176,
+"CNN|CBMikAFBVV95cUxNYVU3bHNQZEhUanRZS2UzcE9oeUIySWpnV2liUWRtNWtVZ3lVa2lRN3NLY01MZ3J6QmtGZnI2NHB5bVo2UUZTTWtXTE1UNlRPNjNrX2ZDalZZR3M4SmROeDluR2d5S2Nna1d3XzZDNFFiSG1OVWlIbDAzZGNIckVLZkpoR1JKRlUzZGkwLU9aN1A": 1793113242.844439,
 "CNN|CBMikAFBVV95cUxNZWtRcVU4ZUlpemNUcUJrQkg5dWJaZVoyLXJyNE1sbnc5YjdOTTdGUEVjZTlBR29KZjFhYjJuN3JSZUpuRl96MVp3VjhnODFDQWpER0JiVjdyX2tTcDdGN0dxeHJvbmVSMXNBWmFsVHNhTjAtak5VTFFySU0wc0JjV0U3U3JuY3VhT1YyTnJJNHI": 1792912921.1568482,
 "CNN|CBMikAFBVV95cUxPSzl5UzJYVnlvTGwtbjhpdEkzMnZBQ3AxQ2ZTTGF0Q1FVNm1WLXRveDZYZVVrUUxWZXU0SmhhRkJ1WlNodnRNY0ZRWndPdUtIcGM1ZWZnRFVCSGJOVy1wc0Vwc0pLQklIUDdhdWVSY05jOVBqN1ZBS19NbnpoaEdKQ3JQbkgxblhxbEVOVXRsZkU": 1792912921.1568482,
 "CNN|CBMikAFBVV95cUxPTWRxdDZSWnR5T3VpMkhrTFdkbmZpZ1ZLNE9rdWN5dEl5QkdmVjJxOHBnLWJqOWhpM1pYX09VU0lrMDRZcE1XNkE0MVNudEg3bjVfR1pwU1lPZ0t6MjItek9KNDRyYlZyVlNrOS00YU9aT1hNQjhnZWwyU21KZnBzbENuc1JMV0V1Y1BMSmR3TE4": 1792912921.1568482,
@@ -5029,6 +5058,7 @@
 "France 24|03646e42-d105-11f1-bb79-ed2d1a5e0fec": 1792998039.3769457,
 "France 24|091bca44-d15d-11f1-b2ab-7bc39d597069": 1793034925.3473341,
 "France 24|0c6e4f0c-d151-11f1-879c-a9f1b4ed1116": 1793029529.2200255,
+"France 24|0cc25a26-d213-11f1-85c1-89fbe534e3d4": 1793113242.844439,
 "France 24|0d7672e2-d0b8-11f1-8c45-b102727f9dee": 1792962926.5174387,
 "France 24|0ee1d4f8-d123-11f1-9bd0-6ffdf4852003": 1793010634.9602375,
 "France 24|0f789998-d145-11f1-9be8-3fa69f81bcea": 1793050238.2716792,
@@ -5041,6 +5071,7 @@
 "France 24|19456a88-cd20-11f1-8230-6194a1ba1628": 1793105126.5123024,
 "France 24|1992d63a-d1ec-11f1-aad7-670fb203a203": 1793097036.2631872,
 "France 24|19eeb3ec-d129-11f1-81a3-b1f4278cc8b4": 1793015128.0146222,
+"France 24|1b016554-d214-11f1-8f25-db9f647a95e7": 1793113242.844439,
 "France 24|1e628f5a-d13a-11f1-8ce3-c71537c59723": 1793020526.6017363,
 "France 24|220a46ba-cf01-11f1-928a-4316b1dbb1f1": 1793013327.7299454,
 "France 24|2239bb42-cbd8-11f1-b209-93a50d6b566c": 1793022326.7653923,
@@ -5059,6 +5090,7 @@
 "France 24|36300328-d186-11f1-95a8-1bd8fcb5712c": 1793052036.5986388,
 "France 24|3635c73a-cfca-11f1-95a6-61e6437b898d": 1792912031.9234908,
 "France 24|367310c2-d204-11f1-9cdd-9b6c1dac2983": 1793111437.85042,
+"France 24|38f4114e-d12c-11f1-8f8c-bde0c8c909ad": 1793113242.844439,
 "France 24|3a1221f4-d188-11f1-86f8-e9b56e2c765d": 1793054725.2944863,
 "France 24|3f6fa420-d055-11f1-b914-910454473283": 1792925608.8006206,
 "France 24|3fc99f66-d0e6-11f1-bbf0-37a76c84a3e0": 1792997126.902378,
@@ -5098,6 +5130,7 @@
 "France 24|6f1e891c-d059-11f1-b92d-1f8f659a9952": 1792929640.0968695,
 "France 24|6f645326-d148-11f1-8f99-e371bf58d71f": 1793025933.3217628,
 "France 24|705135c0-d1b0-11f1-99ec-e350cf8930f8": 1793082635.3350763,
+"France 24|71b20aec-d210-11f1-8c5f-8bb08adb49e8": 1793113242.844439,
 "France 24|75dd340e-d150-11f1-9669-31fa74957428": 1793028637.2954068,
 "France 24|773faec2-d07d-11f1-b6e1-37dd3010ebf0": 1792947639.24719,
 "France 24|77f90082-d07a-11f1-8f77-83411c56a6a1": 1792939531.0152667,
@@ -5260,6 +5293,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html": 1793048443.460441,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html": 1793074528.1118133,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-raciste-de-trappes-sebastien-lecornu-denonce-des-gens-qui-portent-des-discours-qui-finissent-par-armer-d-autres-qui-eux-passent-a-l-acte_6801291_823448.html": 1793113242.844439,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html": 1793061926.1457267,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/injures-racistes-contre-un-journaliste-de-ouest-france-trois-hommes-condamnes-dont-une-figure-de-l-extreme-droite_6801269_823448.html": 1793105126.5123024,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html": 1793102444.1008482,
@@ -5279,6 +5313,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html": 1793072725.925812,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/l-absence-prolongee-de-defenseur-des-enfants-adresse-un-message-preoccupant-le-gouvernement-presse-par-des-associations-de-pourvoir-le-poste_6801285_3224.html": 1793110530.5799909,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html": 1793078125.0864997,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mobilisation-sociale-devant-les-tribunaux-administratifs-la-bataille-acharnee-d-associations-contre-les-couvre-feux-decretes-par-l-etat_6801293_3224.html": 1793113242.844439,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html": 1793075435.2638454,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
@@ -5365,6 +5400,7 @@
 "Reuters|CBMiZ0FVX3lxTFBKTW1WdGdfRkNGTHpPaGlMdzBvM0pIUG1BWksyTzRhcXVNVDR4OWlnZUQtTUx5Qmp0T2h0TVZUZlBEeExKUzNqTDVRZ2E1cFFtUVNiTFhFT1pneEQxSWZ3bXZ4Z01Rb1k": 1793090729.0474913,
 "Reuters|CBMiZ0FVX3lxTFBNZ0R0MUM1NS0wOVJWZ29IaFFzcnVhT2VsVnB5MVN4MGVSQjFjMlFudXdmRVBBaFZWbGtPc01rRDh1OGl0d3ZzMUU4Wk9tcm5NUTFRNGhRZTBhcnc4MkFJVk5wS0xYZ2M": 1793052036.5986388,
 "Reuters|CBMiZ0FVX3lxTFBRZjRXUlQ0U3hES1R3aFJRTVFaVC1uTmU3Ql85YzVWbG5ZdkRQNjlFZExtNEtqN0R0aExfdEFBRjBmNFJuZ2NwSkk3bE5IQzkwejFJbzhoZ1BPaVlVYTY0MXhZbFU5bGc": 1793016926.187019,
+"Reuters|CBMiZ0FVX3lxTFBWTHpFd3pETEpXOE9ZWGgySjJaWkdWLWQ2c0xrT2NjanBSNDZNVG8yNmV3MUpUNDhWWURmVGg3cEtTLWZGRnVTMG5RQ2Z3My1OUllQYWFIRm5wOFhzaHFyVkFaZ0ZfMTg": 1793113242.844439,
 "Reuters|CBMiZ0FVX3lxTFBYQXVpTnVCT0JkR29kdl9EU1F2bW52dmJuLVNTN0FTZWtoQkxkcGV5RFVCSDYtT2FmU2c5LVZNdHpfTUxKTEJkS0pFVkh0TW5zWFd5dUVOdVdMaXhNTWVmNkpXcndacGs": 1792912031.9234908,
 "Reuters|CBMiZ0FVX3lxTFBZal93dWJ0MTlocDhqQVh3NU1nTkxBUl9yZVhMMTlMcGZNSW9NT3dFY19nellMWGxZNVBfVUFnd3FTMHBWRFpCUjFjenRHSzBvVnQ2bU85NjlFc0VZYS1pc1U5dkZaaG8": 1793054725.2944863,
 "Reuters|CBMiZ0FVX3lxTFBkRzh4dDc1dTk4UFVmY1EwaUN1OEpUR3ZEM3JuTW5yRGVvWmJvWUdxMGNOMEtscDlOOFZXRWVUMC00N0NPZHhCTnU1YllCUWZpQWw0M3FvQmlfRTF0a0VZLXZ4SmlHQzg": 1793025933.3217628,
@@ -5514,6 +5550,7 @@
 "Reuters|CBMioAFBVV95cUxNbmxNV194R2tBS0VVOXpUdVNmUExKMVgyejF4V1M3ZXZxRWsxX2VaVVY2eXpoeU1CZ1JDOFpES2xMXzRObVlvS3VwZnR0TGNIeTJkYUFQWnEtczJuZTk4X3FVZ0ZFaW40REM1b0M4LW5VVEVEb2tGd2kzYmpTRDd1bzhqbzM5a0lTYlg0TXZaTnM1WWNWOHgwcXV2RFFQbmdJ": 1793106043.9788604,
 "Reuters|CBMioAFBVV95cUxNdFpjamZfZHVIb3NCTmJGY0pTcDRPY0xCRFhxb19qM0F2UTR4VWxjSEZFU21yRm1UTXBxVmZIRDJTek1zZ21JM3owM1JYZ0lodVJ3ZGp1MWM1NG1TUG1Na2plTkp5LUxvOVFPcEZsUE1Ld2lEamFDZzAwa3NGN0ZoTE5NOW1nSERZOWJtQmhYeWJHT1J1cE4xdzdCN243NGRk": 1793035835.324142,
 "Reuters|CBMioAFBVV95cUxOSk5NZm54eER0aHZLZWtiVXRrN25RVEN5SmY1YjB1MnhPUmRnbm4xbEt0eDRJTHA5SmFobjZQaElVWWpQRnFZWWlGVUxIcjgtZ1pyQzF0RlVlbzloRldsbm14U1BwZUo3amozVW1PblhRN0duZnB2N1l0OGVVNVdTSmFzSEtRX3QtODJoSENQWENDY3o3RzVpMnZBRTBZNXdm": 1793097929.898054,
+"Reuters|CBMioAFBVV95cUxObjIxbUNsVkxOOUhueWdIUG5IbnZaRExTbHBtckV5dERFekJEZGtkWEcwLXB0eEwxSW5nUlVTSjh6ZkJ3SEp0TW1EeVRpbkd0TGdHMWlhdlZBZTNaRnBQQ3phbEtoV2F0Z1JEal9IYnRWellKblNnM1U3bE1ISFRzQnE3UEI5Mndka0Q3eG5fUXptQmRxOWF3dThXTnlWdUZX": 1793113242.844439,
 "Reuters|CBMioAFBVV95cUxQRXhzaUVOakxHWU5rUVV0TGR3bXZNZ0VnazRJTnM3dVNoVXB4ZzM2dUJLekprWkJTckZtS2lSS3FyUmJPYkZtR19GWWFYWlFodnFUQ0hwQTNJZ2dSd1B2OWY4WnN0SUIwZC11c053VExrajZWRktnU0dRYUIzaUdsdmVsM1hwNk83WGVTbjRjQS1SX1BVcDBGWFY4Y3JFdUZQ": 1793111437.85042,
 "Reuters|CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV": 1792926928.3475087,
 "Reuters|CBMiogFBVV95cUxNLWZ3Y1haZXZRODZVcHZLWktZejdLRVJEeW5ydDlGVVJrSTJCUjVYMWxYZFVqc1hCLVRCSlk5RDN1M0s2N3VYZ0pvZXh4VG5MbS1CMUxTSkdQeHk4NDBJTkR2bXZ4RUwyWXhfR3ZWdllWLWJWZXBZUzZId0NQMHBId21SVEJZa3FJX0hMSVg3OGJjZm5kekhSUzV0WHZCMW8wQWc": 1793079032.3150072,
