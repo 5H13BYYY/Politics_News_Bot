@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19Yc2l5X25vdWYzZlFqeGxlOU1sMElDSFBGVmcyNXhjY2VjR0tDWFEwdE5jZGx5LWladUd4Z2FVaENKaTl3bW5jdkppT1o0SWdCcUhWcGJoMHY5eWFvQmhrMng2TzY2Y0ViZW9UMHZDbG9Kems4bTFSLU9LSnkwNVItaWE5Qmp5b3BxUmxud1ptdTZmMHJFRlRBSThfRU9YdUZvdkdKWk1Edm9lTTM4eFFsT2otVzktaHZYcTM1Vjc3LUlz?oc=5",
-"src": "Reuters",
-"title": "Trump has no designs on taking over state elections, US attorney general says",
-"ts": 1792948063.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html",
-"src": "Le Monde Politique",
-"title": "Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « Renaissance » de la France",
-"ts": 1792948216.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
-"src": "France 24",
-"title": "Midterms 2026 : Obama fait campagne pour les démocrates et épingle Trump",
-"ts": 1792948425.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
 "src": "Reuters",
 "title": "Thousands protest Czech government's public media overhaul after rushed vote",
@@ -3814,6 +3793,34 @@
 "src": "Reuters",
 "title": "Harry Kane crowned Ballon d'Or winner, Putellas wins women's award",
 "ts": 1793075533.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IaEsyQUxRVm1rbGtlVUtJRjYtU2U5WjJSNF8tQlFOS2FzOHZHcjBHX2l6YmlsbmVBQTZua1hRSmMxeEU4TkRXV0dTeVdBQnNJMmlFNFpldkk5V29ESTZTdUd1YU1Ldw?oc=5",
+"src": "Reuters",
+"title": "US stocks end higher as Anthropic's IPO filing buoys AI stocks",
+"ts": 1793057416.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWctMmNTZGdfSm5kYUZXUERUamkyMVJlME52aE1wODN5UFNoUHlzU3pRdlp1VFRZWk9LRTJlMURneFdIWF9jMzBTcXJLc0o5cHVaRFBmcl9MVjNlRFd5a0piM1hMU0gxMmNha3RLTXJISmJUTnN4MVluQ0htV0lWcQ?oc=5",
+"src": "CNN",
+"title": "Jay-Z said he’ll just do the Super Bowl Halftime Show himself",
+"ts": 1793071080.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html",
+"src": "Le Monde Politique",
+"title": "Le débat sur l’imprescriptibilité des crimes sexuels sur les mineurs arrive au Sénat",
+"ts": 1793077206.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/videos/video/2026/10/27/que-changerait-la-loi-casseurs-payeurs_6801104_1669088.html",
+"src": "Le Monde Politique",
+"title": "Que changerait la loi « casseurs-payeurs » ?",
+"ts": 1793077207.0
 }
 ],
 "seen": {
@@ -4139,6 +4146,7 @@
 "CNN|CBMigAFBVV95cUxNLUtfOUY3VUpvSHdtZnJ6V3ZKRzBDTnpyaVIxVm02TE9IUkZZVlRuMnB0bDJlRkhsbUpfdXJlaGwzcUNNcXMtMGxQZC1jRDVHYkRSWV9jc2NSNi1hdktibUdJamUyYUNaR1lkRzdjdjRZQ3p6Z0FLUVUxQTFPanFQSA": 1792912921.1568482,
 "CNN|CBMigAFBVV95cUxNNEtuaHBmSDlOS1pYRy15dmw2WE9QOFlkN1g0NktiN2Y5WHV1NHNPTFd2YUVjMHNYYWkyMU0yNXlERnV4clJwUHBRV09pU08xVVFoT3BOZER3Q3JCeFZ3VHQ5NmxoOVBoMXBWUHFPWHFSWWlZdlJGWU9lcTdaa3NEdA": 1793016926.187019,
 "CNN|CBMigAFBVV95cUxONEl1bFlhVTIxQXNkLVoyQk5FQ3VFbmNacnNrWTUxeXRLWkU1X2RQakd4ckI2eGNIeFNSZUZuQlVtQU12UkZ6anVLZVhRRGQxWnNVRjE4cGN1bkhDWmlMMTRFMmh3cWluc1dnOXdsZmhjRXJxbXVPQmpkbGVpN3VVeg": 1793023247.452176,
+"CNN|CBMigAFBVV95cUxOTWctMmNTZGdfSm5kYUZXUERUamkyMVJlME52aE1wODN5UFNoUHlzU3pRdlp1VFRZWk9LRTJlMURneFdIWF9jMzBTcXJLc0o5cHVaRFBmcl9MVjNlRFd5a0piM1hMU0gxMmNha3RLTXJISmJUTnN4MVluQ0htV0lWcQ": 1793078125.0864997,
 "CNN|CBMigAFBVV95cUxObzJxMUFWNVlKZUxJZjJ6OVZIVERjOFJGOFd5UE14Nk81b0JyUElzTGo2bnZBZXBJcjZCTUdGdEpncnpQM3RrOU5BUUtEcEYyQmJ3RGtBbTVRR2FXX25OanljZjUwQ2xZV3JkZlRPX1dWM2ttdDg2bi1JT19oS3AtYw": 1792935031.8835816,
 "CNN|CBMigAFBVV95cUxQQ1BON1o4SE1nQ2RXdDBwUzEza2l2U09lY0pnUml5N2pFS3UtRGVMdUZrdnVPQnJtSmZYYUk5bC0tVm1XSGpVTDdaNVZhY0h6UElBZW80Snp4MGlnWHJ1RkhjQklDWXpZN2ozeXpROC1CUjRvczBZejFaMFpNNjNEZw": 1793066439.9056492,
 "CNN|CBMigAFBVV95cUxQY2xaQ3NxcDRYM2twckZ4SlJQdGxDZUdqNVlFbjhLMGtYUUxWZndma2lZc0Vhd2p4UkdyTnRBNUpOQ19LUFZwZVFpYWs0aVJ2T3Z4S21UOXRyNUNjRTdvZzQ4T2hXVHBBZEphMlJBUUZkOFI2NWVfY1RTYUtfeHIwMw": 1792912921.1568482,
@@ -4572,6 +4580,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html": 1793043032.0944161,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/violences-de-militants-d-ultradroite-en-marge-du-24-octobre-plusieurs-enquetes-ouvertes-a-aucun-moment-la-police-ne-les-a-proteges-defend-laurent-nunez_6800799_3224.html": 1793028637.2954068,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html": 1793072725.925812,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html": 1793078125.0864997,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html": 1793075435.2638454,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
@@ -4579,6 +4588,7 @@
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-les-images-de-la-manifestation-contre-le-rassemblement-national-a-orleans_6799711_1669088.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-les-premieres-images-du-cortege-parisien_6799710_1669088.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-revivez-en-images-et-en-videos-les-mobilisations-partout-en-france_6799730_1669088.html": 1792912031.9234908,
+"Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/27/que-changerait-la-loi-casseurs-payeurs_6801104_1669088.html": 1793078125.0864997,
 "Reuters|CBMi0AFBVV95cUxPNVlqelZrbGVQSEZ6STZ1TUpGd19BNlZDSlJJbXpTNTBvcUFQN05qY0ZwNnRsNkZMeDFTVWxTMGd2MTBGMG9sbk1pZ29uaXMxWDNNUXNhYUZXTFlUcno2QWtkZ2ZjVFMyZXFERTJlZzRmUWNfOEhHNkdwZ1pJUWtma1lKQVljQmFQbGVPSmNVMnBqSEt4Q19acDVHSmxmSG5xcFlqMU5nc1BGZE1keU93cUpDYWdTSGd2X2hxRDBmdFJTYlBVQnUwWGo3YnN0QzZL": 1792989924.9740305,
 "Reuters|CBMi0AFBVV95cUxPVTFYS0ppdXFDUFBVRUMxbVJ4dkJzbkUxLVd0QlZ3d3NLbWM5NGFrVXNvUExxelUwODdjVGE2S3NFNzF0LWpNQmgtLS1CcmxabzFDRlJpbG00eDdmR082d3pXRTltckFXc0tMejhjUGQtUkpZOEZyclAyR1lLVWlQUGk0cUtVSWlsZkhTazlQWHlfWmlkWlpQeDQ3N212QWQtcWZEWFprem1iTDRSQTFPVU9aWExsQW50X0ZuZmhkci1lSF8wdmIwUmIzbEFYV0Vw": 1792975528.6344075,
 "Reuters|CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T": 1793000726.4345882,
@@ -4650,6 +4660,7 @@
 "Reuters|CBMiZ0FVX3lxTFBvdVpzRmFBNHVld0t3M0tGY2xGS0hLLURpTWVfNGdMN3pPTzRyS2liQU9wUHVfX1NIelFHcGFVZDNqZjRDSDNtbklwYWhtN01NajBrWHlMcnAyajZ1MDk4S0tBeVpfbU0": 1792980042.310782,
 "Reuters|CBMiZkFVX3lxTE0zR3pwMVhLem1iM3hKVjJab1FMamotS3NPVzBmdF9UZE56X3R6dTRrcG03M3AwbmNsejhlNk5iRFE1a2JxcXJFbURUM0JRajRvMU85eTA0OVRxMlZ6Vk9TNG9QRkdodw": 1792912031.9234908,
 "Reuters|CBMiZkFVX3lxTE15a29TMnkwRUJqNHFSTW52a1czVmFjMy1WUHlqLVJhRnBxeGYyTGE4VTB6ZjhITXltV2d3WEhrQ0dpRGFDbWdhOWlIbnM2a1g0SkhRU3liRGVSdWRQd2tRN2xjQmFzQQ": 1793033128.0726519,
+"Reuters|CBMiZkFVX3lxTE1IaEsyQUxRVm1rbGtlVUtJRjYtU2U5WjJSNF8tQlFOS2FzOHZHcjBHX2l6YmlsbmVBQTZua1hRSmMxeEU4TkRXV0dTeVdBQnNJMmlFNFpldkk5V29ESTZTdUd1YU1Ldw": 1793078125.0864997,
 "Reuters|CBMiZkFVX3lxTE1wU3NpbG1JcENSTHBHbWRRU3FUY01tOXQ4cFpyVXlUc1V1UksyS0YzWHZaMjdUendaU3ZxWWZGZUQzb0hNcGFZMUpfQ3o4WXB2eG5DRnlXT0ZScDEzYTM0NEJ0V1B6dw": 1792986327.7948549,
 "Reuters|CBMiZkFVX3lxTE1ySVMtNHRBbHlMM0Jpa0NxaXkxd0hzZU5INGM5cHpkWThxbVV1LWxuVGtjVklTWC1oV2hJMExRUFRHLUk1NTRJa2t3Sy0xLWRoaDQ1dXdDUjZKV3V3MlgyRlpKUXlQQQ": 1792990119.441059,
 "Reuters|CBMiZkFVX3lxTE1yUm0yTExqOXN2UjBDV05fQ08tS0lHaDlDalpUUjFVYTdRWGxkakpQdC15Z09ISklNQlBoSTVJTjAxRkE5bldMQXlMMThXYldvWHJGOXNEM1NJVGE2aFJVRV9WV2pOQQ": 1792912031.9234908,
