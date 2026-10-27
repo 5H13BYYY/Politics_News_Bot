@@ -72,13 +72,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-"src": "Reuters",
-"title": "Oil slips from near six-months highs despite supply concerns",
-"ts": 1792970640.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQThreThHUjh1NXBySlVTTlV1RXdkeDFVUkdPR2dYaE04a1I4RlVEVEhJOXFZWVNTc1VmbWhpeFZlb3pmYS1CXzFJQV9qX2w4MFh2ZEVoRFJtdHNRYWRLSjMzOHplZWp2b0xsaFVOODJuRW5XU2htc2ZZTnd2aDM3Z19GMm1Sc2FRcHpz?oc=5",
 "src": "Reuters",
 "title": "Transcript - Reuters",
@@ -97,13 +90,6 @@
 "src": "Reuters",
 "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
 "ts": 1792976940.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNyVFdmTTlmZWVCLVlCLVpfU3ZGTWVhLWl6dUk3bmxMZTNZRWN0VEdRWVgwWDdmbTlTeW56Yk5SVEFtejNEUl82dU10aTljWUhqZWlTWUtBS2lQTTZGN3MwVjNhUWxyUXY1UUpPSHpTVFBBejl3MG9BWkk4bTRlWVUxbzdTYlBoVEtBS2pGQQ?oc=5",
-"src": "CNN",
-"title": "Opposition leader María Corina Machado returns to Venezuela from exile",
-"ts": 1792970820.0
 },
 {
 "lang": "en",
@@ -4094,6 +4080,27 @@
 "src": "CNN",
 "title": "Manhunt for Convicted Murder Who Escaped TN Prison",
 "ts": 1793099831.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oT0ZILWZnVmpmZTVfWklKNTc5QmVyRFJnLU4weTVVTWo5Zi11eldaMWJRTkRLbUVtV3pYTGIyN2JWY3BlWUtvSkhuSmQ5NE1PSXctLTBLZDhSUXcwb3g2cmdnNV94WkNkaURDQngzaw?oc=5",
+"src": "CNN",
+"title": "CNN SITEMAP",
+"ts": 1793085319.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "The Global Story",
+"ts": 1793095200.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-attentat-raciste-de-trappes-des-hommages-aux-victimes-dans-plusieurs-villes",
+"src": "France 24",
+"title": "Attentat raciste de Trappes : des hommages aux victimes dans plusieurs villes",
+"ts": 1793099074.0
 }
 ],
 "seen": {
@@ -4187,6 +4194,7 @@
 "BBC|https://www.bbc.co.uk/news/videos/cmrlye70nxnlo#5": 1792982725.406159,
 "BBC|https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo#5": 1792985432.7294014,
 "BBC|https://www.bbc.co.uk/news/videos/cqj9ky23ymwro#5": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service#5": 1793100633.0510104,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet#5": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#5": 1793072725.925812,
 "BBC|https://www.bbc.co.uk/sounds/play/w3ct8mjf#5": 1793096132.326827,
@@ -4304,6 +4312,7 @@
 "CNN|CBMib0FVX3lxTE5ERU9QeW9OUVJWSmpTMzZ3NUpGNE40T0ZwS1NTTHZfcWRpd1lyZkxhU0VVSHh0cWdqdGVINXVuZWlicHJBZlBBTHBRUkNLa2UyZDFRQ1ZsUTlIQzRaUEJ4dEZzSkJHdUhSREx5VHNZZw": 1792968324.6234279,
 "CNN|CBMib0FVX3lxTE5RQjNWUTRyYmVOREwzcldYalFSckhkc1BkTVB4UWZ1aFE0Q1RxUHNmLUNndEg0dGR2MTc2R3FzemdRd0xzWFkwY3VvNWhOUTZSZzdrMmMxTU5JaWJmcHNyd25XekFFWi1hU2s1OWZqOA": 1793052925.6166203,
 "CNN|CBMib0FVX3lxTE5hdHRwTk5RRHFlcmFoZjdDc2xhWnBjb0gzM0VHWjFtelg5dGxFRE5SRS1KdTIzdmZxVWd5cXlqWm5LN2o4TXVmYjFzbE5vY0J2NWxJc0VpeVJNZkNBcTFBVFJmUm9jbm52TlZFWE0xTQ": 1792912921.1568482,
+"CNN|CBMib0FVX3lxTE5oT0ZILWZnVmpmZTVfWklKNTc5QmVyRFJnLU4weTVVTWo5Zi11eldaMWJRTkRLbUVtV3pYTGIyN2JWY3BlWUtvSkhuSmQ5NE1PSXctLTBLZDhSUXcwb3g2cmdnNV94WkNkaURDQngzaw": 1793100633.0510104,
 "CNN|CBMib0FVX3lxTE80VGY1Sjl3M0wwOEFnUTlaZFhNSWlCbm1nM0RJTzdOVzNlZ0FkVlJuUHBPYkJ4aWtvSkJ5X0c1eExfb3JPY21PMUpURlBoaWcyMVV1aDNzdTU4RnFpVlYybWFoblpuUHh0VGs5WmV4VQ": 1792925608.8006206,
 "CNN|CBMib0FVX3lxTE83d21FdklIN2l2T2V3S0hIS3k4SmF2bWJJSVBtZHh0OThaWGR5SkhMdk42RmJTVHIzUlBvR1BnYk1qY20yU1RuaWVCZDl5M0RYVjlTNTZjYnA2Q0E4cVNzUVA4d25sN0ZwRXdVcFdqSQ": 1793031325.941255,
 "CNN|CBMib0FVX3lxTE90TXNYYTQ0QXdiZkwxTXhEQTBqN0VPU3dtVWIwX0dDY3M0ai1nWW9qa0NlcUJ5aTZla3Bpc2lpc3g0c3ltaDRXTzFzN0NCbGhGRnhtekJ0b0E4Sm5yb2RjX1NUSnAyWkVfQ1oxM2hoVQ": 1793011526.0825064,
@@ -4748,6 +4757,7 @@
 "France 24|61ebe486-cfe3-11f1-9cc8-cdac6671750f": 1792912031.9234908,
 "France 24|62bebdd6-d068-11f1-80fe-23179a81db4f": 1792930525.0455637,
 "France 24|62ec90e2-d146-11f1-b347-6fb9ce00d950": 1793027622.2548203,
+"France 24|643cee2a-d1f4-11f1-92bb-6f6ffbd8abbc": 1793100633.0510104,
 "France 24|64f93058-d136-11f1-a46a-571b6628d8a5": 1793023247.452176,
 "France 24|658ab54e-d0f2-11f1-9552-e12bbe1d42fa": 1792989034.109569,
 "France 24|65bdd114-d15f-11f1-8e13-2d863fc777ac": 1793034925.3473341,
@@ -4770,6 +4780,7 @@
 "France 24|7d392330-d127-11f1-b708-4b6c29252b7e": 1793013327.7299454,
 "France 24|7e880bd6-d107-11f1-8d8a-8b010814d2c5": 1792997126.902378,
 "France 24|7f3a6834-d135-11f1-b83c-39985fe94838": 1793023247.452176,
+"France 24|81ac69e4-d1f5-11f1-b33f-b5db38881884": 1793100633.0510104,
 "France 24|81c96c2a-d14f-11f1-9bf6-fb15c577a4ff": 1793028637.2954068,
 "France 24|81d36a46-d153-11f1-9d77-4f22c7697df6": 1793031325.941255,
 "France 24|8240f25c-ced6-11f1-a66b-dffc9efb96b0": 1792942233.6861115,
@@ -4788,6 +4799,7 @@
 "France 24|99d92ce4-cfb8-11f1-be8d-6deb5437196b": 1792912031.9234908,
 "France 24|9aab8084-d055-11f1-a720-a52885e10a86": 1792925608.8006206,
 "France 24|9ac2adca-d16a-11f1-8342-ebb18ca20e2c": 1793039433.9108324,
+"France 24|9cfc2f14-d1f4-11f1-953f-eb0ad91bae4d": 1793100633.0510104,
 "France 24|9ee50f18-d14e-11f1-af54-17f29f97887d": 1793028637.2954068,
 "France 24|a035dc8e-d17c-11f1-b3ca-f9b37cc142e7": 1793048443.460441,
 "France 24|a21fa4de-cfb6-11f1-8b01-ab88639f5dbe": 1792912031.9234908,
@@ -4798,6 +4810,7 @@
 "France 24|abfb2604-cfca-11f1-9983-f9b22d73c7a1": 1792912031.9234908,
 "France 24|ac5df4c8-d074-11f1-8ead-c9c9a59307e9": 1792938632.6359444,
 "France 24|ad2fbe44-d1ec-11f1-bceb-c173db164a05": 1793097036.2631872,
+"France 24|adb0b1c0-d1f1-11f1-92bd-31645ad21ce1": 1793100633.0510104,
 "France 24|ade59812-d143-11f1-b0f6-7b772a04489f": 1793024129.9475675,
 "France 24|b0d2d30a-d15c-11f1-8dbb-b167d47c95ba": 1793034925.3473341,
 "France 24|b21fcde2-d091-11f1-a101-fd2ca0af2a88": 1792947639.24719,
@@ -4815,6 +4828,7 @@
 "France 24|c71a8e5c-d05b-11f1-a3ca-277a8cf66058": 1792925608.8006206,
 "France 24|c7460570-d19e-11f1-9ab0-db8f8684c7d8": 1793061926.1457267,
 "France 24|c852ffa2-c868-11f1-ab7e-19c3d735c4af": 1793013327.7299454,
+"France 24|c8fca97a-d1f6-11f1-9221-f7b44062cc78": 1793100633.0510104,
 "France 24|cb26ecdc-d1d4-11f1-977c-6d65b7812200": 1793087126.2328327,
 "France 24|cc147cbc-d18a-11f1-9e00-bb0e82aabcaa": 1793053832.2624676,
 "France 24|cd864178-d15f-11f1-a605-85771734874e": 1793083526.8981297,
@@ -4838,6 +4852,7 @@
 "France 24|e9df5e62-d1a6-11f1-b1a2-a1c9218b1753": 1793065523.9823225,
 "France 24|eb58d85a-cc91-11f1-b115-11a79f3a0219": 1792932324.948729,
 "France 24|ec838df6-c0c0-11f1-8e40-d76f611e433d": 1793071833.365202,
+"France 24|ed310e4c-d1f3-11f1-b412-57b309f414ba": 1793100633.0510104,
 "France 24|edc47fb6-d1cf-11f1-8d7b-3b0ecbc3576b": 1793084438.571977,
 "France 24|f096e032-d132-11f1-82a4-fdebef7242c6": 1793016926.187019,
 "France 24|f47614f0-d1b1-11f1-971b-4b711682a279": 1793070041.9295363,
