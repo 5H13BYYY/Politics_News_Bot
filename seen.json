@@ -464,13 +464,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenc5OTE4MU1XbDVVR0tPUkV1VGlDcWYxcXp5cS15el93R3Jkci1peWRfNHJJc0FwdklCb1gtN1psUFRaT1pxbVBWNXNrbDE0YkllOG15amJGaXVzNzNFS19UNmlDUUVLWjRqTUFlMnVpWU52OVRudnFWeGlVMkZnSDJpaDgzRXlSX1VYeTY1TVJnZmJxSUp2UDBwSzhscm8?oc=5",
-"src": "CNN",
-"title": "Bolsonaro rejects results of presidential election",
-"ts": 1793000700.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iOVJRUS1kM1pHc1BlSWtYV1FUOEZVVGlnSk1jTDVJVDVVd0tyQWpNZC1iSzdDd1RsaGpsM05KU2YzZENIRFZGeEpROElLbXhC?oc=5",
 "src": "CNN",
 "title": "REGN Stock Quote Price and Forecast",
@@ -4493,6 +4486,34 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Edouard Philippe estime que « l’échec de l’intégration » depuis « plusieurs décennies est incontestable »",
 "ts": 1793129062.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "MPs and MSP detained by Israel and barred from entering West Bank",
+"ts": 1793118884.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUU1F3MUFMZVdQVTVrcHVIWVdIaTZuU0NqTzVXZlBWR19ENlhpVnNsOHBIa3ZEWUt5RzJnWG1SSnZlVkMyR0pqaFpaWHhPY2U0NU92aFh1OU55ZVBRSGR4ZDFJRXpkbFU5LTZN?oc=5",
+"src": "CNN",
+"title": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through new DNA testing, prosecutor says",
+"ts": 1793125722.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+"ts": 1793130065.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu",
+"src": "France 24",
+"title": "Élections en Israël : Eisenkot peut-il battre Netanyahu ?",
+"ts": 1793130138.0
 }
 ],
 "seen": {
@@ -4513,6 +4534,8 @@
 "BBC|https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6x29g1nlr51o#0": 1793126729.8237443,
 "BBC|https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#0": 1793130325.6428828,
+"BBC|https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#3": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/c6y93pz494zzo#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#1": 1793097929.898054,
@@ -4557,6 +4580,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#1": 1793126729.8237443,
 "BBC|https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#0": 1793097929.898054,
+"BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#1": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/cqx28yp532r0o#1": 1792912031.9234908,
@@ -4706,6 +4730,7 @@
 "CNN|CBMia0FVX3lxTE5tOUtsckc0UjJWSmszOGxSZmxuVmZpN1B2Ni1qOUZZbWJhN3dORzhIMXlEQ3h3MXJVdkFjOVZ5VzJXa1l1V1BPSWpGRkNsbkZfZWpQelU1UU5wQVhHUlV0TmxaLUpXTVZjd1pV": 1793011025.7552662,
 "CNN|CBMia0FVX3lxTE9SaDV3R05nMDBuMDduMTZmZjFDREcxM2FieENUWHFlSUpuaGZGcEJnQkVseEdlSGpfSHg1UWdjbEpnSFdQQ2hDWi1aY1dMV0pVUjJ5RzliRDNtTElsSFlFU1BhNUVHMFpJN0hj": 1792926928.3475087,
 "CNN|CBMia0FVX3lxTE9VQ0lxdlVpT3hZcUF1TG0yMzFaQVBuVF85QUJ4R3hNU0tyVDBfVk10RW1GSUpyRGI2TEVoR3ViTF9RaEdzMThpeURxYzc2alpuSEc2MUc1VTRxZmxuVVRqeGNOVDNrdEdlWTk0": 1793025933.3217628,
+"CNN|CBMia0FVX3lxTFBUU1F3MUFMZVdQVTVrcHVIWVdIaTZuU0NqTzVXZlBWR19ENlhpVnNsOHBIa3ZEWUt5RzJnWG1SSnZlVkMyR0pqaFpaWHhPY2U0NU92aFh1OU55ZVBRSGR4ZDFJRXpkbFU5LTZN": 1793130325.6428828,
 "CNN|CBMia0FVX3lxTFBfN21CNVhPT3ZLaWNUWVJwalNtMzZ4YUtYOVRUVlBnakt1S3pJYjJqMXQycWtvVXRjanZWUnJQR0ZXbUI2eGFtQm1aajBJU1NvWHptY0tib1JWcHZ4MXlnVXFSZEVES29ocE84": 1793029529.2200255,
 "CNN|CBMia0FVX3lxTFBmRUtDTFhGMDB5dUl4RFRNeTNzaEZmc0Z3amJjajhFSlBYWjFiRHdfRFktSXZ0bTRBMWc2eEtvUWpTaUxvQ2FLMG43T0tIUnhwczJweXphOG9uTmo2aWdxMkRiVGFZZlVBNWlV": 1792965505.8590639,
 "CNN|CBMiaEFVX3lxTE1HMXBya2M4aWl5LWZrSEJrckt5TFotWjc5eGE1R0JvLUd6ODJLZjVmNDN2LWhKT3pVbC16QjJvenljS3h1UHVPdjhHUWtTNXBNTlRPQ1pTWkZNRUxvRFF3Wlk1SU1ZWmU0": 1793043926.9561915,
@@ -5307,6 +5332,7 @@
 "France 24|bb5acfda-d143-11f1-bb3d-b3dd05920e82": 1793025933.3217628,
 "France 24|bdede502-cfbd-11f1-a5f8-6574028a4c26": 1792912031.9234908,
 "France 24|c18e41aa-d05a-11f1-aaae-737311f062d3": 1792925608.8006206,
+"France 24|c1db280e-d22f-11f1-a2c2-ef427e66814b": 1793130325.6428828,
 "France 24|c2516408-cfd5-11f1-8677-91ddfade98a5": 1792912031.9234908,
 "France 24|c2da60d2-d129-11f1-a70f-ada31f8d4137": 1793017836.5340102,
 "France 24|c475c4a6-d203-11f1-b5db-498c5e958852": 1793109642.2235074,
@@ -5967,6 +5993,7 @@
 "Reuters|CBMizAFBVV95cUxORlYwOVl3Z1hlOFdacWVmeXZVNnVhejFlWDVOR0toczJ2MWNjT1FMRWZjVU0xd1hGaGtzNU9VcGdYSnR1Z2NVQjFfRVpKallEcEVuTzNweldmeEdYOE05UXFOejl1ekR1ZjlxUlhHT1NLa3J0cmZYWUxhSEs2eXNGb2xNNUJycVNWci1ZVzZUOXBSNGc0bzRJNWVTTnVlWHhXRlBrLWRTOV9HbmlJTmVfZk95N0FIQnBLQTlTa3N3eFBaVDJMWGptVU1VN3A": 1792999837.110346,
 "Reuters|CBMizAFBVV95cUxOVDBOLWdoYWtRbUpHWjYtVWRWMjVHc3BEQmNLNzdxMDJZQ2xYYk9UbHlFVVQ2Vm9rU2dlOG5UZlJUTVMtYnBSVWJ1YkN4QmN0ejFxMzZ0dld6U1VEdFF0V0tZNGhSR0l2cHpRVWZPanAxeXRXUzhwZWdnRVJ6T3NVS0hxdVUwYmw2a25VOFN1XzFRYnBLWmZncGpXRE42QUZ5VE5KdFN5WUFvY2pDSzU2VDNQdUQ2VWI3LUprTjJudjRQSGpOdnZXbm81SUE": 1793010634.9602375,
 "Reuters|CBMizAFBVV95cUxOY1hiUmpaa05TYWY4SWVDb2MycUdZMFJFSHR4YmFOWF9Mc2tFNFJQcHU2V255ZVBKdlViNm90ZXp2NEVkV3lmbzVZZ1VpdlpoQmVCTWVCNUk4STdxR1pSSHlOenloRV9FS3pqMzJkdXIxRzNxZlo4am0zbXFsVHBiS3Ywd0RKT25vZThQS0lDZWsyWGUzN0tvUnRXUHpLM0Njd2l5cFB5QnQwMGkwZlFpWmxOTzMwWUJSX3BMMDlvVGQweHlBTDRnU1BNdDk": 1793070041.9295363,
+"Reuters|CBMizwFBVV95cUxNNk5kTUY3UU1LZm51SGJpZy0wMHJabjV4RzdqcXBFR25wTkJGNkpZNW5jNnUtd3hKZ3pNdjNxT2JtZ1c5MHptOVZvTmF1YzZjNGRHNElOdWowcl9DcG44cl9Cc1lLNVp6M3lMYVBBckN0NVZMMW0teTd0NjkwTFI2dV9yX0IwZkE2N2tHRzViMUhEVEhxV1o3R1JyRWs5dlBjUlltSjlpYkFUTXlLaVl0OEZYcHhKbHFzNzlhV0JGR0ZyTWdmOFE1NUpvMFRZQjA": 1793130325.6428828,
 "Reuters|CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE": 1792951239.9601731,
 "Reuters|CBMizwFBVV95cUxNbGVzelluUlRtODRKTG5wazVoU01tTjQ5bkZxZGI2TWpkTDNSc01XZEJaQTJlaE1EREtyZ0lqR2RieHZZcWVHcUk3T0RMNTY2SkwzYmhLY0I3aFZhV3RVbEwtakpyYm1tZHpfMlU2VVBIa0RTRGNLVTZRUVRsajJBdkhybVd6Q2tldlAtZGVBT1lWUUxrN2c4eXlfN1FiRWZYZlpjUmEzd1lKVGlQbjRFSkpPOUstSFpabzNjRnhIeDFnWHNZYmRYWHpYN3Q1SUk": 1793096132.326827,
 "Reuters|CBMizwFBVV95cUxOWkFzTTI0b0otQXlyRGllcFhzUTY0c1RJcUJCX2R6aF9UUUt5VXd2UzFwdlBsN21ld1Y0Q05uWEFEMlhJbWtDTDFrTU80MjBCR2RLbzRtUlNaMDExYkJfYllhNXk3bVJCamxXM3p5ZEIwOHduMEQ5aTFDV1o5d0VIOVFqeWo0bGUzdWE0b2dCTUNZR2NoNlVHSUtJTEhkUlhxeUtJM3lKWnNsdmNuTTl3bHFPVWh3Q183NlR0NFNjaTI1V25KMmNYdTQtczlaNkk": 1793016042.671506,
