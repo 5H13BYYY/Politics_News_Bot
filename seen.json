@@ -9,38 +9,10 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-au-br%C3%A9sil-159-millions-d-%C3%A9lecteurs-appel%C3%A9s-%C3%A0-trancher-un-scrutin-pr%C3%A9sidentiel-ind%C3%A9cis",
-"src": "France 24",
-"title": "Au Brésil, 159 millions d’électeurs appelés à trancher un scrutin présidentiel indécis",
-"ts": 1792938942.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-barack-obama-en-campagne-pour-les-d%C3%A9mocrates",
-"src": "France 24",
-"title": "Midterms 2026 : Barack Obama en campagne pour les Démocrates",
-"ts": 1792939046.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261025-pr%C3%A9sidentielle-au-br%C3%A9sil-la-d%C3%A9forestation-un-enjeu-majeur-peu-%C3%A9voqu%C3%A9-dans-la-campagne",
-"src": "France 24",
-"title": "Présidentielle au Brésil : la déforestation, un enjeu majeur peu évoqué dans la campagne",
-"ts": 1792939472.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261025-%C3%A0-aubervilliers-une-marche-blanche-en-m%C3%A9moire-de-pengo-bossio-wangi-jeune-espoir-du-mma",
 "src": "France 24",
 "title": "À Aubervilliers, une marche blanche en mémoire de Pengo Bossio Wangi, jeune espoir du MMA",
 "ts": 1792939578.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGZLWEJxOTZIdTA3ZjBIWU4wdjdHdnpqTGF3aUpNWXB3ZDF4RWZFeXlNTjlYRjhUSml6RXJ3MzNPTW9VSExOcmZXbXlxbnprRS1MVFZDZXNHZC0yRkx6Nlk0RGlpRzcwa0hkMjJTVWczdnVaLTZud3BwYVdienNWWmdoUUI1S1U?oc=5",
-"src": "CNN",
-"title": "Rep. Haley Stevens sidesteps whether she still supports El-Sayed, criticizes outreach to Black voters",
-"ts": 1792939331.0
 },
 {
 "lang": "en",
@@ -118,13 +90,6 @@
 "src": "CNN",
 "title": "Opposition leader Machado returns to Venezuela from exile",
 "ts": 1792943406.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qY052bGhVRWhRV2RreGFzVlVKUlV3NUN1SkI1a2RIVlV6eUJteUxOS2NZQVdxZGc2MnZxOU8tMDdZc1M1bFZjZ1lIajR3RVFLc1Nob2JFTXZ6eUM2VjRJMVB4cnI?oc=5",
-"src": "CNN",
-"title": "Sitemap - October 2026",
-"ts": 1792938973.0
 },
 {
 "lang": "fr",
@@ -3856,6 +3821,20 @@
 "src": "CNN",
 "title": "‘Shove that ballroom up your a**’: protester interrupts Trump rally",
 "ts": 1793067840.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXdPYTNLTkxocFVWR3ZKdU1mazFmMGJYZWdzUFRzR2pfZXJkdVVGLXhsd1I2ZWJyUXNTZ3hZMmxGVGVRdnBkaVRxQXNfeGNTTmNKUjZyN2pKSzlkaldlNi1nbnJOenNMaDBLLW9lOFhnb29SWjh1andEZ05ZTXNkOGFsdjltUlJXYTBaN3JRUG4tUnV0UlVOcW9HTXl2WWxIYUE?oc=5",
+"src": "CNN",
+"title": "Passengers capture cruise ship colliding with container ships",
+"ts": 1793059020.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnZKUHhtb3cycWlGOHZseGhZZDNMVTlzQ3FpekxIdTN2NzdfYWxJUVp2RTZPalF5YlF0MGV6Rlp1MVhXVmdQU2pEdzVGYzA2cU9nNVplWEJURFp6S1NXbkdtX1R0Vm51ZTBlRkZXSjFDOTc3TExtQ1ZrUlBIRE1GUDRzdmNGU0EzU2xmUjJaWlhQOGZmNlE0WVZZeGhMT0dZdWh3cWhucEhlc3hUMjZuWmF6OFV5QktqZmpJZg?oc=5",
+"src": "CNN",
+"title": "'Everything is worse': Trump's promises not enough in Nevada as voters drown in rising costs",
+"ts": 1793062529.0
 }
 ],
 "seen": {
@@ -4330,6 +4309,7 @@
 "CNN|CBMioAFBVV95cUxQcW5Id0E0UXFMNTR1LW80dVdSVkYyUVpwT09CZGlWaDR4S1pHZEZkWVRLT2N4eWF0VG5FT2pMdlQ4dExJaHZPeXp1NE5Fa1daNWJQX3Z4TEliTVUyVURwVGJmU1B0RzFFTDRXUlh1YmdtcnBWQ2lwbHZzbmxram9KT2xYckp6R0JjUThFNE1jQUpndVZUcjEyR3M4Zkp0ZGNJ": 1793035835.324142,
 "CNN|CBMiogFBVV95cUxNQjN4WW0zWGxTay1NYXVsQ1pkVUx6LWdrdnlNVVhCMlAzOFN5UVNjZlY5RkRIekhvMjZjd255ZzM2VmJsS1N5aE1aeWt2eHJLTFZVOE1Fb2JHckwySG8tNkE1OV9zVU5QVzRsOFphREFMTVpOWWUzR0dLYkpkTk9BSlNLUTR4MGlqdlNRWTdqUHphcGp4ZklmUzRQNTA5QzA3Rnc": 1792927832.803806,
 "CNN|CBMiogFBVV95cUxNWldRajZ5djh4cHFyMHItS2x3QXdiZ3JjbDVmWTRGTFBIN0hvbkdoX3JyaGV0cXFvdHE5WVZOMmFHWkZmaV9OWU12VkFWaVhSck9iZ1N1TG1fWGpBQXltN1dNekg0enlwX0JYNFpjTldzcGlBbkh1VTdoWVhncW1aYnFLRUUzaENBNUFRRzFyV3VnNHJXTWIwVGVUcnBUT1cxWlE": 1793066439.9056492,
+"CNN|CBMiogFBVV95cUxPRXdPYTNLTkxocFVWR3ZKdU1mazFmMGJYZWdzUFRzR2pfZXJkdVVGLXhsd1I2ZWJyUXNTZ3hZMmxGVGVRdnBkaVRxQXNfeGNTTmNKUjZyN2pKSzlkaldlNi1nbnJOenNMaDBLLW9lOFhnb29SWjh1andEZ05ZTXNkOGFsdjltUlJXYTBaN3JRUG4tUnV0UlVOcW9HTXl2WWxIYUE": 1793069125.8839982,
 "CNN|CBMiowFBVV95cUxNdVFLOUdqczRsWXpNYmg1S0dtX0lOUWZBeVpOVjZFZUk0WTR4bnpVOVhYWkdhc0hLRDI1b3pNSlliQVFmWGlXVGdfOEpBQndRWmdaaEE3bDBaSzBCMFByS1VuXzdyUEFZcGtsUWxaY3pkREJsOWhlZmxqaHR4elgtV19CVHY3U0VTZXBDcmJxdmVtYUctNTZMRGFac0VzN3ZaZ1Fj": 1793003438.31473,
 "CNN|CBMiowFBVV95cUxPV3N0UG1jNmZXMHdzQl9DeFFKb2JIZENHMG5ERERNM19LTm9LTW5aaFNaNU0xMnk3QjUxYm5CLXZibGJGT2l5cF9mb1RfcGgtRnZzUlJOZmR5cFBjY0dqYnFzWXJteU5XQVZzZDVUMFZFb3ZmZkQ4aDF6R25XT0ozRHNLclZWeWpyVHlZcTUwcnEtNFpmRm42WXR3VmpVbXhMd1BZ": 1793038528.9639344,
 "CNN|CBMipAFBVV95cUxNU0NoaGtGZ2FXam4tX2RpZVBfdENoYWxRZUxDSzh0RFhMT3FHVmtzR1YzbU5FYUVKWkV0aW11RC1xZGtlSHhsV3BVYXBiVFpqWjhVSVVvTkphV1F4YlM1OXpqQ09nS0loZ2MwRVBldWk0UV9EekduS3U0TnYyMlRjMFZkUnhlS21iQk1lbTdmaGQ5M0tBQkpkYjF3QTl1MDBkTVBOQg": 1792912921.1568482,
@@ -4378,6 +4358,7 @@
 "CNN|CBMiuwFBVV95cUxPUm15VFB4X1pvXzhqYTFTTVRtM0lfRUE3dnFGaEY5V1F3LWNrcFhiNUVjaGUwZFJJWi1tbEdwSHFLQVRsSHppeEpLSXB4WXIzbmR3WVVnaFhubEdJRjlOSG5xRy1ybVd1UEkzVjZ3Um40X1ItOGJtWldRc1BPR0ZoNXlDUUZVR3pFeHdjeVRmV1VtZzdBR0puendENS1nd19QdngzYkMyZ1FUVGtTNTRUUHJuWXg2VnU5Nnkw": 1792984525.7398882,
 "CNN|CBMiuwFBVV95cUxQNDhaQ3JpNGNjeEFhRkVZc3R2M3VDbThoYWluUmJjY2xjNHZsSEc2RG1mZVI0TkViNGwxZmhva0ZmellpMmhSaUJ1SGFBUmVHRl9JZ2duT3RzTXlSY3kyOVh4bDg2NE00dEFpTndxeTk2TzF5YXRmaVg1cEh5UmowUVlhU2xURVpiNGRQbmt3Q2U1aTY0SF8zMTJWWnRHQnE1b19jdkd4NkFhM3RhcGhTMUJGTWFtdVJWWEJR": 1793023247.452176,
 "CNN|CBMivAFBVV95cUxNVmIyRVpMMjJ6MWpnSmFaZndaWTg3WGRmUW1JWHB5Rm1Td1ZjX2hQTEVFdk1rZElqZDhhZFQtbjJ5aDQxZG9nUlNybkRyekZwMVc2cjZYSjlPRlFycHVtSHIwWFB5Um9OemNYY0R6dzkzM2VaM05XSEVWbE42X05zQnF2RFo3OXE1NG9NNFduRXVfdnRxQnlySWx2aDhpUGM2N1MwQTYzRjZmdUpTQ1F1MGVRUmtIMUN3cF9CVw": 1793012440.9427726,
+"CNN|CBMivAFBVV95cUxNZnZKUHhtb3cycWlGOHZseGhZZDNMVTlzQ3FpekxIdTN2NzdfYWxJUVp2RTZPalF5YlF0MGV6Rlp1MVhXVmdQU2pEdzVGYzA2cU9nNVplWEJURFp6S1NXbkdtX1R0Vm51ZTBlRkZXSjFDOTc3TExtQ1ZrUlBIRE1GUDRzdmNGU0EzU2xmUjJaWlhQOGZmNlE0WVZZeGhMT0dZdWh3cWhucEhlc3hUMjZuWmF6OFV5QktqZmpJZg": 1793069125.8839982,
 "CNN|CBMivAFBVV95cUxPUE1pYUU5OWZZQ2ZwbmcxSFNpTGFCQnRqbm10TGxFUG1ic2RiSjdsY2NyVHJOQUdDVU9FUjNKUTVsbXZyOFFmRWhYcjEwUHE5YnV0Uk5FU0pZdThWVTF2NFE1eGtDR1VOVkd3R0RuR05SZ3NkQWV0c3l1UkI0YjhvTE1VSlk4X3Rkd0dhSnNOeks4V0hiamlFc2tNZHQ1eGVVSzdrYzhGaUtPdXZjNkFZeE14SUlkOTNjWER3ZQ": 1792925608.8006206,
 "CNN|CBMivAFBVV95cUxPUkhCM2RiQlpPUEZCNDFjN01qbDRJWTRBYlpBZ3dlMjVxNnVmNFFjSXRyTzR6MFNXVnJBZW5hd1Z2Y1lNOXpDNHdDQVhKLUpGY2NNX3JuTmRsX0pqNHF6d1NGZk91c3RTX3huRG5hMi1qaGxvR0lSblNpUS1odzIxVW1qQzJqOVp5c3ZnbVZxSFNsaVBIM01HanRhMGtVQU9IU0Yzb2ZZaDRob0duMHBfcFdrVFc2anlNNUNfcQ": 1793052036.5986388,
 "CNN|CBMivAFBVV95cUxQZDEyaVM2X0laSmJhMG5VcnI0R2M4Z2JvNmN2ZENJOWloaXRfZXZIV05fWFV5LWNTX096MHJzcldyOEgteE1mb0NPQjhSSkVoZFpCbDNST0V6X0pBLWFNd1pKQm1ZUWo0dzI1dF9TQmtoSFV2Q2tseDFIWG5pVmdXOE5aOFc2MzNXRzZiMG1qN2RYZklJZklSR0lmZ2FTVGFPbElia0lkelRwMlZMMFhCQTdfVjk3ZVlHc3N1RA": 1793059244.7564826,
