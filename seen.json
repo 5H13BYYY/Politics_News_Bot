@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHhmclVEd2h0UmZvT3JkRTNya2hGdk5OOWgyc3NUZzloWXplMWpncXZNVWNDdFhSdE81RWs2WG5SakFVMFVwVFQ4ZGdMeHNGQ1JpX0dpdndVSkdXYzVNWTNEb01mRkhNbnEtV3VsbnlDMjc1dkMxM0lvdzFSTDktVlIxUEdaeU1mV2JRTXlKOE10UWEwX0I5cnJnQlU2T3B6YXJqYk9OdDV5MlZHVWhnVm5ueUpKRk9pZnVENXJWV1hYZTJDTUtz?oc=5",
-"src": "Reuters",
-"title": "Yasuo Fukuda, Japan's first second-generation prime minister, dies at 90, Nikkei reports",
-"ts": 1792992360.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN21lek9ZN3ZlenRqY1hDREg0OUhFQXBwcUw4Z0xrU0lKdHJhdk1IX1ZQcmxPYTdSNl9FbU9HeWFfLUg5Z01Pd0VqNlJjWWpfSnVNbWxycmhHbXV0VXB0OXhiZExYOEJyeERZR09ORmt5dWZaOEFMZnFMaGNob2ctbEgxWDNxQThCeTQ0Rkp5LTBxOGNyUTRKSm9xR2RvT2JMbUVrNklFblIxcUtIbmF0RF9RckRIdw?oc=5",
 "src": "CNN",
 "title": "‘I’ll be Sen. Mohammed to you, bro’: El-Sayed responds to Trump",
@@ -4395,6 +4388,34 @@
 "src": "France 24",
 "title": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
 "ts": 1793120702.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rek1xSThQYkp5N2ZqY0VDRkY1WHE4NzNESF9lZXQyVzA5U3pmdGNpZlM0a25JTVRlOWdBN0ktUXN5Q2xZa0NqRnRIVm1LV3NhR1VyVXZ0b2x6TnVfTkc3NGRwNng2cFU?oc=5",
+"src": "Reuters",
+"title": "Can we clone you? Brands are getting models to sign away their AI rights",
+"ts": 1793110820.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaHNLckswSmxNTnh5Mms4a0hSSm95aFd3Yld1d1hwd2RwS3ZPdEpoSE5hQ21PWWhZYzNveVhuQVd2cF9rcHVFa0xXQ3R4blJWMUEzZzFlSVl3ZjFLSTY0V0w5U0M3dWZJODk4VkVOM3BwdGEybWRj?oc=5",
+"src": "CNN",
+"title": "Susan Saint James, Emmy-winning actor of ‘McMillan & Wife’ and ‘Kate & Allie,’ dies at 80",
+"ts": 1793118729.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html",
+"src": "Le Monde Politique",
+"title": "Municipales annulées à Tournefeuille : une nouvelle élection se tiendra le 6 décembre",
+"ts": 1793121357.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
+"src": "France 24",
+"title": "Brésil : les passeports de Flavio Bolsonaro annulés, l'Argentine nie toute fuite par son territoire",
+"ts": 1793121934.0
 }
 ],
 "seen": {
@@ -4683,6 +4704,7 @@
 "CNN|CBMid0FVX3lxTE9XVFgwM0tscE9PamVTTEdObTRkbzIwWk40WTh1ZDR1TURPblQ5QTRQMEtad3o2VktBZmRqODJVN09jMWlOZGplVHJHbWtFSzlNOEdxbVduYTc0TV9rQ2xXZGlzQmQzSC1aNWFPemw1cU1xZzZYVHFN": 1793011025.7552662,
 "CNN|CBMid0FVX3lxTFBBdGVhcEx0a0dsa3U2TUdaNmdrc2RMYXAxQjRFLVJGUXZRYnpMYmJBdFlIQ3ItUXljbHBoOGN6OU1RTFVsT215RFcxaDJrT0p2MEFHOGtjdlM2MFl5SnhHVXRnRldBaU8wRE1mUXdMNFFaWHlvY2VJ": 1792912921.1568482,
 "CNN|CBMid0FVX3lxTFBKQXJTZld6S3dEX2JjQmF1ZFNEUFM2d3BmYUpJbl90c1VHc0hIWHBqQkl1UTFNREtLRFZLa3F5Uk8tUXU3UUloTFNPbTVUcDItRDdJNmRFQW52LU9IbmxqSm1FSlYxRzNEN2RzQnFEeWlkelZhR3Zz": 1793049327.1593454,
+"CNN|CBMid0FVX3lxTFBjaHNLckswSmxNTnh5Mms4a0hSSm95aFd3Yld1d1hwd2RwS3ZPdEpoSE5hQ21PWWhZYzNveVhuQVd2cF9rcHVFa0xXQ3R4blJWMUEzZzFlSVl3ZjFLSTY0V0w5U0M3dWZJODk4VkVOM3BwdGEybWRj": 1793122233.7589803,
 "CNN|CBMid0FVX3lxTFBza2QxNFoyWmFrS01XUFNGR2E0NVVYOGhTSTdzYkxVaXM0cUdWc1BCaEVjWFdLNUw0eDJENzRwVnBmUkMxUEh3Y0ZkQktzeEJrWUs4QUVXTmhFRWp0a1ktTExrZXZrNGZlQmZCTWR1M2hOSGZBT0JN": 1793048443.460441,
 "CNN|CBMidEFVX3lxTE12Mk8zVFlVQkFlVERxamxSc1lYQjF0ZFBCWGxlc2JEYnVYdUJIVDF0NUlfNHdVRnBWQ3Q3YVZGbTZCaTJlUmFLeW81UVZnUXh2TWFBanU4Uk95R05zSFRSWFlUdU1OenlsNEt2S2JqLV8xaVhO": 1792912921.1568482,
 "CNN|CBMidEFVX3lxTE5qc2dWRDE3M2pWLTJRUm14bUw5Mm80bEJxUEF1cjdRTUNBV0dQT25Da3diTWh5UE1hNFhUUGt3MmZtX2FSWXR0NDliNktOV3RjWTItQjZYaEFaRU5HdGp1WUkzOXRrdDJ3SXhmTU53QUd0cjlT": 1793027622.2548203,
@@ -5095,6 +5117,7 @@
 "France 24|519dc540-d128-11f1-8b5d-fb324aff572b": 1793013327.7299454,
 "France 24|5243795c-cff4-11f1-a899-3307b3a9ac94": 1792912031.9234908,
 "France 24|53a1ae58-d185-11f1-9c26-810263df5b50": 1793057433.9306796,
+"France 24|546dc978-d222-11f1-9217-9555626c88b7": 1793122233.7589803,
 "France 24|54bfb542-d134-11f1-a39b-152ba4980d02": 1793019644.3332078,
 "France 24|5513bbaa-d1cb-11f1-a43c-a31756d78017": 1793081728.104506,
 "France 24|56b1ce18-cfd5-11f1-ba05-db6a9992a249": 1792912031.9234908,
@@ -5302,6 +5325,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html": 1793102444.1008482,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisation-lyceenne-et-etudiante-il-faut-reprendre-le-travail-exhorte-le-ministre-de-l-enseignement-superieur_6801224_823448.html": 1793097929.898054,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html": 1793122233.7589803,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
@@ -5385,6 +5409,7 @@
 "Reuters|CBMiZ0FVX3lxTE5hdjVCYW1OdnZlMXh5MC1pT3c0SjZnMGN0Q1N1U0VMWmJYRnF5a2t0Y05JYzJIaWZZM3ViUHlLVHJSNFdJVWlHdDBTUGF1cHpudGFmaDB1OFBsYlpObWVmeW9jb3NIX1E": 1793059244.7564826,
 "Reuters|CBMiZ0FVX3lxTE5kS2l6QkJkUVQ5b1lYc2hLWkE3eHJib3MtaVhoaUZZeXdEU0U5QWNnMm15U05UUTJSYXNWWUZTaF94aVhPQXVxWGJobzd5ZGc5RmpnZzVaZ2xWWndtNWswT3Q5dkxtdVE": 1793117726.0329168,
 "Reuters|CBMiZ0FVX3lxTE5ncjRIalFiTDFpME9LMjM1WVhyWjhpZnBlbHdRUHNaVzdHRjBoa3hjM0tfLXNDUlU4ajc1TVlxSENOT3BnMVlTNTJHZjZBS0F0Nm96OXFPTDl0cnBaQVZrdDZCc3huTFk": 1792946894.72391,
+"Reuters|CBMiZ0FVX3lxTE5rek1xSThQYkp5N2ZqY0VDRkY1WHE4NzNESF9lZXQyVzA5U3pmdGNpZlM0a25JTVRlOWdBN0ktUXN5Q2xZa0NqRnRIVm1LV3NhR1VyVXZ0b2x6TnVfTkc3NGRwNng2cFU": 1793122233.7589803,
 "Reuters|CBMiZ0FVX3lxTE5sMzVheW9IUlRiYUo4blpyZXVSdjJHcmMwYWxINWdPZzNhd1NVeU1ZNDc0ZEdISlVUSHA1SmhidndFNHhVMjI2Q00yNG84X1RoSXV5SkNWdmMwa3JvbHhBdnktZE1NWEE": 1793054725.2944863,
 "Reuters|CBMiZ0FVX3lxTE5sQmdHZ2wwVXg2Q19oX0hsaW4yVHo0YzVLVVNIUHdhWUlRR0F1emNfNlhUZ1dndTJHR2RJalF1RFFnZGZIVnF6UXlsZlZWbHV6NnozdE9Td3FoV2RTWTZOVDFEWjQzUjQ": 1792986327.7948549,
 "Reuters|CBMiZ0FVX3lxTE5tYjAzcjUxWk9vUi11dG5Nd1A2VjY2d1RnRzh2OXM5Y281OWdkZTZRcEk0VFcwU2JxYWYxMTZITUtvazhmQWpFQTdyQXB6eDhKNE93VGRVdmZCcHFlMkY4NXF0UG5ERzQ": 1792958440.360454,
