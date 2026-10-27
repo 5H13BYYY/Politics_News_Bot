@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGlfSUE1OGh0RVkyYTFKNElvU1Z6TDFVQnk5TVBpekNsb3hyZlVEUVdNcm90OTNrSzhNUHVSYWVtTDZiQ1VRSEZwQlJGZDg4cERoZ3BKc0ltZkE4dHltT2VjLXVWQ1AtRmc3ZDdweDVzSHdrempla21LTDh3OVBMVVlQZndVck1fazZUemVfR0kybnpkb3ZacDRfQQ?oc=5",
-"src": "Reuters",
-"title": "PODCAST: France protests, Texas Senate race and West Bank olives",
-"ts": 1792937433.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html",
-"src": "Le Monde Politique",
-"title": "Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants",
-"ts": 1792937498.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56MzR3U0oyd0o0dU9FZ3ZhY3djQm1USVowUHJTS2Z5S2ZMc1JGVTdQVG5UY201WUFOTVRpaXpRMDR1bE45bGdrNnhLUU9jRUdhQXdyUDdrbTB0RHozXzlVNGtkdnFRTXhtcWdQQ2ltSVRlYlNBLWc?oc=5",
-"src": "CNN",
-"title": "Shapiro says President Trump is trying to 'silence the voices of Americans' because he has a 'sense of his own popularity'",
-"ts": 1792937595.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261025-au-br%C3%A9sil-159-millions-d-%C3%A9lecteurs-appel%C3%A9s-%C3%A0-trancher-un-scrutin-pr%C3%A9sidentiel-ind%C3%A9cis",
 "src": "France 24",
@@ -41,13 +20,6 @@
 "src": "France 24",
 "title": "Midterms 2026 : Barack Obama en campagne pour les Démocrates",
 "ts": 1792939046.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wM0o3cXVoeFlHUnktcTFhMlpybTNYZjY1ZWlVeURtOVl3VHFnbV9kcUw2QTNlNEJMbDdSWE91MWt6RUZiRDdwbVk5a0o4TXRnRHBoN095THY4cEVFMUhiMjNkeVhoRUZNVHBjcmFuRmRBWWtRbmc?oc=5",
-"src": "CNN",
-"title": "‘What’s the crime?’: Bash presses Blanche over Alaska election lawsuit",
-"ts": 1792937137.0
 },
 {
 "lang": "en",
@@ -363,13 +335,6 @@
 "src": "France 24",
 "title": "Marine Le Pen lance sa campagne pour l'élection présidentielle à Orléans",
 "ts": 1792955495.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zby10THUtS3Y5b2xZZDJFLVFHWF96R2c1cFpMOFRCUjVpVklNNXVJaGNVSzlHaXZ3ZFI0QXAwb05ualFQVjc0RVBRSWtjYjVPT3FxMVRjNkdPbzI1aUZKLVdVSzhWMWdPRV9nSUlEdkhzeE9kRGxfU2RjNA?oc=5",
-"src": "CNN",
-"title": "Shapiro says President Trump is trying to 'silence the voices of Americans' because he has a 'sense of his own popularity'",
-"ts": 1792937595.0
 },
 {
 "lang": "en",
@@ -3870,6 +3835,13 @@
 "src": "CNN",
 "title": "Trump Escalates Anti-Muslim Attacks on El-Sayed",
 "ts": 1793065847.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3hXVlRxZzlobW1fWllZbW1CUEFRYldySkNtNExQM3pwdTlKMU5Xd3BKZFVkc3lyMGlKNHFIMmlEYVdWZ0hlTVZjMWlncUtOOFdxZjZYS2JxbU9ZU2FvcDdoUXNFTlBUOGhhclpFbmZyMXNhd3NOeHUwQmRFZ3B3QVgtWFdMbHRaYW1faGZMT2VQMWJLYklSOFhBS0R0OWVjNm1oZHlsNzZ4QQ?oc=5",
+"src": "CNN",
+"title": "Manhunt underway after convicted murderer escapes through Tennessee prison’s fence and flees in stolen truck, officials say",
+"ts": 1793065854.0
 }
 ],
 "seen": {
@@ -4355,6 +4327,7 @@
 "CNN|CBMipwJBVV95cUxORUdtREN2bWdIb016enBfakhMZVNrVDQ5cHhPeHM5M0xXS1RxTEpjSm90T0ZQTldfYlZRdVNOa3NDVktoZzJRNGZ3MEVDU01QODRGYUdKWlhTNC1iRGQ0T19RcE9WdWtrcDUyM1VNOXVQejNVTE5ja0RQZFhMRW5qc1RUVjZrRVVmTUJRaWUweWM1dUhIZXVXMHRGdF9kZHVRY3F6N05ZSGYzenM0dEU3MEwzV2xRbnMtLWRLRnZXdnhRcERES2Jla25JZWxRbGwtVkhTdkQ2NVJiZXRiaThLZDVBS1pzYVBwamtTUnU5czItbWFyVjh5R01KWDc1NXB1VzFFLWt4dzRQVXkzZkJUdUZFVFJRUjdZMUE0Wl9aQW10bzBfUEpB": 1792998039.3769457,
 "CNN|CBMiqAFBVV95cUxNVnBDYTIyczdmMFR1T29XXzF1d1pVT3pqV3JxRUppUmJ0ZVZ2Vl9NWk5OUXByUmtwZXJidVdWRnpBOF9paWhDa21tRHRWMzZLNE1MSjBldTJoMDE5VTJiR3BOUmZBREQtazBiU1lQSXVUSnlpYkpjd3BBNGpDQTBySmJVNFZza0J2QzdhVk1iSVVuR3ZYaG01NjFXd2pNalZVWGFyYl9wcUw": 1793065523.9823225,
 "CNN|CBMiqAFBVV95cUxQUzFwcmN1emNyMGZ2aHZaVzg0dmhFVE1lNTRMYW5HNENOUUdhalMybDR0WEJMMXZjajBKSTB0X3RVTTRkTmo0SkZabUtBRlUwWjNSLWlObGVhQW9UNzEtMThWaThSbWNFbjdEeVZSdHRoNWFBSUlIMkJVRmhUVEN6TnVoZzc3UC1TMWE5X0N5YV9MZkZzOHppLWZ4QTk5YzE5WXFoZGd0OUY": 1793043032.0944161,
+"CNN|CBMiqgFBVV95cUxOM3hXVlRxZzlobW1fWllZbW1CUEFRYldySkNtNExQM3pwdTlKMU5Xd3BKZFVkc3lyMGlKNHFIMmlEYVdWZ0hlTVZjMWlncUtOOFdxZjZYS2JxbU9ZU2FvcDdoUXNFTlBUOGhhclpFbmZyMXNhd3NOeHUwQmRFZ3B3QVgtWFdMbHRaYW1faGZMT2VQMWJLYklSOFhBS0R0OWVjNm1oZHlsNzZ4QQ": 1793067328.2260787,
 "CNN|CBMiqgFBVV95cUxOa3NmOHh4OUpzNlZoVTQxS0JDVl9YYk5IbS01TVFNYldDalpoSWp6TGs3YVkzbkNaYzhieUYwQmhwVlNCb1BuSTVVQmdtamE0Rkt5ZXVSYW5laHRwMy0yc3V1NnNXcy1MeVdKY0tYNERIdEh6eldvUnNLUk11djZFMFl3X3dfdmxSU194aTdzODlNZ3JPZEV4ZjdrbzJHZ093aE9wMzNLV0FEZw": 1793062216.0282428,
 "CNN|CBMiqgFBVV95cUxPQ2tVLU1uNkpZRTdEV0h4RnpjWkpuMHczRGdjOFpPWEl2cXdxZ2daRUxtejE1Yjk4MXlfSWtZbFFwNVBEamlncUNfU1ItLTYxbkdFejBXNkNsTThUUEljX1V0QWJYeVRQM2U4M3RUTnRreXVrLVNFVjBiWEpmSXd2X1ZlczJnWWZlNVZOeUdtZFJCSlBrdG9QT1M3OGh4Y2hZTy1YS29KalZ4dw": 1793061926.1457267,
 "CNN|CBMiqgFBVV95cUxQeGJQblhENzZwNkZhQ2RNYXBxRE1hd0ZnUXRRMldFdVhsRzNDTWtCOGN6cDVwcVFIeHFLOWJLbmhLNWJhcFItMkNtQUZHWXJoMXJKUTR5TFdGMGhraUJLYmF3UDBsbnR6NGRCOGpobFRHeFBtUElBb1V1eUxsanhQbnlnbHZrTElTUV9weE1zVl9xRGR4Zk82MnRzTVA2WFU0bGVzTWF1QURVQQ": 1793016926.187019,
