@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalNNZ2dyQlE0OHJCazg3OHVjT0JpaXgwSVRLUFY0NGVHNjVDRERwWDBNX19hMnI3dmowNVphY0VDelBtcHJEQ24yQWhQMUtsaDVOQ1FJZlhWYmtKVG9XMzVDX0pkNjlGdTRjSGg5Rk9NUzV1Qk5GYzRUMmlaUHIyZDQzNlJuRS15a1E?oc=5",
-"src": "CNN",
-"title": "‘He can barely walk’: Russians tell how vulnerable men are being targeted and coerced into signing up",
-"ts": 1792990876.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU9qY2pZVjVWZkxlV2tBWkZETGhrR1hOWVdMbEQ5SXp4STVWMHpISmRxVnp0Q3dFUnFFdlpwMVBOV0E1RE9DWmxQSDhITlFsQTVibGkxczFNZGJKdHMydjhlMWNzSnJLc2NmS01JUmpjVXNvQVVUX3NRdTVQb1lGU3FvcXplNGE3TXIyOXJFX3V6WE9jMExTUkRKNmFkZzNkQ2VSekFsVmc3Zw?oc=5",
-"src": "Reuters",
-"title": "Insight: Down by the River Thames, a failure to build holds back Britain's growth",
-"ts": 1792990980.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFeVRySXItNGR6bDBfTmNQOEFyVGI1V29yeUp6eXlVOGFkVEhiUS1XSmUySE12S0s3ZHdIS0lZbG8wdk02UVVacEdtRW9UOEpjOU0wam9VaG9oRnFkTVJQaGpybEJFZ1BpTWVoX3RwbmRQbHpzanktRA?oc=5",
-"src": "Reuters",
-"title": "iPhone「デュオ」発売、アップル初の折り畳み式 ヒンジの耐久性や望遠レンズ非搭載など課題",
-"ts": 1792991168.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHhmclVEd2h0UmZvT3JkRTNya2hGdk5OOWgyc3NUZzloWXplMWpncXZNVWNDdFhSdE81RWs2WG5SakFVMFVwVFQ4ZGdMeHNGQ1JpX0dpdndVSkdXYzVNWTNEb01mRkhNbnEtV3VsbnlDMjc1dkMxM0lvdzFSTDktVlIxUEdaeU1mV2JRTXlKOE10UWEwX0I5cnJnQlU2T3B6YXJqYk9OdDV5MlZHVWhnVm5ueUpKRk9pZnVENXJWV1hYZTJDTUtz?oc=5",
 "src": "Reuters",
 "title": "Yasuo Fukuda, Japan's first second-generation prime minister, dies at 90, Nikkei reports",
@@ -64,13 +43,6 @@
 "ts": 1792994520.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWZfYnBPV3BLYUptRjI0ek1nOGItdmRNNFFPcXpjR0pBMkNMVDdvbEp4ZGFsSjFKM3lPVm5YNk91MVZJMkhrTDV2OGU1VVY2eTZzMklrOWVuMVFMekdTRkJGZXFLbzdTeVg2MC10UktvNXh6RExSMTJvZEJJSDVILVhhM1k4Y2RCaDNQTW9FS0xFeWdKLVRlLWVLdEJhNzc0T0tJN1Z3YXA0SWdzaUE?oc=5",
-"src": "Reuters",
-"title": "Breakingviews - COMMENTARY: Data centre's mea culpa is only least it could do",
-"ts": 1792990860.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261026-lula-r%C3%A9%C3%A9lu-pour-un-quatri%C3%A8me-mandat-un-revirement-historique",
 "src": "France 24",
@@ -83,13 +55,6 @@
 "src": "France 24",
 "title": "Le gouvernement promet ce lundi \"des réponses très concrètes\" à la mobilisation lycéenne",
 "ts": 1792997882.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOG45Znd0RG5rdVlrV1ZoLVNobFVBYlJWNVVOek9LYUtVS3BWcmc2Mms2QWRyYy1oc2dDTFJBQnRFakRWVVNEWGhMeElEVEp1T2NwdmduYjFTcGxhcTZCZEV2MVhwSmNjWEhWdXMxc2FiS3ZxSUlEN3VrSVJDUWs3LXJBSUxLeWZhc05hWjZmRQ?oc=5",
-"src": "CNN",
-"title": "‘He can barely walk’: Russians tell how vulnerable men are being targeted and coerced into signing up",
-"ts": 1792990876.0
 },
 {
 "lang": "en",
@@ -4423,6 +4388,13 @@
 "src": "Le Monde Politique",
 "title": "« La dimension prise par les émeutes du 17 octobre peut difficilement être attribuée à l’ultragauche »",
 "ts": 1793120422.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie",
+"src": "France 24",
+"title": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
+"ts": 1793120702.0
 }
 ],
 "seen": {
@@ -5095,6 +5067,7 @@
 "France 24|22453492-d081-11f1-87ab-b156efee61e0": 1792940439.4304676,
 "France 24|22c420e2-d151-11f1-877d-67a0d7221302": 1793029529.2200255,
 "France 24|23588a7c-d12c-11f1-bbab-b7a4d70971b5": 1793017836.5340102,
+"France 24|28331558-d226-11f1-a4e4-51f2e6dc9b37": 1793121327.7241075,
 "France 24|2848480a-d15f-11f1-9a42-875642791a33": 1793038528.9639344,
 "France 24|29b48b5c-d1f7-11f1-95d8-d9f88df59b74": 1793102444.1008482,
 "France 24|2a256a5c-d134-11f1-98d6-55fb6792a609": 1793017836.5340102,
@@ -5110,6 +5083,7 @@
 "France 24|367310c2-d204-11f1-9cdd-9b6c1dac2983": 1793111437.85042,
 "France 24|38f4114e-d12c-11f1-8f8c-bde0c8c909ad": 1793113242.844439,
 "France 24|3a1221f4-d188-11f1-86f8-e9b56e2c765d": 1793054725.2944863,
+"France 24|3d3a1b74-d21a-11f1-ab3b-af49603895ea": 1793121327.7241075,
 "France 24|3f6fa420-d055-11f1-b914-910454473283": 1792925608.8006206,
 "France 24|3fc99f66-d0e6-11f1-bbf0-37a76c84a3e0": 1792997126.902378,
 "France 24|40c9e7ea-d122-11f1-97cb-1d736d91fa97": 1793010634.9602375,
@@ -5173,6 +5147,7 @@
 "France 24|882180a8-c876-11f1-a6a6-4ba086e41259": 1792925608.8006206,
 "France 24|897bb202-d159-11f1-a3b6-1da06aeafcfd": 1793034044.801758,
 "France 24|89cb71a4-d1f2-11f1-a3c5-fb04ba085a26": 1793102444.1008482,
+"France 24|8a9af6ac-d226-11f1-889e-effdbd0bfcd9": 1793121327.7241075,
 "France 24|8dac7e4c-d154-11f1-9820-d1915a72d125": 1793034925.3473341,
 "France 24|905c960a-d202-11f1-bfe9-fd7cb7c06336": 1793111437.85042,
 "France 24|91314e5a-d120-11f1-9552-6b78f848a2be": 1793008843.1617062,
