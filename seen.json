@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemdjVnNhbUVUSWFHUXhibDlmME1hWDhKbUxjWDVraFdMYWw5bm5nRmJuTGJMcng0dGpsQzhrckN1R19kR0tqdENYOGRTLXlMaVJ5NzZ4RnpMcmJlYkhwcUUySldCQmxTdVVBQ2o2U2EyUlJxR0hVWjdWS1pTVzJfdkpfa2Z2dzJkZGc?oc=5",
-"src": "CNN",
-"title": "Israel is holding its most important election in years. Here’s what’s at stake",
-"ts": 1792944075.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmxpeUR1eDhSRi12WWFqNjJpTWNpWll5NVVqQTFHQ2x1b3hMRE13WGhvTFFDdWJfU3lFVGlkSF9yMjhlMFY1eWFfX05Sa08wQ0NUMnpRQW81aGZ1NktFc21jNThEUU80R3BKZGExZGFlVFNwcWZtU1VSMzUydWtSZ3V2TTJKbEx3TktrVE5STUxGWmRQcXVSVHlhb3o?oc=5",
-"src": "Reuters",
-"title": "Fresh protests in Tirana, despite new measures to curb unrest",
-"ts": 1792944223.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRTjc1T3pFTTVPYU90a1lQTVdVdDRIU0tyaDdMZXNkOEtSZ0QxYXAxNFF1bXloSEtZQUJQRDRLcXR5S3ZkbkRwbVZlZmd4dk10MnRGT0hzalJGV0ZCU01OWTNxMTR6X3FRZFVDOUI4dnQ1c092aU5IOUdR?oc=5",
 "src": "Reuters",
 "title": "Lula and Flavio Bolsonaro cast their ballot in presidential runoff",
@@ -3786,6 +3772,48 @@
 "src": "CNN",
 "title": "Donalds on Laura Loomer’s attacks: I ‘don’t tolerate racist rhetoric’",
 "ts": 1793073184.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFRHMWw0QllPSk9HVDljWnVWa3VLcks2ZUszRC1qYmVUU21vM3NSc01JMUo1X3h5b0oxVzNPaHZtME1JZ3k4Y3dHTnB6UGtaSTlWRzE0S1B4RldyTWNYSmM2aGpjNEdsOGRyOF9VcHRzYXpIWG9zRy1DZF9pNXdnc2d3cDh6RVRFSVZJVWRGT05uZlE4ZzF5UHBwbF9EMVJpZTAzVHR4N2JxX3lubjZkRGd1MF94WDJx?oc=5",
+"src": "CNN",
+"title": "Trump compliments the physical appearance of rallygoers",
+"ts": 1793073540.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TEl6clBtNTVzMmZaNUJya2hSVDVUQUNUZ0gxaEhGOC1UNGtjTnF3MDctLTZpdFByWmJqTlVZUDNCX3JnSmVHMmpRRzZiZHczUjRzUEZTcUpZNTRWV0d4cnRCcFR6aHc?oc=5",
+"src": "Reuters",
+"title": "Moroccan police intercept migrant trying to swim back to Ceuta",
+"ts": 1793073562.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
+"src": "Le Monde Politique",
+"title": "Attentat de Trappes : la gauche en ordre dispersé dans les rassemblements contre le racisme",
+"ts": 1793073610.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html",
+"src": "Le Monde Politique",
+"title": "Didier Guérin, magistrat : « Marine Le Pen est actuellement inéligible jusqu’à la décision de la Cour de cassation sur son pourvoi »",
+"ts": 1793073630.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2OFVXeFpOMGRXdFFwZmVzVF94VXZwU2NaVkptbkU1N1o3NzFWT1NhWWhJTE5ibnYxcThOWlJMZnFnQjZfM1M3aEU4V0REQlJ6VktjYTBBSmpVMXBUYVdYV2pSQmh1S3lSN3ZQQmdQcng3S0xiYVhIMEowQ2R1QQ?oc=5",
+"src": "CNN",
+"title": "The midterms look good for Democrats — but it’s too early to call a blue wave",
+"ts": 1793073675.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : après le 17 octobre, le Sénat durcit le projet de loi « casseurs-payeurs »",
+"ts": 1793074086.0
 }
 ],
 "seen": {
@@ -4071,6 +4099,7 @@
 "CNN|CBMie0FVX3lxTE1EWEVEck05NS1tckJDNHFPUzJBWlB2NVNyV1FKZU9UQ3pyUWFrRDd0bVNHTzl4NENDTTBzd2owdS1MRkg0TnYtMm5rbU1wd0I5bEFVb2NpT05NTFh3SE5Gdmt3aHEtaDdvMjBYMGFtYVEwaWtjTkgyU3JXNA": 1793023247.452176,
 "CNN|CBMie0FVX3lxTE1ISFFHem9Oclp6SG15dWZXRnE3aUZ2b0pwUmRZV1RGN2I3dm5QUVJFakN2SHpDRzhHMXdDR0ZBMk9RdEg2QVlDX2lUWHN1al80RnVsWHZ3dTQ4VUtlWlVac0x4bFdxY0JPSW9rSzlmQ2V6QktUbExEaDRTZw": 1793013327.7299454,
 "CNN|CBMie0FVX3lxTE1YaDI4bmdqVjY5QlM3RUN3ZTFIYWh1T0FVeGlWeHQ1Sl9JWHIxamxSLTNicHNxRXJNQjJFd25RSzdvNUZXbkhlbXRwT1JWV0JPWkF6dFd2VU85SVVXYUVNaGQyaVBRVGJhZVRyd09lazV0VkUtWm5wbmtqYw": 1793024129.9475675,
+"CNN|CBMie0FVX3lxTE1sUExMRGdXZTBpdEdEa08xZ2pfQU81TDJOa18xVUpiR2VyWkEyTGZXcUJDcmVVbHNPNjQtZW9RODVXQkxsQ1Zxekl1RjhGSnVpS1hEdk4tM01oNEEyTEZjLVVKb3VmalpWMnA4N1I0anhiTnpMdVloWU0tWQ": 1793074528.1118133,
 "CNN|CBMie0FVX3lxTE1xSnZ3STZmQlQ0YVdVbXF0MHQ0c21kUnJTYTRRZmEzMFhEVWlvTDRqYTJuUENaUXJnZU9rM3daeVU0T1BBeTg4SGpCUVRDTzJSaUU4OGhBSXJpMi1VQWRTbXhJMV9DbndTOWtjYnNNamIzM1dBTUpLbFcxcw": 1792912921.1568482,
 "CNN|CBMie0FVX3lxTE8zby10THUtS3Y5b2xZZDJFLVFHWF96R2c1cFpMOFRCUjVpVklNNXVJaGNVSzlHaXZ3ZFI0QXAwb05ualFQVjc0RVBRSWtjYjVPT3FxMVRjNkdPbzI1aUZKLVdVSzhWMWdPRV9nSUlEdkhzeE9kRGxfU2RjNA": 1792956631.8406677,
 "CNN|CBMie0FVX3lxTE94X0xtMnVQbmhLaFpxd0dkdWJQMHVKNHpWS2o3Tk4yN2lFeTlmSUJiNm9icjZySTlZUmlmN3l5dnkyRXpDbTZtbE44a21rVHhCZWtLbm5nTjZHRFdZY0FLNDNrMzJjbm5CcXhkUTV0MGNlVmRSdml3LVdyaw": 1792970130.5726538,
@@ -4106,6 +4135,7 @@
 "CNN|CBMifkFVX3lxTE9EUHZGY2tqMVA3eUNNRGRkNnRxNDB6Z3AxdWJjc04wNHdRVDVjRmpRNzNSQkNJdkRnMUF2LVk1Nzk2cVJnYVJQc2ZSUjc0M3ppOXM4ZU50b2ktN1lHMjB0Sm1GaHRlMmtzcE5rWHRZYzBfb0tIMWdQak5BaEs3QQ": 1792912921.1568482,
 "CNN|CBMifkFVX3lxTE9TQ1RZNFpjOWE0NS0yOXd6M2VteWotTHF1VDlCUkJVN1ZLdlNUeXBqMi14dzJxR1Q3RkJ3eHBmVTEwcHhweGROQ2lZY1o5LXFXZ0FrenVFOGUwUHU2bDZBQkNaeWpwVjR1aG9vdW5kQ1c2aV83TFc1R0tEV01BZw": 1792912921.1568482,
 "CNN|CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ": 1792955725.6519537,
+"CNN|CBMifkFVX3lxTFA2OFVXeFpOMGRXdFFwZmVzVF94VXZwU2NaVkptbkU1N1o3NzFWT1NhWWhJTE5ibnYxcThOWlJMZnFnQjZfM1M3aEU4V0REQlJ6VktjYTBBSmpVMXBUYVdYV2pSQmh1S3lSN3ZQQmdQcng3S0xiYVhIMEowQ2R1QQ": 1793074528.1118133,
 "CNN|CBMigAFBVV95cUxNLUtfOUY3VUpvSHdtZnJ6V3ZKRzBDTnpyaVIxVm02TE9IUkZZVlRuMnB0bDJlRkhsbUpfdXJlaGwzcUNNcXMtMGxQZC1jRDVHYkRSWV9jc2NSNi1hdktibUdJamUyYUNaR1lkRzdjdjRZQ3p6Z0FLUVUxQTFPanFQSA": 1792912921.1568482,
 "CNN|CBMigAFBVV95cUxNNEtuaHBmSDlOS1pYRy15dmw2WE9QOFlkN1g0NktiN2Y5WHV1NHNPTFd2YUVjMHNYYWkyMU0yNXlERnV4clJwUHBRV09pU08xVVFoT3BOZER3Q3JCeFZ3VHQ5NmxoOVBoMXBWUHFPWHFSWWlZdlJGWU9lcTdaa3NEdA": 1793016926.187019,
 "CNN|CBMigAFBVV95cUxONEl1bFlhVTIxQXNkLVoyQk5FQ3VFbmNacnNrWTUxeXRLWkU1X2RQakd4ckI2eGNIeFNSZUZuQlVtQU12UkZ6anVLZVhRRGQxWnNVRjE4cGN1bkhDWmlMMTRFMmh3cWluc1dnOXdsZmhjRXJxbXVPQmpkbGVpN3VVeg": 1793023247.452176,
@@ -4313,6 +4343,7 @@
 "CNN|CBMiuAFBVV95cUxOYmxMOWN0WVJtY0daQkQ2WGJUZFdmSGllbjlDaW95SkV3M2lmNlQ4d3ZudEswUVBRZkEtdDZaSE0zbm5WREZfdkIzUmgwRHFfTHNBcWNrZDQteW15YmFXcGdhYUFiOHNpaW5pQk1ZNUJTN2Z1eFZRTUQ3QlJGMldFREtHbU9lWGh4d2FnNmtWZVcxSVdRY1ZGSjBqRlRHU0htdEJCdm5FYXBhRWh4eERxOEZlNXhySHBy": 1792957524.7672071,
 "CNN|CBMiuAFBVV95cUxPUzc4ZHVHN21UdEx6dVVGR2l3bUJjeWRrdEc3cDJYSThGSUdLcnluY1JCejJDUDNCajJBZHNySlNLVFhNTkJXZndGaXN5MjN5dDFnbC1Qd0dnV2FDNFdEVXBUN2s5VXI3VHFMdWdQZGkwWnhadGktRlBZaXd3ZHpDOG9kWDFMN2dmQ1JXeWRjVHJtb1dmMWYzNlVsVnFUVWlYLTdfbEF6UGY1Rlo0TzBFSkxlMnh2UHVS": 1792912921.1568482,
 "CNN|CBMiuAFBVV95cUxPYU1CeEdEcW9yVFlvbDAwVmZBcVlwUnpDZkNEMVlndFRIZ3E1di1TSk5maGRKTFAyYTRFYWdCazgyVmYzQ0xjRjFqNmFHS1BVTHQzbGxiOFZVYUdQY3U0LVREcFd4a3ZJQmY5Nk5KUXFodTVIbGhTX0p6SF93TzV0T3IydTNtcEItYWZHYVFBVFZkRkJvTkpvcWU3V0lNUnV5cWJhejBOSDZlWHJ1M3lmYjFMdFJpa3hk": 1792943124.2310648,
+"CNN|CBMiuAFBVV95cUxQeFRHMWw0QllPSk9HVDljWnVWa3VLcks2ZUszRC1qYmVUU21vM3NSc01JMUo1X3h5b0oxVzNPaHZtME1JZ3k4Y3dHTnB6UGtaSTlWRzE0S1B4RldyTWNYSmM2aGpjNEdsOGRyOF9VcHRzYXpIWG9zRy1DZF9pNXdnc2d3cDh6RVRFSVZJVWRGT05uZlE4ZzF5UHBwbF9EMVJpZTAzVHR4N2JxX3lubjZkRGd1MF94WDJx": 1793074528.1118133,
 "CNN|CBMiugFBVV95cUxQZGZ5emNKRGlvYzk4bEdnTmx5c3NpQXk1UzdWVkcxeU9CVTFPalJNSkxXcGc3cGpIZXFlem9zY3R0OHFid0drQVU0UUU4NTFTbThCcUxVRmxsU1JiWHZpbXVuNmJsSjNzUmE0V05DbGMtZmlqbkhYX1NVcjBXbDhHcDJHdVdKcVlwRWJudkpQR3hNVkZhY0tINlNVSUZFcnJMdGd0YWxGcGd5RHh0Nk9YOXJIRDJncEpmX3c": 1793008843.1617062,
 "CNN|CBMiuwFBVV95cUxPUm15VFB4X1pvXzhqYTFTTVRtM0lfRUE3dnFGaEY5V1F3LWNrcFhiNUVjaGUwZFJJWi1tbEdwSHFLQVRsSHppeEpLSXB4WXIzbmR3WVVnaFhubEdJRjlOSG5xRy1ybVd1UEkzVjZ3Um40X1ItOGJtWldRc1BPR0ZoNXlDUUZVR3pFeHdjeVRmV1VtZzdBR0puendENS1nd19QdngzYkMyZ1FUVGtTNTRUUHJuWXg2VnU5Nnkw": 1792984525.7398882,
 "CNN|CBMiuwFBVV95cUxQNDhaQ3JpNGNjeEFhRkVZc3R2M3VDbThoYWluUmJjY2xjNHZsSEc2RG1mZVI0TkViNGwxZmhva0ZmellpMmhSaUJ1SGFBUmVHRl9JZ2duT3RzTXlSY3kyOVh4bDg2NE00dEFpTndxeTk2TzF5YXRmaVg1cEh5UmowUVlhU2xURVpiNGRQbmt3Q2U1aTY0SF8zMTJWWnRHQnE1b19jdkd4NkFhM3RhcGhTMUJGTWFtdVJWWEJR": 1793023247.452176,
@@ -4496,6 +4527,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/la-revision-constitutionnelle-que-marine-le-pen-entend-mettre-en-uvre-ferait-basculer-la-france-dans-le-camp-des-democraties-illiberales_6800796_3232.html": 1793028637.2954068,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/myriam-revault-d-allonnes-philosophe-la-juste-colere-des-lyceens-demande-que-l-ecole-republicaine-assure-sa-promesse-d-emancipation_6800385_3232.html": 1792988126.4511454,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/26/trois-echecs-du-macronisme-se-cumulent-et-se-renforcent-aujourd-hui-les-uns-les-autres_6800785_3232.html": 1793019644.3332078,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html": 1793065523.9823225,
@@ -4524,7 +4556,9 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/manifestations-du-24-octobre-le-parquet-ouvre-une-enquete-sur-le-matraquage-de-deux-personnes-par-des-policiers_6800825_823448.html": 1793037644.512973,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html": 1793048443.460441,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html": 1792989924.9740305,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html": 1793061926.1457267,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
@@ -4573,6 +4607,7 @@
 "Reuters|CBMiZ0FVX3lxTE1lUTNNanRJNC14ZVNVXy1sbk5IWTlHbFdMaXJtZldjRlRMWGdGbUV4U0Vkd01jd1BTbmtheURyOWItcklpaUI0NTFTeWhNbWZWUjFGbVVyTk5ZbjRyMEhZU19GbTg0T2s": 1792980927.5227904,
 "Reuters|CBMiZ0FVX3lxTE1xZTExeXczT2VIX0pQQU9vZUx5RmNYbUN0QTk4MlI5elNONC16clE4c1ZoZFVROExFazhYRkt5VEVnTXJEb0dWZDFuSXU0MzlaanlHanJpeURmVnFVWC03VWw0cmdtOGM": 1793057433.9306796,
 "Reuters|CBMiZ0FVX3lxTE42amRMVHpza1RlOGxFa0FDdjdQZ1FTeFlkeXRQbkQwbDNpb1hwSG9adVh0SVdLVWp0Um1lMkZuNlFoaFBKMklUY0hvdnM4RkN3WmNDMk13a3pfVVZXMlpmUlBiSU9VY28": 1793023247.452176,
+"Reuters|CBMiZ0FVX3lxTE50TEl6clBtNTVzMmZaNUJya2hSVDVUQUNUZ0gxaEhGOC1UNGtjTnF3MDctLTZpdFByWmJqTlVZUDNCX3JnSmVHMmpRRzZiZHczUjRzUEZTcUpZNTRWV0d4cnRCcFR6aHc": 1793074528.1118133,
 "Reuters|CBMiZ0FVX3lxTE5ERF9kclN2NUctZV9ISUtUWEtxM2tqYTliZnRZa1o0Zlk1S2d6VlVpRkxYN3ZQbkp4Z3VOTHp1cjJVREJiYjJPOUhFeV9IVlFqSmpNdkxVbHNablBYRXFLYy1yQmZDcVk": 1792912031.9234908,
 "Reuters|CBMiZ0FVX3lxTE5HQTJxLVdDOWZZOU9FOWJsS0pHa3k0aHR2NDBiTnFNOWVITVlfendJMWZBNDdqUGVOWUs4WlhHRG5CaHpvN3V1azM4UlhsV1ZQN1B1ck5iZmZoYm85MTJuYWVfNjVtVnc": 1793007925.80866,
 "Reuters|CBMiZ0FVX3lxTE5LWXlZUUh1N1QwM1VJb0gtb3FMNm5ZZnBoV1ZVTDFOd3dRZFp1OHJTQnkwSXItakZXbkVSRUpmSHVWRFhRU1hsdEpBTC1FMWVrai1aQmxrdXBDR0RHcWlXRHJKR3NmdWM": 1792932324.948729,
