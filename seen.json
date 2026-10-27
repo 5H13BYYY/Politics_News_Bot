@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261026-lula-r%C3%A9%C3%A9lu-pour-un-quatri%C3%A8me-mandat-un-revirement-historique",
-"src": "France 24",
-"title": "Lula réélu pour un quatrième mandat: \"Un revirement historique\"",
-"ts": 1792996553.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/france/20261026-le-gouvernement-promet-lundi-r%C3%A9ponses-tr%C3%A8s-concr%C3%A8tes-mobilisation-lyc%C3%A9enne",
 "src": "France 24",
 "title": "Le gouvernement promet ce lundi \"des réponses très concrètes\" à la mobilisation lycéenne",
@@ -153,20 +146,6 @@
 "src": "Le Monde Politique",
 "title": "EN DIRECT, mobilisations sociales : Emmanuel Macron en déplacement à Marseille ; le gouvernement doit présenter ses réponses au mouvement lycéen",
 "ts": 1793006104.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HQTJxLVdDOWZZOU9FOWJsS0pHa3k0aHR2NDBiTnFNOWVITVlfendJMWZBNDdqUGVOWUs4WlhHRG5CaHpvN3V1azM4UlhsV1ZQN1B1ck5iZmZoYm85MTJuYWVfNjVtVnc?oc=5",
-"src": "Reuters",
-"title": "Bolsonaro refuses to concede and demands annulment of Brazil vote",
-"ts": 1792996914.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWJ2OWRpallGU2R5N3MwSUNJeERWd0MxQzAtTkFvWHhyUk1IbVZEQmc2QkZkWFFMZ3AyVzg4dC1SUmZRbldFOHlkcjNGX0Jxbkx4OW1ObEJDSldJUmpEUnFwMERydXRielRNdDhoc1BVVXZxWmtvRk10blNVN3Vkdng0ZllBczZ5MmRoQmdjeHFHVVVxc3h1Z3Rvem00OHhQclNZd2F1X1RISkFZWC12UnFXNA?oc=5",
-"src": "Reuters",
-"title": "Drone attack on Russia's Voronezh region kills two men, governor says",
-"ts": 1792997100.0
 },
 {
 "lang": "en",
@@ -4465,6 +4444,34 @@
 "src": "BBC",
 "title": "Healey to promise £15m to tackle misogyny in Budget",
 "ts": 1793125389.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn?oc=5",
+"src": "CNN",
+"title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
+"ts": 1793121871.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXNEb2lWTnA0dnZFY3VaUGtKVDRVX0hmNUVzcEcxQ3U2QUo2UmJvTHdOX0JCVndVaXRGRzNMbWNoZnRDcEdzZnpKb211Y21iMjlkQUN2Szlqcm5nQTcwaDloX3JvWnIzNFduZVo3S1VtbWJVaFpWUEwyWUE3aFc2Tmd6Y2xTeXFlNWoxVDRCR2NaVEtwVmVaMm9oLXJwWjk0MHNBQVVTdHRlbS0wYlZj?oc=5",
+"src": "CNN",
+"title": "King Charles heads to Caribbean as calls grow for slavery apology",
+"ts": 1793125682.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html",
+"src": "Le Monde Politique",
+"title": "Une intolérable campagne de haine",
+"ts": 1793126012.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Landline switchover could cut people off in emergency, minister warned",
+"ts": 1793126419.0
 }
 ],
 "seen": {
@@ -4483,6 +4490,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c6ly02ry5982o#2": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o#3": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/c6x29g1nlr51o#0": 1793126729.8237443,
 "BBC|https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6y93pz494zzo#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0": 1793040326.575875,
@@ -4525,6 +4533,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cp8pml5z8p6o#2": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cq6m03ld7nvo#2": 1793008843.1617062,
 "BBC|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#0": 1793040326.575875,
+"BBC|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#1": 1793126729.8237443,
 "BBC|https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#0": 1793097929.898054,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0": 1792912031.9234908,
@@ -4704,6 +4713,7 @@
 "CNN|CBMibkFVX3lxTE5sTEx0b0xnNllZYmFNRE44dEpJYWszaHpRUTZ1Zjk0T1h3dUNvbk1GdVdwSnRqeGZ1aEhReTdRZEpSVHdmRW55akU2YjRqcWQxWDcxX2sxMUlRSDZ1dUJGNnRhU3ozdHZuWHpQSndR": 1793013327.7299454,
 "CNN|CBMibkFVX3lxTE9Ed0s0Zlp6Wmd5RXVielBCdHdKMzhvNnRJaHp5VldHbUlacnRfSmhwdGxTak1ZMUVyT1VaZVpRTmp0bjRHMkZWOVdjRXBuR0Y3NV82X1JwdUJ2Nm93dmxycEZoeHZ5OHBELUN6Wmhn": 1793034925.3473341,
 "CNN|CBMibkFVX3lxTE9NTEtDS0pzcnotX0xtU2tXSldKTUdSc1ZzQ05VZUtSUFZMVXhxejNPQ1h4ampzdmNpNFEwZThNSDFQTXk4QUNDMVE3c2JmamJqR3N1SUVDNUJFU3BaRXZOQ1pYZmR0MXNoUjhDenRB": 1793056529.1619768,
+"CNN|CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn": 1793126729.8237443,
 "CNN|CBMibkFVX3lxTFA3d3M3eWxzRDd1X3RseWlZRExWQkJJSjhSUkJsSmZxREI1YmNCcDFZb0lPdHpveXZmMDNLZHMxbVY4MkxzYVRWMmxxeDFYR2pEUmh0empFUHRaN1ltUzA1RndSOG04NTNSUVdFTG93": 1792912921.1568482,
 "CNN|CBMibkFVX3lxTFBkMkNDejdBU2N5WVpEV0h1dlFGYllpdk1Uczk0QWF6anFIaHM2ZEhyQnMxRF91M2x4YWRpRW90MXo3UjhFU1hsRmR0V19lbnNNU3YtZV9ja0RYbXY4dVhGV2tZV01JM1FZSGZjZEZB": 1793016926.187019,
 "CNN|CBMic0FVX3lxTE1HSjB0RWlmLUluSTZrNzRiOGY3MFVSTzRCdkxzYUJVY01BMXVfUThLNXN5Y1kwTFF6ekVMektsdTVrX2xZdFNPYU5vbEMxRW81NzFHU2dsdzZlYUdYMVZfWEdXeVpKT0hMby1VekkxR1Y4WUU": 1792995329.1340907,
@@ -5065,6 +5075,7 @@
 "CNN|CBMirgFBVV95cUxQSXJXbzFLdnhfem1oTTlOMUE2Zl9uZEZnWkhKeUpYeVQ0amtSMjdUclYtcEotNThlVlZEaWNrTlJKbzE0RkktUlE5M2k4endSV2h1TG1mUXhvLUJjLWczR1lFM3ZsMjN5azN0UU5TVEc3UWg2NWoxNDVGZUV1S1NncmhCZ0hJOHRhZHp2T2gzVHVtbzE1a1Rldm9TUWVhMjMtR0I5UVFGeGJ1aDdzMWc": 1793061033.4823194,
 "CNN|CBMirgFBVV95cUxQYWxiMnpBc0J4LVN0T05Xa1paV0RHTmRtSVVmS3JMeWNMSnJsVURER0hOWnNQYUVvTXE5TmNJVkd0WnZjWHhTbGpSRVh3aXd2ZjhnRGxpanZVWlRMdXhOTWN4OHFIdTllVW85SktNZVpzcVRfNmQ5NmhTZlVFWWNFZVJkWm9uamhRVDFkMHp3WjVUQ1NZQ0pZejAxdmMxYUo0bHpRTnBORHpSQlBWWmc": 1793071833.365202,
 "CNN|CBMirgFBVV95cUxQcE9ST2xxZ3pCMTRJTTR3SU0xSDdLQmdYWVhYZFAwYXdqaGhUWGVvQVJ6VEdQQXZid0hsdlRQNGgtMXdZTFFiOUNBLVJ4dzBsQnQxMk5aTmNDS2djZ2wtdWoyZVRNV0x2c3VoRXBUaVJRSnBmMUNNVEpTdkdiZGNrVzFDbFZGeDlvakVYZzNfenhSTDFiYU1sd29WUjBYTlB4R19JR0N4ZWw2aV92Z3c": 1792912921.1568482,
+"CNN|CBMirwFBVV95cUxNRXNEb2lWTnA0dnZFY3VaUGtKVDRVX0hmNUVzcEcxQ3U2QUo2UmJvTHdOX0JCVndVaXRGRzNMbWNoZnRDcEdzZnpKb211Y21iMjlkQUN2Szlqcm5nQTcwaDloX3JvWnIzNFduZVo3S1VtbWJVaFpWUEwyWUE3aFc2Tmd6Y2xTeXFlNWoxVDRCR2NaVEtwVmVaMm9oLXJwWjk0MHNBQVVTdHRlbS0wYlZj": 1793126729.8237443,
 "CNN|CBMirwFBVV95cUxOQTFUMFN5OGppWi14ZFhzNnRRVERWdUZiTnlsTHp4R1dDVGJkaHY1RDBPZ28zY0lwVmhtemxFeDcySndZdlZTaERLdF9BWTluYnY5M3pPUEh4aDdNa2liQkc4cW5aQUtFN0lDZlhVN3NkcVdYSGlLWUpsSldfSGpmRWlybEh5UWpaUE1xQXlMd1RneG9rYUJOSjhHY0pYWmdmQmlqRzl5Q0NZNVdZYkdN": 1793116846.9785748,
 "CNN|CBMirwFBVV95cUxQSnJQWUhmNlhSejBDRnBWa3lrd0ZENXpwSGs2c3ZqTF9UeWlUWlF3YjN2ajNGNEZJRGxRZnB4bmtIMDM3TWpabFhJejU4Rk5hSGdkWnIzU3IwM2N3aUlFTUNWelAxek1FdGNrTWQ4YzdPYVItMHpuZUxTYzFuemNzNjBSM3RtVVkxNG9Ydmw4NlRpeUIyVXFVWE9WX2lKU1ZNem9aM1duSnZKVW9tMEIw": 1793016042.671506,
 "CNN|CBMisAFBVV95cUxNUVJFZm15T25mUW1CeGN2clY2T1BNQVNiT0ptZUM2VWhJdVVnc1pHUFNRcHFaTXFicXR1SEJQVDc5SXFOdjhKaE9pUnJrWEhnU3NTVE1KakVZTE5hU1ZEY2hneXYtd1Q1bzIxTmI0MmprbmJjZGFmckl5Y25sdVAxaFdHU2QzbS1KTHlaa1BNWnhtamVjWU90Q0RRZC1WQ2h4Z2hEOGgwN3BSXzQ0ZUlaSw": 1792943124.2310648,
@@ -5326,6 +5337,7 @@
 "France 24|fe8c2a7c-d15e-11f1-9be8-f56691c8798f": 1793048443.460441,
 "France 24|fec01900-cf05-11f1-925f-c136e5df6558": 1793016926.187019,
 "France 24|ff92341a-d01a-11f1-9e4a-6d00e474ca20": 1792912031.9234908,
+"France 24|ffa02bb8-d233-11f1-8d31-bfc6bd0ccdec": 1793126729.8237443,
 "Le Monde Politique|https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html": 1793118633.9665923,
@@ -5386,6 +5398,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisation-lyceenne-et-etudiante-il-faut-reprendre-le-travail-exhorte-le-ministre-de-l-enseignement-superieur_6801224_823448.html": 1793097929.898054,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html": 1793122233.7589803,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html": 1793126729.8237443,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
