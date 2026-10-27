@@ -72,13 +72,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX19qQmJ4Z3F2dTVZSEgxSG9RTGFTNGFhdVZfNjIyaE4xZ2ozMXdUbkFKMVRyZTItSHpIRzZlSTdHU3JHTjB3UHREQnR5UUZLOHV2Q2JUVFNibHBpNzZlWDVVRmt2WTIzRDczYkRHY2JTYzRkYTRhYTVjQnMyZjdpbkxOZVd5LTc0ZjJJMWpNX2x1S2RYaUwxc2NjaU9FbEpXMjE3Z1NR?oc=5",
-"src": "Reuters",
-"title": "- Reuters",
-"ts": 1792945195.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Board of Deputies of British Jews declares Greens to be racist party",
@@ -3814,6 +3807,27 @@
 "src": "Le Monde Politique",
 "title": "Mobilisations sociales : après le 17 octobre, le Sénat durcit le projet de loi « casseurs-payeurs »",
 "ts": 1793074086.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWlBSZDlfYkw1UVlldTg1ZHRSVzNlR1dmZVZYaE9lbG43WGdtRTlEY2RtSjEyTGZ3WlEzN1VhM1VDeWQ1R2hLZmozclpGMUxtQmhTdHFoTUh1aDlxcmJRVEJhSm0zcG4wLWFoMEdjNnpSRlFuR08tc285TlhSekpwcVBSYUJONy1zTUVzM2RNZy1zQQ?oc=5",
+"src": "Reuters",
+"title": "- Reuters",
+"ts": 1793060471.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0NVeWxHWW90dDBFVmZjSU9IUXZDR3hZSTdpQzg4SFphaUJKWHl2RTRmaWlWQVp5U2ZjVzVZQ3lLZ2d1VTJSbFQ3a0Q3SDZPRmZzVHZkSGRIc3VXQ1pTQnpzdGQtQmpuMWFUcnl2OTM3U3dRWkdoVmNOVmVrVkNCUlVqeC04d3BRdDZxOHQxRGRXZmprdC1McUNRSGVzbUhBY2dEY0ZBUE4zQQ?oc=5",
+"src": "Reuters",
+"title": "US, dozens of countries warn of Sudan famine risk, urge aid",
+"ts": 1793064600.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html",
+"src": "Le Monde Politique",
+"title": "Mouvement lycéen et étudiant : Parcoursup, effectifs, bac… le gouvernement apporte sa première réponse politique, sans éteindre la mobilisation",
+"ts": 1793075188.0
 }
 ],
 "seen": {
@@ -4570,6 +4584,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html": 1793043032.0944161,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/violences-de-militants-d-ultradroite-en-marge-du-24-octobre-plusieurs-enquetes-ouvertes-a-aucun-moment-la-police-ne-les-a-proteges-defend-laurent-nunez_6800799_3224.html": 1793028637.2954068,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html": 1793072725.925812,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html": 1793075435.2638454,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
@@ -4696,6 +4711,7 @@
 "Reuters|CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ": 1793009727.4528742,
 "Reuters|CBMikAFBVV95cUxNc08wOVYzT3pKR0lSY3VtZWt6TkhvTGRieHE2eVJqeTZiZnhzQUFQMFAzd1hlT3l0QS01ZlhlQVZDWWNCUkpiSFg3OEtDcGJLMzNXcnhsRWZrSW5ELTlIZFpnMnl1NkVfZnFwZnFYZGVXUTVJUVJmZ2ZuVFlXWU1oWm9ZOXRVbVZSUGhDX2xKR1Q": 1792990839.6790755,
 "Reuters|CBMikgFBVV95cUxPV2FzUnVZRUgycGRkM3dqdGl1Snh6VXZvWERzQ0VfRERtdGhFZ1JRZlJucTAtS3h1M2NfMGtuQ2I0ZGxFTDExNW1DaExtcEFZNm8xR1RXem5qR3NkRjk4VGYzTGpzcVc2cXlWVGx0X2piMkxRLXQ0Y05HcFZFbS1wNjFtQ1pLNEdteGYtWUp3cFZRdw": 1793018727.4989367,
+"Reuters|CBMikgFBVV95cUxPWlBSZDlfYkw1UVlldTg1ZHRSVzNlR1dmZVZYaE9lbG43WGdtRTlEY2RtSjEyTGZ3WlEzN1VhM1VDeWQ1R2hLZmozclpGMUxtQmhTdHFoTUh1aDlxcmJRVEJhSm0zcG4wLWFoMEdjNnpSRlFuR08tc285TlhSekpwcVBSYUJONy1zTUVzM2RNZy1zQQ": 1793075435.2638454,
 "Reuters|CBMikgFBVV95cUxQNTRFU0EzLUl3eFBOWEpjUDBKSmh3ZjQyd1ZIQlVlQm0wS0pRM203aEhwSXZocXowZFdzbFVlOU9iREJtbXpfMmswbjdoLTlvQmUtV1pzNHhHdENZQXRwQ1h0S2VSR3Q0REE0VFpkcUtBaUpCWWRxNEZFMGtrRTBVSThLcE9TRW03LVFDd1FRT1h6Zw": 1793023247.452176,
 "Reuters|CBMikgFBVV95cUxQUFNNdVpMdWcwdmdpQjBnN0M1dmE4VkJBbTN0UmtDdmdGcjFEc3lCMThxSFN2VDZVSHRieHFBX0xaTlhUUzRjR2x2WEZaQVd2RkxoREtEXzNCZ2laRGJ5TGxld0FpWVpoX3ZnVS1uMFFWRUxpSlliTnlpcTA5cWN5UGVURHgzNGFYQkR0SFZLaXpfdw": 1793018727.4989367,
 "Reuters|CBMikwFBVV95cUxNZFFtSkZDaktTdnFfWEY2d3JHRlVJbU1GT2cyN054TmtlWXd0VmNha1B6NHp4M2l4Wjd5T2hTaVFuNGxJZllacHFKbkR1THpqYktzYUZkQ3VENDNCdjRjSHVoUUZrOHBkbUM3dVc1NGZaR2ZJTWtlU0ZjREV0QkJ3cENMc2ZONXp5Qng1NzRsdzEwMlk": 1792971032.0584002,
@@ -4777,6 +4793,7 @@
 "Reuters|CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ": 1792944924.586585,
 "Reuters|CBMiqgFBVV95cUxONUF5YUphSWw3NlRraXFBemVhY1Q0OE05T05adG1fdmZoQUVwQUo4RWI3b0xXUm5IdnBwekY5YVZJLTNtVzM1U0JBTUJsOExmRm0zMnh3dHVVVEI3dFB2MXhFeTBSWkFMNlFKVUlONjRZVmhHb0U1QU5hSVBFVHpfdl9aNnVtOUdlQzFxWmVRQU1pVjBIdl9TWTl4MkVWWmxkUlk3VU5odUxZdw": 1793005244.1092002,
 "Reuters|CBMiqgFBVV95cUxPRU9qY2pZVjVWZkxlV2tBWkZETGhrR1hOWVdMbEQ5SXp4STVWMHpISmRxVnp0Q3dFUnFFdlpwMVBOV0E1RE9DWmxQSDhITlFsQTVibGkxczFNZGJKdHMydjhlMWNzSnJLc2NmS01JUmpjVXNvQVVUX3NRdTVQb1lGU3FvcXplNGE3TXIyOXJFX3V6WE9jMExTUkRKNmFkZzNkQ2VSekFsVmc3Zw": 1792991725.3497136,
+"Reuters|CBMiqgFBVV95cUxPX0NVeWxHWW90dDBFVmZjSU9IUXZDR3hZSTdpQzg4SFphaUJKWHl2RTRmaWlWQVp5U2ZjVzVZQ3lLZ2d1VTJSbFQ3a0Q3SDZPRmZzVHZkSGRIc3VXQ1pTQnpzdGQtQmpuMWFUcnl2OTM3U3dRWkdoVmNOVmVrVkNCUlVqeC04d3BRdDZxOHQxRGRXZmprdC1McUNRSGVzbUhBY2dEY0ZBUE4zQQ": 1793075435.2638454,
 "Reuters|CBMiqgFBVV95cUxPelJyN3JpclF1bWk1YzFhM1prRER2SmsyZ0tLbEYyVnZxb0JhbV9sVEplUzhvbnFydkUtdURhektCU2Z1a3VNVk8xaGRBZXZSanpsYWkzMkh1RDBpQktlR25CeEZabmZLWTdfN0QwYUZWQjQ2VmVGdENPSm04Z1BwUF83am40bVlTYjVjV0REZWdUS3E3cUNLaFZCaEFoQzhBemhoRkFxa3hSUQ": 1792989924.9740305,
 "Reuters|CBMiqgFBVV95cUxQMEdzMnVEVVZlSzdWcEh3X1N0eFctNGNlZVp2U0NhSjJnbjJoNU1GTVV5eUNYMkZNRUNKN0hnMU0wdDVXa0l1dnpLU0VTNGJTXzJ4eWtxM3R1YVBHQU9YNjlqOVhmekRNZU1NZ1drWnpBRXItejRwRHVtcXQ1eDNiTWtWSTRRMm9yV0pFNS1EYW94bTFnYjlLLWFtS1J6czY1T0JscFM2YmZWdw": 1792987240.4590352,
 "Reuters|CBMiqgFBVV95cUxQUkFEZzlqS2FTU015NHhDSF9fZGlSUmhrTmJrVk1HTjRzd0RpYVlzVGIxT3A1WWRZQjY1Q3IwLVhJcVdLNGtwQW96a3F5VGVQaWxJdktYV3RmMXdDellXNE1UQkdfMUdaQzJ1WmcwM05RWkhWUmxzVHJ2cnBWUWJQRDhDSGpDN21LVk5FMDlFRkZReHhKdDluZmN2YmpGQVRaYlg2aVV1MWNUdw": 1793038528.9639344,
