@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVldValgxa0tDcXFGSmZqMnlOWVVMdTFraVp2bUhucWlMeU1qV0I0MmowS2oteG00QlVlZXpCZ0ppRXRJY0hNU0g1OVhXazVmWmJpbHJneWRZZFRBQllSdjUtSnZiUEdIQ3AzM2xBNUZDeWpoZENYRnFZMXlPWk1LSWU4QUp3WElLTTZUSzI2SWJwV09EQmgtQmo2ei1MMm0wVmMtbGRzVQ?oc=5",
-"src": "Reuters",
-"title": "Breakingviews - COMMENTARY: Spain’s housing quandary stretches worldwide",
-"ts": 1792990800.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalNNZ2dyQlE0OHJCazg3OHVjT0JpaXgwSVRLUFY0NGVHNjVDRERwWDBNX19hMnI3dmowNVphY0VDelBtcHJEQ24yQWhQMUtsaDVOQ1FJZlhWYmtKVG9XMzVDX0pkNjlGdTRjSGg5Rk9NUzV1Qk5GYzRUMmlaUHIyZDQzNlJuRS15a1E?oc=5",
 "src": "CNN",
 "title": "‘He can barely walk’: Russians tell how vulnerable men are being targeted and coerced into signing up",
@@ -188,13 +181,6 @@
 "src": "Reuters",
 "title": "Battleground metros to watch in South Africa's municipal elections",
 "ts": 1793004703.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aERqY185ZXNsbVJET0xWVkxac2drN0ZyaExGbThOVWtteUh1Szk2anlHaEFkRUhpbGZHNFVub3d5NFBvX1RzSENpbXJIWU0wNXFMSDRmM2w3a0hMbVlvZ0pjeHlJak0?oc=5",
-"src": "Reuters",
-"title": "Brazil election: Lula vows to govern for all after comeback win",
-"ts": 1792990554.0
 },
 {
 "lang": "fr",
@@ -4416,6 +4402,27 @@
 "src": "Reuters",
 "title": "Heineken serves warning to British pubs over weight loss drugs",
 "ts": 1793119275.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUJTbHNFRDVKUk1tcDB0M0NVN1Q0bVlTMHg4WU1lalFlWmFnZE9jcjNYQ19BV08tWG5qV2F2dmdDOHFuaFRaQ3hYNkJpOUxMdkI3dDhBSklGelQxcUs2cGtReEVpUnVyOUpLLXBvRXVoSUZUS0RLeVhBYXRKa1RWRTV6enNabHNDZTlFRmhldDVLX1lXbXpvd1g5QzBIQ0ZsVGRHOWNCcjNRU3gyVy14TVA3SUd2QVE?oc=5",
+"src": "Reuters",
+"title": "From 'Mobut' to Mao, Mbappe dictator meme turns self-mockery into China storm",
+"ts": 1793119667.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU5WWWNrRmV6LW9leGxnaWg0NkV1c1BaSUFkaEZzbFk1M0Eta01icDIweE1OSV9qa3ZvZWpoUUNSdm1XS2V5bDBEbkFPUVFzVFRSdzhWZnZZTUtrUjk2OERicXRiX3JVRFIzbXNmLTN6YmhpVkhxUGFxQXA3aldScXY5cS1wSlJJR3NlQW4xcWNpd3VnaDNDV2M5cEx3dHc1Z0ZSVU9xVW8tLXZSb1E2TmIzVXR2cmlablZ1c1lqRTdVaV9ZejNfREtHS1czVlU?oc=5",
+"src": "CNN",
+"title": "The Situation Room with Wolf Blitzer and Pamela Brown",
+"ts": 1793119945.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/10/27/la-dimension-prise-par-les-emeutes-du-17-octobre-peut-difficilement-etre-attribuee-a-l-ultragauche_6801327_3232.html",
+"src": "Le Monde Politique",
+"title": "« La dimension prise par les émeutes du 17 octobre peut difficilement être attribuée à l’ultragauche »",
+"ts": 1793120422.0
 }
 ],
 "seen": {
@@ -5062,6 +5069,7 @@
 "CNN|CBMizAFBVV95cUxNTDA2NFdHb003NVJ1UmpzSm9CVm9iQXptUVNTT3hyMXJ3Q0RFZUNSRlhhS2JhU1JYRGVYUHpaOW5WNjIxNWN0aEp2VUJKVW96dTNpNmhVYXUtZDhkMHFjT3dRNzRkNkViOWpCWVBBWldma0VCcnE4b0l0NGRJclpyTi1WSUJHb01qbjFfMk1JRlM4dXRxblplQWE5NW1LVVNHUWJXRlZTLUdyWFV3U0h1NlFLLV9ETWo2cXc4OXhYaDNuTlp4VXJBZWdHQlE": 1793070925.5077493,
 "CNN|CBMizAFBVV95cUxQcmZBaVI0TU11eldlS180bHdWa0VySFhvZ2U5S0V0aFRRR0l6UzlPbXN0VHo2enJxQ3dGZ1dUOTRPQVZURmZPYVcwTW4xdW5fV1lsZGxmNzY3MHo0OGVnSlo5ODZjZnlrcVNIRnlKaUpTcVZrZHZZM3dib3NzMDZwSVJET3VtUTF5MnVrcEw3d1BKRGdKdm1MS0ZHQlJYZXdsVFFNZHlQeWhoRmFPbjRMZ1NLcURKdmc1Ql9weUhnWXVJMC1kaktxZW1UWFQ": 1793114128.081916,
 "CNN|CBMizgFBVV95cUxPZFNyMjcyVkRqM21GV0dId1VoVTlWbFhmUnRPUTJqbjBvSjluRGpJZEpmMUIzSkZhOHd2WFNFX21FMHJJT251eWM4WldKejRBckpRZjJyQmRQckItOEU1TE5iUDl0VmtJOHY5QmVTczlEaXlIcXZJd2hITW83clB0aUJPTE5sMm9Cem1HcmVhdHNXOTNJdVJwc3hDQng1aTd5MENrTmJkNnU5YTIyeWM0Qmd3MmVJM1ZXOFZLWjhGOGk5Wk5QaFFzVkFPYzhFUQ": 1793054725.2944863,
+"CNN|CBMizwFBVV95cUxNSU5WWWNrRmV6LW9leGxnaWg0NkV1c1BaSUFkaEZzbFk1M0Eta01icDIweE1OSV9qa3ZvZWpoUUNSdm1XS2V5bDBEbkFPUVFzVFRSdzhWZnZZTUtrUjk2OERicXRiX3JVRFIzbXNmLTN6YmhpVkhxUGFxQXA3aldScXY5cS1wSlJJR3NlQW4xcWNpd3VnaDNDV2M5cEx3dHc1Z0ZSVU9xVW8tLXZSb1E2TmIzVXR2cmlablZ1c1lqRTdVaV9ZejNfREtHS1czVlU": 1793120441.5226345,
 "France 24|01d50a32-cfe3-11f1-a275-cdac6671750f": 1792912031.9234908,
 "France 24|03646e42-d105-11f1-bb79-ed2d1a5e0fec": 1792998039.3769457,
 "France 24|091bca44-d15d-11f1-b2ab-7bc39d597069": 1793034925.3473341,
@@ -5252,6 +5260,7 @@
 "France 24|f4caee22-d14c-11f1-ae3a-7b2ac4c3a593": 1793028637.2954068,
 "France 24|f7416d5c-d1ec-11f1-8caf-61661188ba52": 1793097929.898054,
 "France 24|fa131df8-d135-11f1-8dd2-75accb8f7594": 1793017836.5340102,
+"France 24|fa5b390a-d223-11f1-b8a4-8ba53fb44a3c": 1793120441.5226345,
 "France 24|fa67c440-d11f-11f1-b0b9-65cac493857a": 1793008843.1617062,
 "France 24|faba2552-d15e-11f1-bd77-1b2b6540b405": 1793045725.385302,
 "France 24|fdbde77a-d037-11f1-b189-297403ef80c9": 1792912031.9234908,
@@ -5278,6 +5287,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/a-six-mois-de-la-presidentielle-le-grand-risque-est-que-la-campagne-soit-deja-jouee-sur-fond-de-peur-d-exasperation-et-de-demande-d-autorite_6801275_3232.html": 1793106925.8356864,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/l-extreme-droite-se-saisit-de-revendications-a-priori-eloignees-de-ses-sujets-de-predilection-pour-reaffirmer-sa-capacite-a-dicter-les-termes-du-debat_6801262_3232.html": 1793099725.458703,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/la-dimension-prise-par-les-emeutes-du-17-octobre-peut-difficilement-etre-attribuee-a-l-ultragauche_6801327_3232.html": 1793120441.5226345,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/mobilisations-sociales-alors-que-les-tensions-restent-vives-en-france-comment-eviter-le-glissement-vers-un-scenario-de-dechirement_6801276_3232.html": 1793106925.8356864,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
@@ -5712,6 +5722,7 @@
 "Reuters|CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw": 1793021434.3883493,
 "Reuters|CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8": 1792988126.4511454,
 "Reuters|CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg": 1793009727.4528742,
+"Reuters|CBMitwFBVV95cUxNeUJTbHNFRDVKUk1tcDB0M0NVN1Q0bVlTMHg4WU1lalFlWmFnZE9jcjNYQ19BV08tWG5qV2F2dmdDOHFuaFRaQ3hYNkJpOUxMdkI3dDhBSklGelQxcUs2cGtReEVpUnVyOUpLLXBvRXVoSUZUS0RLeVhBYXRKa1RWRTV6enNabHNDZTlFRmhldDVLX1lXbXpvd1g5QzBIQ0ZsVGRHOWNCcjNRU3gyVy14TVA3SUd2QVE": 1793120441.5226345,
 "Reuters|CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U": 1793010634.9602375,
 "Reuters|CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c": 1793057433.9306796,
 "Reuters|CBMitwFBVV95cUxPcHk0a1NUT2ZNSm9tR2JkZnJ1YUtTdHRRVk1UQ05BbXpXYmtNYy1fY2MzaklhQ09YVGRmOUdHaW4yMVhsX1RpRGRacHFrNFpOcEFsRlBJcWpMSElnNGFKaVNCZTlzSC1RMFpyc1BuY2txb0NEd3I4X3hDTUNpcVh3clpDb19YVFdiOGRsNF9LQ0xBRWVPR2dEZzd2M0UzNElWNzNHOWZPcFhwcGp1ejZ1VGluaUM3Yk0": 1792976437.9483614,
