@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlk2VkFXVkdJWWhnUXFnSFNuN25YOHpiSHdWczV3X3BHQURLcVhtVzdIVXlRbE5CWU9KSG45dkNqemxwZXBSRHpMR2hkdmhRSFhrNkpHU2dZa2RNbm1hQ3dMTUQtWGlIbElrNHhrb2Zsem4xY19hOHoxNmNlMjJPb3BUd2YybklKZXREeVNKZVNBRGJHTW5jcG5LaVdzZUhLTExFT3ZBV0Nwc29NRXhZXzJFbkRQTjR5UDQ5dVo4b2Jhcm5oVzF3ekt0MA?oc=5",
-"src": "Reuters",
-"title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government",
-"ts": 1792942341.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tvWFptSmJsT1Z6OERuX3EyU25sZDlDb1JreXFGV0dlUlNMMXJiLWZaVHJxR2w5MnA0MVRqMnZ2NS1GWmxxWVRYN1BWc2NZSWtCdWlJQlFYQkE2Vy1mM2FIRlJud0YtTmR5UGg2YkNjYUl2OGw1ODF1eDRZWF9INjhQLXpldUVCSDZCSmtodTg4M1pyTmNCSWtZdnYzUDNDLXpGUU5tcl83Wkk?oc=5",
-"src": "Reuters",
-"title": "Russia says it hit two cargo vessels and Ukrainian logistics hubs",
-"ts": 1792942500.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPellJNzVnYzBuekJ6TkJ6bTJCb082RFJKcElONm5TRnNRRWd1eXZ4VDVyeklfYjNXX2F3OC1iVU9tQy1LUVN2dXV5c3FZRlpVT0xaMHNobGFYR1lvT0twMHFxbkFfcGtFci1TUENLX1NEQlRvX0MzeGNWdXNSU3dZdzJzbw?oc=5",
-"src": "CNN",
-"title": "Obama and Trump wage one last battle for even more urgent stakes",
-"ts": 1792943125.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWlYZEZvOHNIS2xnTzhuaktMUllORlFkbmJBUmdZakpfQlR2SjE4d2FVbXIzUDBLODZFVjVfdmRhTkVWcXNSSnJ1LTZKdFR5QjJ6bVdhNEtDWUttSHkxckktOVZvUEpmeVg1OEdFTlltTkVLVExqVm83dTViSC1lQ3R5UjhsUWxmSnFRbVVqQnNabHZlX25PNDhQWXRYTjRM?oc=5",
 "src": "CNN",
 "title": "Global Power Dynamics: America's Waning Influence",
@@ -118,13 +97,6 @@
 "src": "France 24",
 "title": "Marine Le Pen appelle ses militants à être \"au rendez-vous de l’histoire\"",
 "ts": 1792947382.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmEwRFZoRnpzNzNOU1pHdHk0NnVjWmFYOWU0UkVNOUNmSUJIQXlGeGJ2eGVMejBvajRkbjJ4bEkzREVwMXN1NDZWc2JYaVA5U1MtM1ZIQWUxTmlVMjZyb2lUS0lJYzg4ZFZJVFEtR3ZyZWFWWnpkdHZpSFRCQ0Y1emwyLUJRRHdf?oc=5",
-"src": "CNN",
-"title": "Obama and Trump wage one last battle for even more urgent stakes",
-"ts": 1792943125.0
 },
 {
 "lang": "en",
@@ -3863,6 +3835,20 @@
 "src": "France 24",
 "title": "Législatives en Israël : comment se joue la bataille pour gouverner",
 "ts": 1793071584.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html",
+"src": "Le Monde Politique",
+"title": "Attentat raciste de Trappes : un homme condamné à de la prison ferme pour apologie du terrorisme en Martinique",
+"ts": 1793071731.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3NPSWUtZTNpUzEzT2xkMWlDeXVhY1hRa0F2MTZNVkFIX0IyaEpkd21nR3pkcms2aDdXQmltVmZPWFRxckh6a0JEZDN1THBqeUdKQTdIU2dBWTdCWHRMNFQ4RTlSV2Z2Y0lSMFh3NGhFRkNhX2xMTUk4WWVIajUyZWlxNG1ZVWFJV1oza09GanUwV2tUYmszWjYtNFhCRW8tZDhwWWZOYVpMb0xUcDAtYnUyTQ?oc=5",
+"src": "CNN",
+"title": "‘This isn’t the party we know’: Top Republicans sound alarm",
+"ts": 1793071740.0
 }
 ],
 "seen": {
@@ -3949,6 +3935,7 @@
 "BBC|https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo#5": 1792985432.7294014,
 "BBC|https://www.bbc.co.uk/news/videos/cqj9ky23ymwro#5": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet#5": 1793040326.575875,
+"BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#5": 1793072725.925812,
 "BBC|https://www.bbc.co.uk/sounds/play/w3ct98yb#5": 1793033128.0726519,
 "CNN|CBMi-AFBVV95cUxNaU5kS0tJZnoyM05HOG05OHJDYmRua1hwSDN5YUJxV2oyNlc5TGFEX0dPRHFlb1JVM0JCa0FsN0pIRENjNEFOWVNhcFpLS1dXTTFwRTM5OXVhOTBrZ1p5VXNUTnA3WFhJUEt6SWNPdnlIeTI0bndaOUhlWnFWN19mbHRNY1BlSl93ZmY4VlJtTTlyUjlaTmJCZExsUmdXMzI3YWNrNzBNYWp1M3RyVTdJQTJRR1VVRTEtMmlHWWtWWXhFU0p0LTRjNmFlZGF0YkVQMmNQRkQxRF9FTU1KRGwxZnZSVGgwSkl4cm5iX09pLWxfM1ktU0d6eg": 1793035835.324142,
 "CNN|CBMi-AFBVV95cUxPSGIwZFJkZUIzazlRWjRqUXR2Uk1GbXRjVGhCZjVFZi1jMnQ5b2ctc2JoVXJOcld2T0s0aE54V092Tnl6WFlOTUlWUU83dWVRdlhKVEJXbkEyV3Y4THRVV24yWUQ5OXJRWWZxQmlJLVpPYmVySmt5WGJESk9zTDN1S0lNSEw3RFlEdWlMM25SQ2Q0WHJMcDc5VmtpVXB2VjBHc20tQzAtaEZRRTlEZDE5RUhfY0tDc3RxbFNxdkNBbXZ2aEE2UjBJbkdiZ3pLLWgzTTNHQUtka0djZEk4YlBqdnlxOTY1NFNJYzZkamFvek1NVy1DcTktSw": 1793025933.3217628,
@@ -4374,6 +4361,7 @@
 "CNN|CBMisgFBVV95cUxPT2ZSODRpRWZhUEVGWElHWXdEakFfU3hFMnZSTzNlQjV3ZEhSRFFSWlJ3ZzJhM0E0UnBoOGxZeEdFOTBfNDBuSGljdTBfOGJuamllZmhJVWZVZnhaVTRHOG95N0tOSW8zTUJNR09zTEp6TE10bHdrdU5rT2FueDJqS0xxdkpfN3VJcEthd0hUbUFFWjI0bXRwM0xSVWVBQU1yT2U2UVNURTZWb1N0VUJFdlpR": 1792965505.8590639,
 "CNN|CBMisgFBVV95cUxQQk9PNlRjZFZaR3ZlYkFYOE43UmI0YU4zSWhldWIyYWtWdW00czhucWZIYlhva3FpWi1zQjJRMGM3N0s2UHZfU2pXcXdCUkhqLVAyQWZkejhRTGlxa1ZZOWJiTXlpcFZhNzdSd0pYT1J4aWhuVWdiNzhTaXhUeXVpUUdQRnJYT0I5aHZxSExIend4RGJ4dnlSOTBtZ1pzUVdfYlhCaTJoUVNQcFhEWlhaTm93": 1793046634.4248857,
 "CNN|CBMiswFBVV95cUxNX250WGNmOUw5T01lRmNodGkxSHZBcUg5cmJWQVBmV1J0V1pzalNLQWlLd3I3SHo4WDg2SWhobm1pNGhLX0Z1M0RWTmpHdzYyNGx0Nmk5TXoyOVFkemxrMGZwd1A2TE1KMWNWS3czZE9vOXFfcmtWV3d2TnRIRjVMM3VaSlFjNlFtTTB2Rzh6THlFOGtVVHpkMlB5QTZyc1FEM1Q0ZGtXdnBfUVlOTXJ6UzRXbw": 1792948525.3556616,
+"CNN|CBMiswFBVV95cUxPM3NPSWUtZTNpUzEzT2xkMWlDeXVhY1hRa0F2MTZNVkFIX0IyaEpkd21nR3pkcms2aDdXQmltVmZPWFRxckh6a0JEZDN1THBqeUdKQTdIU2dBWTdCWHRMNFQ4RTlSV2Z2Y0lSMFh3NGhFRkNhX2xMTUk4WWVIajUyZWlxNG1ZVWFJV1oza09GanUwV2tUYmszWjYtNFhCRW8tZDhwWWZOYVpMb0xUcDAtYnUyTQ": 1793072725.925812,
 "CNN|CBMiswFBVV95cUxPRXZKZmxxLW9rbWZKalB0eFhodFI2R0JLa1RydVkzVjBFcmdPM1FCTjROQ3pjOGZSbHhLYkR3dFVza2lVRmc4aDNzQ3JTZHJwWWRVem1PQV9DZGdRX3M5WjZ3R01FdXlUTjFsQll4YUxHSlNMcDRqZThGSkp4elFpYS0xM1RxSXk1eHNNX1BKaUpEWDJLaS1GNW1HemtCNTNvanUtNm9aZUdwaUlEVXVqeUV6Yw": 1792936834.8154562,
 "CNN|CBMiswFBVV95cUxPU1luU01HYmVqc2xaOUFsbHo3UXQtZl9CejZCd25lQmllblB1N2pVc245d2QxeTZhbUlQYnlaZGlyWC1tbmhTZm9ERHFneVlaTFVGR1dzYVExTmZ1ZHhmSkhDclNTM2tKT2NCMk9CX0tuMC05a2RwM204bktfdzNGRnBQZFd3a0tvNkFUMVNodDh3ZjBvVi1DeDdmRWEya2QxV3VyYW9wVDFuamthTXFVcVBQSQ": 1793042126.6168418,
 "CNN|CBMitgFBVV95cUxONXUyWUFzRk1PZzI1aDdpZ2dQY0k0cTlCOU9iX3duVXkxZml3cVZNVjdSQk8tMjdhVzRHVklfWkxTVXBDMjIwakdfb05iWHpPd2NONEJBNnREbFJtRmxYMmIyNzREYXNuYUJOemcwcTJvUC1qWnd0czl5c2U4dHNudDlFM1R3RWxzTkJ3ZmpSY0FaRktYRXhKZDd3QlYtQm9Gc1RScnVfdnRadDhDSEd1aE1hbXhsdw": 1792912921.1568482,
@@ -4609,6 +4597,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html": 1792937725.1038725,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html": 1793043032.0944161,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/violences-de-militants-d-ultradroite-en-marge-du-24-octobre-plusieurs-enquetes-ouvertes-a-aucun-moment-la-police-ne-les-a-proteges-defend-laurent-nunez_6800799_3224.html": 1793028637.2954068,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-un-homme-condamne-a-de-la-prison-ferme-pour-apologie-du-terrorisme-en-martinique_6801083_3224.html": 1793072725.925812,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
