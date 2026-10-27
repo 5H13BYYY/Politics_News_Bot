@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRIT3d4cVdiZ2stSmhyMjRvck9uYThSTlR4eVIwSmFHMDJHblJTT2laR3IyS1R6dmpWN2tOZEtsQkx3RTN4REdxcFZlNWFIT1pFS0VET3lxS2I1aVN2VHdOU2FDa2pSTVYyUXM3YmV0VkRFNmFHc29mcm1YVHNRN0pqQ3Vzb2M5czVhWnVqY3N3dWpHMGhGOURlTm9NSmhCc2ZoUklseWYyWUNWVklQczktcXl4TmxfQWU5ZjVZVTc?oc=5",
-"src": "Reuters",
-"title": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report",
-"ts": 1792998583.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd29zTzc4XzJ1dmVYNkJkaVUxMERuVUhjRGZWWUI5RURGV3BxWWw1S1BHODlpS0xFOWotenNSMHQyMHJtVDVkNHdYb3FtbnpSMWE0WXNKLVJBLUxtQ08zc3VvY0Y0WVhxbklRVFlSRFJJVU9XTzdhcTRBSVBRcUtJVkhNaElrU0lJTGJZc2YxeWFOV1QzaE5tQ3pSZFB1MFhCa0dsUERmQ0dYbm5lX3hGX0Z2ZnpBay0tQ0R6TVZQLVJ4OXpEUkkzU2hyam1mQXBS?oc=5",
-"src": "Reuters",
-"title": "Focus: Chinese beauty brands, flush with success at home, start to vie for global shelf space",
-"ts": 1792998703.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
 "src": "Reuters",
 "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win",
@@ -202,13 +188,6 @@
 "src": "France 24",
 "title": "L'Algérie va envoyer des soldats au Niger, un déploiement à l'étranger inédit depuis 1973",
 "ts": 1793008813.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlFVLXlFQkJKVEJKTHMtQ094bGZSVEtXSDdNYW1pLS1kbnBJem9BelpEN3lMNGVjN1hhZGlpRkt2RUxRNTE4bEVqNGxVeUtuYmx6NTB1U1NtMDc3UTFMQlpfNGIzb1hXeE1fZzZXbFFhZEQwQWF5aWFFZGp0X0xIT3ZBQzRsaHZlR2x5enBfcDdER0RPXzdsVmxOTWlSdl8wMFFCWl80dmNwTlBiUkw0TzB3?oc=5",
-"src": "Reuters",
-"title": "Philippines defends bounty for fugitive senator wanted by ICC",
-"ts": 1792998418.0
 },
 {
 "lang": "en",
@@ -4500,6 +4479,27 @@
 "src": "CNN",
 "title": "Does Red Iowa have the blues?",
 "ts": 1793126880.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEF1eVg2dldmWWJjaXJHTkxTeWlrU080UldSdDNCazJpWnFMbDIwa2pmN0JhOTJfbFJKS0tqNWVwRDExUEtKZUJIb3kzNGJoM2h1UFFiMzIzcWprMm94eW9qMVVfSC1jX2V4N25xRzlydkQ4aklQaGtLdVhrNF9jX2tFVXh2SlE2cjd0bTZ0R3FXOFp1dFE4bWJROHpGNDMwdW5GX2FwcmQtV25FN0FOSi1ETQ?oc=5",
+"src": "Reuters",
+"title": "Israel's shekel jumps to 5-week high amid record election turnout",
+"ts": 1793118000.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
+"src": "Le Monde Politique",
+"title": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+"ts": 1793127604.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "What do we know about Chancellor John Healey?",
+"ts": 1793128351.0
 }
 ],
 "seen": {
@@ -4598,6 +4598,7 @@
 "BBC|https://www.bbc.co.uk/news/videos/cmrlye70nxnlo#5": 1792982725.406159,
 "BBC|https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo#5": 1792985432.7294014,
 "BBC|https://www.bbc.co.uk/news/videos/cqj9ky23ymwro#5": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo#5": 1793128528.0402112,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service#5": 1793100633.0510104,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet#5": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#5": 1793072725.925812,
@@ -5372,6 +5373,7 @@
 "France 24|ffa02bb8-d233-11f1-8d31-bfc6bd0ccdec": 1793126729.8237443,
 "Le Monde Politique|https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html": 1792989924.9740305,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html": 1793128528.0402112,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html": 1793118633.9665923,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/24/en-images-manifestations-du-24-octobre-un-dispositif-policier-important-des-premiers-rassemblements-assez-calmes_6799697_6717263.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/la-discipline-budgetaire-et-l-ambition-productive-ne-peuvent-pas-etre-concurrentes-la-france-a-besoin-des-deux_6799700_3232.html": 1792912031.9234908,
@@ -5578,6 +5580,7 @@
 "Reuters|CBMiZkFVX3lxTE9fV2pqY2xkeGhrdjZfRHRvOEptZnVIRU9teFl0Nm9NckdaaHl2YUNLaU1QODRRVzNqNk9sLWlCNXVfX1JKSnpoaVd1NkV5MFdqRjhRTG50clZQN2ZIWUNFenZRWC0xUQ": 1793053832.2624676,
 "Reuters|CBMiZkFVX3lxTE9kaU80MXp3UTJfTXpLMmhJdW95UWg1REk4aW0tTUhmUThrWllqTFE5d2UxWEtoNmtzaVB6cTRPeGNqVUpMcGFvTXhyd2pUMV9MaW1QbEg4Y1NtdUhYS0xxUWJ2ZWJEQQ": 1792957524.7672071,
 "Reuters|CBMiZkFVX3lxTE9lLXVlZEQ2Z0MxY3huY1JRUXdveEJZZGJLWjRRRExMeFRsQ1NiQUR2M2RCQ1p0djVRbl9vLVVCajZMRDVUSnRCR2VmZUJfd3BHcDdnTUpFUVgxeDBKcUs1UWREbXY2QQ": 1793052036.5986388,
+"Reuters|CBMiZkFVX3lxTFAtQUZtTkZ4VUVjR21teFJST195LTVWWDVxWnZUTVFsVVBmSk9lZ2UzVDRqOVNhQWR1N0l1NURaZWhsOUxFLVh1NS1TUVBkMTdpZlBwcy1VMmpPZWhkWjJJbzQ1bW5adw": 1793128528.0402112,
 "Reuters|CBMiZkFVX3lxTFB6STRYOGc0aTZXUV8tWG1CN1Y2LUxKTnVPckg5QlJ4WTcwTmNDQlczQnpjcWlFRjM1MVRrTnBtUWlzTENvVnF4cVZibDg2Wm9WSF9yWktweFN2WEZrSzBISGpfR2I3Zw": 1793023247.452176,
 "Reuters|CBMib0FVX3lxTE9ZX1UzSU1mZFFoc05FelNZanRuUXhYamNKNkxMdVZHdmRiR3hNd3BKNXo5S3VrM0dzck9fdnhwYjJ1dGNRTng3S0pqSWloN2F4MGttakZSSTByR2h4eENZQXY1QXJTS1A3bFhxSDRrTQ": 1792912031.9234908,
 "Reuters|CBMid0FVX3lxTFBFNDFna3Y3eGt5dVk2cER0cG5uY0JFbmlzRmEtR0p5M1ZNTWtBQVZGOF9tVzBrTHV5bDIwU2o5U0lIcjd2LURBMkx5S0VmczV0Q2theS1uYVNUdVRLZmJSUlZCUUlHV3RIcEFwTTRia1MxbU1fS3ZJ": 1793023247.452176,
@@ -5814,6 +5817,7 @@
 "Reuters|CBMiswFBVV95cUxNUl8tRDdjZWRsQkljV3FheHEtN2dyWUtJb2dhY1JmNmhGSU5ZaVZRYnF6SDhIaDN4eVZVd19JSFRlWW9MSm1jQ1NYTEtWOU5Eb2RrVE9Ua2lZLUJCSC1Ya1BEYVFkX0tNVkh1d2RFZzZfX19ZQTEyQ0pYSEs5eEJfcXF6ODk1Y293SUMwWW5TZVhRNWZTaTlxQXdHcGNuX2ZXbjU3ckNfMXNkTDNfWTQ0Zm5INA": 1792933239.4215345,
 "Reuters|CBMiswFBVV95cUxOMHVaa0dtU1RzeGQ3ZEhYLUVIV1ZpY092c1JBdE9tVE5xbk8tNDZpbF9GZDkzdG9mUUxOaVV1ZjBvYnFCV1V5WVFsa19xdnp4Tmc5anppU1pVbGhwYjdyeE9ybGFnc0x0MDZHVHA2SndrNnRyQWdhZFlRQXJwREh0S042cG1SeHpjUHJaWnNkcHdMODMyeUNacDN4aGZob2hhcUYzM2tJdGVpNF9wRG8yc2tRUQ": 1793010634.9602375,
 "Reuters|CBMiswFBVV95cUxOQmZfSEd2M2Q2WHRLYkNNX2Fyc0hKd0ZVTHotOTFaWHdtME11T3d6cXFwQkVtOHp0bDFXemg2Y2VvcndhT05CeUdRdGcyYVhtVDdWOERkTHRpVC1kMWJyaTJ4aXdYV2NuSDNscjFwd2cwZ25XMFoyaXJXOW15WGdaV0lwMUtOc2hzZHNBX3N4WmJ1VFJEWVRkTllpU3lWT2VaVFNsMWVmNHBULUZseG9rcmxpNA": 1793094326.252802,
+"Reuters|CBMiswFBVV95cUxOVEF1eVg2dldmWWJjaXJHTkxTeWlrU080UldSdDNCazJpWnFMbDIwa2pmN0JhOTJfbFJKS0tqNWVwRDExUEtKZUJIb3kzNGJoM2h1UFFiMzIzcWprMm94eW9qMVVfSC1jX2V4N25xRzlydkQ4aklQaGtLdVhrNF9jX2tFVXh2SlE2cjd0bTZ0R3FXOFp1dFE4bWJROHpGNDMwdW5GX2FwcmQtV25FN0FOSi1ETQ": 1793128528.0402112,
 "Reuters|CBMiswFBVV95cUxPNWJ2OWRpallGU2R5N3MwSUNJeERWd0MxQzAtTkFvWHhyUk1IbVZEQmc2QkZkWFFMZ3AyVzg4dC1SUmZRbldFOHlkcjNGX0Jxbkx4OW1ObEJDSldJUmpEUnFwMERydXRielRNdDhoc1BVVXZxWmtvRk10blNVN3Vkdng0ZllBczZ5MmRoQmdjeHFHVVVxc3h1Z3Rvem00OHhQclNZd2F1X1RISkFZWC12UnFXNA": 1793007925.80866,
 "Reuters|CBMiswFBVV95cUxPcVlFZ0d1WHloRlFVVjA1QlowLXNHUGY5bkhCRVgzeEt1aG1CS09DY0R4S0h4cWJUY3VNb3FQY0wtZEFvQUhVdE1DY19KWC0tb2MxM3J2VDg2a2JJTXR2UWU2cF9tMUhPWXBQcmtpV3RoOFJYNFpBRmUzTHZZaE5wcG5IdHNFTHZuNzhUdGxTNVpvUmRzcnRGb29USWZBSHkwZm5ZYlhEMkxOdElTZkZWWVhBRQ": 1793034009.146361,
 "Reuters|CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA": 1793109642.2235074,
