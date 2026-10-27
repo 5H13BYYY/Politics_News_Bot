@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEJMMGdRVDJoVkVSSGFSV1FvRmJMTy1LWnZhMWRzeUFjNlN4QUFKQ2tZc285cEs4akdIZ0dvZzJtSTBWU3ZwX1VGX2l3TllKVGxfNnh0Vm5rOTVtX2JpLXhwOXdJTEJURVBjYjRLS3hWSHk4bXBCT3lIWmZGMS1YTE5WQmpYVTVWcEk3YnE3WWV6anVTdElYUlV0Q3o4cnF2N0Z1NXJlazBvcG9L?oc=5",
-"src": "Reuters",
-"title": "Trump says Canada tariff deal coming 'soon' at Michigan border rally",
-"ts": 1792972582.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0trLWxfVngxTXZ6bG1KQmRScmRXODNGd3RsYjRLMnBDSUU3U244WUcyS25RcVVXVEQ0M1k4TVIxM0psOFZfeWRLNkJIenVHWHhwM1NRYWNreEJUUlRBa0lWdE1uMFNZR2hKZFhDSFlEeFByaF9CMUJJR0NEOV9KQmR6OW1tWUFlVGVvelF5VTQxWFE?oc=5",
-"src": "Reuters",
-"title": "Libya summons US envoy to protest at Trump remarks",
-"ts": 1792972800.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1",
 "src": "France 24",
@@ -118,13 +104,6 @@
 "src": "Reuters",
 "title": "Opposition leader Machado greets supporters after returning to Venezuela",
 "ts": 1792979713.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVBwV1RGdGc5bVh2czU4NVZ5QW9DYTBOZWRkLWIyZENPRkhFTWlLenMzVC1IUmx5blNZX282VEZRZzh4N3dJY0J6WEZZNXRKTlhhUURkNkhyN1JXek15dDZIaHh0MDc5bUh4dnFqc0lrMUZOTjYwd2szbVhKZ2JKd2tIQzAybGU5dlZ3?oc=5",
-"src": "Reuters",
-"title": "Transcript - Reuters",
-"ts": 1792972800.0
 },
 {
 "lang": "en",
@@ -4143,6 +4122,41 @@
 "src": "France 24",
 "title": "Un an après le massacre d'El-Fasher, les réfugiés racontent l'horreur",
 "ts": 1793101082.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJHODFPMnZXbnd6MVNZNm12Ri03S2kzb0k1SEpGYWhKeDNVbGxyZjN6NEhmV3FsQ01pVWY1ZGV5alFIZjFVcS14V3MwLWZ3Mm1CS0QtdThtUXdmNWlJUllpWWFlTDNEelg5T1cyZ2phODFhNGh6UHA3NDJuR0lZVk16UGMyQnRNRGc?oc=5",
+"src": "Reuters",
+"title": "Israel votes, Maine's tight Senate race and Harry Kane is crowned",
+"ts": 1793094960.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFl4TE1Yd0VRSmxxeHdwU2k0dmpDc3J4TVBNenF6Rzh2SVdCUFg1ZU9KSnA1ZE1PVzh3OVJ0X2JCREFKekF5X21FTU9TOEFJemRncVhVOTlMWldTR3pGemtFc3RUSXlvWnQzNWlqbkFDa2U0a3dJcm9zdDQ2S04xSFprXzZtdEF6djdFTUthdW93aDN5SHoyVDZfYWZCQTB5MXFYTA?oc=5",
+"src": "Reuters",
+"title": "Pope Leo to return to his adopted home on South America tour",
+"ts": 1793100712.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-mobilisations-lyc%C3%A9ennes-le-gouvernement-%C3%A9voque-le-remplacement-de-parcoursup",
+"src": "France 24",
+"title": "Mobilisations lycéennes : le gouvernement évoque le remplacement de Parcoursup",
+"ts": 1793101529.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-risque-extr%C3%AAmement-%C3%A9lev%C3%A9-de-nouvelles-atrocit%C3%A9s-au-soudan-alertent-des-pays",
+"src": "France 24",
+"title": "Risque \"extrêmement élevé\" de nouvelles atrocités au Soudan, alertent des pays",
+"ts": 1793101954.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html",
+"src": "Le Monde Politique",
+"title": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
+"ts": 1793102220.0
 }
 ],
 "seen": {
@@ -4270,6 +4284,7 @@
 "CNN|CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ": 1793016042.671506,
 "CNN|CBMiU0FVX3lxTE9BdGl5Wm9JWmZDVmtPbVZQdWpFOHZVYVhhdEJMWHFUZnBuN3RRUE9lY1pYVUN4SmlXRlhIRHZLb1BvQ2VJR3czWk15VW9SanAzZDRj": 1793065523.9823225,
 "CNN|CBMiUEFVX3lxTE1iOVJRUS1kM1pHc1BlSWtYV1FUOEZVVGlnSk1jTDVJVDVVd0tyQWpNZC1iSzdDd1RsaGpsM05KU2YzZENIRFZGeEpROElLbXhC": 1793014238.150534,
+"CNN|CBMiUEFVX3lxTE40a1NWdVJtNGdyYTRzY1FlOHdfTmFKZDVGNFNaTi1tb3VqOHN4NTlFd1BxN1FpQ1ExOFV6bUk4TGhjakxPUDdFZ3V2V3d3VFZs": 1793102444.1008482,
 "CNN|CBMiUEFVX3lxTE43Sm80X0xVRXpkbUZIenNNU1FqVkNBNjA1ZFR6a0szN25iR3FFc01nYmNraFZSZVNBSk84ZmVpV0xxcnctODJCLU9vSkFrWWNK": 1793009727.4528742,
 "CNN|CBMiUEFVX3lxTE9SYmJDZmdYamJZM2g0dmgxclVLUWRnbGY3MkZkcDBUTHhDMmM3UXpkZ1VyVUhBeHZKRTdOVEg5MTNBZHZ1UTVMQ1ZFR3hKb2Fx": 1793091638.8723116,
 "CNN|CBMiUEFVX3lxTFBwZHlzQjQtaFZtTzR6akUzVzU5aURQRm1naTVDQmNvRXE2TmdTOUJtODkxeC1vZUprcHpPbWhlemhaaUdNMWlRWTRBUzZWSmVQ": 1792972841.7553523,
@@ -4769,11 +4784,13 @@
 "France 24|22c420e2-d151-11f1-877d-67a0d7221302": 1793029529.2200255,
 "France 24|23588a7c-d12c-11f1-bbab-b7a4d70971b5": 1793017836.5340102,
 "France 24|2848480a-d15f-11f1-9a42-875642791a33": 1793038528.9639344,
+"France 24|29b48b5c-d1f7-11f1-95d8-d9f88df59b74": 1793102444.1008482,
 "France 24|2a256a5c-d134-11f1-98d6-55fb6792a609": 1793017836.5340102,
 "France 24|2b4f23f6-d12e-11f1-b8f7-cf57fadada6a": 1793023247.452176,
 "France 24|2e8dddd0-d045-11f1-b748-abcfab6b7901": 1792925608.8006206,
 "France 24|2ed32642-cfd7-11f1-8a78-7980414e8751": 1792912031.9234908,
 "France 24|31eab17e-d18f-11f1-9293-9795f98ed74e": 1793055639.8065987,
+"France 24|33b734b2-d1fa-11f1-b8a3-717de82e031d": 1793102444.1008482,
 "France 24|34d5d1b4-d17d-11f1-875a-5921263a3e9f": 1793048443.460441,
 "France 24|36300328-d186-11f1-95a8-1bd8fcb5712c": 1793052036.5986388,
 "France 24|3635c73a-cfca-11f1-95a6-61e6437b898d": 1792912031.9234908,
@@ -4832,6 +4849,7 @@
 "France 24|87ddc03c-cf12-11f1-82c1-b94b09ade009": 1793013327.7299454,
 "France 24|882180a8-c876-11f1-a6a6-4ba086e41259": 1792925608.8006206,
 "France 24|897bb202-d159-11f1-a3b6-1da06aeafcfd": 1793034044.801758,
+"France 24|89cb71a4-d1f2-11f1-a3c5-fb04ba085a26": 1793102444.1008482,
 "France 24|8dac7e4c-d154-11f1-9820-d1915a72d125": 1793034925.3473341,
 "France 24|91314e5a-d120-11f1-9552-6b78f848a2be": 1793008843.1617062,
 "France 24|926e7bc6-d1de-11f1-b31a-816eb48722cf": 1793089835.1308231,
@@ -4900,6 +4918,7 @@
 "France 24|ec838df6-c0c0-11f1-8e40-d76f611e433d": 1793071833.365202,
 "France 24|ecb7c90c-d1f2-11f1-a922-655c6109444f": 1793101527.3223946,
 "France 24|ed310e4c-d1f3-11f1-b412-57b309f414ba": 1793100633.0510104,
+"France 24|ed5dd30c-d1f1-11f1-b3f9-8b26c08659ae": 1793102444.1008482,
 "France 24|edc47fb6-d1cf-11f1-8d7b-3b0ecbc3576b": 1793084438.571977,
 "France 24|f096e032-d132-11f1-82a4-fdebef7242c6": 1793016926.187019,
 "France 24|f47614f0-d1b1-11f1-971b-4b711682a279": 1793070041.9295363,
@@ -4961,6 +4980,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html": 1793061926.1457267,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html": 1793102444.1008482,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisation-lyceenne-et-etudiante-il-faut-reprendre-le-travail-exhorte-le-ministre-de-l-enseignement-superieur_6801224_823448.html": 1793097929.898054,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
@@ -5122,6 +5142,7 @@
 "Reuters|CBMiigFBVV95cUxNWlNYdXZFSVVub19GWi1BVW1wTTNpWGtQUTVrUHVDMjZsTmE4d3NiZndYUDk5TlhjNDFuWnYyUWxoT2FGbU1DcGt1ODdLOHRBMjk3ckZzZHFsMElhbGx1Q0N0Y1h2akRtaDJpV28xQXlBdnFyUWFhc1dHTDVzQ1NPRnh4bDJIbi1vSkE": 1792912031.9234908,
 "Reuters|CBMiigFBVV95cUxNdlRZRzR2WlExcTdLaHM3X3V0Qy1Mb3RJZGJISFE5Tk9ueEMteEkyR1hkb0ZaejRZVTlKQ1dJU0tVZ056U3BESDZBaTBGRldpWjc5clA0azVhaUNyRS02VjdlZ1NBZ0t5dVNWREtELWtZSGtGeVp1dVhIal9ZX0FWanE3Vk9zSDRHRVE": 1793079032.3150072,
 "Reuters|CBMiigFBVV95cUxPVVFOQWhMMFdDRmN1LUpSTTdKYVFsZFltc3Z4czY2WEl1enNtZFhUQXVNWU54Q2F3ZGdpcnFENWVyTFNkcWphTVpNNm5aYkZIV2FLd3U1a2ZBQ3RfbFNxc0RaV0FpYm5XUUh3VDFsNmdTQkVXMVgxOUVSQ096NXNOMEJyRjVKQ0tVdnc": 1793008843.1617062,
+"Reuters|CBMiigFBVV95cUxQQWJHODFPMnZXbnd6MVNZNm12Ri03S2kzb0k1SEpGYWhKeDNVbGxyZjN6NEhmV3FsQ01pVWY1ZGV5alFIZjFVcS14V3MwLWZ3Mm1CS0QtdThtUXdmNWlJUllpWWFlTDNEelg5T1cyZ2phODFhNGh6UHA3NDJuR0lZVk16UGMyQnRNRGc": 1793102444.1008482,
 "Reuters|CBMiigFBVV95cUxQb1NTdzdueURFOXNDa19BOWJROUhoY3l0NHMzeG9EbnJpb3RjTlF5WjRXNnozb2lIcnRRSVBiSFVtckljaG0yc1Z2OGRNRnZyODRsYnZkeWJ5SENtOW9pZUI0YjRiUUQ5RW1pVXlFaE9PMnFmMllSMklwNURobFRPbUZjanRXUmFocGc": 1793052925.6166203,
 "Reuters|CBMiiwFBVV95cUxNRTNSaEwxV3hGdnZUajFpTmc1WGNMelBmUEtGRjVnR0MyR19aV2ljdXZzVVptc2c4c0Qwa0RJbnBndHRlb0txcWxyenZzWXVuNjAzZnhvLU1Gb21NYzlwRkFGTmg4YzhOem1JemlzNC1VZlN5Tk5SeDI3U2VRV01FN3M3N21FUXpCWUdv": 1792912031.9234908,
 "Reuters|CBMiiwFBVV95cUxOMEdPZWs5TU5CcGV6R2d4cU5lc0JYclNWUjlZaHVBaGx0dHJZaFpKbjhIcWI5YmY5ZVpic3pLZmp1cFVGek1nbDk1UGhsbUxySk9IVy1DM0ZTV3RwcldwWDRGMU90LXBtenNYbnYzbXVNbEZ0STE2VTFxQU5Oejl1YzJkWDVFU1NHR0V3": 1793097929.898054,
@@ -5209,6 +5230,7 @@
 "Reuters|CBMipAFBVV95cUxQN1hYNUJPOFhCLTJlZDBaaDBfS2I4NFlRd0NVRzg0ZHJ6TmR1dk1SN3AxTVZSTW5Wd0xxdjFhcER1YUxvbDNFWUNwSHVLa0pyNjNVZHlwYUJKem84eExyN0YzQ0ZReUJjdXFSSnpRRl9JWUVUTnZlWlFwd2daMTVSUmNmeDJzTEp3dWg3d1RrOVB6RklDYlQ5WmFZalprMzlDTXNRSw": 1793041244.0144668,
 "Reuters|CBMipAFBVV95cUxQT3ZXaUtRQnRhbF9QdTF3VUd4ZW1uZTA2SmZtcS1DRmJzQTB2WlBEQWNUb3NEcXU0RDQ1RHRVRVFSYkprcVRUejJ4d2hsal95d291VE5Qb2ZveV9ySmdwaUgxcDAtdmJmQTZZcDVWSGY2RUVjU2FxY3VJaFM1SmFDalFoanN1QkN5ZnN4WGdCSExnUHdCb3BNT3hIR2d1aFl2R0VvWQ": 1792981835.7196357,
 "Reuters|CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA": 1793048443.460441,
+"Reuters|CBMipAFBVV95cUxQZFl4TE1Yd0VRSmxxeHdwU2k0dmpDc3J4TVBNenF6Rzh2SVdCUFg1ZU9KSnA1ZE1PVzh3OVJ0X2JCREFKekF5X21FTU9TOEFJemRncVhVOTlMWldTR3pGemtFc3RUSXlvWnQzNWlqbkFDa2U0a3dJcm9zdDQ2S04xSFprXzZtdEF6djdFTUthdW93aDN5SHoyVDZfYWZCQTB5MXFYTA": 1793102444.1008482,
 "Reuters|CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR": 1792975528.6344075,
 "Reuters|CBMipgFBVV95cUxNYzAtaGUxRkFmZWduUjdDU1kydWhxVUJON2hZNWpYYkU2TE5neUdmLUROb0xEX0ZyNWxSOExEcHpWOEVETFBIdkx6SlNzUXgzbEZRQnBJc2ZYQ3pERjJONHVVVFBtZzgtSGd0NFhPZkVpV2NablZqamd6RWFYWjJLY3VfemE3VGFHMlpVTHJqU3l6UVhvUV9GSm52b182U1phUGJYbkxR": 1793101527.3223946,
 "Reuters|CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR": 1792925608.8006206,
