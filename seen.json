@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
-"src": "Reuters",
-"title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win",
-"ts": 1792999139.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T?oc=5",
-"src": "Reuters",
-"title": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
-"ts": 1792998995.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUZadFp0QWhXelhQSkdYd0FWN0JiczVaazZJZmhUM19RaTZERmg0ZnFSUFNlaVhTQ1plYlNhLTAxWnhRU0p2MU1KaXNlV05iMnVNZlMyYVZLcWtJank2QmpaRld0dWhoUFViOWNELXl1UHNfSnpzRnByZk94bnlQbjdJYm9uc0JaSHFBYlVzZmNBUEdGR2w5X3FKVnZveEZRWWhEQmZ3?oc=5",
 "src": "Reuters",
 "title": "UK's Burnham says he agrees with principle of migration reform",
@@ -363,13 +349,6 @@
 "src": "CNN",
 "title": "Covid launched a new era of technology-led learning. Now, some parents and school districts are ready to toss devices",
 "ts": 1793010615.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1FFNVNXLU1fbUd1NzRQT2wxeWUwRWlQU1M2X21RSGhMMzB1dzl2NmpZVG1HQ0I4RzZHRHA5elBfSHRvUmFDdWZLb1AyTERDVkxmdXJsR1ZORkQyZ29LVjZrWVl1TzcxNXFqNTRXOGp4cDZiSllBY1UzRnFsNWM2bkJwd1FUSlZDUzFoS2RRWE9XZHExUUUtSzBrcWNIUDVpZjRZ?oc=5",
-"src": "Reuters",
-"title": "Mindful of the markets, UK's Healey is set to deliver a careful budget",
-"ts": 1792999366.0
 },
 {
 "lang": "en",
@@ -4500,6 +4479,20 @@
 "src": "BBC",
 "title": "What do we know about Chancellor John Healey?",
 "ts": 1793128351.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSC11MHlibktfX19tMVBsRkMzUFpMdjdZYzY1eEZhd0hMSWRYZ0pnenFhTlRGeG5uQ1ZsSll6WUZNeWNhT2M2SXBaN0QwczZFRU9Lb3h3MlhPTUJ4UTVJSUswUHFpeko3ZDRVQ0pua1UzeVVtSTRaN3NQUUlkQlk3SjdidVBUSzhSc0l5cS1qUlRDbTdTLUhRVTJzYTZGMmc0VW9NaldVOXltMU9tUnAtQUlRaldISzlLUHVWZHYxVkZVUG5HWHZUQUhCVUdEU2lQclV4bDA5Tm9Hb2JrRFkw?oc=5",
+"src": "CNN",
+"title": "Former AG Eric Holder reacts to DOJ ramping up its deployment of election monitors across the country",
+"ts": 1793123216.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Edouard Philippe estime que « l’échec de l’intégration » depuis « plusieurs décennies est incontestable »",
+"ts": 1793129062.0
 }
 ],
 "seen": {
@@ -4617,6 +4610,7 @@
 "CNN|CBMi2AFBVV95cUxPLW0ydkRYdElzOUlPVl9jR2cwX2U2dm9nM3dJU21zUTZ5ODV4bDRtdldsSy1WWE00WjlUdWFZeGFraUdZQmxTQkt5RjVCRXIzRFo4UXlnVkxuLTN2ZXlvTFNBWWZpTlRfZzlsWm0wZzJXWVFoajZ4T0I2NEw0SlpjaDU1Tlk5NHVGeDdXNkJxQVhzaFBmSy1nZ3MxNDNzWlNJQWo2dGlFLTE1VFNtaVJacl9TMWNMQk5EaGp2ZHdic3c0a3pUUnl2QlBvVmdVaGpUOU1vcThIYlg": 1792925608.8006206,
 "CNN|CBMi2gFBVV95cUxPZW5tOVBmdW1jVklaWGdaeWE4V0VoZGFadkVKLVJ0bXF4UTNFNG5jSVVIYkZWaW1ZZ2lUcDdzSlY4STBNM1VrVzdtU3EzOXU3WFI0VXMzb1A4S05yVklVUGZrQzRacXFtamxDSF9EUHduYW9oZjVDcmtCVDdPc1VxZDJDSWsxbE1hWXV0aExZMmZTbTF4NDd6dkRCX3hrTUVWUFFHMFBLYktTdUlBU0FDYmdFWm5FeDhpdVczcXY2Ynp0LXZZdTExZ1Bkc0VWMEhhNmNSUlFoNGpRdw": 1793124928.0361907,
 "CNN|CBMi3gFBVV95cUxNVkFKTnJpc0xSLXBRMTcxVGttYkZqbGdtUWpnWGRJVnRmLTlJVGtBUHJVS0xXMjhvMXlrMHE4UmhrSmEzSWdBcnRva2VoN20wTHlTbFJ1Y2NGWUl4ZVc2dUx3amVueDVPRjNwR0hoanBFamltbEdDRlFhclFleG5FckIzVGxMd29vZUUzaWRsRFctRHZLZ0k3QXZISjJERG96aVI5bWdNcmZzVmdnanZkRjl1RWlGVVFZU0NCRlJac0tmYnpqSnlkU0gxY1EtWmItRWRudlpfNVJ6ejhRRUE": 1793112328.6785605,
+"CNN|CBMi3wFBVV95cUxQSC11MHlibktfX19tMVBsRkMzUFpMdjdZYzY1eEZhd0hMSWRYZ0pnenFhTlRGeG5uQ1ZsSll6WUZNeWNhT2M2SXBaN0QwczZFRU9Lb3h3MlhPTUJ4UTVJSUswUHFpeko3ZDRVQ0pua1UzeVVtSTRaN3NQUUlkQlk3SjdidVBUSzhSc0l5cS1qUlRDbTdTLUhRVTJzYTZGMmc0VW9NaldVOXltMU9tUnAtQUlRaldISzlLUHVWZHYxVkZVUG5HWHZUQUhCVUdEU2lQclV4bDA5Tm9Hb2JrRFkw": 1793129432.5301433,
 "CNN|CBMi4wFBVV95cUxPc1RhekwxWDR0U1I5M1FVOGdCbVlwN21VUTRrUnlydFdYdkJxTGpGZmRTRWp0NWlBbGxqMlpLYnJGZkhxRVgxMUp3VEoyUFhadmdtbm5ia2hrUlRYQlJNaUxpVm5iajBqaU9hY0xxUE9xYWJZcm10a29zWXh6WERKYTR0dzRuVnFuMGd3bmpLM19TdGFJQWgzRzBuSFJKdTN3eXBqX2Q4OEF6eW5lN2tpU3pXQ1hOeWJ2TVJLRlBzS3Eyc2Q3SHhuRFA2NUhQd3BMNVg4TnlYamZJZHVqOVJzaUhocw": 1793020526.6017363,
 "CNN|CBMi6AFBVV95cUxOQXZuS0s3RmVEQ2V5dDVJQXo0QkQwaTZCdTh2dnZRcHZvcGg1Si1zbjRXZ3FOQ2ZoUF81a1VscWoyZlZfeXBxb1B5dU9JbXdsVU84cFN5a1dpVFVvQUlzVE1iY0hDZldCMWN6T3htSWlSc3YxNVhER1RNWnc1bUpZMGJVVmVaR1JVWVRZcUd6TjZIZ3JfSVJHV25IZ2ZZYmtSd3FSQUxqQ1I1SmZTYmZqcFhhZEJMRzB2VFNqekZCb29lTXg5SlRDWkVlbUFYbzRZd0R4cTFoVi1sYzNJUUljQ00wdHJlTzZj": 1792953030.0753758,
 "CNN|CBMi6AFBVV95cUxQU3duLXZPaE55NFAyR0UwRlc4MjFTZ3FiaG5sbEt2UGFDZGZuc24yWWcwOERPVkdlcmFaZ3BtZkNibmZXSG1hN1VuZm44cHFMTnpDSVJ3c2p6bWJfR2IydGlHc2FHclhmRVhYVXkxSlF1d1RmeFVOQW9rQ1RzUHdkU3NtdDN5SWt0eFAxcHdoSnJjYXZLQXY1UTNwSkxyZ0ZacWY5ZVRFbVpNQWV2LWxCMXJUSlpEc1dYanJscC15dnJ4akhRNnRUa2p3dVZoOWw4dVlFMmFqeVhELUJoNEdCM1NiQndqVVpN": 1792932324.948729,
@@ -5432,6 +5426,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisation-lyceenne-et-etudiante-il-faut-reprendre-le-travail-exhorte-le-ministre-de-l-enseignement-superieur_6801224_823448.html": 1793097929.898054,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html": 1793122233.7589803,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html": 1793129432.5301433,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html": 1793126729.8237443,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
