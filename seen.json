@@ -37,20 +37,6 @@
 },
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-"ts": 1793082791.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXNibU5pSTUzT0lzWkRlZlNwS0ZHOS12dDUydHZaUmIxOFNQdW92Qmg0UUpuVG82MnlkZnI1cU5XRVA2TEZkTFA5TUxpanJiclVQaVpTQ0tYNEkwQnBqTHNpU0Fiak9sbzIxTzZCMzlJWjFrNmh2Q3lJMm9xRkxMVW95UlNQb2JxWXd1R3BKbDQyQ0NfblpNbk5paXdXS3Bjc2JJ?oc=5",
-"src": "Reuters",
-"title": "India to implement changes to goods and services tax from November 1",
-"ts": 1793082660.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGNpSXFlWUtPc3poUC1jaFpLTk1MOXlLTE9OSnNIT1BrS3BtX2Racy1rUGd0a21UcUJYcmoybGVQWWZZb2pVTmRhV2QxNndBNi1IeDg4OHhsMTFwTVFTbWozS0h2VmxsMG4wTTdmcFp2TUdVZEM5a0NFMklHeWN6TkN0QUVHVU54S2IwZWxxSU8zQVZGZFVqNVZLMWh5endBVFV3?oc=5",
 "src": "Reuters",
 "title": "Several injured in car ramming in northern Germany, suspects at large",
@@ -223,13 +209,6 @@
 "src": "Reuters",
 "title": "The ultra-wealthy crypto executives who are spending big on the midterms",
 "ts": 1793095667.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTBFVFJ4OTREU2ttYTFuUEZjUnROc3JNdnFidXoxR21JdVF2M0RBN3NmWG9wdl9wZy1veEZETVVfZkxZWDVNX3dkWXZMNGRTS2trcHRHeU5UWjNPdk9MV3ZKVFhCS0ROWFJ1OHd1YS1ndzVhTjVibzlzTnd6R1FrMTVQWGlTZ1J1R0hjaWw2OGxtdFRJUkl6bWVnRV9DQS1vN0N0SnE3MDExbUpmZWRN?oc=5",
-"src": "Reuters",
-"title": "Swiss engineering company signs deal with Venezuela's PDVSA",
-"ts": 1793083080.0
 },
 {
 "lang": "fr",
@@ -4038,6 +4017,62 @@
 "src": "CNN",
 "title": "Political deadlock looms in Israel with no clear winner",
 "ts": 1793210750.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "How much is the minimum wage going up by?",
+"ts": 1793199209.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0dEMEpkazd0LUl1SlB1UlJGMW42bWlxVTkwbTFBbElOWVV0bWVoczA4S3lfUi1TeEhfcmstWl8yYUgzRHVZZHFhNV9TYzRMVDIwY2E4ZnN6YWNic2gyS255Y1J0X3I1TUJoUlFETWdaajR1Ujl6UWlMcE5FN1ZhNVdqNHA0U1NzbDlFdzJJVW9GOG5ma2pn?oc=5",
+"src": "Reuters",
+"title": "Israel election ends in deadlock. What happens next?",
+"ts": 1793207734.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+"ts": 1793208771.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzR0akhER3FqcmVpeEJQTFZqYVdhLVU3U2FiNWgtMDdYa0c3em11My1ORnlEdkxCY3ZoWnVDcFZBZlgzY2Ixcm1ZREo2UlVXMzFTWUZEcnB1VWlRcTBzdVZsaDBCYUNTVnJhYlQzR2NSRlE2MkllWjR0NHM1MUdHZEFXWDFQdw?oc=5",
+"src": "CNN",
+"title": "What caused the deadly train crash in Spain? What we know so far",
+"ts": 1793210226.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Tax thresholds remain unchanged - here's what it means for your pay",
+"ts": 1793211144.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaS0wbWhFUnZjWnpiOTlxYmN4Yy1VazhZVUU4dE1OelktSTE0QS1nczM5eWxrTjZTdEVFQy1HZnZMcTNqSzlmQnp6VTFvU0dIMGpzSjlLV0tKZFVsdm1WcTkyQ3VzSzBYY3ducVU2ZEtrMjN3clZrblMxQmdGTW0xcnFuamJuREZCZzRTVDBXVnRfQXFham9nb0MySXRwc3ktM193U2t3TDRUbndGdlpqWG9xRkYwLU04NUhNQklTMVYzcTRXQzdjbUpyUQ?oc=5",
+"src": "CNN",
+"title": "Can Sen. Jon Ossoff’s influence extend to the Georgia governor’s race?",
+"ts": 1793212260.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tU0NHY3FSU19oNW1mXzJmQ3BmTTk1ckxMUVpUWFFUc2t2LVBoMzhIejdkUy1la1lpRC1Wa3BKOVQ1WFlYSFFmMmNCS3Flc0piQ2hsV2lvXzd3ZS1DbDJQZ296TUthdVMwQ2I3QkpDREl1a21wODhRdkxR?oc=5",
+"src": "Reuters",
+"title": "Serbia's Gen Z protesters are choosing a leader. Meet the candidates",
+"ts": 1793212425.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Burnham rules out early general election in next 12 months",
+"ts": 1793212902.0
 }
 ],
 "seen": {
@@ -4093,6 +4128,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo#1": 1792968324.6234279,
 "BBC|https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo#0": 1792952125.0846083,
 "BBC|https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo#1": 1793054725.2944863,
+"BBC|https://www.bbc.co.uk/news/articles/clydn7r5pn1o#2": 1793213126.6938767,
 "BBC|https://www.bbc.co.uk/news/articles/clyl3z2xld8o#4": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cm4g140585ngo#1": 1792912031.9234908,
@@ -4114,12 +4150,14 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#0": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#1": 1793126729.8237443,
 "BBC|https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2": 1793213126.6938767,
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#0": 1793097929.898054,
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#1": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/cqlyejngjenxo#0": 1793195126.4120665,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/cqx28yp532r0o#1": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/cqx29dj3vv50o#0": 1793213126.6938767,
 "BBC|https://www.bbc.co.uk/news/articles/cqx29lnzr48po#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqx29lnzr48po#1": 1793056529.1619768,
 "BBC|https://www.bbc.co.uk/news/articles/cqy7l03ydkyko#2": 1792912031.9234908,
@@ -4143,6 +4181,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo#2": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo#3": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#0": 1793209528.5569124,
+"BBC|https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#1": 1793213126.6938767,
 "BBC|https://www.bbc.co.uk/news/videos/c63elx3x70jno#5": 1793183433.7364793,
 "BBC|https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo#5": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/videos/c65ynpx07djvo#5": 1792912031.9234908,
@@ -4569,6 +4608,7 @@
 "CNN|CBMihgFBVV95cUxQMHNIM2p1Zk41a2lCU0d3ZzVIaGdsZWhJTzRGSDhEcEdsZ3pUU3Ryb3VRQkEtd1Y0Z3gzMFoyYlNpN1l3WmZZdEgxeTBvZUUyek1YX1dOZmY5bXZJQlZmZjVFemJmZ3pLaEpqSzNhM2dXSFNtT2ZtZUg5aWZzZkM5R3dzQlJiQQ": 1793016042.671506,
 "CNN|CBMihgFBVV95cUxQOFR2dDAzMXhzMUU1VlFTUTJ0VXFubVJWTzNGQ3hzUnZxQWZhckNlOHRkUGtLR3UtMjRscVFraXlBNnJoVG1fbUVLdlJwUzY0YW5yd3dBOFY1RlMyLUFQWk5tRjVHdUxlbXF5T042RFhtU1IwWGxrcEhjZENOWXp2dEUzRE8tUQ": 1793038528.9639344,
 "CNN|CBMihgFBVV95cUxQRTl0WDUxSE9reUpXTXcxZ2lUTzltNUZMRjM1eWQ4eEdwT1pKcmd2d2lDY3JDLWhONmd1VF9wMGQ3a0hDd1dKSVVHNnZBTnZnWjBBVTh5SjVCazlUNnR3dmhvSUdVM1BhVUhSY3RVck9tM3o2T3lsc0s1WWYzajNPNTVjS2s5UQ": 1793136635.0121229,
+"CNN|CBMihgFBVV95cUxQVzR0akhER3FqcmVpeEJQTFZqYVdhLVU3U2FiNWgtMDdYa0c3em11My1ORnlEdkxCY3ZoWnVDcFZBZlgzY2Ixcm1ZREo2UlVXMzFTWUZEcnB1VWlRcTBzdVZsaDBCYUNTVnJhYlQzR2NSRlE2MkllWjR0NHM1MUdHZEFXWDFQdw": 1793213126.6938767,
 "CNN|CBMihgFBVV95cUxQWnM2M1BORVcwd3hLOWtpR3l4LUZEaHFkcXo5ZmxNMDlQdFFURWgtVUhQaFB3WjJaS25FNG9jdEJQUTlNblFHdXVZYm5iZkRQdzZsQXJsa05yUHpJbEVsSklGSG91ZlFnbWdLajNJN1NJazd1cDFrWmo5Q0VZUk8telBpNXlxQQ": 1793115927.1792972,
 "CNN|CBMihwFBVV95cUxNQjE5ZEVPX0FkZTdEbUtabi1sc1plMWlIWWZ0bV80MUxKTlNhUGlDQ0Qwb2NrT2VCTXNXLXFJVWlTLS1YU011QTgxTW51RVhlczJHemNMeGt4WjdVeEFrcDduZVhrcV91YzNJcG9RbEdrQ0ttdjlTTG1nVUs5QTMzV000Sm5aYms": 1793101527.3223946,
 "CNN|CBMihwFBVV95cUxNTHBzYlJmSlkxc1JBVThONDZYN3FyNDY4bzFPZ2ktUUpZRjhrQkEwWkpIb1l3eTNHSERrWmZKSEFpY2N4UGRSVkpkWVUtblo3MUdlTm5vaERfUGtHTkFqak9CVXd5YWJpMTBMZjhJc0pQQnZxTExEQzZwa3Q3MFk2WFludk5oSmc": 1793194237.7530143,
@@ -4915,6 +4955,7 @@
 "CNN|CBMiyAFBVV95cUxPaDhHbkpZWW93c190enprMU5KMU9lcjg4b21YREJKWFJWMFVKbkZFWkw5YWlURmJOajhsSS1pOUF2VFAxRmFoYVFIOVN1ekxlT1NLcmFITXQzUmxQVTRZeWdFemozLTRFT285RWxybnIwTVN4cloyWml5eGxCUHZQdFktTmpvZV9Kc3djanBOeVNZTnhMakFlZWxJX3p2SGIyUk01YTMzNTI2ZjRaMkg4ejRFV1BvTzlkSVBHVk9CSTZlZUZlY0hGddIByAFBVV95cUxPaDhHbkpZWW93c190enprMU5KMU9lcjg4b21YREJKWFJWMFVKbkZFWkw5YWlURmJOajhsSS1pOUF2VFAxRmFoYVFIOVN1ekxlT1NLcmFITXQzUmxQVTRZeWdFemozLTRFT285RWxybnIwTVN4cloyWml5eGxCUHZQdFktTmpvZV9Kc3djanBOeVNZTnhMakFlZWxJX3p2SGIyUk01YTMzNTI2ZjRaMkg4ejRFV1BvTzlkSVBHVk9CSTZlZUZlY0hGdQ": 1793198729.3091264,
 "CNN|CBMiyAFBVV95cUxQdkVPYkYybFpkN1NSd05IUktzT2JGRFFscU8xY3hJczRNQUU2anM5NTNGNFBhcmtBRHJPdWxMbVVyV2xsOEdmN0NSSXBTRWdVeXNUZTY5a09LUDNYdDBJUTZDVlNHRDZVdU1KNnJGRTVnSnNzSWN1REpPdUljMmxSbXNUTm9QS25wZDZ3SHNGdm9qTDZMZzBjN3FiMVFFSnVrRWtaOHJiVWpQWnFlRlROU1BmSERwR0JQZGdYNl9JaFhiQ3pVMlFiRw": 1792985432.7294014,
 "CNN|CBMiygFBVV95cUxQMGFsNFhEUF9WMk5ndkJXa0RhSVlVMW5md3ZUZ1U2VlRJZ2hzdDFfQW9tM19lUF81ODVaZ3NPcWJvcERrOFp4eHpEcDUyS0FMeTRscld2NUQyTVhkRTlvM1pyREhfZ05pWHZrbDZMa1l1dTQ2X0VXc1p1QUhDNkZXTFdxaTJZMjc0ODBHNmtYT3ZWb0hVU2FFZldRUGZXRnY1Y25aSEFtVm9ZMHlCMkd1Q1JEQXZrMV9mZ1lUcVdDeVRSWEJoalhCb1l3": 1793071833.365202,
+"CNN|CBMiywFBVV95cUxOaS0wbWhFUnZjWnpiOTlxYmN4Yy1VazhZVUU4dE1OelktSTE0QS1nczM5eWxrTjZTdEVFQy1HZnZMcTNqSzlmQnp6VTFvU0dIMGpzSjlLV0tKZFVsdm1WcTkyQ3VzSzBYY3ducVU2ZEtrMjN3clZrblMxQmdGTW0xcnFuamJuREZCZzRTVDBXVnRfQXFham9nb0MySXRwc3ktM193U2t3TDRUbndGdlpqWG9xRkYwLU04NUhNQklTMVYzcTRXQzdjbUpyUQ": 1793213126.6938767,
 "CNN|CBMizAFBVV95cUxNTDA2NFdHb003NVJ1UmpzSm9CVm9iQXptUVNTT3hyMXJ3Q0RFZUNSRlhhS2JhU1JYRGVYUHpaOW5WNjIxNWN0aEp2VUJKVW96dTNpNmhVYXUtZDhkMHFjT3dRNzRkNkViOWpCWVBBWldma0VCcnE4b0l0NGRJclpyTi1WSUJHb01qbjFfMk1JRlM4dXRxblplQWE5NW1LVVNHUWJXRlZTLUdyWFV3U0h1NlFLLV9ETWo2cXc4OXhYaDNuTlp4VXJBZWdHQlE": 1793070925.5077493,
 "CNN|CBMizAFBVV95cUxOWVd1Tjc5UlR2bU9Bc1pMNTZOQ0xuNlFreE51S01tandwdi1KME9nMTlPT1h1M0JUbzF4a0d3aUZ0ZC1CWHlTSk04VnRlVUl3YzU1YU1JTzVEX1oyQzZTUVNVM0hSc2tqNXZFanRPa1BHMTByY04zd1JDYWE1RTYzNTQyeklRdWhtcFZMTlpDZDhlWEJkaldyN0MtcVhiUVkyZF9YYUNrdnAzTnJwblJKTS03bFVMcVFvLWxxTU9CQTI3bXBzR2ZFeU5uRkU": 1793169924.5693123,
 "CNN|CBMizAFBVV95cUxQcmZBaVI0TU11eldlS180bHdWa0VySFhvZ2U5S0V0aFRRR0l6UzlPbXN0VHo2enJxQ3dGZ1dUOTRPQVZURmZPYVcwTW4xdW5fV1lsZGxmNzY3MHo0OGVnSlo5ODZjZnlrcVNIRnlKaUpTcVZrZHZZM3dib3NzMDZwSVJET3VtUTF5MnVrcEw3d1BKRGdKdm1MS0ZHQlJYZXdsVFFNZHlQeWhoRmFPbjRMZ1NLcURKdmc1Ql9weUhnWXVJMC1kaktxZW1UWFQ": 1793114128.081916,
@@ -5519,6 +5560,7 @@
 "Reuters|CBMiekFVX3lxTE5yZ3FYZ2Rsb3JZQ29GaGVBLUdFT0kySHJMY1BUYkdIM0NjYXVuVWNsY2dMOFVOcldOa214dTdXVWl0S096VUEybTcwRjg2Y3NnRkRqV3NlLWtPd0x2LU9PMEFGWUxSajlOMXhtRko5MTY4RzliWk5lMXNR": 1793203249.0614064,
 "Reuters|CBMiekFVX3lxTE84VUpxdFFnU0NmYkJsUlR0Y1JmTW5uSWZnMXl6X09wVDI2U0N1aEYycmhrQXZXYW1GeEpSVzkyNjFGbGVYVmFDeDhvNUxaUlVMOVh3T0ZSRFJFOVJoc01IWlFvaFJ2Nk9xNUVZZkJBMkpReEVOX1J2UnZn": 1793080227.4362767,
 "Reuters|CBMiekFVX3lxTE85aV9tbHZ2NEZQcUJOYXdaejFkNVRtT3A3YjJ1X0twb1U0WnVhbVhGaV9lSHBZNDU3ckFqcS1YZFJ3Wkpwak5LcmRVajJlY2lBaGx5T255c2kwbV9QSGFwcEtvM2NidjBjS2ExcU1EQXBIN1NSZ095Z2Nn": 1793143835.2585323,
+"Reuters|CBMiekFVX3lxTE8tU0NHY3FSU19oNW1mXzJmQ3BmTTk1ckxMUVpUWFFUc2t2LVBoMzhIejdkUy1la1lpRC1Wa3BKOVQ1WFlYSFFmMmNCS3Flc0piQ2hsV2lvXzd3ZS1DbDJQZ296TUthdVMwQ2I3QkpDREl1a21wODhRdkxR": 1793213126.6938767,
 "Reuters|CBMiekFVX3lxTE8yei04TXozWERvYzk1Rm91OHJ3YlptckFmRVA5dzVzT0lXQ2VQSXNIRDJYbEk4dUVtck9NMjFGTW8xRUhhcjZIZE43a3RvU05wdEpQUWs3NzVOVDNzWTFCbHROQkxDdHBlc2RCMEc1YzctM2NpNVAzLTdn": 1793104235.6651404,
 "Reuters|CBMiekFVX3lxTE9BX3hfVmRMWDVGLTM5bnp6bzd4VkJSbVoxeEk0c2dOYjQtYml6OV90WTNRTHlRaW83WVdyV0M1N0M4Wm5zSkhxMHBtNERlOEhmblFubS0yejlnVno1Tm5XMkRickNVV2lXOEQtVElidEt4YU12V2FObnVR": 1793181641.4084585,
 "Reuters|CBMiekFVX3lxTE9DdDg0M3o2YzdkcTFZeXFjQ1M0M2VWZjFZVXJpNHlfZHp6VGhPYUp5dVR5cndIYmRURERUZzdSdWE4bTNPX2NmWWJrVnRWeF9PTjMyanV1NnU3T0RlVEY0VXFfRHppMlRfVHVWZWFxS2hLc3J6U2VZcGRB": 1793106043.9788604,
@@ -5619,6 +5661,7 @@
 "Reuters|CBMilwFBVV95cUxOU2dWMmpFQzZycGRvOEhvNXViZ3R5a2hsRnFZMHc5UFpYQ3dJSFVUalphWkJLNW4yQi1zcjlNWFdHZmJZalNXVktlWWlldDN1UVNBVFlNZ0xkVnl6S2o2RDhqRGpVVmdNOEVKRkh3bFNTVmQ3Zk5pc3ZuSVQ1ekFYQ0xiS2ZWUExRSVBTN3FEOWo3Mmo1elJF": 1792983642.4900694,
 "Reuters|CBMilwFBVV95cUxOX1VaMGpldVlMbXlyQ0ExaGFfbU9nMU1OT0g2QnZJOXo0cS1tNHJNV1RXMkZvY19hRGFQNjVLR2RWTXRCM3pmXy15S0w4ZHJGeVhPeTBJZllnUXdUa3hDY2F4dGQ3cm1xRlJtd29IZmg3SlR4SDQ5Vklacmg5Qy1WQzFaTXRBZ2lvQXRndF91NTIydWZTQUsw": 1792980042.310782,
 "Reuters|CBMilwFBVV95cUxOX2RLclVQUDV2S0d2aUt4VWNIUWxSVUR6S1Y4Uk5qZy11QWIyRmRIbHh4bEd2UGk1STY1Z2gxamFyOTZYNl9wUGx5VTQ5NnQ1am0xeEc0ZURadU9KaGh3Z0c4NUFhRG9lbVpRQ2ZwbkQ0NFFuSFlvMWtOVTUtTWV0bXFSWGlTNDdtRVBWRjMwbmVQaERaR2xV": 1793016042.671506,
+"Reuters|CBMilwFBVV95cUxOZ0dEMEpkazd0LUl1SlB1UlJGMW42bWlxVTkwbTFBbElOWVV0bWVoczA4S3lfUi1TeEhfcmstWl8yYUgzRHVZZHFhNV9TYzRMVDIwY2E4ZnN6YWNic2gyS255Y1J0X3I1TUJoUlFETWdaajR1Ujl6UWlMcE5FN1ZhNVdqNHA0U1NzbDlFdzJJVW9GOG5ma2pn": 1793213126.6938767,
 "Reuters|CBMilwFBVV95cUxOdllROGFXRDJMbEFuZkNpRnhLVi1oZlN3c2lNeUtxZnNKVDhnZWRUNVVpbms2TkRfbmZ0eDlEQlpQS1dpT1BTb2tzdFk0RVByaTN3UnlXSEdDeFZ0MldCTFR5Znl5R2FuU0YyUDROZjBuNGNmb3VMY21fNjA1ZVBpUEZTdWlqMTg2SWxkYUVnSVMyNjVQcXRj": 1793190635.6630328,
 "Reuters|CBMilwFBVV95cUxPUjZldTNmNTlUNk9zX3N5ZTZ0RkluOHZUNlZWNGxqRjFDR1RHd1hwZlBReDNXMGNDMmNwOTNFUE9zc1A4Z2lDTVRheW1VMW96WHk2MWZuRnpWZjhFMDExOGI5Q1ZMSktpYnlKWVZNdUp5WDJCbHctLXFETnNObmNLbjdnc0lyYXRWWDRuaTJBcHpxMGRJTXdF": 1793011025.7552662,
 "Reuters|CBMilwFBVV95cUxPYUFBN2k2S3Fiam96WlhzdkM3cl9RY012QjRoc0xuR1dmUi1HZWxrcU96UWtHUkxsWmgteVRLT3ZkWHBheFYxSGhqMmFidTBHaHJxZXR2YmRCVGxSeTg3M05VYmtrdDB4RF9kaUtjYXBrMVdMdFhKNEhrcklOUzRkYzQybEppS3Q0V0JoaEUxTUROeDc4T05F": 1793010634.9602375,
