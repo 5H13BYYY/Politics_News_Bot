@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261026-midterms-2026-le-pouvoir-l%C3%A9gislatif-am%C3%A9ricain-en-jeu",
-"src": "France 24",
-"title": "Midterms 2026 : le pouvoir législatif américain en jeu",
-"ts": 1793026323.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html",
-"src": "Le Monde Politique",
-"title": "EN DIRECT, mobilisations sociales : le gouvernement envisage un remplacement de Parcoursup d’ici à 2028",
-"ts": 1793026828.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wM3lVV2dFQ1lmX01HUjZhUDVuZEhxcUJsQ3AtbHU1UHMwWDZFbEpFN1h5ZVUwRENYNDdoaF9DSzJKaTZXM21zdk9INjVKUDRHNVRFYXZoam1mTHBDdmpFeWVpOU9HdGM?oc=5",
 "src": "Reuters",
@@ -62,13 +48,6 @@
 "src": "France 24",
 "title": "Bolsonaro conteste la victoire de Lula tandis que les marchés brésiliens dévissent",
 "ts": 1793028484.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5",
-"src": "Reuters",
-"title": "Hezbollah readies for new regional war with funds from Iran, sources say",
-"ts": 1793026423.0
 },
 {
 "lang": "en",
@@ -184,13 +163,6 @@
 },
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "What in the World",
-"ts": 1793026500.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15a29TMnkwRUJqNHFSTW52a1czVmFjMy1WUHlqLVJhRnBxeGYyTGE4VTB6ZjhITXltV2d3WEhrQ0dpRGFDbWdhOWlIbnM2a1g0SkhRU3liRGVSdWRQd2tRN2xjQmFzQQ?oc=5",
 "src": "Reuters",
 "title": "Inside the Audi CEO backlash after joining Trump at midterm campaign rally",
@@ -223,13 +195,6 @@
 "src": "Le Monde Politique",
 "title": "VIDEO Clermont-Ferrand : enquête sur la blessure à la main par une grenade de la police le 24 octobre",
 "ts": 1793032676.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUotTWYwZ25zZmVFb1AzaEdoaEFPcnFISXFRVi1nWjBQZ3FMc3VOajN5Sy1ZWFkwbFdJajBBSVhYb0liVkotZHN6QmNzZ1B2MFJKYjc0VTZMZXFVWTBKR1FuQjRUdi1NWFF5QUM2QW5GX1pfb1dGeWgtRWN1MUQxc3IzWHBZVl9xN0IwRGE3QXd2anNrODBxMDhzWTJBQThQMUhuQktR?oc=5",
-"src": "Reuters",
-"title": "- Reuters",
-"ts": 1793026119.0
 },
 {
 "lang": "en",
@@ -391,13 +356,6 @@
 "src": "France 24",
 "title": "COLÈRE LYCÉENNE : L'HEURE DES RÉPONSES",
 "ts": 1793039133.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "What in the World",
-"ts": 1793026500.0
 },
 {
 "lang": "en",
@@ -3856,6 +3814,13 @@
 "src": "CNN",
 "title": "‘I was working out’: Ohio lawmaker leans into Trump’s body compliments",
 "ts": 1793155260.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRS1qS2pCZm1PT29QQm5xbjZwWjJuTmFLaXhDd0I2THM4c1dFdEt6TUdra3JEZkwxV0JXMFhoX2ZRa2ZDcHo1OC1PSU1hZlBF?oc=5",
+"src": "CNN",
+"title": "symbol__ Stock Quote Price and Forecast",
+"ts": 1793135708.0
 }
 ],
 "seen": {
@@ -4008,6 +3973,7 @@
 "CNN|CBMiUEFVX3lxTE43Sm80X0xVRXpkbUZIenNNU1FqVkNBNjA1ZFR6a0szN25iR3FFc01nYmNraFZSZVNBSk84ZmVpV0xxcnctODJCLU9vSkFrWWNK": 1793009727.4528742,
 "CNN|CBMiUEFVX3lxTE5VUWdsdmNTMlJJdXdGZDhTdy1KNVVtQWs4VzRfc0JaR1VobkRlWEY4SW96Rm9RSTFBUko2eElnRUtBWmFyQm9fd214YWpWZUlo": 1793152837.9297898,
 "CNN|CBMiUEFVX3lxTE5YMjVvV1NMaEM2TnF1TW1CVndLbGNFd2RPWWkwVmdjNjZQVVdNd3l6OGxKUXJabW5WalB0S01GamxJaVRNMjNDbWZCdkRzTUhj": 1793155523.9075387,
+"CNN|CBMiUEFVX3lxTE5xRS1qS2pCZm1PT29QQm5xbjZwWjJuTmFLaXhDd0I2THM4c1dFdEt6TUdra3JEZkwxV0JXMFhoX2ZRa2ZDcHo1OC1PSU1hZlBF": 1793156441.6379938,
 "CNN|CBMiUEFVX3lxTE9Gd3ZuUEZVX05mbXJlcW5nczNodEdIc3F0R3M4NkNWbURDUVF0Q00zRmFIOU5WcWlBUVNIR2E4Q2l0N1dFUUV4MVVsaEhnR1Ux": 1793104235.6651404,
 "CNN|CBMiUEFVX3lxTE9SYmJDZmdYamJZM2g0dmgxclVLUWRnbGY3MkZkcDBUTHhDMmM3UXpkZ1VyVUhBeHZKRTdOVEg5MTNBZHZ1UTVMQ1ZFR3hKb2Fx": 1793091638.8723116,
 "CNN|CBMiUEFVX3lxTE9rNDJMQzBVVWlSZWEtcEk3T1NnUEVrQmhNS1VKS0VicFN0T25XZlMzVXBJemlIOTBCcVljMDByZVdRZG5QWE1YR3g5amRzZWN0": 1793152837.9297898,
@@ -4207,6 +4173,7 @@
 "CNN|CBMie0FVX3lxTE94X0xtMnVQbmhLaFpxd0dkdWJQMHVKNHpWS2o3Tk4yN2lFeTlmSUJiNm9icjZySTlZUmlmN3l5dnkyRXpDbTZtbE44a21rVHhCZWtLbm5nTjZHRFdZY0FLNDNrMzJjbm5CcXhkUTV0MGNlVmRSdml3LVdyaw": 1792970130.5726538,
 "CNN|CBMie0FVX3lxTE96Y1JpQzZkUFdGV1h6SWRJbTZyb1N4LU53ZEhiaDlwUWRrTnlBVl8ybHVhN0lXUlREbGl6MnZRSFdaUkxuQ3BmRk1yTWY4VjZzNjU4NkF6d1dJYVl3TUh2eEx4Y1dZbV9hSnRPXy1vWjl2QmgxWGtjTW9Lbw": 1793095243.9518056,
 "CNN|CBMie0FVX3lxTE9aa3FFSTJ6bTY4SVVtUUhEb2hjM0lFaWJzcGJ2endvUl9PQk1aczhvdGhOMlFVRGtsSDltNFN3U3otdWZuNkk5a3R3VjZQemZGUm1aVWliZUJTMUEydzBNMzhKdTJYcE1IS0FMSmFjQndMYWJNZEZPU1RMVQ": 1792912921.1568482,
+"CNN|CBMie0FVX3lxTFA0U3l6dkNkMlg3dDhZOTVSN3UzOUVtUmZJMGdqZHgySVZOcmd3Ry1IVE42cHREczBYZGRhcmFpRXZtcDZwQ1NodjQ0QkJyOGZNdjZBWWRUMzBGOFJCaktQN0lqbzUwX3JDbnhLaGN4Uk9Pck82OExSN29XUQ": 1793156441.6379938,
 "CNN|CBMie0FVX3lxTFAtUGdpV0c3emtqYUVDelZRZ2ZPTGd4ejdaYVpONUlhZzNrU3FXbHFoUnBtN3VSQ2EyaUlFaDBDUWg5WEhsbGJhYWt4aGI3dWxZdGhobFdLS0MtSmtEV0o5US1HLTlVTGp6SEhiU1RST29iMFczWjJSTUlkYw": 1792912921.1568482,
 "CNN|CBMie0FVX3lxTFBPUmxqWDFYSU5ybldnclZtOEk0c0QxMjJQeGtyeW1rcVZlZGtjdEtjUU9zREJEbXV4M3dXQjRnbERiNlhsdFUwMkxFb1pGR2hNakMyUUk0VmdBOUFuMUJEUnJVeTZSa0daOWU2SjdfX3JvMFl1OUdOM1d6VQ": 1792912921.1568482,
 "CNN|CBMieEFVX3lxTE1CeDV1VE15WHAtNXh6cldZaG1SYnNiNGEzWjZhVWxUU01iVzU1SXhDNGtkNDNpMG9JdWRfWmJHYWlBNUVhbzJIcWhGbXFMMDJxNnhsZ3RMSXFCNVJpVzhpbzM1UnFXWkhkcnJIUlZJYldxbFlERVR0VA": 1793022326.7653923,
