@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261026-les-lyc%C3%A9ens-saluent-l-annonce-de-la-suppression-de-parcoursup-%C3%A0-leur-sortie-de-matignon",
-"src": "France 24",
-"title": "Les lycéens saluent l’annonce de la suppression de Parcoursup à leur sortie de Matignon",
-"ts": 1793034481.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW5Id0E0UXFMNTR1LW80dVdSVkYyUVpwT09CZGlWaDR4S1pHZEZkWVRLT2N4eWF0VG5FT2pMdlQ4dExJaHZPeXp1NE5Fa1daNWJQX3Z4TEliTVUyVURwVGJmU1B0RzFFTDRXUlh1YmdtcnBWQ2lwbHZzbmxram9KT2xYckp6R0JjUThFNE1jQUpndVZUcjEyR3M4Zkp0ZGNJ?oc=5",
 "src": "CNN",
@@ -62,13 +55,6 @@
 "src": "CNN",
 "title": "'We are paying the cost of corruption here in the Kentucky 6th'. Democratic candidate closes campaign on corruption message",
 "ts": 1793037709.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREE0MXdyYXNneG05dnVLVTRwSEFQWXZkcHFfWFB4Z1pKbWZuTUE2X285RTQ2SjdjUkozeU1tRi0yczdvSk5VcUNmZU5TMkh1RGFhT0hCRTVwVHJDTHBCb0hzZk9vTWRFRWVjeFJYbEdHcFpBVkJYcjRUbTdGajFPemxXZVlIZ0ptZmsyUEhOMk94Z3FmSXJBZjNFNXhCSGVxenVXT3otZEYtdE9YbHF3?oc=5",
-"src": "Reuters",
-"title": "Pope fit enough to make Latin America trip next month, Vatican says",
-"ts": 1793034073.0
 },
 {
 "lang": "en",
@@ -3674,6 +3660,13 @@
 "src": "Reuters",
 "title": "UN meeting suspended after US and Cuban envoys clash on floor",
 "ts": 1793146950.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSaXlNeS1HZkdJandUMlB0NGx5dXJuaHNsek1sQjB0V1NOY216R1o5RzFPUGxERTVLdnJiNGM3U2NPdzA1SmRxQTFxZDdfQnJqdzd4TVNQY1pEUldqU05wcU8zemszQQ?oc=5",
+"src": "Reuters",
+"title": "‘The Gilded Age’ teases shifting ties, modern parallels in season 4",
+"ts": 1793159775.0
 }
 ],
 "seen": {
@@ -4866,6 +4859,7 @@
 "Reuters|CBMiZkFVX3lxTE9qV1VhOVB5cUF6TUZWd3NNY1lQMVhFM2kxZ2w4enNZc0pDMmhsTnZiN3pqWExVTktVblhzVkVJM2o4c2Z4OTYyQVIzeUY3RXNDenBUM19BeGdLTXB4MmV1RVR3dlFPdw": 1793136635.0121229,
 "Reuters|CBMiZkFVX3lxTFAtQUZtTkZ4VUVjR21teFJST195LTVWWDVxWnZUTVFsVVBmSk9lZ2UzVDRqOVNhQWR1N0l1NURaZWhsOUxFLVh1NS1TUVBkMTdpZlBwcy1VMmpPZWhkWjJJbzQ1bW5adw": 1793128528.0402112,
 "Reuters|CBMiZkFVX3lxTFB6STRYOGc0aTZXUV8tWG1CN1Y2LUxKTnVPckg5QlJ4WTcwTmNDQlczQnpjcWlFRjM1MVRrTnBtUWlzTENvVnF4cVZibDg2Wm9WSF9yWktweFN2WEZrSzBISGpfR2I3Zw": 1793023247.452176,
+"Reuters|CBMiZkFVX3lxTFBSaXlNeS1HZkdJandUMlB0NGx5dXJuaHNsek1sQjB0V1NOY216R1o5RzFPUGxERTVLdnJiNGM3U2NPdzA1SmRxQTFxZDdfQnJqdzd4TVNQY1pEUldqU05wcU8zemszQQ": 1793164525.5968049,
 "Reuters|CBMib0FVX3lxTE9ZX1UzSU1mZFFoc05FelNZanRuUXhYamNKNkxMdVZHdmRiR3hNd3BKNXo5S3VrM0dzck9fdnhwYjJ1dGNRTng3S0pqSWloN2F4MGttakZSSTByR2h4eENZQXY1QXJTS1A3bFhxSDRrTQ": 1792912031.9234908,
 "Reuters|CBMid0FVX3lxTE9iQjRVOGRvZEdRUVVXMHZkYVd5SVhqOVZmZThhODFJS2JwbFlINmJ2T1NRWXNfaXJSVlVQTl9LekRPWTlDTWtKd1o1djhGQzdUdWcxTWttdHBvSThFdEVLN1lDbXNTVE5OdXNDMW1YRmpWcGNSV1A0": 1793140231.6447988,
 "Reuters|CBMid0FVX3lxTFBFNDFna3Y3eGt5dVk2cER0cG5uY0JFbmlzRmEtR0p5M1ZNTWtBQVZGOF9tVzBrTHV5bDIwU2o5U0lIcjd2LURBMkx5S0VmczV0Q2theS1uYVNUdVRLZmJSUlZCUUlHV3RIcEFwTTRia1MxbU1fS3ZJ": 1793023247.452176,
