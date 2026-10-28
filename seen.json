@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/pixels/article/2026/10/26/un-pirate-revendique-avoir-vole-des-donnees-a-la-france-insoumise-au-parti-communiste-et-a-renaissance_6800789_4408996.html",
-"src": "Le Monde Politique",
-"title": "Un pirate revendique avoir volé des données à La France insoumise, au Parti communiste et à Renaissance",
-"ts": 1793021658.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42amRMVHpza1RlOGxFa0FDdjdQZ1FTeFlkeXRQbkQwbDNpb1hwSG9adVh0SVdLVWp0Um1lMkZuNlFoaFBKMklUY0hvdnM4RkN3WmNDMk13a3pfVVZXMlpmUlBiSU9VY28?oc=5",
-"src": "Reuters",
-"title": "Celebrations as Serbia waits to see how student-backed leaders will govern",
-"ts": 1793022099.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261026-au-nigeria-bola-tinubu-lance-sa-campagne-pour-sa-r%C3%A9%C3%A9lection",
 "src": "France 24",
 "title": "Au Nigeria, Bola Tinubu lance sa campagne pour sa réélection",
@@ -79,13 +65,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUNGUW5tbnZDMW55VkkxZXBQYkF3a1dOQmw2Unk3MGVVRWlsdWttLVRWTmNkWVpERlVPZVNpeGhPMlJCYWdWczhlQjN0SHc3czRuaVNOQVBGZlV4aGZycFE4S1hlUGRXSkROWmVNYU0waG44cHNiaDM1MjdiVjQyVV9FRmdBeW1WVmREXzl3QVFDUlRXczd3NmYwWjVIeld6RXpIVkZ3?oc=5",
-"src": "Reuters",
-"title": "From Amazon to Google, the deep-pocketed investors in Anthropic",
-"ts": 1793021675.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHFBVVBib0JiTDEta1IzUUtpaHNsSzZPWTNsWU1GX2RrM2xaSXVMQms2MmxpVmQyQV9JeE91ZVJhU2k0OHFtN09FUms3aVhoTGs1WHNBbGVTTlZtV3JLUVFfOFR6aTRvZkFid0Z4MHdkcEJTdEljWGZXWHdsdlEtemg5clAxMExYWHNwNk5ZbXd2VGc?oc=5",
 "src": "CNN",
 "title": "The Odds: Why Democrats May Beat The Polls",
@@ -111,13 +90,6 @@
 "src": "CNN",
 "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
 "ts": 1793023451.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVRPR2V3MGQxT0Y1d3V5UUtBRWVSRVdfOE54cmtwbE1jUjFsa1ZHNmtyV1NZZ2NzUXNlVGdmbHF1ci1IRlhJa0tlTE10MkFaVEFQQk5uWWZCRmVPMl85dW9aalRGRnExRHR1NUJGNm95VUJyNnNpdy11M1V0aV9wODZBb3pEX2phR1pLdFZsaWxyVm1ZZUgw?oc=5",
-"src": "Reuters",
-"title": "Dozens killed after church bus collides with truck in Kenya",
-"ts": 1793021443.0
 },
 {
 "lang": "en",
@@ -573,13 +545,6 @@
 "src": "CNN",
 "title": "Trump’s tax cuts aren’t enough for these Nevada workers",
 "ts": 1793035020.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsLTBseFB0MGlhNEdfaUtFdzdjWGtRN1IzcllaYVRKS2VfSDNCMTZhVmZ5VS1jQkpHdjR6NkR5eGRfMTVxemVLOGNhbFpwVE1RTlR3WEhZRVJjeEl2VnJQM1dkYWNsa1dpUWZIWnJRSEt5UQ?oc=5",
-"src": "CNN",
-"title": "At some points in the rant, Trump sounded disappointed. “You're a hopeless guy,” he wrote to - CNN",
-"ts": 1793021820.0
 },
 {
 "lang": "en",
@@ -4052,6 +4017,13 @@
 "src": "CNN",
 "title": "Democrats see an opening in deep-red Mississippi Senate race",
 "ts": 1793149728.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hZWRmSUQ3cnh6TC1salAzbEltalE2dFMtejhZaWZtOE0tSS1zQkdsMUVUTjZLeFBwNXJGeDZRdWJZWF8wWktWVUtTQ3RBeTJETnpmS1ZaS2tPRXVQWUhOQWpfVEFLVzF0alVnV2ozVnNhRmJKY1h6c1JB?oc=5",
+"src": "Reuters",
+"title": "Israeli exit polls show deadlock, point to setback for Netanyahu",
+"ts": 1793150969.0
 }
 ],
 "seen": {
@@ -4424,6 +4396,7 @@
 "CNN|CBMifEFVX3lxTE13SDBoSE1hTko0RWFZRkNCQk1OV3IyME9MemFyRjBfaExreVZMWkZ6Tmx0TkttaEg5T0dkWGpILVgwRnY4SmhCeE9mUnFaeUY4MXU2RTIwbkpBR2FpWk1NVEVFby1DeWJoRFJHR3Y4MFRFWGxEQVlSN2txdS0": 1792912921.1568482,
 "CNN|CBMifEFVX3lxTE1GdC1abV9PWHV6akJXb3FpanJ4bGtzQm1WUTVNVExWZHZPTzdDNDFJbVYzUVZEZUF6MElSOWZjQUQ5czk5dF9YMGlWcXNIa2JDYWtSWS00cTl1Nnd0X2hpdzZtdnNsbE12UTVEaFk2UENqMV9BVG1IczVSTS0": 1793146527.9270666,
 "CNN|CBMifEFVX3lxTE1TeFp1YnpVYk9SaU1sQ1ViNDg3cG94dGM0eF9CdS1nLTNpcGtDdjhtMkxsRFh2WExuRHhHVmcyanFBMnB1TXBHd0I4eVV0cGZEdHFKVHVmUmxwRlZWYU0tZ29MSkdZNnZaQXhFbG9DMGVTbDVmWnFGOHJ0Qk4": 1793112328.6785605,
+"CNN|CBMifEFVX3lxTE5DTHRJdjl2YXRETlRDVjhmSEROZlZvTWxYcXNoZ1I0MElLWk1VVVc2ZUw5SnpTTXBBUzEzOWd4WkdqZ2tVbFlNRHBWS3o2OFN3STMwVUtpYi1keFloYVR6RG5keFdFdVVYcmFBNzREX1RVRkI2UFFWaDNNNks": 1793151927.3887115,
 "CNN|CBMifEFVX3lxTE5RakFQemI2UkJwb1kzMUZfRllOSXJMNUl4UnhPeU5TbWhCYjB2QW5TNEFmcVBhY2RBeTItc0xCcFpfTXdYWHVId1RKRnJucmVzMUZKYnkwYW9WMC00WWExNlBaMHdNUGwwZDl3eHlSdmFwa3NIbDFjV3B0MVA": 1793068231.9529712,
 "CNN|CBMifEFVX3lxTE5ualNGMHZxUFFiYzdTcVUxMDdQSEFOLWkzVXo2NDRVQzdmSGFvNFVoRmFtV2VoMDl4VTZmeEN6RDhSenVLZWplc29CV1QyTExGUmtSV2JqUkFOZGd6ZHVZdkd6RlpKRXNwRlFSTlowemJZOHF6cmM4MlRYeWc": 1793033128.0726519,
 "CNN|CBMifEFVX3lxTE83eVVKOGtrcmJJZ0Y2OVRjYURFc2NfeGYxWmNFMkZ3b01oM3pSUVVJNGJwY0EwLXA1cm1RT0NpaTJ2THNmU25hb0x4VE9KaGNsb0NnZHVKWUxCNUd4R2VhQkZMU0hwUFNnLW9JN2stNEhtbDVQN3I5SWJnems": 1793052925.6166203,
@@ -5231,6 +5204,7 @@
 "Reuters|CBMiekFVX3lxTE42dmFzZWd2NWJMQUYtcVZFTVEtT21JQnVWcWUtOXd0Z2dleDNNT016ZTFDTjQtRUFYZFVLSzBXQ0EwQnhXRURRVVVrWVhibzV2bXpwLWhjZjg4SC10RUhNRko2YXVRWHI1MXdyRnF4eFg4SmNnQ0EzODFR": 1793017836.5340102,
 "Reuters|CBMiekFVX3lxTE5Dc2g1Z2tNdWFDS3hZQkJDRXdabGZiLTNtSzA3OUJDQWhLaXZkRXdSb2F5X081bDlOZUhTRDl3OVk4ejdELUNEQjhFSjNpMDN3S0RkNGk0X3gxLW10MS1hRlJEMi1paGt6VXRvUi1YYlVDbkg0S2dEQllB": 1793115927.1792972,
 "Reuters|CBMiekFVX3lxTE5PREM1U3JLU0NSS1R4VnNBdFV6Skw0VWVkY2hGSW0xd1JFbEJ5VXVaWVhhdVR4UHZRVVp2N2xFZ09KZHdnUWlaTHg0QlZ1cnRkTml4Z0ZhUnVRcEVoSDh6c1RvUzFPakxvUmNZeVFSNmx2RFdFLUxTRjJR": 1793059244.7564826,
+"Reuters|CBMiekFVX3lxTE5hZWRmSUQ3cnh6TC1salAzbEltalE2dFMtejhZaWZtOE0tSS1zQkdsMUVUTjZLeFBwNXJGeDZRdWJZWF8wWktWVUtTQ3RBeTJETnpmS1ZaS2tPRXVQWUhOQWpfVEFLVzF0alVnV2ozVnNhRmJKY1h6c1JB": 1793151927.3887115,
 "Reuters|CBMiekFVX3lxTE5kT0pzQmZqblI2a21zV3NzNHppUVZENmtsTjZpejN1US0zaTNuY1BlOHNnYUNZdU4yX21HdmhpWHNMUmtseHRHRGk4SWk0YmVSaEdldklNa1FrWV82YUNSMEczRnBBaExJUUJRZ3J1SG8tR3RfVGdfS3N3": 1793106043.9788604,
 "Reuters|CBMiekFVX3lxTE5lWTRVNndoSkJUcUtBYldlcFcyeTh0dDFDbmtUa09rWUZYWHB0bGhVNHlldVNWNlV5dVZEUll2TG1vY2V5cHI3S0Z1YXRDcHlfcmFJNUNrZGdXWUFjU0hjaHNyd3FtSDNvT3hSRHZBUEg4YjN5bERKbXNR": 1792987240.4590352,
 "Reuters|CBMiekFVX3lxTE5pX0I4OTZyM1BMbEktRGtvV1NnRWY0OHNYUXAyOHZ1MldVekdKbTJDNFVRYktJZHo3UUJOQzM4cTZnYmpLT21ya3JNTzMzUm1qdGk1WjMtN0dxM2xXSnh4bjZTeTJ1S2Y2Y1R2b0J5ZnRKaTd5QzB5SUd3": 1793097929.898054,
