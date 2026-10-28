@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-en-isra%C3%ABl-ouverture-des-bureaux-de-vote-un-scrutin-serr%C3%A9-en-perspective",
-"src": "France 24",
-"title": "Législatives en Israël : ouverture des bureaux de vote, un scrutin serré en perspective",
-"ts": 1793080675.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSERWblZHOHNMSEhoVGVibUhnTWJ1dV9Yd0FhWDBjaEdENlhWR01tQ0lqWTJkenctUjRxTHhCTm4tcmt4R2x6WkhjZUN4Y2dNS0lRdUsxVS1YMWhtVXdZT1J5LS14NEQ4UTYwZzFwaVNQSHNudlJQTjFKQzFRZDhxSGxhN1AxR1Nx?oc=5",
 "src": "CNN",
@@ -272,13 +265,6 @@
 "src": "Reuters",
 "title": "The ultra-wealthy crypto executives who are spending big on the midterms",
 "ts": 1793095667.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
-"src": "Reuters",
-"title": "Gold retreats on stronger dollar; traders brace for Fed",
-"ts": 1793079960.0
 },
 {
 "lang": "en",
@@ -3968,6 +3954,41 @@
 "src": "BBC",
 "title": "Healey tells departments to make 1% cuts to fund defence",
 "ts": 1793208740.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0tjUFdvWEx3WHVET0J1Qkd6LVo4bXFTZEx3MGlqbjVIcEktU2lhUW5iRk1hQUZ4Qjk1X0VnOTJiV3lUeldzbjdRb3B3VzRjNVE3TWZPWkg5RzdaS25mR2xVMTZMYy01NW9LcHVZWGdrTHZvWHlYckRjbmZGUTV2VVdFbkZZd1NRUWpKVzV0UGR0d2dFbTByWlVuNkNuOWV0NDYw?oc=5",
+"src": "CNN",
+"title": "From solid red to toss up? New poll shows South Carolina Senate race tied",
+"ts": 1793208609.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/am%C3%A9riques/20261028-en-fuyant-bresil-flavio-bolsonaro-a-t-il-condamne-bolsonarisme-jair",
+"src": "France 24",
+"title": "En fuyant le Brésil, Flavio Bolsonaro a-t-il condamné le bolsonarisme ?",
+"ts": 1793209589.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjRzbXZKajJfMXJwUHB4Zkl2amJKREtEODJEb1QyRDhiVUdlRUd4SEp3dzZsaktUcklxaTNxZTlBU3RTTlZTVy15TnVrLTZMUzBnbHlyNWQ1c1haZDVLQ2dIZThvNVoxMXZxN2RNdk9YREpKTkdHR3FxdFZZcG1UZWxxRnlyNXZpM3BQVTdkT1JKUE5INXNxaGpkWTJZY1p2WDVyMkFxaVVuaGdyYnN3VU44TQ?oc=5",
+"src": "CNN",
+"title": "Is Ohio a swing state again? John King is there to find out",
+"ts": 1793209648.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Netanyahu shares AI image of Arab voters during Israeli election",
+"ts": 1793209880.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html",
+"src": "Le Monde Politique",
+"title": "Mobilisation lycéenne : des experts de l’ONU se disent consternés par la répression des manifestations, et dénoncent un « recours excessif à la force »",
+"ts": 1793210152.0
 }
 ],
 "seen": {
@@ -4089,6 +4110,7 @@
 "BBC|https://www.bbc.co.uk/news/videos/cmd6dw9l8ygvo#5": 1792985432.7294014,
 "BBC|https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#3": 1793200525.9119065,
 "BBC|https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo#5": 1793173527.2425468,
+"BBC|https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o#5": 1793210447.3083067,
 "BBC|https://www.bbc.co.uk/news/videos/cmrlye70nxnlo#5": 1792982725.406159,
 "BBC|https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo#5": 1792985432.7294014,
 "BBC|https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o#5": 1793177126.9660783,
@@ -4715,6 +4737,7 @@
 "CNN|CBMiogFBVV95cUxPRXdPYTNLTkxocFVWR3ZKdU1mazFmMGJYZWdzUFRzR2pfZXJkdVVGLXhsd1I2ZWJyUXNTZ3hZMmxGVGVRdnBkaVRxQXNfeGNTTmNKUjZyN2pKSzlkaldlNi1nbnJOenNMaDBLLW9lOFhnb29SWjh1andEZ05ZTXNkOGFsdjltUlJXYTBaN3JRUG4tUnV0UlVOcW9HTXl2WWxIYUE": 1793069125.8839982,
 "CNN|CBMiowFBVV95cUxNdVFLOUdqczRsWXpNYmg1S0dtX0lOUWZBeVpOVjZFZUk0WTR4bnpVOVhYWkdhc0hLRDI1b3pNSlliQVFmWGlXVGdfOEpBQndRWmdaaEE3bDBaSzBCMFByS1VuXzdyUEFZcGtsUWxaY3pkREJsOWhlZmxqaHR4elgtV19CVHY3U0VTZXBDcmJxdmVtYUctNTZMRGFac0VzN3ZaZ1Fj": 1793003438.31473,
 "CNN|CBMiowFBVV95cUxPNXlJZ2Q3TWQyVm00cmZhMUl0U213ZTlKM09KOEk0OVlqNjVqMkdDWThXQXVyYkk1ZnJBSkIwNjRNakhYOTJQTV83V1A1S3V0TkwyNVlvcDl1TThzV3hicDZiV3BsckpzSG5vdUx3S3lNX19IT2NWS3R3YkRKSUFra21FbGlQLUl3T0JicTRxaUE0YXl4RFdRbXVfQ0xFR1A3b1pZ": 1793183433.7364793,
+"CNN|CBMiowFBVV95cUxPQ0tjUFdvWEx3WHVET0J1Qkd6LVo4bXFTZEx3MGlqbjVIcEktU2lhUW5iRk1hQUZ4Qjk1X0VnOTJiV3lUeldzbjdRb3B3VzRjNVE3TWZPWkg5RzdaS25mR2xVMTZMYy01NW9LcHVZWGdrTHZvWHlYckRjbmZGUTV2VVdFbkZZd1NRUWpKVzV0UGR0d2dFbTByWlVuNkNuOWV0NDYw": 1793210447.3083067,
 "CNN|CBMiowFBVV95cUxPRjc2ZHpCVTlIZmlHUzQ1QmJyYzJERkUtcklHb211SXlNbG9CR1ZhZTRMcU1qTlAxSDFWRDl2MjdKS2NFWFQ2QW5QSFhpanlITmdzRHpSUGRtcGRHbkdteFNjNnh0cVgzcWItMjQwSllPemhsTDFMYU9LMF9VcGd6SHY2YlRhWFZiV05tVUJzUTRkYmhxMUNmbjZ5aWNObkxEUGVZ": 1793192979.21698,
 "CNN|CBMiowFBVV95cUxPV3N0UG1jNmZXMHdzQl9DeFFKb2JIZENHMG5ERERNM19LTm9LTW5aaFNaNU0xMnk3QjUxYm5CLXZibGJGT2l5cF9mb1RfcGgtRnZzUlJOZmR5cFBjY0dqYnFzWXJteU5XQVZzZDVUMFZFb3ZmZkQ4aDF6R25XT0ozRHNLclZWeWpyVHlZcTUwcnEtNFpmRm42WXR3VmpVbXhMd1BZ": 1793038528.9639344,
 "CNN|CBMiowFBVV95cUxPVHc3VndVT0NFbFg2SjdoVjc0dTllR0pQcG54MjVudGt2UERkckFRQTRSd2hjNzMwV1AzVmhSV1l3SEFqZFV0MGF0VHprLTVya0szUDIyQlEtazU5M0duamVYZWVXOGEwLTVoSm9EQ2JvQU9jWWNQRVRFNHV2OU83MXc1MVJLTXg0OS13SU9XdzBzS2JiZlF5QUZNS2xBMEtNdHpr": 1793127643.7467175,
@@ -4773,6 +4796,7 @@
 "CNN|CBMisgFBVV95cUxPT2ZSODRpRWZhUEVGWElHWXdEakFfU3hFMnZSTzNlQjV3ZEhSRFFSWlJ3ZzJhM0E0UnBoOGxZeEdFOTBfNDBuSGljdTBfOGJuamllZmhJVWZVZnhaVTRHOG95N0tOSW8zTUJNR09zTEp6TE10bHdrdU5rT2FueDJqS0xxdkpfN3VJcEthd0hUbUFFWjI0bXRwM0xSVWVBQU1yT2U2UVNURTZWb1N0VUJFdlpR": 1792965505.8590639,
 "CNN|CBMisgFBVV95cUxPcUxtV1ZrVWRORzdBYW9DZlNsV2txY1ZQZVQ1ZnhGbGZNWVM4WkY3TzdPX2JlSDVIUUdGdk9xanNsU0dqVWlvZ2NGTXo1b2Q4RGR1YWNhSkV0eXpDLXFzWGdzV3Rqb0pldzV6Tk1jcGhEbGJZZ01VVlpSUGEzSkFFMElSR2pvbG1BX0IyRDlSWU1lckdJMFpsTVRNdW1CaGFrZlJmMVNPVjQwV1BzaEJDd3ZB": 1793118633.9665923,
 "CNN|CBMisgFBVV95cUxQQk9PNlRjZFZaR3ZlYkFYOE43UmI0YU4zSWhldWIyYWtWdW00czhucWZIYlhva3FpWi1zQjJRMGM3N0s2UHZfU2pXcXdCUkhqLVAyQWZkejhRTGlxa1ZZOWJiTXlpcFZhNzdSd0pYT1J4aWhuVWdiNzhTaXhUeXVpUUdQRnJYT0I5aHZxSExIend4RGJ4dnlSOTBtZ1pzUVdfYlhCaTJoUVNQcFhEWlhaTm93": 1793046634.4248857,
+"CNN|CBMiswFBVV95cUxNQjRzbXZKajJfMXJwUHB4Zkl2amJKREtEODJEb1QyRDhiVUdlRUd4SEp3dzZsaktUcklxaTNxZTlBU3RTTlZTVy15TnVrLTZMUzBnbHlyNWQ1c1haZDVLQ2dIZThvNVoxMXZxN2RNdk9YREpKTkdHR3FxdFZZcG1UZWxxRnlyNXZpM3BQVTdkT1JKUE5INXNxaGpkWTJZY1p2WDVyMkFxaVVuaGdyYnN3VU44TQ": 1793210447.3083067,
 "CNN|CBMiswFBVV95cUxNX250WGNmOUw5T01lRmNodGkxSHZBcUg5cmJWQVBmV1J0V1pzalNLQWlLd3I3SHo4WDg2SWhobm1pNGhLX0Z1M0RWTmpHdzYyNGx0Nmk5TXoyOVFkemxrMGZwd1A2TE1KMWNWS3czZE9vOXFfcmtWV3d2TnRIRjVMM3VaSlFjNlFtTTB2Rzh6THlFOGtVVHpkMlB5QTZyc1FEM1Q0ZGtXdnBfUVlOTXJ6UzRXbw": 1792948525.3556616,
 "CNN|CBMiswFBVV95cUxPM3NPSWUtZTNpUzEzT2xkMWlDeXVhY1hRa0F2MTZNVkFIX0IyaEpkd21nR3pkcms2aDdXQmltVmZPWFRxckh6a0JEZDN1THBqeUdKQTdIU2dBWTdCWHRMNFQ4RTlSV2Z2Y0lSMFh3NGhFRkNhX2xMTUk4WWVIajUyZWlxNG1ZVWFJV1oza09GanUwV2tUYmszWjYtNFhCRW8tZDhwWWZOYVpMb0xUcDAtYnUyTQ": 1793072725.925812,
 "CNN|CBMiswFBVV95cUxPRXZKZmxxLW9rbWZKalB0eFhodFI2R0JLa1RydVkzVjBFcmdPM1FCTjROQ3pjOGZSbHhLYkR3dFVza2lVRmc4aDNzQ3JTZHJwWWRVem1PQV9DZGdRX3M5WjZ3R01FdXlUTjFsQll4YUxHSlNMcDRqZThGSkp4elFpYS0xM1RxSXk1eHNNX1BKaUpEWDJLaS1GNW1HemtCNTNvanUtNm9aZUdwaUlEVXVqeUV6Yw": 1792936834.8154562,
@@ -5062,6 +5086,7 @@
 "France 24|d4b1096a-d2ea-11f1-abf0-1352f8777e31": 1793206843.939874,
 "France 24|d61c6c80-d12e-11f1-994b-5f030645b2de": 1793023247.452176,
 "France 24|d691bc6a-d2b4-11f1-9c51-c31f9fd7f560": 1793184327.9725888,
+"France 24|d7b156bc-d2e8-11f1-90b2-4be8deeb09cc": 1793210447.3083067,
 "France 24|d7b1f53e-d2c7-11f1-ad75-7912c5089383": 1793190635.6630328,
 "France 24|d81a6e5a-d21a-11f1-b01a-1b824b9acf8d": 1793115927.1792972,
 "France 24|d9f9d060-cfb5-11f1-a74c-03cb5e484910": 1792912031.9234908,
@@ -5183,6 +5208,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/emploi-le-nombre-d-inscrits-a-france-travail-augmente-de-0-9-au-troisieme-trimestre_6801564_823448.html": 1793186127.5045333,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/enseignement-superieur-le-sous-financement-reste-sans-reponse-malgre-un-premier-pas-gouvernemental-estiment-les-presidents-d-universites_6801597_823448.html": 1793201438.0148408,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/face-au-basculement-demographique-le-cese-plaide-pour-une-approche-globale-loin-seules-des-incantations-natalistes_6801581_823448.html": 1793195126.4120665,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html": 1793210447.3083067,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-emmanuel-macron-a-preside-un-conseil-de-defense-pour-preparer-les-manifestations-du-week-end_6801580_823448.html": 1793194237.7530143,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html": 1793147288.4473698,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html": 1793205041.2932334,
