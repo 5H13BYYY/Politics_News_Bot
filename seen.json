@@ -219,13 +219,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVklKeUlFQWMxbm1WZHp1b0VPRVZYVWI5cFhfOTdvQm15SkxnaWFlSmlhNkcwUGRDcUV6cDFLVHhvakVNNkhtdkdHTjBIMndPclItemNJOHhpZlNYSVJpalJLQUpwdU5HT1F3WmR2LWE5UjRIVTRMVHpqdHFaWjNsbE1hUWdmX1N4VV9ZeV9zbVZiMGFyNWlwVUVGcE5fckFIRThJYXRRcHJneXdfN3RDTEpBeFJ6QQ?oc=5",
-"src": "Reuters",
-"title": "El Salvador deploys hundreds of soldiers to Haiti as four still missing",
-"ts": 1793134173.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQmZENE05eVJpRG1iVl9POU1rQVoxZ2lqWFNpNGUzSDFqWGhWS1VTY0FnNk5LTER0cHlSczNnTHhXZjBjWWE5WllHWTFDeEE3dS10SC1maV81ZkdLelZSdmtWbnVyNDA?oc=5",
 "src": "Reuters",
 "title": "Wall Street ends higher on revived AI momentum",
@@ -3821,6 +3814,34 @@
 "src": "CNN",
 "title": "Heckler yells ‘Trump went on the Jeffrey Epstein plane’ | CNN Politics",
 "ts": 1793258640.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdDctemtQLUxXclNjWGU2ZWlpeFF5bzBqcHBjUjFoTXY5aHlWa0dIVDRlZHljZzlZUmhVV3hZME5GWjZGR21CSUN3enpOZzZnWnc1a2RaOHRucndCTm1QMXJrZGk2a1o5N2Zqbk0wZk8wZHVkWDA2TmR4QlVZWW9OU1o1Q1ZWaUt4RDJieEx4VWhOcVlrOG9pVHVGZFN5Z2VLRUNGZ1hCenVPSkV5Um1RZEhZeDZKWmk1Rms1N0p1YUtKZVc3ZUNiSGktNWkxZV9uMGpxWkpjdmtLVzJ5?oc=5",
+"src": "CNN",
+"title": "GOP Rep. Dan Phelan on how Talarico’s ‘Pass on Paxton’ ad could impact the senate race | CNN Politics",
+"ts": 1793244840.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mU0lYSHFENzRjaHlVTXdHdVc3cExnWHBZSlN6ZFJkV21XUnRCdDViUWdCeFVxTkRlbzNlWHo2Q0FldE01cGtzUDBwNXJSb1czeG5QemNucU5NV2ZXaEdEaTJYZV9Udw?oc=5",
+"src": "Reuters",
+"title": "Emergency crews search through the night after deadly Spain train crash",
+"ts": 1793255625.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261029-catastrophe-ferroviaire-en-espagne-un-journaliste-%C3%A0-bord-d-un-des-trains-t%C3%A9moigne",
+"src": "France 24",
+"title": "Catastrophe ferroviaire en Espagne : un journaliste à bord d'un des trains témoigne",
+"ts": 1793262946.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html",
+"src": "Le Monde Politique",
+"title": "TotalEnergies : bénéfice inédit au troisième trimestre, à 8,3 milliards de dollars ; le gouvernement appelle le groupe à répercuter la baisse des prix",
+"ts": 1793264275.0
 }
 ],
 "seen": {
@@ -3991,6 +4012,7 @@
 "CNN|CBMi2AFBVV95cUxOOVEtaEVzVXFFczkyV1dqV01zeHNBRW5KUENlS0hkOWtoYnVfTVRlaHBoendrR1h1elZiOEQtajQySl9lSktMQkZ5VjVjRXEtbVVJTHpDWHd2VTNfa1NfdENoVEplVDFBaXN1VHpGMUIzRHFUTVRMMndqbzFVN2N1Z0RtXzNKUC1VR3pyd1NiSzM0QVNNR0pPYUZ2c1RETWh2VnhpUzk2cTlIRFdSYUxnT2w1Q25BazFOOXRCUlpReUM1ZHl6TFVkbUVFbXBXZEh0Zkhzb3pRalE": 1793107834.9660704,
 "CNN|CBMi2AFBVV95cUxPLW0ydkRYdElzOUlPVl9jR2cwX2U2dm9nM3dJU21zUTZ5ODV4bDRtdldsSy1WWE00WjlUdWFZeGFraUdZQmxTQkt5RjVCRXIzRFo4UXlnVkxuLTN2ZXlvTFNBWWZpTlRfZzlsWm0wZzJXWVFoajZ4T0I2NEw0SlpjaDU1Tlk5NHVGeDdXNkJxQVhzaFBmSy1nZ3MxNDNzWlNJQWo2dGlFLTE1VFNtaVJacl9TMWNMQk5EaGp2ZHdic3c0a3pUUnl2QlBvVmdVaGpUOU1vcThIYlg": 1792925608.8006206,
 "CNN|CBMi2gFBVV95cUxPZW5tOVBmdW1jVklaWGdaeWE4V0VoZGFadkVKLVJ0bXF4UTNFNG5jSVVIYkZWaW1ZZ2lUcDdzSlY4STBNM1VrVzdtU3EzOXU3WFI0VXMzb1A4S05yVklVUGZrQzRacXFtamxDSF9EUHduYW9oZjVDcmtCVDdPc1VxZDJDSWsxbE1hWXV0aExZMmZTbTF4NDd6dkRCX3hrTUVWUFFHMFBLYktTdUlBU0FDYmdFWm5FeDhpdVczcXY2Ynp0LXZZdTExZ1Bkc0VWMEhhNmNSUlFoNGpRdw": 1793124928.0361907,
+"CNN|CBMi3AFBVV95cUxPdDctemtQLUxXclNjWGU2ZWlpeFF5bzBqcHBjUjFoTXY5aHlWa0dIVDRlZHljZzlZUmhVV3hZME5GWjZGR21CSUN3enpOZzZnWnc1a2RaOHRucndCTm1QMXJrZGk2a1o5N2Zqbk0wZk8wZHVkWDA2TmR4QlVZWW9OU1o1Q1ZWaUt4RDJieEx4VWhOcVlrOG9pVHVGZFN5Z2VLRUNGZ1hCenVPSkV5Um1RZEhZeDZKWmk1Rms1N0p1YUtKZVc3ZUNiSGktNWkxZV9uMGpxWkpjdmtLVzJ5": 1793264439.3501782,
 "CNN|CBMi3gFBVV95cUxNVkFKTnJpc0xSLXBRMTcxVGttYkZqbGdtUWpnWGRJVnRmLTlJVGtBUHJVS0xXMjhvMXlrMHE4UmhrSmEzSWdBcnRva2VoN20wTHlTbFJ1Y2NGWUl4ZVc2dUx3amVueDVPRjNwR0hoanBFamltbEdDRlFhclFleG5FckIzVGxMd29vZUUzaWRsRFctRHZLZ0k3QXZISjJERG96aVI5bWdNcmZzVmdnanZkRjl1RWlGVVFZU0NCRlJac0tmYnpqSnlkU0gxY1EtWmItRWRudlpfNVJ6ejhRRUE": 1793112328.6785605,
 "CNN|CBMi3wFBVV95cUxQSC11MHlibktfX19tMVBsRkMzUFpMdjdZYzY1eEZhd0hMSWRYZ0pnenFhTlRGeG5uQ1ZsSll6WUZNeWNhT2M2SXBaN0QwczZFRU9Lb3h3MlhPTUJ4UTVJSUswUHFpeko3ZDRVQ0pua1UzeVVtSTRaN3NQUUlkQlk3SjdidVBUSzhSc0l5cS1qUlRDbTdTLUhRVTJzYTZGMmc0VW9NaldVOXltMU9tUnAtQUlRaldISzlLUHVWZHYxVkZVUG5HWHZUQUhCVUdEU2lQclV4bDA5Tm9Hb2JrRFkw": 1793129432.5301433,
 "CNN|CBMi3wFBVV95cUxQdERqUnUwZzFNb3FPRmpGV2JEcE5Scks4SkQ1dGllbU9hd094LUYtME8xNVFiWGZCWk5tejBncjZVMEVoMTMyOW9rN0pBOVRBWjdmVGU3NzJyRjZJbDFNT2M2Z0ZpcnJNRjlKRGVOZXE2U3NXNTVXYktBLWMteW5tdGZPMnFFdzh2VXNHaElFamRlU3VoR3BUQ3dLV0ZmWXExZFI3ZTNCMjZDeHl1eFlpVjd5MVdwOU91b2dfR2NQcnhta1JOR2JvS1NZNDJVUl94cTNIbVRObDRwbFJrVWpJ": 1793160045.455372,
@@ -5106,10 +5128,12 @@
 "France 24|edc47fb6-d1cf-11f1-8d7b-3b0ecbc3576b": 1793084438.571977,
 "France 24|ee0f4926-d218-11f1-af51-030125da8b79": 1793115927.1792972,
 "France 24|ef2744bc-d1ff-11f1-87aa-73df3bd65bdc": 1793105126.5123024,
+"France 24|ef2f7620-d36a-11f1-9939-310bbd124dfa": 1793264439.3501782,
 "France 24|f096e032-d132-11f1-82a4-fdebef7242c6": 1793016926.187019,
 "France 24|f47614f0-d1b1-11f1-971b-4b711682a279": 1793070041.9295363,
 "France 24|f4caee22-d14c-11f1-ae3a-7b2ac4c3a593": 1793028637.2954068,
 "France 24|f7416d5c-d1ec-11f1-8caf-61661188ba52": 1793097929.898054,
+"France 24|f802828a-d368-11f1-8645-2186fd7ead04": 1793264439.3501782,
 "France 24|fa131df8-d135-11f1-8dd2-75accb8f7594": 1793017836.5340102,
 "France 24|fa4f8026-d2c6-11f1-a31b-093910d4e979": 1793190635.6630328,
 "France 24|fa5b390a-d223-11f1-b8a4-8ba53fb44a3c": 1793120441.5226345,
@@ -5130,6 +5154,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/28/intelligence-artificielle-la-presomption-d-utilisation-des-contenus-culturels-examinee-par-l-assemblee-nationale_6801607_3234.html": 1793205926.8064494,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/28/les-maisons-des-jeunes-et-de-la-culture-contraintes-de-faire-evoluer-leur-modele_6801584_3234.html": 1793196925.227072,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/28/mobilisations-sociales-le-gouvernement-prevoit-une-aide-allant-jusqu-a-10-000-euros-pour-les-commerces-endommages_6801573_3234.html": 1793190635.6630328,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html": 1793264439.3501782,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/24/en-images-manifestations-du-24-octobre-un-dispositif-policier-important-des-premiers-rassemblements-assez-calmes_6799697_6717263.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/la-discipline-budgetaire-et-l-ambition-productive-ne-peuvent-pas-etre-concurrentes-la-france-a-besoin-des-deux_6799700_3232.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/manifestations-du-17-octobre-lorsqu-une-societe-fait-de-l-achat-son-principal-mode-d-integration-c-est-dans-les-magasins-que-la-violence-finit-par-resurgir_6799669_3232.html": 1792912031.9234908,
@@ -5428,6 +5453,7 @@
 "Reuters|CBMiZkFVX3lxTE9fV2pqY2xkeGhrdjZfRHRvOEptZnVIRU9teFl0Nm9NckdaaHl2YUNLaU1QODRRVzNqNk9sLWlCNXVfX1JKSnpoaVd1NkV5MFdqRjhRTG50clZQN2ZIWUNFenZRWC0xUQ": 1793053832.2624676,
 "Reuters|CBMiZkFVX3lxTE9kaU80MXp3UTJfTXpLMmhJdW95UWg1REk4aW0tTUhmUThrWllqTFE5d2UxWEtoNmtzaVB6cTRPeGNqVUpMcGFvTXhyd2pUMV9MaW1QbEg4Y1NtdUhYS0xxUWJ2ZWJEQQ": 1792957524.7672071,
 "Reuters|CBMiZkFVX3lxTE9lLXVlZEQ2Z0MxY3huY1JRUXdveEJZZGJLWjRRRExMeFRsQ1NiQUR2M2RCQ1p0djVRbl9vLVVCajZMRDVUSnRCR2VmZUJfd3BHcDdnTUpFUVgxeDBKcUs1UWREbXY2QQ": 1793052036.5986388,
+"Reuters|CBMiZkFVX3lxTE9mU0lYSHFENzRjaHlVTXdHdVc3cExnWHBZSlN6ZFJkV21XUnRCdDViUWdCeFVxTkRlbzNlWHo2Q0FldE01cGtzUDBwNXJSb1czeG5QemNucU5NV2ZXaEdEaTJYZV9Udw": 1793264439.3501782,
 "Reuters|CBMiZkFVX3lxTE9qV1VhOVB5cUF6TUZWd3NNY1lQMVhFM2kxZ2w4enNZc0pDMmhsTnZiN3pqWExVTktVblhzVkVJM2o4c2Z4OTYyQVIzeUY3RXNDenBUM19BeGdLTXB4MmV1RVR3dlFPdw": 1793136635.0121229,
 "Reuters|CBMiZkFVX3lxTE9rVndFNTVHd09wR1J1QW4tTUN0S2UxRmlhLVVaaU1hbnVXRGRaOU81Zmt0ajVYMFdWdUVCa3hMUHdVYmNMYTBBTTFtejdrcmVHeDlDdTVYSTZjaXNlS1ZUb1JmR0MwUQ": 1793255432.9365704,
 "Reuters|CBMiZkFVX3lxTE9xZ3diUlNseGhvNWZzeTg5REY5by1vZ0xiQzJCZUVEOElORmxralpXNXZWNXozaFR4OGpaRXU2Y2l3cnVuODRCb25HRXlHMnBEMWtWbm8zS3FRNkV0QWhzRTBPTTh5QQ": 1793195126.4120665,
