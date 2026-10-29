@@ -30,13 +30,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yQXhPandvR0p5S1hScWpoSUVwdEI2SXdTekhJbXRKTDJDRDVJdXRaRTNrelpwXzBMc0dTdUp0Ymp3VFNMWGdmZ1RCclNpbHBDYjBYcFdoazZFT0JHVnZsc2xsZGU5VEE?oc=5",
-"src": "Reuters",
-"title": "Trump ramps up attacks on Talarico at Texas rally",
-"ts": 1793156864.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdERqUnUwZzFNb3FPRmpGV2JEcE5Scks4SkQ1dGllbU9hd094LUYtME8xNVFiWGZCWk5tejBncjZVMEVoMTMyOW9rN0pBOVRBWjdmVGU3NzJyRjZJbDFNT2M2Z0ZpcnJNRjlKRGVOZXE2U3NXNTVXYktBLWMteW5tdGZPMnFFdzh2VXNHaElFamRlU3VoR3BUQ3dLV0ZmWXExZFI3ZTNCMjZDeHl1eFlpVjd5MVdwOU91b2dfR2NQcnhta1JOR2JvS1NZNDJVUl94cTNIbVRObDRwbFJrVWpJ?oc=5",
 "src": "CNN",
 "title": "Harry on Harry: 'I did not expect that type of infatuation from the President of the United States'",
@@ -4024,6 +4017,27 @@
 "src": "BBC",
 "title": "MP apologises over bullying and harassment",
 "ts": 1793285876.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXYxUGkybjhZNGUydzJvN0pjTjROMkF2djdManFSLWgxZmtYZW96c0RfRjZMOTItME8taHdxeHpubG9KMUpzX09yS2VGTjVDQVJEUVJ3YWtMU2NIYnFBbnNGMW81eWZTYTBEdFAtNllDS2ZxNUtzNkt5dTJNb2djVUZ5LUhacFNfZkI0VFpRZXJzZF9GSk5PQWFsa2p1ak9WQ24zajN5TWpwSWxESHRQUWtuQ1oxanBMeTE3RTNHdFpoWXIt?oc=5",
+"src": "Reuters",
+"title": "Software stocks slide as Fortinet, ServiceNow fail to meet lofty investor expectations",
+"ts": 1793275747.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
+"src": "Le Monde Politique",
+"title": "Anticor se constitue partie civile dans l’enquête sur Edouard Philippe",
+"ts": 1793285953.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVplY2FwUm5LOTNud1p4SEJwM1JSUzg5VTJ1NmZBQTN1T1hod25fOU1xRjdfQ0gxZ1pLTHFrRzhuT1E1WDlfdjQtdGdSRjZLcGNsS3dOS1NkbGtCRF9scldXTV9FaFlsZ1FXWXhkQThIVElYYlBBZ0tsZG9rSGJBOERRZWxxRk00d2tNWlRuUjZkbFh0NzFGMHZfX2d6cW12eTB0XzUzY3U?oc=5",
+"src": "CNN",
+"title": "AI robocalls attack Talarico on data centers",
+"ts": 1793286000.0
 }
 ],
 "seen": {
@@ -4962,6 +4976,7 @@
 "CNN|CBMiqAFBVV95cUxNVnBDYTIyczdmMFR1T29XXzF1d1pVT3pqV3JxRUppUmJ0ZVZ2Vl9NWk5OUXByUmtwZXJidVdWRnpBOF9paWhDa21tRHRWMzZLNE1MSjBldTJoMDE5VTJiR3BOUmZBREQtazBiU1lQSXVUSnlpYkpjd3BBNGpDQTBySmJVNFZza0J2QzdhVk1iSVVuR3ZYaG01NjFXd2pNalZVWGFyYl9wcUw": 1793065523.9823225,
 "CNN|CBMiqAFBVV95cUxPT3Vuc1hRNjFEaElOV0VITmMySVZFUmVFd3YtbENyczdVNGJ6Q20ySHF1a0ZZZl95c1pZZ21tMXZYNno3T21vMUpLRVoxYTZKc005Wmw2QXFzYlY5VmJDdUZTbUR0bzFQVm1qNjVCY0RERV8yaXpYNDhQS3hvZTRxOGhyNVE5eS00d2NfRV9jOFBBREI5LXhfcTBTTFNjVGljb0tsUnFJYmM": 1793186127.5045333,
 "CNN|CBMiqAFBVV95cUxPc1U0b1B1bGFRTDJFUmJhMElyWTB1WjJmSmhsOUN6Q3B1VEl0ZjNzTElyemkwLUhYTWtqVUVyVVBqa1N0NFpQSzJCNkJXd3NWSm9uWllmUlY0M3M4Y0JGNTJLVjRfZDMwbXJmX0d4cWl5bjZpSC01SVpVNEprZW5VdFc0TEVzLURIM3VVSFZ1aTZRMEdSWGFmYWtWd3g4Zk4wSy04bXgxTm0": 1793283328.5871534,
+"CNN|CBMiqAFBVV95cUxPcVplY2FwUm5LOTNud1p4SEJwM1JSUzg5VTJ1NmZBQTN1T1hod25fOU1xRjdfQ0gxZ1pLTHFrRzhuT1E1WDlfdjQtdGdSRjZLcGNsS3dOS1NkbGtCRF9scldXTV9FaFlsZ1FXWXhkQThIVElYYlBBZ0tsZG9rSGJBOERRZWxxRk00d2tNWlRuUjZkbFh0NzFGMHZfX2d6cW12eTB0XzUzY3U": 1793286926.7314193,
 "CNN|CBMiqAFBVV95cUxQUzFwcmN1emNyMGZ2aHZaVzg0dmhFVE1lNTRMYW5HNENOUUdhalMybDR0WEJMMXZjajBKSTB0X3RVTTRkTmo0SkZabUtBRlUwWjNSLWlObGVhQW9UNzEtMThWaThSbWNFbjdEeVZSdHRoNWFBSUlIMkJVRmhUVEN6TnVoZzc3UC1TMWE5X0N5YV9MZkZzOHppLWZ4QTk5YzE5WXFoZGd0OUY": 1793043032.0944161,
 "CNN|CBMiqAFBVV95cUxQYlRiQzBtLWMycGo3Nk5WVkhUcWVIcWxxR3piNGRZVWNkVTZSVmtKUWJNdlJIVGplcjBEbHhwZzNIamMya2pBdFQtMDVmaHlLbDNJanFSNDQ1dG5sMF9BTFBIZnA4MlVVTGdwMGU3X29qaExzVUs5Q0QyWGQ3RDF2VnVLT01ZYXl0YS1qdWljNVZNNmwyMERnRG1SUGlQVTN2ZkJHV3RReW0": 1793108729.8130138,
 "CNN|CBMiqAFBVV95cUxQazB5SzZCeXU3aHpLOGdrUmlYbWVQM25lNXRRVVlvZXp0cmNCSDY0M295Q1RjQ1FqS0R5QmxBXzVnVmxPWWQyS1lGQVdWd1ZXeUZkSlJpb3ZFaXZJN2M5ZXdnblVKcW9zaUlWT05MSUVnZXhOZjZEczNMeGx1U0ZXM0tWWDlibVVZSVFxTkRwQzJXZ3RycW9CenhvSFZCczMxMG1lRzZ3Vkw": 1793239240.6576965,
@@ -5537,6 +5552,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/28/en-guadeloupe-l-iggn-saisie-apres-qu-un-jeune-homme-a-ete-percute-par-un-vehicule-de-gendarmerie_6801604_3224.html": 1793205041.2932334,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/28/manifestation-du-17-octobre-une-adolescente-de-17-ans-a-depose-plainte-apres-avoir-ete-eborgnee_6801639_3224.html": 1793217647.96939,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html": 1793228212.6822503,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html": 1793286926.7314193,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html": 1793237432.3577285,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
@@ -6454,6 +6470,7 @@
 "Reuters|CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy": 1792945833.886977,
 "Reuters|CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx": 1793147288.4473698,
 "Reuters|CBMixAFBVV95cUxONnpMOGgtNnRZazVKZ1ItVDVLZnVlaWt5WDRvSUp4dGF0MmN1azBUM3pSWFRObWpCaFg2R3pETm9oNUd1dFJTQmFqOUtsWHdZdnViSWxJZUNIamp3cHZBRUhVcmRsS2tTY1RKVHFYTGNWckVlazRtNVFwOTFvWGtTS1poN2ROb2dKUW04SzEzQWJLSUNNVkQ3ZFNuZXVIQnVYRm1JWjFDUjBvdDEtRGh2Vkt1dUpMMHNEM0sybjI3ZDJhdklZ": 1793200525.9119065,
+"Reuters|CBMixAFBVV95cUxOQXYxUGkybjhZNGUydzJvN0pjTjROMkF2djdManFSLWgxZmtYZW96c0RfRjZMOTItME8taHdxeHpubG9KMUpzX09yS2VGTjVDQVJEUVJ3YWtMU2NIYnFBbnNGMW81eWZTYTBEdFAtNllDS2ZxNUtzNkt5dTJNb2djVUZ5LUhacFNfZkI0VFpRZXJzZF9GSk5PQWFsa2p1ak9WQ24zajN5TWpwSWxESHRQUWtuQ1oxanBMeTE3RTNHdFpoWXIt": 1793286926.7314193,
 "Reuters|CBMixAFBVV95cUxORGd3OVRlcl82RE5aMnZNb3FSZzVVZUxxN1oxVmFIOFJZZGdJb0toUDBmWXJEbGZuWWtJOFF6X3hJeFRQT0k2VlFnTk5kWFpod0kwRS1VMjRpb21qYlV1NzZTd2padUZzWVlJal9xb01kRnRNLVYwWGo1aUhRYThpYV9hclNDUWo1VElHNGotWTk2a3VGdER5b0p4d0N6RkVtVGRfUXF0MzU4YndydEkxLXZfZnlLNVJwODM2ZWEwVE5ic2dk": 1793092525.5795987,
 "Reuters|CBMixAFBVV95cUxOT1g1aVhtSVoyRXZoTC1GYnhLb3ZBbm1Sa01VRTZoaGlMZTExdzktem9lSW9YRnRRTWZOZkMyR3hyOUhfenlCLXhCMnJsR0oxNmFwcEVUV09pRW8zYVhEQWNmcHR0ZjAtMm9hMXZDc0F1OXEzeExhVXZpZGVXaGdmSS1DOGRTci1vd3lsQXM0ZVJxQmE4R2JHOWdjM3ZSa1Z3STBsTlk4NEFLQU00SDVRbzN3eTZRY2VsaUFmLVUyR3ZOYXFz": 1793139326.6185064,
 "Reuters|CBMixAFBVV95cUxOTmI1bDFoNk1OMkN2bGpWazh3MmpIVHdTcnktNFFlT2FnQ1o2WXRhYkRqeVF3WGxTTHhNdFAwaFJ0d0dsaTdOaG0xazNmalBQLURoNW83VkptS2ZHUHR5MGQ3ODBHLUxKM3IwWXZBMERiOG1hVk1fRUlQdld5S0hneGZXS2hzckJsWEl4MXo1c1R1NnZ1WXhBZ2JyMFNfQTZvcnJIN295OWlJXzRSeWdVM3JLY0FWakNkTHBFSlJFYmhiVjlt": 1793205926.8064494,
