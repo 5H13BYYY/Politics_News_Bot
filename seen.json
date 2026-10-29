@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "What do we know about Chancellor John Healey?",
-"ts": 1793128351.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
 "src": "Le Monde Politique",
@@ -363,13 +356,6 @@
 "src": "CNN",
 "title": "Strong early voting numbers in battleground Texas",
 "ts": 1793144340.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlZoSHBxdTFzWThkc01PYkF1eXpJWEUwLXljM215RllRU2V1RVdvSlVYXzhLUGFhQWtyWkJxUlVOdU1JY3hFNmFfTHptUVRYLVJpY3JYMkM1LWpnbnJpeTRTdlYtREdHelYyUzRaNklrb2dGcDRvYmdNQ1FVV2NwQldadGZoMG82cUhCQ01qSW91RklVRDVzZ09XQkRSWnQ4QnBBSC1nbDNjYmZlQXFoVngzeUQ?oc=5",
-"src": "Reuters",
-"title": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds",
-"ts": 1793128257.0
 },
 {
 "lang": "en",
@@ -3884,6 +3870,13 @@
 "src": "BBC",
 "title": "Chancellor says government has 'moral duty' to help young people out of work",
 "ts": 1793257018.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5",
+"src": "Reuters",
+"title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters",
+"ts": 1793240640.0
 }
 ],
 "seen": {
@@ -5881,6 +5874,7 @@
 "Reuters|CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ": 1792925608.8006206,
 "Reuters|CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3": 1793233833.2710116,
 "Reuters|CBMisgFBVV95cUxNSzBEZmtHYmdYQ3pNUm95WERPRmYtbklKR08wdEJjVTdGRFpWQXY3aF96Y0l2QUpSa3VYbjItSzFfWlFtZzRNN3lmME43c0VjYzlPR2RuQnY4SEMyR2FCWFRBcWM3alB6anpFM0pkOGQwenh1NnBFZVd5X1hxOGM5b1JqbU5TSldKRDUxWnpsTGhsZF91eUdFN19uc1FfQUVfbko0NEdmbHM0Vmd6XzJBTkN3": 1793097036.2631872,
+"Reuters|CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3": 1793258125.0447853,
 "Reuters|CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB": 1792912031.9234908,
 "Reuters|CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR": 1793097929.898054,
 "Reuters|CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn": 1793229326.9620984,
