@@ -114,13 +114,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vSEF6VWxzLV9JbUF1M1RvMlMwUi1Ca0YyV0NQcWY4WVJZa1BIa2UwWE5WaEpFWjdFb3ZyYXRrS09pc0VEU3N5NG5yV2xBWk9BMG05M19CTExNeWpZblFhRXVXN3gyZjg1Sm4xV0xhbkFFeHVNUC1udA?oc=5",
-"src": "Reuters",
-"title": "‘The Gilded Age’ teases shifting ties, modern parallels in season 4",
-"ts": 1793158563.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWRVTHNlV2VsUVNLVVJTQU5NblFncnZhR2RldjlxSklFV01IY1FTTjNKZFh0ejZVay11bVJFWmFQZTFQQjhGUE51XzZvNmt4OUJYU1R5dkhseHBJUUFoRGJkNjFNdFd3OF95dm9uTWxGUUx5cUtkWUVFZ0tzZEFHQVVxbFU3eE1IM0gweF9CRy16NHc?oc=5",
 "src": "Reuters",
 "title": "ＮＹで犬のハロウィーンパレード、仮装で街に笑顔",
@@ -4031,6 +4024,20 @@
 "src": "BBC",
 "title": "Bereaved families will not face tax bill over pension delays under new rules",
 "ts": 1793287084.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "MP apologises over bullying and harassment",
+"ts": 1793287215.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Further delays for major council overhaul in nine of 14 proposed areas",
+"ts": 1793288063.0
 }
 ],
 "seen": {
@@ -4102,6 +4109,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#0": 1793125835.223307,
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#1": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo#0": 1793286041.3185582,
+"BBC|https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo#1": 1793288225.827647,
 "BBC|https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cmlyl889jqzjo#3": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#0": 1793095243.9518056,
@@ -4141,6 +4149,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cwd094x57p32o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cwe8lz45d820o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o#1": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o#0": 1793288225.827647,
 "BBC|https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo#4": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cwq6n09qpy90o#4": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo#1": 1792912031.9234908,
