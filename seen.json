@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie",
-"src": "France 24",
-"title": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
-"ts": 1793120702.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html",
 "src": "Le Monde Politique",
 "title": "Municipales annulées à Tournefeuille : une nouvelle élection se tiendra le 6 décembre",
@@ -27,13 +20,6 @@
 "src": "France 24",
 "title": "Brésil : les passeports de Flavio Bolsonaro annulés, l'Argentine nie toute fuite par son territoire",
 "ts": 1793121934.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjZXlkNVFrWDRHa2piYks1S1FsUWFXSlFEVGtfYmctS1Jsd1JwbHhxcW5SRUFvLWwwcVpHcWd1QWFIUTdEcU9PTXFzQl81V0wwdzlZT2lVUTBWNWRFbVF5U3U0UTZXUQ?oc=5",
-"src": "CNN",
-"title": "Dad doesn’t need another tie. Here are 34 gifts he’ll actually enjoy",
-"ts": 1793121300.0
 },
 {
 "lang": "en",
@@ -76,13 +62,6 @@
 "src": "France 24",
 "title": "Élections en Serbie : \"La mobilisation contre la fraude a sûrement eu un impact sur les résultats\"",
 "ts": 1793123928.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWJjajk5bEVXQ0tyQWVRX2twaHd1eVJmUE0wRGdOTzhRTks3N0xPazhFQ1p4aURBV1FRd2pzdkpYeEd1bVkza0lPNGtoYU9MTk5fX21tX1BTdUNSYTZMaGo0bzBUSk9MemZYNGdESUMwOERYa3NFX09NY2dEQXMyWlFOSC1qalgxOTBUMTdWMFdPdDdOVHpKcGlwM0wwaHdQMjdNV1dpOHA4a2p5RXc?oc=5",
-"src": "Reuters",
-"title": "Trump to roll back methane rules in latest Texas campaign push",
-"ts": 1793120745.0
 },
 {
 "lang": "en",
@@ -212,13 +191,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzFqR2Q5bms0bzV0a0hMZmp0dGxobXJmMG85S1JDUjNxa256N0dKd2dUeEhyVkdOQmEwUTR5ai1nRTcwWHE3ZG1nWHZwSU1FQ2xVZXVWUXVPUVlIMnBMVTYxZ2pVSTFvcWxDOHdaT1hFUVlIOVBYaTAtNEljdVBYcA?oc=5",
-"src": "CNN",
-"title": "Newsom to sign order protecting Pacific Coast Highway from El Niño’s powerful storms",
-"ts": 1793120475.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUJPZ2Rldk01TnljelMzZVdEcU05ZFFVaGs5bjlDUXVVNWI3bXh2V2JCV0JNR3pfSEJMZVRHUHRyN056MERTbGZUZFJySnlHbzYwUlEzNWcwLXBNclFIaTVNYTZRd3N6emw1OTVHVkhzNnpIcHBqQWJyalJUR2gzYXdZQ0I2RGNJV1N5VVpxVGszRVJQVzdBZFZvbks4VEQxQnktUWtiR2NCdFhITTVsZ0NxM2d3ZU9aUlpWWVVZcTQtMEJCc3ZZ?oc=5",
 "src": "Reuters",
 "title": "EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says",
@@ -314,13 +286,6 @@
 "src": "CNN",
 "title": "Jay-Z Picks Himself for Super Bowl Stage",
 "ts": 1793133896.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TZG1ZVzM3bGlNcEcwOEJlR1Z4RldNNEx4N0hFMUR6RkNwdGhLVW9Kb3F0WTZfTXBQeE9yeVVCMUZTOG1zcmtNUlB6YWNLb2RNb3Fmc1hQUF9ZWUl2aUlPMTg1ckNyMjg?oc=5",
-"src": "Reuters",
-"title": "Nanotyrannus skeleton 'Jodi' sells for $47.3 million at Sotheby's",
-"ts": 1793121288.0
 },
 {
 "lang": "en",
@@ -4003,6 +3968,34 @@
 "src": "CNN",
 "title": "Former Trump Aide: Haley Stevens 'bitter' for losing MI Senate Race and needs to 'grow up'",
 "ts": 1793249555.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45d1R0LWVSam8yMFVkS05sSXp2VW11M1NaR0ZuNFBlVFFmeXRBN0lhMllmbmtseUlaR1VkUElyODlnQ1VRWUtnVVBJc2gyNEM0ZDR1TklUT1F4cjBsaG9JMnBZQnlrRjY3QWpSZXRGTnpLcTlla3o0OA?oc=5",
+"src": "CNN",
+"title": "Alaska Democrats played into Trump’s hands with Dan Sullivan ballot-stacking effort",
+"ts": 1793246475.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSEN4S1lISnlxeVJSZ2VFV3lXcmZNelVHUnNpZmpYWDF3c1VTTkFVbTROSHFXd1RnYkc2VUhxeUdtczF0X1F3VjBaWXFTSEV6NUh2Rjlrc0NVYjBjRllGQXZCU2NvdDBrbHZvUGk2X3lzekY1XzJPbXQzX1N4eVRmaHpKOE5pZ3JKZFdobmFLYjNRT3VsUXdnUUdKZFpFaWpQcVZnWUcweGxrZ042TDN3TzJRdWNoc2hhTWdHSGt5Wi1WazF3aUt5eVRRX2kyc3ZS?oc=5",
+"src": "CNN",
+"title": "Former Trump Aide: Haley Stevens ‘bitter’ for losing MI Senate Race and needs to ‘grow up’",
+"ts": 1793249555.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/campus/article/2026/10/29/vote-des-mineurs-on-dit-que-le-suffrage-est-universel-sans-se-rendre-compte-que-cela-propulse-les-enfants-aux-confins-de-l-univers_6802087_4401467.html",
+"src": "Le Monde Politique",
+"title": "Vote des mineurs : « On dit que le suffrage est “universel”, sans se rendre compte que cela propulse les enfants aux confins de l’univers »",
+"ts": 1793250040.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : une gigantesque campagne d’influence anti-Qatar arrose la France de publicités racistes, révélant une possible ingérence",
+"ts": 1793250790.0
 }
 ],
 "seen": {
@@ -4153,6 +4146,7 @@
 "CNN|CBMi-wFBVV95cUxOT1o2OHVsWFhoU1ZlMk9lc1dlcU52S1l6a1VIcGRZekdyN1NYRFpkdWlaNDRkekRqM2JCTklpZVlLcmJWUE1LQzBMTXczZzFPa1dta2RjdF9Pelpsb1pJdkkyQkRzd1VzY09mTm93dmtIaFNWZm41VmRRYUdLRV9BU3dCY1lKNWd2RkJIR0xGYjE2eHdMdDBOTGFha1FuaFVtREw0OUJpUDZCQmJoa0tOYjNEdVF0Nk9Pam5ua3Q1TnFQN0JrcHp2Z0h0dHRfdllPMmxvNS1fVHVSRTIteU0xRFNnMXVDc1RmWmlYUXNjTVJ5bHpDWTFzMGh0bw": 1792926928.3475087,
 "CNN|CBMi0AFBVV95cUxNX0JwNDY4NmcyYjZKb1hWa2hJWmNhb1BSeHNuSW9UR3FuX3EzSnNCb3pZY0ZzSVZXSnBTQzFkRnRkdG9IT0dPRXFuVmZWWWU2SGlWZmdQUDNGVjNGRkk1UktkeUJGM21BOHZOMVZLQTQteXA3YzBCWWEzRlJYUWRGMWJZUklyRjk3NmhEbVNybmpuS3J1WmdHNWRuN3VqT3NKd1l0UHF4bEU0ckVwMGp0YnE4c3NudzlZSzRBbzJWRmpyeWJmY2M0VlFtUmtodWJ5": 1793227530.4269037,
 "CNN|CBMi0AFBVV95cUxOLW9RMjNDVVZJZGlrRFlyWHh0ZVN3d0NSanhkanpxSmZFbERiOVE5cmFxeDNHTGFvczZEalBlM19hd1BoQlpZdTNiNFh0SmZnTjJWWDEyeC1XNmJnaU85UEdEY2huRTZkZHU0WlMwblBqOFF1NGNWYXEybHJhTEZIeXlFQzZwYUhXMTBfejBpQkk2MGZwUWV4OW9xdjhsVjJUbjdvMm5tYk1rRVMtOWtscWt5TTlQYTdWdkVTaThmc1ZwaXdsa21GcEZfR0dYREpL": 1792974639.2858012,
+"CNN|CBMi0AFBVV95cUxQSEN4S1lISnlxeVJSZ2VFV3lXcmZNelVHUnNpZmpYWDF3c1VTTkFVbTROSHFXd1RnYkc2VUhxeUdtczF0X1F3VjBaWXFTSEV6NUh2Rjlrc0NVYjBjRllGQXZCU2NvdDBrbHZvUGk2X3lzekY1XzJPbXQzX1N4eVRmaHpKOE5pZ3JKZFdobmFLYjNRT3VsUXdnUUdKZFpFaWpQcVZnWUcweGxrZ042TDN3TzJRdWNoc2hhTWdHSGt5Wi1WazF3aUt5eVRRX2kyc3ZS": 1793250926.0898464,
 "CNN|CBMi0gFBVV95cUxOaDBiMGhwdWxvYVlzOHBNTUF2Q052TlNJcHd2LUUtX0d1VDFRN21waFJtbklKTGk5RTZ3YmNBZmxZWldPNENtdGQ0M3F1YjR5c0FOSTY5SmlQd1VIYkxnYzRtWHFsSGV5S1VQV1BRcThRSk5PZzBLX1NDU255c3loRHE5Vm1TZzhXZl9qU3lFS1hOZ3NBZVQ0VVZib0s1MHVFNnVKTEo5dDNxeWhNOHo3ZUJZeFdZX1JyUk5DcFIySjZiaHVlakgwVVdva0VJY2t0WGc": 1793137528.8189738,
 "CNN|CBMi0gFBVV95cUxQb0Z1R1hJZGE0OE1yZk9LZGk3UkpSU0J5alRpbGNLUzBmMWFsemF4RDdlNHpKNl93aVFGc1pSeWxOMFhUOU1HRk5RRkttbTBuR3BCT0pNdElVY2FwdFdnZ2ZVazBheTZYRFlOT2V5TWsyeWtxenFwZ09URnA3TVNUaXZ5TWE4WXJRWS05WUtHQ0pEUWJpc19KcFpub0E2Qm02Zm5HNW1SYkNWOG5GZ3JJa3hSMjY3dHhhT19tQTlzRXg2Xy1rRzdUdFFvMzJESG1uWUE": 1793134845.1371863,
 "CNN|CBMi0wFBVV95cUxNZE5XcGZIeFRsYVdpbmQwVkpoc1BfcDlqcnE2ZG02bERfNzRtN25Da1lEX1NDU2kzWi1RMG1OV3BhbHY1Sy0wdzc1dW84b3VBc2dKUF9EekJMNzBRaDJHLVNldWgxam16akM2b1M0LWZJdlhRRHZheF96cjVadGhlTnBGNVdMVUNwQXhsUUhibkJ4c3R4cXRkcktxSTAzVVF6WWRnc05hTmhCZlJqam5BYldFMWNkZDdGZ0Fnd3JvUTdDZTU4MUZHRVVCcU10NHBUWWNN": 1792930525.0455637,
@@ -4455,6 +4449,7 @@
 "CNN|CBMie0FVX3lxTFBPUmxqWDFYSU5ybldnclZtOEk0c0QxMjJQeGtyeW1rcVZlZGtjdEtjUU9zREJEbXV4M3dXQjRnbERiNlhsdFUwMkxFb1pGR2hNakMyUUk0VmdBOUFuMUJEUnJVeTZSa0daOWU2SjdfX3JvMFl1OUdOM1d6VQ": 1792912921.1568482,
 "CNN|CBMieEFVX3lxTE1CeDV1VE15WHAtNXh6cldZaG1SYnNiNGEzWjZhVWxUU01iVzU1SXhDNGtkNDNpMG9JdWRfWmJHYWlBNUVhbzJIcWhGbXFMMDJxNnhsZ3RMSXFCNVJpVzhpbzM1UnFXWkhkcnJIUlZJYldxbFlERVR0VA": 1793022326.7653923,
 "CNN|CBMieEFVX3lxTE1sTW44S01uMVNyZUhQTnF1TW1ldUpmTm1LWXd1VlRvUGpIbnhCeExBMXJMLTBTZkVtS2dOaVkzUmhDOVF2RlAzNTFHMVQydlJaWDlDSERqa2lQd01MR2xHNzN6Q08xeks4ZjdvWEFpZEMzNUNKNjNFQg": 1793142041.9219406,
+"CNN|CBMieEFVX3lxTE45d1R0LWVSam8yMFVkS05sSXp2VW11M1NaR0ZuNFBlVFFmeXRBN0lhMllmbmtseUlaR1VkUElyODlnQ1VRWUtnVVBJc2gyNEM0ZDR1TklUT1F4cjBsaG9JMnBZQnlrRjY3QWpSZXRGTnpLcTlla3o0OA": 1793250926.0898464,
 "CNN|CBMieEFVX3lxTE55TllMbmQyY19NWW8zN3NHdFc3M3BudWRLY2NRSmQwTlVaY0RWZVFjNjVhTXJab3l0TjljaTdMZnk1RloyZWdnQ25KdWpnUmM5eVp0RXF6a2tTMWxCaTdLT1NFVVRCSHRTUksxaHNmWGFJcl9sVDlTSw": 1793212237.8266294,
 "CNN|CBMieEFVX3lxTE93VmlDeDcyVkJ5eHRqYzdSalNjSGpPZEFRZnJpUVBvaXUydW1ac3lvWk5oeU1Wa0tsN1BuYVdFdHpvb0hKSVZXNjl2M1NpUndXTHJCbHgyblNGYTVwdmFSRl9vNFJhYms2SDFiQ2dXdXRuM2luXzdjMw": 1793242844.883447,
 "CNN|CBMieEFVX3lxTE9LMUI3UXd6YmJMYkxTemxFOW5tN0ZmNDJxYk5qbHplWjBneVEzODNGVlZWVmQ2UDJxeVZ4Yi1IYWlGTVBUNS00cG9ocXRqcF94bnRKV2tnbmttcm84dmFhcmdwNG5Ma2R4emZ4c1VZQ3FNNks4NFJOUQ": 1792998926.4494357,
@@ -4517,6 +4512,7 @@
 "CNN|CBMigAFBVV95cUxOTWctMmNTZGdfSm5kYUZXUERUamkyMVJlME52aE1wODN5UFNoUHlzU3pRdlp1VFRZWk9LRTJlMURneFdIWF9jMzBTcXJLc0o5cHVaRFBmcl9MVjNlRFd5a0piM1hMU0gxMmNha3RLTXJISmJUTnN4MVluQ0htV0lWcQ": 1793078125.0864997,
 "CNN|CBMigAFBVV95cUxObzJxMUFWNVlKZUxJZjJ6OVZIVERjOFJGOFd5UE14Nk81b0JyUElzTGo2bnZBZXBJcjZCTUdGdEpncnpQM3RrOU5BUUtEcEYyQmJ3RGtBbTVRR2FXX25OanljZjUwQ2xZV3JkZlRPX1dWM2ttdDg2bi1JT19oS3AtYw": 1792935031.8835816,
 "CNN|CBMigAFBVV95cUxPNDNwTmppUHB1MzF3dkVyeVZPOTdfeEN0VVlseGpMMTg2Ymd0YmxwZUQ0a2dFdEd6OThfbWdoY1Y5YkJHNmd2eFRfeWpsRTdnRDFXdkZVeUp0VElGN08yXzBfNW9RU2ZPeHRlMWJheVJaUUlYWUFXSGFLYXpkc2tPNg": 1793123126.183316,
+"CNN|CBMigAFBVV95cUxPdVZTU3ltMkNMNXM3a3NoOFI2eWtuWFVQbDVJb2FUVU95eXBqLVFUUEFMNXZsbkowV0dVVGlkMVlmLWc0TFhfNldfdHFpSHFSTzA3UUpnNnBZWDR0eXhiaGhfYTZTcTJCSUxjUmFMclVhVzk2WjNSdTd1aGF2ck1DMQ": 1793250926.0898464,
 "CNN|CBMigAFBVV95cUxPdkVXdUFSajk2TDluNE1rZENkTU5nUzdQU1lvdzZMSEo1a3A0ZFh2RWJmVUE3cUktX2huaDR2QVQ1TFZnQ1pkSEtZbnVWUm5laWxfalVORFFQMkxCQlcyVlE1V0c3YmpKQTJGdThPTkYzSVUxdGVQczVzTU0yX0tuSw": 1793104235.6651404,
 "CNN|CBMigAFBVV95cUxQQ1BON1o4SE1nQ2RXdDBwUzEza2l2U09lY0pnUml5N2pFS3UtRGVMdUZrdnVPQnJtSmZYYUk5bC0tVm1XSGpVTDdaNVZhY0h6UElBZW80Snp4MGlnWHJ1RkhjQklDWXpZN2ozeXpROC1CUjRvczBZejFaMFpNNjNEZw": 1793066439.9056492,
 "CNN|CBMigAFBVV95cUxQY2xaQ3NxcDRYM2twckZ4SlJQdGxDZUdqNVlFbjhLMGtYUUxWZndma2lZc0Vhd2p4UkdyTnRBNUpOQ19LUFZwZVFpYWs0aVJ2T3Z4S21UOXRyNUNjRTdvZzQ4T2hXVHBBZEphMlJBUUZkOFI2NWVfY1RTYUtfeHIwMw": 1792912921.1568482,
@@ -5284,6 +5280,7 @@
 "France 24|fec01900-cf05-11f1-925f-c136e5df6558": 1793016926.187019,
 "France 24|ff92341a-d01a-11f1-9e4a-6d00e474ca20": 1792912031.9234908,
 "France 24|ffa02bb8-d233-11f1-8d31-bfc6bd0ccdec": 1793126729.8237443,
+"Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/29/vote-des-mineurs-on-dit-que-le-suffrage-est-universel-sans-se-rendre-compte-que-cela-propulse-les-enfants-aux-confins-de-l-univers_6802087_4401467.html": 1793250926.0898464,
 "Le Monde Politique|https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html": 1793128528.0402112,
@@ -5320,6 +5317,7 @@
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/26/un-pirate-revendique-avoir-vole-des-donnees-a-la-france-insoumise-au-parti-communiste-et-a-renaissance_6800789_4408996.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html": 1793136635.0121229,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html": 1793220336.2652586,
+"Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html": 1793250926.0898464,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/arno-klarsfeld-accorde-sa-confiance-a-jordan-bardella-malgre-les-revelations-de-mediapart_6799675_823448.html": 1792912031.9234908,
