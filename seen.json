@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3FTVlRpTGdlQUJxejBoempvbFl3MFhhM2c3RmJzUjJuUnk1Z1dzMmh5V3VlVlRtTmtYWUxhTDYwWWcxUmQ0eEtxOFRST3MtdnFTRkp4akdRNmZCVVRmVzNJdHZXX0RXYU1udG1aMlhkZ3oxcnExNGRnM0c1eVRodG1rSEREcnhmM0NmdUN2aw?oc=5",
-"src": "CNN",
-"title": "Does Red Iowa have the blues?",
-"ts": 1793126880.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
-"src": "Le Monde Politique",
-"title": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-"ts": 1793127604.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "What do we know about Chancellor John Healey?",
@@ -3891,6 +3877,13 @@
 "src": "Reuters",
 "title": "Stars say new 'Hunger Games' is a fairy tale amid world's 'darkness'",
 "ts": 1793250896.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Chancellor says government has 'moral duty' to help young people out of work",
+"ts": 1793257018.0
 }
 ],
 "seen": {
@@ -4003,6 +3996,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo#3": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#0": 1793209528.5569124,
 "BBC|https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#1": 1793213126.6938767,
+"BBC|https://www.bbc.co.uk/news/videos/c3j47008yl7vo#5": 1793257242.9850512,
 "BBC|https://www.bbc.co.uk/news/videos/c63elx3x70jno#5": 1793183433.7364793,
 "BBC|https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo#5": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/videos/c65ynpx07djvo#5": 1792912031.9234908,
@@ -4141,6 +4135,7 @@
 "CNN|CBMiY0FVX3lxTE1MNnZtSUp4YXB4TVdycF9KVzlBZXZkdkFSSmVzR21yR2xob2JzVV9iYzRyX3hpUTVjUkZvZlM1NXhBbUdfckdnSlQ4a3VUcWZQS0VkekxIaXVJOWVKS1hXcXUzTQ": 1792912921.1568482,
 "CNN|CBMiY0FVX3lxTE1qcUpVNHR0Q2ZzeXVEMFoxUzF2U3g3SnBBS0lLNk81UkxiSnJ5dUVIMFJoRmhORVdWSmpmdjRPZXdrTkc1NkFjZXAzemhZX29UZDNQXzNmYUF2WkwxUlNka2NGMA": 1792912921.1568482,
 "CNN|CBMiY0FVX3lxTFBGWlRzby1wQ29Yc2JuWmkxbUVNNFRpMUx3a0FoT1NjOWpXc2VHNkE4TEsxcW9lcXA5NGxzUGs3a0N2QXB5d3FzZHpRLVlfWVN4S20zSTFqbFF3eTRPdTRTSEZFSQ": 1793202327.6191547,
+"CNN|CBMiYEFVX3lxTE4tRmRhc210bkRHWDA2UkxTejdiYXplWmt2UjFzdFFxOGRnXzBEdEpuNkVpYnRaU0gzMHlpbFY3ODNuVmNTX21xNVNmSVF4Umt4cnBjSnJTS3BHVVdTd3M3Zw": 1793257242.9850512,
 "CNN|CBMiYEFVX3lxTE5kby1xNzMzZGh2NjdqdFYtaU00cEYwVmpULUdpNTlDX2hWU1FPM0hWWlpPSXh4VHZJNlptMTM3Q0ZZQnhRM01sRUJzTjlUUE40bW1wXzhuQk0tS1V3UzBfNg": 1792990839.6790755,
 "CNN|CBMiYEFVX3lxTE5pcjBhazRhYzVKbTFtVjgzQ3BfdG01VWN5eEgzQXJockpOSWRZd2tRZzVnaTlsXzFtMjlIaTNaTnhIQ2prNkdTaDRFazlFNy01TFZGYkxFQW5DbWZ5MnNZRA": 1792925608.8006206,
 "CNN|CBMiYEFVX3lxTE5tNlpack90Z3hTLVJXamJrLTlXYUhLbXhZemFQZEkwZnZVUnlROFZRQ1ZoU2dyYWpTTnF4eDlydlZUYzRJaVB6elRybXZIREktWEQ1OEVQRnJfZ3QycmtOeA": 1792912921.1568482,
