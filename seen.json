@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW9tUThNYVh4b1RDRDdIS2Z6YjRRZW9YcHgtUUwtYVl2elBuZVItWUhtYUtBVlpQc1VTQW1iYmEwY3JPa3N4ZVVITlJ2Rk92bjVKX1NmODBpa0ZxcnJRcEpqLWJWdU9UdVoyeGtiODg4SEdha0ZxSURyUGk3d0NGRG53WVlfNHBEODFFa1FpUWNOZ0ZuY0pDcnNsNEN0ay1qaTJSYlBmTTVSaVVyeHFsQlAzOWtrM0poUVlpMkxnNWpXR2d3UDZn?oc=5",
-"src": "CNN",
-"title": "Dem candidate Amy Acton targeted in Ramaswamy ad speaks to OutFront",
-"ts": 1793145729.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmI5NUlwaDNJdDhwdVZtdF9ucTdxZm83d1FyaHBSajliWml1NDBvamVoUlRFb3dTZm9td2ZxeEZvcmRhcV83THZyeU45R2FBN0JKNnVISE83aHFHRE1raGNpNWhiNnVlV2M4WkRBcjAwRXFJR2FtdXV3UmczWTdvemplWmFRcEN3STJDb1NIa0xxZTdXSG1Cc25hQ0owVGhYTmpwOURaYUQzQQ?oc=5",
-"src": "CNN",
-"title": "Obama and Trump spar over The Cheesecake Factory",
-"ts": 1793146260.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GdC1abV9PWHV6akJXb3FpanJ4bGtzQm1WUTVNVExWZHZPTzdDNDFJbVYzUVZEZUF6MElSOWZjQUQ5czk5dF9YMGlWcXNIa2JDYWtSWS00cTl1Nnd0X2hpdzZtdnNsbE12UTVEaFk2UENqMV9BVG1IczVSTS0?oc=5",
-"src": "CNN",
-"title": "Omar Jimenez talks to father and son about their top voter issues",
-"ts": 1793146320.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
 "src": "Le Monde Politique",
@@ -3877,6 +3856,27 @@
 "src": "CNN",
 "title": "This Tokyo neighborhood is famous for Halloween. Locals would like to change that",
 "ts": 1793271812.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4cFh2UUtFMm80LWNfVkhGVjM0d1RHV01zTXlONGt0TXhJenhzV2VhZWdweU1rMkluWTJZTUN2bFhteVdLdmp6Y2hCa2RCdmlMUHVjeGRQMVdaeEd4WFloU0gtM0MzYUdKc1l5NGFPdFUyd2RTZmd2OUlyc3JLUQ?oc=5",
+"src": "CNN",
+"title": "AI hardware can be hacked so chatbots provide dangerous answers, research shows",
+"ts": 1793275215.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWksyYzViR29uQzNvV092VDJqWDhJR2h2YnB4VTg2NEhCbjdqZktBejMzUHFQeHd3SmFlQzU5RDItUHhZUFFqWmtMeEw0VG9sOG5jVXplTExIazBPNkF5RWh4czhpME1Qd1BHcldPUEtGS3pvUHVaSHdqVkFZZmxybmtuYk54ekRvdUhRX2cxdHp5ZDY3d0ZsTnZhOWppa2dfMU16YS1sdDNHZWt3ZlJsdTFfdm9SOWozalA5WHlvdUhaRFJyS0NQUWxPM3ZuZWJCMHBjbGhmTTQ?oc=5",
+"src": "CNN",
+"title": "Pass on Paxton’ video gives GOP ‘permission’ to break ranks, top TX Republican says",
+"ts": 1793275560.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html",
+"src": "Le Monde Politique",
+"title": "Objectif Remigration : le colloque et la manifestation prévus par le collectif d’extrême droite en Ile-de-France ce week-end sont interdits, selon des arrêtés préfectoraux",
+"ts": 1793276041.0
 }
 ],
 "seen": {
@@ -4047,6 +4047,7 @@
 "CNN|CBMi1wFBVV95cUxPR2pBWm5XcHhaUk5iS29QSzhsMEVoby1XdG5Gb2x1eC05YWcwbEJtdjZjVjg1TjdEWDBRNV9USDdORXB6OTVkNTlCZzNpZUNBS2RmbEZyTzNRVGVhR3RQdTNHcE5udVRwWTZxdEFLSTFaaUc4Z2RMeXhJcy11ZG81ejdNZDgzTGkwemVRbTl3RnNuQjBlYjBnakl4bnluVEFTd0JVZEtPWmxiaDZtSGs4WkxRRWgteF9uNlZlbHhPNUMtZkNWRG5MNjhycExTM3JzY3JWMmhnSQ": 1793245524.986033,
 "CNN|CBMi2AFBVV95cUxOOVEtaEVzVXFFczkyV1dqV01zeHNBRW5KUENlS0hkOWtoYnVfTVRlaHBoendrR1h1elZiOEQtajQySl9lSktMQkZ5VjVjRXEtbVVJTHpDWHd2VTNfa1NfdENoVEplVDFBaXN1VHpGMUIzRHFUTVRMMndqbzFVN2N1Z0RtXzNKUC1VR3pyd1NiSzM0QVNNR0pPYUZ2c1RETWh2VnhpUzk2cTlIRFdSYUxnT2w1Q25BazFOOXRCUlpReUM1ZHl6TFVkbUVFbXBXZEh0Zkhzb3pRalE": 1793107834.9660704,
 "CNN|CBMi2AFBVV95cUxPLW0ydkRYdElzOUlPVl9jR2cwX2U2dm9nM3dJU21zUTZ5ODV4bDRtdldsSy1WWE00WjlUdWFZeGFraUdZQmxTQkt5RjVCRXIzRFo4UXlnVkxuLTN2ZXlvTFNBWWZpTlRfZzlsWm0wZzJXWVFoajZ4T0I2NEw0SlpjaDU1Tlk5NHVGeDdXNkJxQVhzaFBmSy1nZ3MxNDNzWlNJQWo2dGlFLTE1VFNtaVJacl9TMWNMQk5EaGp2ZHdic3c0a3pUUnl2QlBvVmdVaGpUOU1vcThIYlg": 1792925608.8006206,
+"CNN|CBMi2AFBVV95cUxQWksyYzViR29uQzNvV092VDJqWDhJR2h2YnB4VTg2NEhCbjdqZktBejMzUHFQeHd3SmFlQzU5RDItUHhZUFFqWmtMeEw0VG9sOG5jVXplTExIazBPNkF5RWh4czhpME1Qd1BHcldPUEtGS3pvUHVaSHdqVkFZZmxybmtuYk54ekRvdUhRX2cxdHp5ZDY3d0ZsTnZhOWppa2dfMU16YS1sdDNHZWt3ZlJsdTFfdm9SOWozalA5WHlvdUhaRFJyS0NQUWxPM3ZuZWJCMHBjbGhmTTQ": 1793276125.8577242,
 "CNN|CBMi2gFBVV95cUxPZW5tOVBmdW1jVklaWGdaeWE4V0VoZGFadkVKLVJ0bXF4UTNFNG5jSVVIYkZWaW1ZZ2lUcDdzSlY4STBNM1VrVzdtU3EzOXU3WFI0VXMzb1A4S05yVklVUGZrQzRacXFtamxDSF9EUHduYW9oZjVDcmtCVDdPc1VxZDJDSWsxbE1hWXV0aExZMmZTbTF4NDd6dkRCX3hrTUVWUFFHMFBLYktTdUlBU0FDYmdFWm5FeDhpdVczcXY2Ynp0LXZZdTExZ1Bkc0VWMEhhNmNSUlFoNGpRdw": 1793124928.0361907,
 "CNN|CBMi3AFBVV95cUxPdDctemtQLUxXclNjWGU2ZWlpeFF5bzBqcHBjUjFoTXY5aHlWa0dIVDRlZHljZzlZUmhVV3hZME5GWjZGR21CSUN3enpOZzZnWnc1a2RaOHRucndCTm1QMXJrZGk2a1o5N2Zqbk0wZk8wZHVkWDA2TmR4QlVZWW9OU1o1Q1ZWaUt4RDJieEx4VWhOcVlrOG9pVHVGZFN5Z2VLRUNGZ1hCenVPSkV5Um1RZEhZeDZKWmk1Rms1N0p1YUtKZVc3ZUNiSGktNWkxZV9uMGpxWkpjdmtLVzJ5": 1793264439.3501782,
 "CNN|CBMi3gFBVV95cUxNVkFKTnJpc0xSLXBRMTcxVGttYkZqbGdtUWpnWGRJVnRmLTlJVGtBUHJVS0xXMjhvMXlrMHE4UmhrSmEzSWdBcnRva2VoN20wTHlTbFJ1Y2NGWUl4ZVc2dUx3amVueDVPRjNwR0hoanBFamltbEdDRlFhclFleG5FckIzVGxMd29vZUUzaWRsRFctRHZLZ0k3QXZISjJERG96aVI5bWdNcmZzVmdnanZkRjl1RWlGVVFZU0NCRlJac0tmYnpqSnlkU0gxY1EtWmItRWRudlpfNVJ6ejhRRUE": 1793112328.6785605,
@@ -4402,6 +4403,7 @@
 "CNN|CBMifkFVX3lxTE9TQ1RZNFpjOWE0NS0yOXd6M2VteWotTHF1VDlCUkJVN1ZLdlNUeXBqMi14dzJxR1Q3RkJ3eHBmVTEwcHhweGROQ2lZY1o5LXFXZ0FrenVFOGUwUHU2bDZBQkNaeWpwVjR1aG9vdW5kQ1c2aV83TFc1R0tEV01BZw": 1792912921.1568482,
 "CNN|CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ": 1792955725.6519537,
 "CNN|CBMifkFVX3lxTFA2OFVXeFpOMGRXdFFwZmVzVF94VXZwU2NaVkptbkU1N1o3NzFWT1NhWWhJTE5ibnYxcThOWlJMZnFnQjZfM1M3aEU4V0REQlJ6VktjYTBBSmpVMXBUYVdYV2pSQmh1S3lSN3ZQQmdQcng3S0xiYVhIMEowQ2R1QQ": 1793074528.1118133,
+"CNN|CBMifkFVX3lxTFB4cFh2UUtFMm80LWNfVkhGVjM0d1RHV01zTXlONGt0TXhJenhzV2VhZWdweU1rMkluWTJZTUN2bFhteVdLdmp6Y2hCa2RCdmlMUHVjeGRQMVdaeEd4WFloU0gtM0MzYUdKc1l5NGFPdFUyd2RTZmd2OUlyc3JLUQ": 1793276125.8577242,
 "CNN|CBMifkFVX3lxTFBISHJaSXdaRmt6a2w3cUNKdTFzcWZhdFdlcnJHS2JrRFYxeVhEbjFZci0xQ1FNWExYRjNhZmpiZEREbTB6SDRSbm9BZmVFMF9GNy1xTjJtVFVPM3BZbnVTaEM3ajZWOEpEcnU3dThHbWhoV0diMHR6WEtfeDNIdw": 1793143835.2585323,
 "CNN|CBMifkFVX3lxTFBzZGt3cTgtZnlVUUt6THNOcmYtM1hsZVl6V183MVpxaXZmWEFVVG1IbTk4a0pfQTFpTElOdUJQRVZtUFZxbm02YjhmcTVrRU1IaEw5VjJQZThpWnNSQkdNWlh6SmZybEZZdnJHbXA5cG9CLXZtS0x5WGF1VEtXdw": 1793092525.5795987,
 "CNN|CBMigAFBVV95cUxNLUtfOUY3VUpvSHdtZnJ6V3ZKRzBDTnpyaVIxVm02TE9IUkZZVlRuMnB0bDJlRkhsbUpfdXJlaGwzcUNNcXMtMGxQZC1jRDVHYkRSWV9jc2NSNi1hdktibUdJamUyYUNaR1lkRzdjdjRZQ3p6Z0FLUVUxQTFPanFQSA": 1792912921.1568482,
@@ -5329,6 +5331,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html": 1793265325.4624467,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html": 1793234725.997194,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html": 1793249125.369052,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html": 1793276125.8577242,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
