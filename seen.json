@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
-"ts": 1793181275.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uNFdTV2JfQnM2VVdZaW9jSkpodGplTVZLWXJDaThqWmJwaXlCbnZGRk95alVXTEVUTGVRaWdjaWRBRDhvSHg0ZkNLQTh2SUpSU0VqaTBtWHdJUDRLc25kYXEtRnB2YWs0eFE1WFRENkwxa3FHNU1iUFRfWWo2bkE?oc=5",
-"src": "CNN",
-"title": "How to tell if Democrats are heading for a wave election in the House",
-"ts": 1793181615.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlRJd3hCcDg1M0V2dnh3VHo3UTAzSFhUOEJQNmNNaUNzRUZMeUVKRTk4Y0JWT0JMSVdSbDNlV2VjYnByNFBPMmkzX3Q1UHItczBJQ3E3T0haX1h4d250WVhLaWlDcTFKTHMzeE8wNkgyUjFybDFtbjdVeXhPaGNtZHBBQjVnSkViYXBTR2YwU0dRajZFV0pSNDhKQ0VxejhsRUNhVVdpdWcydnFQRWJKbjZYV2o?oc=5",
 "src": "Reuters",
 "title": "Michigan Senate race a test of attacks on Muslim candidate, progressive agenda",
@@ -174,13 +160,6 @@
 "src": "CNN",
 "title": "Trump: \"I Would Approve\" of Brazil's Bolsonaro Coming To U.S.",
 "ts": 1793186001.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lcmY2N0tMbjF3R0pUckxIZFl5YldyQXZfQ1RBbGxuSnl2dHY4UXlMdFZxNk1ReVJtYUJfYnA1bl9kOWRJNUZpcHJJSFk4SWtJUW0xeHNmTDl5OEJzSDBhX3ZhMDlzNUg3Nnd4ZmdLU1BISWZxYlE?oc=5",
-"src": "CNN",
-"title": "The new frontier for ads is racist cartoon AI musical microdrama",
-"ts": 1793181615.0
 },
 {
 "lang": "en",
@@ -4409,6 +4388,27 @@
 "src": "Reuters",
 "title": "Machado says US has proposed Venezuela elections for 2027",
 "ts": 1793308387.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXpURnVtVEwtS1MtU1phcFJQWVY3Y0JPRXB3aGJjMWVUTkVkdVk2cTU3THItZDdrYkhWN3c4c1dYb0pEcjZqWDctdmVJRDlSQk9vN252a2QwRWVNVUphTGp3cUpvZ3NNYmw4ekZBbjdlQkw3NXZKWVJ3S0ZZem0zRDMyQkt3YndsR3JlLWc2TmpUNWNGa1FCdW9PUU5GZzNlNnNSOURBa3ZDRVBBT2ZlQXBmUlFUZXpBUFNiS2g2ZjhLYmpp?oc=5",
+"src": "Reuters",
+"title": "EXCLUSIVE: Greek PM calls Turkey-Libya maritime deal 'void;' calls for global truce after Black Sea attacks",
+"ts": 1793306404.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDl0RUtrU1l1bUx0elZFbTh3REZyV1pBMXRWWE82WVFidndCeHhuekRqbTdtNlVLSXhwaHlwaUpqZUZKcVRBcWFhdVdvaTJBS2dMcmdreHlQOC1iNEMxdmI2T1hfLVRybmVrNkU3aVMtMkVuZkFXcEpoV3RuYmJ2clgxdGM1UG0wZFM1T2JwaWlyXzV5dmRpdmRNUXl5N2xTVTlaMzdaaF8yZUxiWTkxdmEwWFFVVGlZcVZ1NXVLNzZpbmZLTGlJd0owd2hWcWdjTkdpcGFYLWFFcDRGVk9F?oc=5",
+"src": "CNN",
+"title": "Trump lambastes reporter who questions whether Kansas rally cancellation was due to his health",
+"ts": 1793307647.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
+"src": "Le Monde Politique",
+"title": "Face à l’effondrement du BHV, l’impuissance de la Mairie de Paris",
+"ts": 1793310295.0
 }
 ],
 "seen": {
@@ -4600,6 +4600,7 @@
 "CNN|CBMi3AFBVV95cUxPdDctemtQLUxXclNjWGU2ZWlpeFF5bzBqcHBjUjFoTXY5aHlWa0dIVDRlZHljZzlZUmhVV3hZME5GWjZGR21CSUN3enpOZzZnWnc1a2RaOHRucndCTm1QMXJrZGk2a1o5N2Zqbk0wZk8wZHVkWDA2TmR4QlVZWW9OU1o1Q1ZWaUt4RDJieEx4VWhOcVlrOG9pVHVGZFN5Z2VLRUNGZ1hCenVPSkV5Um1RZEhZeDZKWmk1Rms1N0p1YUtKZVc3ZUNiSGktNWkxZV9uMGpxWkpjdmtLVzJ5": 1793264439.3501782,
 "CNN|CBMi3gFBVV95cUxNVkFKTnJpc0xSLXBRMTcxVGttYkZqbGdtUWpnWGRJVnRmLTlJVGtBUHJVS0xXMjhvMXlrMHE4UmhrSmEzSWdBcnRva2VoN20wTHlTbFJ1Y2NGWUl4ZVc2dUx3amVueDVPRjNwR0hoanBFamltbEdDRlFhclFleG5FckIzVGxMd29vZUUzaWRsRFctRHZLZ0k3QXZISjJERG96aVI5bWdNcmZzVmdnanZkRjl1RWlGVVFZU0NCRlJac0tmYnpqSnlkU0gxY1EtWmItRWRudlpfNVJ6ejhRRUE": 1793112328.6785605,
 "CNN|CBMi3gFBVV95cUxQVlhvY0twQmNHWkVaTENEUTJhcUdfUFl2YnBrVnFKTVRuemRRajNlMmVTc2lVTUFvU1B4N2txUWRsanRkNWJSU2RxcEMxTjlFMVlwSm83a2xDZVUxOVY1TDhvSklRZGRmbnFiM2p3WVZIRm5zLTdwbU8zU0ZlTEdaWElhZnBRUG1LUHZhaUlWVk1yNDNla1RHZ1huR3ZQeFJaaUM2em1Zd252Y01RNGFRVUxEYy04TkJVcFFfZnNyakFpanpLdjY4aEItX0FwYWRJR2p5d1p3QWo2bXN4ZVE": 1793282442.0658689,
+"CNN|CBMi3wFBVV95cUxNSDl0RUtrU1l1bUx0elZFbTh3REZyV1pBMXRWWE82WVFidndCeHhuekRqbTdtNlVLSXhwaHlwaUpqZUZKcVRBcWFhdVdvaTJBS2dMcmdreHlQOC1iNEMxdmI2T1hfLVRybmVrNkU3aVMtMkVuZkFXcEpoV3RuYmJ2clgxdGM1UG0wZFM1T2JwaWlyXzV5dmRpdmRNUXl5N2xTVTlaMzdaaF8yZUxiWTkxdmEwWFFVVGlZcVZ1NXVLNzZpbmZLTGlJd0owd2hWcWdjTkdpcGFYLWFFcDRGVk9F": 1793311242.1213272,
 "CNN|CBMi3wFBVV95cUxQSC11MHlibktfX19tMVBsRkMzUFpMdjdZYzY1eEZhd0hMSWRYZ0pnenFhTlRGeG5uQ1ZsSll6WUZNeWNhT2M2SXBaN0QwczZFRU9Lb3h3MlhPTUJ4UTVJSUswUHFpeko3ZDRVQ0pua1UzeVVtSTRaN3NQUUlkQlk3SjdidVBUSzhSc0l5cS1qUlRDbTdTLUhRVTJzYTZGMmc0VW9NaldVOXltMU9tUnAtQUlRaldISzlLUHVWZHYxVkZVUG5HWHZUQUhCVUdEU2lQclV4bDA5Tm9Hb2JrRFkw": 1793129432.5301433,
 "CNN|CBMi3wFBVV95cUxQdERqUnUwZzFNb3FPRmpGV2JEcE5Scks4SkQ1dGllbU9hd094LUYtME8xNVFiWGZCWk5tejBncjZVMEVoMTMyOW9rN0pBOVRBWjdmVGU3NzJyRjZJbDFNT2M2Z0ZpcnJNRjlKRGVOZXE2U3NXNTVXYktBLWMteW5tdGZPMnFFdzh2VXNHaElFamRlU3VoR3BUQ3dLV0ZmWXExZFI3ZTNCMjZDeHl1eFlpVjd5MVdwOU91b2dfR2NQcnhta1JOR2JvS1NZNDJVUl94cTNIbVRObDRwbFJrVWpJ": 1793160045.455372,
 "CNN|CBMi4wFBVV95cUxORGpVUWVtcllaQ1Y3a2NDRFRWQ2RDZkFBVUlTWkxBY25hRTV3Y290SlBhWElrX3duRE1SSTdIWmZ4RUtIQ0NteXQzY29tcGhvc2ctc0JVRnZHXy15dDhxYk5GeWtMcFZuVUdFdWRYX3ppbExoOU9COVFtdFFqOXdkYjBucVp4SS1TaW5fNnEteGxPUl9oU1A4YXlqbGVDZDlONmJIcTJySVU5YjMxR1BrTnlGQ2NSZE9XbXBFZmt6OENndkkwYm9na2NiaVdEVXB3ZFpSYXhzMThROTlNTi0yYmlLSQ": 1793139326.6185064,
@@ -5982,6 +5983,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/remplacement-de-parcoursup-sebastien-lecornu-dit-attendre-des-propositions-et-des-engagements-precis-de-la-part-des-differents-partis-politiques_6801626_823448.html": 1793211332.0526388,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html": 1793265325.4624467,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html": 1793234725.997194,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html": 1793311242.1213272,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html": 1793249125.369052,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html": 1793304925.6143272,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/lfi-remporte-une-victoire-a-l-assemblee-nationale-avec-un-texte-adopte-sur-le-foncier-en-outre-mer_6802339_823448.html": 1793284234.1797616,
@@ -7000,6 +7002,7 @@
 "Reuters|CBMixAFBVV95cUxNM2dDQW5yVDVVYnk1ZzNMcVhCZEMxYUNyYkJxbE1vbkRuU20xVXRZVE9GdDRYQnBSY0Z3T3VIcDNmUFhub05LWS16LU9xdXdVc083b2ExNmJ0UXVCVzNLNzctOEMtUzYxX0xSVW1rMkNRWGVBMjEyRmVxTm13SXlmZDJoS3NlcG9uRHBzamVOZGl6STE4bW5vS1FUQjJSQ2hfN2Y5WXZyR1E4ZkN2ZWJ0djJrVDRnRXVhNWhnY0FKeUJVelBr": 1792912031.9234908,
 "Reuters|CBMixAFBVV95cUxNMi1ZMmNLbjJKNXRXZVBoLWxDLUlCWFk3OTRiMEhUOU1NTDBESTRNakhKZkw1Zl9xTzdyTzl3cGNNS09jYjloWndJaDlBamRtOTU5NkFGUGRVOUEzMllwQ2pCNy1qWktfZXI1NFpGdFQ3cjBVcHZ4VU02WjZwbHFDYUNNZ2U1YXEzV0U3ZExwMmstTkJGUWxUbDdNZ0xialhiRExDaTR4REItMEJkS0hzMUxvRTlfSkV4d1VfM3Q3VGR5RHA1": 1793214930.006022,
 "Reuters|CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy": 1792945833.886977,
+"Reuters|CBMixAFBVV95cUxNWXpURnVtVEwtS1MtU1phcFJQWVY3Y0JPRXB3aGJjMWVUTkVkdVk2cTU3THItZDdrYkhWN3c4c1dYb0pEcjZqWDctdmVJRDlSQk9vN252a2QwRWVNVUphTGp3cUpvZ3NNYmw4ekZBbjdlQkw3NXZKWVJ3S0ZZem0zRDMyQkt3YndsR3JlLWc2TmpUNWNGa1FCdW9PUU5GZzNlNnNSOURBa3ZDRVBBT2ZlQXBmUlFUZXpBUFNiS2g2ZjhLYmpp": 1793311242.1213272,
 "Reuters|CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx": 1793147288.4473698,
 "Reuters|CBMixAFBVV95cUxONnpMOGgtNnRZazVKZ1ItVDVLZnVlaWt5WDRvSUp4dGF0MmN1azBUM3pSWFRObWpCaFg2R3pETm9oNUd1dFJTQmFqOUtsWHdZdnViSWxJZUNIamp3cHZBRUhVcmRsS2tTY1RKVHFYTGNWckVlazRtNVFwOTFvWGtTS1poN2ROb2dKUW04SzEzQWJLSUNNVkQ3ZFNuZXVIQnVYRm1JWjFDUjBvdDEtRGh2Vkt1dUpMMHNEM0sybjI3ZDJhdklZ": 1793200525.9119065,
 "Reuters|CBMixAFBVV95cUxOQXYxUGkybjhZNGUydzJvN0pjTjROMkF2djdManFSLWgxZmtYZW96c0RfRjZMOTItME8taHdxeHpubG9KMUpzX09yS2VGTjVDQVJEUVJ3YWtMU2NIYnFBbnNGMW81eWZTYTBEdFAtNllDS2ZxNUtzNkt5dTJNb2djVUZ5LUhacFNfZkI0VFpRZXJzZF9GSk5PQWFsa2p1ak9WQ24zajN5TWpwSWxESHRQUWtuQ1oxanBMeTE3RTNHdFpoWXIt": 1793286926.7314193,
