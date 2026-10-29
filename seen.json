@@ -8,32 +8,11 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html",
-"src": "Le Monde Politique",
-"title": "Municipales annulées à Tournefeuille : une nouvelle élection se tiendra le 6 décembre",
-"ts": 1793121357.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
-"src": "France 24",
-"title": "Brésil : les passeports de Flavio Bolsonaro annulés, l'Argentine nie toute fuite par son territoire",
-"ts": 1793121934.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PZTFWQVVlb2R1Q0dtVko1MXp0WEh4ZkwxVEpBN2dGd0VvRFZnV3NkODJYcmZKOFlLRE9YeVhJd3paUVNIOElCSnR3S3JLbDV1Z1MyYWxITTc1WVJwdzRhRFdqZDNVXzFLb1V5eHJtRnZWNE5YakV4dg?oc=5",
 "src": "Reuters",
 "title": "Trump says he will respect midterm results 'if they're honest elections'",
 "ts": 1793122503.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
-"src": "CNN",
-"title": "Flávio Bolsonaro’s whereabouts unknown after reportedly failing to hand passports to Brazilian police",
-"ts": 1793121761.0
 },
 {
 "lang": "fr",
@@ -65,13 +44,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanF2S0hTeTNXREtINktrZ0NpZWlFMlFnWWtfTUUzUjNGNElDcTNPVGNtNG1RbGlCcE1pRmZwMGowYWFFX2xiYkw0Y05rM0lUM1dkVmdvb0xfTUFnWWFya0NsazBBM2QxNTZkd2I2Q2Z1UGxlQjJfNzBzVXpJajU0djZ2b0hVX295aFhtQ20tQQ?oc=5",
-"src": "CNN",
-"title": "Republicans are 'on the defensive in places we wouldn't have imagined', says analyst on US midterms",
-"ts": 1793122111.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWhmak44dWtrMDNjWnU1LU50YUlKeGJ6YzA4SDNGd0RsT3pXNkRhd2Q0RC04cTRTbUI5VEtFRXhSUnZaWWZYazFIdUM3eGpPb0ttdDlndUxnQ2NwVjBVeFI3V3JvbW14elEzVXJSTmN6UHp3SXB2TFctQnhUdUhBNTB2TkVnSDNzVGIwRkdlSmRLTnFSM05IcFpn?oc=5",
 "src": "CNN",
 "title": "More Latinos are voting early in key states than in the last midterms. Is that a good sign for Democrats?",
@@ -83,13 +55,6 @@
 "src": "BBC",
 "title": "Healey to promise £15m to tackle misogyny in Budget",
 "ts": 1793125389.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn?oc=5",
-"src": "CNN",
-"title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
-"ts": 1793121871.0
 },
 {
 "lang": "en",
@@ -251,13 +216,6 @@
 "src": "CNN",
 "title": "No clear winner as Netanyahu and Eisenkot appear short of outright victory, exit polls suggest",
 "ts": 1793132175.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW53bjY1QWdaWjlnczJPX1dTdlFNLWV0c3VucjBUanNvM1NqN3ZVXzk0UmlwNGh4OGNTTEppUkJ6N1cxc2RmMXhUNmwxQko4YTFMc1c2Z1N4amxnRWZfY0tMWmpXd0NTeTJGeTFkd1FZX25oZldPQTBqM3YzS0wzYk1yVi1ZTnYtMjBFZWJseTkyZw?oc=5",
-"src": "CNN",
-"title": "Flávio Bolsonaro’s whereabouts unknown after reportedly failing to hand passports to Brazilian police",
-"ts": 1793121761.0
 },
 {
 "lang": "en",
@@ -5647,6 +5605,7 @@
 "Reuters|CBMiekFVX3lxTFB2MHJhX28wTGtTelZRLUZlcVJocWVZSWxranJPSEIwcWJJSHpVeXZWNFdMclRJVkthRDVIekw1Uk9MTGRyTkNEYjRoQ1F3VXBlMkxpbkZRejQ4RVhIVE1xS2FQOWRYcXViVnZvTk1UYXhKSG5vQTgzZzFB": 1793219434.8698084,
 "Reuters|CBMiekFVX3lxTFB4cEFYT3VPWm5OZk9XWTFhNmtpSmlrTlJqaDF5NXNQV3ZwV0luUDFCcldlWjNUMUdCaXR4bWZpa0ZSRTRjaEVxWGg0RlRrU2xSaG80VVpUOWZ6V1JqRXp6MElWbmttTVhpVXVKdllpb2lpaGoxODRuN2VR": 1793097929.898054,
 "Reuters|CBMiekFVX3lxTFB5Z0dlMjctZDFUNG9lQzQwaHlQdUhvbFNIbWxuV2VDaUo1X2pJcUN3VE12TTZBUXBFdzE0Qm5OV0NPbUs5MGZQZ0hLa1llZ016SFdDZVU2YXhRS3FfMHpHUklyckRWdFFla1FBQVdpemNQd2FLanA1VWRR": 1793203249.0614064,
+"Reuters|CBMiekFVX3lxTFBMWkF0SkZtQld0Qk9IdXpFMUZWQ3NCcTR5T3dDdWhkUWRoM0toNENTZWNNRFpVVUk5SmE3Mmc2Y2RROXJEYW13YkVGVm5BbHpIZ0daRzJiRFZiRXJLSkRfN3FtR2RreWJFdnRaWEJuM2g3dVF0NHdyWUV3": 1793251833.8198926,
 "Reuters|CBMiekFVX3lxTFBNSGdBR1BUcThfSEQxVEE4b2VrLV92Rm1pMWY2bUlkbjItOF9MWUpsV2plVm5UU2RUTGV3bnRocWh0a28wX1BqZXFhVmU0b3hTWUc4QlNTRFJyWVU4d1gxV2FNV0ZhT0lSZVlqQVMycmlFVXdKZWRsZUp3": 1793022326.7653923,
 "Reuters|CBMiekFVX3lxTFBQR19QS1ZxVkY3Ykx0dnVYdGV3ZzRxdHktaUJJQ0xDV3VDV0NzRXUzVEpoTWtwQkRzbTJoVGxWcVJYbk9Kc2Q2c0JrcjF6dGNVT0hNOVphOWVKRUJCMHlPT3dJTWdaZlo2QmFLY1RHT2dkbFNjZjNyem5R": 1792985432.7294014,
 "Reuters|CBMiekFVX3lxTFBRTjc1T3pFTTVPYU90a1lQTVdVdDRIU0tyaDdMZXNkOEtSZ0QxYXAxNFF1bXloSEtZQUJQRDRLcXR5S3ZkbkRwbVZlZmd4dk10MnRGT0hzalJGV0ZCU01OWTNxMTR6X3FRZFVDOUI4dnQ1c092aU5IOUdR": 1792946722.1411147,
