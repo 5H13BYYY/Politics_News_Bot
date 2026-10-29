@@ -4255,6 +4255,34 @@
 "src": "Reuters",
 "title": "Christine Lagarde: The outsider who led the ECB her way",
 "ts": 1793290294.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2Y0TTlRTjdmZ2xQYUM4UnNEc096cElFamdnZjZuY3RaNmxaYXA1NUU4N1ZXMWJRd3pUVzVaRExwRndLQWpOc0dyNXE0Z3kzV0pOMkN2ejYxSmt4ajBfYmdrZU5yYlVxZHNEWkk4aVZ4cUtra3R4R3QyOXZrMk5aQXltenppdFI2X2REMkVOWms4eFc5MWJTNQ?oc=5",
+"src": "CNN",
+"title": "The Election Conspiracies Spreading Among MAGA Faithful",
+"ts": 1793289419.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0FMRUdJbXh1dzBNXzZKRG1aUC1scGpiM2RhVi1rUVZSOEhLTzNIV2pGY1lPRjdaT25sYVlEZW9Wa1B0bFpBaDRQRFNLdHFUQmRsVERzbnAxUHZpYUYzS09DZHJxRmdKVF9aTTY3T1U0SFg5Z1c2Y2czaG9MN0VZSTRhMEVOSWxSTm5zSWZPZ2NzUHE2SkJkWktiWVRBWE9FR0RSbl9HOA?oc=5",
+"src": "Reuters",
+"title": "Wall Street's AI bet: Own the infrastructure, collect the rent",
+"ts": 1793293543.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-sociales-sur-fond-de-grandes-tensions-la-commission-d-enquete-sur-les-violences-du-17-octobre-va-demarrer-la-semaine-du-2-novembre-avec-l-audition-de-laurent-nunez_6802378_823448.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : dans un contexte tendu, la commission d’enquête sur les violences du 17 octobre démarrera le 2 novembre, avec l’audition de Laurent Nuñez",
+"ts": 1793299925.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDAxam1KZXFFcGZnTE5IVEZYVGd4dVRxYW9DZWVkcGdfNXNfQ2dCZ3FIajdCZHMzRG41eEpIaEZHZzJkaTZOSmtaZ0ktQzByX3RudFAxM2RiT1MxMFBfSzFuelNDWkkyZjdCOXV1WVFRcnYtRGNlLTdMYXMyekxvSHNqUm5CWTJMSE5aZ0p5MUtzbnVqbXFjbHR3RlFUSkxHQko5Xw?oc=5",
+"src": "CNN",
+"title": "Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations",
+"ts": 1793300011.0
 }
 ],
 "seen": {
@@ -5112,6 +5140,7 @@
 "CNN|CBMimAFBVV95cUxNWTRzNWFNOUV1MExrOUlXOTY4YWxfWDA4RFFobFlQbjg4Q21ELVVBQ2lrOFlVYWVfYllFVnhhRXVaaGxld3A1bzQ1VE9pcFFzU2xMNDhCTnpXeW85RDhKenR5Y1pwN2lVMFNoa1dDdlAwaGo5TmJESlVWZGstMmFlb2h2Tk9LVnBvVXBPdkM0MG5CdW1nZW5OSA": 1792912921.1568482,
 "CNN|CBMimAFBVV95cUxNY0xVRGNxWExNUG9ja29SVHhJbWR3b2pmMGRlZXpsb1Z1aVNEdHdJOGdlVUlLVDRpMGlQaWNMV215Y2ZhUEw3blEwMU1aMWp1dTJzX0VscVVYdUgyOS1fbDNxSUMzQ2F2UWpHSmt6MzF4QjJaTDJjSVVNcGQ0cFdNUWVaN1BnRzlqemstQzB4NnVGQWhTR0d6Vw": 1793269836.5959818,
 "CNN|CBMimAFBVV95cUxOV2JWSmJCbkFjc2lCM3FueHRDSksxRC1WQ3p6X1dYN3U3bHFpTmFwdGhVSUVIcDd6WDY3NG5XdGxpNXl1a09ZMUpsYXh2aDZKZXNmMWFOR1dCcmlNb053SVlfSzFFM1ZLMllPcWQ5TXZBaEZhcUx2Mjd2cWVWdi1VeTNubzFPamd0cEdhSjJIOTN5c3ZobzhPYw": 1793273432.8183353,
+"CNN|CBMimAFBVV95cUxOc2Y0TTlRTjdmZ2xQYUM4UnNEc096cElFamdnZjZuY3RaNmxaYXA1NUU4N1ZXMWJRd3pUVzVaRExwRndLQWpOc0dyNXE0Z3kzV0pOMkN2ejYxSmt4ajBfYmdrZU5yYlVxZHNEWkk4aVZ4cUtra3R4R3QyOXZrMk5aQXltenppdFI2X2REMkVOWms4eFc5MWJTNQ": 1793300440.7039309,
 "CNN|CBMimAFBVV95cUxOdGN4N2NUZlVpbDl4QTNkazRqSTZMQ1ZCYkpIRnRBcEEtempNQzhGMmNCcHlmd1RyQWFzQUI0U1I2SnhkZ3NIcDAzN2puZUF1Q3JCSi1LSGw0UDJaTE04MXdHZV9uZENLQzJxYTY5SnlYTGpaZnZrUFk3UWFnU0paczgwQWI4WFQ4bnhZX2hxejV5anpxSnh0Rg": 1793295923.9076169,
 "CNN|CBMimAFBVV95cUxOdllnVlJZeG9yRWxNbTZQQS0yZWJvRmpZQkM3cnlKaS1zcFpTWDM0V2JUU3hlbzJNcGpycmlOOG93SXVfWC1aR1dQeGNHZHczRkstaHZZUHpVV3U3U01wb0JMa3B4aGJfZ2ZOOFJzbEFsVGJIbHBrN1lEUGpFck9XZWpVWU9DUU5kRXZGM1B6S2N5eFg3VHlGcg": 1793189728.6204329,
 "CNN|CBMimAFBVV95cUxPMEFrYmRSMzVVWjNFODRfcEZGcF9mVV9xdUFKc3ViM1VIVVV6R1l6dENkZFBJZk5XZ1p1Rm83bUNsNkxablFuYkRIUGZmVG1MejB4YU44ZThHVTVfVzFKdDdSUTZoZF9QNlBGX2d2aFhrT0RCUkVobE0zRnZaUkhBTU5FOTJfM2dPRHhNZU94VTZ3OHQzb0dRRQ": 1793184327.9725888,
@@ -5199,6 +5228,7 @@
 "CNN|CBMiowFBVV95cUxPb1lLMEhSX0FDZkdfSC1SazZLeUpyZ0NMWG1sS3dsd0VNQnhTdF9uN3Rhdk5VZVhXX0IxTGZKV3lraVExN0ZqMDJXak5LQzIzTjg2WVluSGZGRE5Xb3VldDFtbGlwU0V6RUtFWndfLUV2QlhwMjFVNUlaLWRnRmF1TFFtUS10dVpiWG9qb20weF9MdUpUMlF5dngtX2hBdFhWZjBz": 1793218527.4185884,
 "CNN|CBMipAFBVV95cUxNOWxsR0NqQ2dVTl9LNW5LZnBpY080UVZWai1jUW9SR2lLcU1YY2J1UXRSSzFnVDBnOEdEai00N21PeWkxeF8yU2I0WkNWNTVSYUY5VnQtbjEtVTZtMXpIY0YwQjBPUGZtZnpGNjhYRDRldGNsRHIxVzhQNFVpMktqeHl4U0dBMF9LYV80a0stUXI3Q0RzZnBUVXVnX1lUU3B0dWFXNQ": 1793216728.4482749,
 "CNN|CBMipAFBVV95cUxNU0NoaGtGZ2FXam4tX2RpZVBfdENoYWxRZUxDSzh0RFhMT3FHVmtzR1YzbU5FYUVKWkV0aW11RC1xZGtlSHhsV3BVYXBiVFpqWjhVSVVvTkphV1F4YlM1OXpqQ09nS0loZ2MwRVBldWk0UV9EekduS3U0TnYyMlRjMFZkUnhlS21iQk1lbTdmaGQ5M0tBQkpkYjF3QTl1MDBkTVBOQg": 1792912921.1568482,
+"CNN|CBMipAFBVV95cUxNUDAxam1KZXFFcGZnTE5IVEZYVGd4dVRxYW9DZWVkcGdfNXNfQ2dCZ3FIajdCZHMzRG41eEpIaEZHZzJkaTZOSmtaZ0ktQzByX3RudFAxM2RiT1MxMFBfSzFuelNDWkkyZjdCOXV1WVFRcnYtRGNlLTdMYXMyekxvSHNqUm5CWTJMSE5aZ0p5MUtzbnVqbXFjbHR3RlFUSkxHQko5Xw": 1793300440.7039309,
 "CNN|CBMipAFBVV95cUxOYzNiT2p1SGNkdHh0RXp3TTVzR2ZRZk9mcHg3QVRVSzdTTWdIcGpTZVFtNHlzWTJSazlkdW50amJhaHQ2RlNpdDRRNWtyWDNzQWJ6Y0Z3WHFMb3hiNmZlZk56OVoybmppT0p4N002NC1meHRaTWFnVW5hVk03aFR0d0NZSENjUDc5Rm83eDhocWs3T2FtVGZBc0ZUM3ptYUdyZE5CUA": 1793243726.3987784,
 "CNN|CBMipAFBVV95cUxPVkx3Mk11bzRMTDhaQndSeUJkY3pUek1XbmRVTEJ1NXNSSTlrRUhBZnpXVGIyaThxU29zZ2hZUUVVSjFwbjZhNTRsVnh2RDRGOGdTOUozenhTMGxWYmw3LTVPdW5ha1hUN2llbERTT1BTWHVQcHQwZHFJOGx3YW81bW5kUEJMZHY4UEF6anVvbU5aZFlwZGw0bkd5ZmJsd0ZQdF83eQ": 1793290525.2920587,
 "CNN|CBMipAFBVV95cUxQVWlXblFFcTc2LUhSNF8teThhdUlQNDdmeDNSS0VOS1pGSXZ0b3JsdzdYQVAtNmdwRlN1QndiVElBZGlab0NOcFZZSXR3RlpYclQ2RE9xbFZyaFFzQXVWbU9UWkV3LUNLbmpNcEtMQzItMVpWNjRJRTNUb1lzLWpXRWRqOVRIeURfOHcxSVBGOGo2ejNyXzZVZ0Nvd0pZcmFmSjZoMA": 1793066439.9056492,
@@ -5805,6 +5835,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html": 1793249125.369052,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/lfi-remporte-une-victoire-a-l-assemblee-nationale-avec-un-texte-adopte-sur-le-foncier-en-outre-mer_6802339_823448.html": 1793284234.1797616,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html": 1793295923.9076169,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-sociales-sur-fond-de-grandes-tensions-la-commission-d-enquete-sur-les-violences-du-17-octobre-va-demarrer-la-semaine-du-2-novembre-avec-l-audition-de-laurent-nunez_6802378_823448.html": 1793300440.7039309,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html": 1793276125.8577242,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-les-prefectures-de-paris-et-des-hauts-de-seine-interdisent-le-colloque-sur-la-remigration-organise-par-les-identitaires_6802356_823448.html": 1793290525.2920587,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
@@ -6352,6 +6383,7 @@
 "Reuters|CBMipwFBVV95cUxPS0tJV2g0S2RNWGFlYmlQVV82bEZqWGNmR19OU2phV1N2VlR2NFZ5c0FrSW9zMnN4dVNYcFIzdFFiNVpUaU5oTlg3dk1GajM0SnlmUFdMQzJGYVhJdXpFYkZRODBfR0RoY2lib2RleUhnX3lBYWxyLUlxRG5FT0lQZlpFNzJ0bzc1NkpMcXl6SnZ1ZENGbzlaYVZpRFJNRkIzS1FNTlJqYw": 1793180726.180431,
 "Reuters|CBMipwFBVV95cUxPVldValgxa0tDcXFGSmZqMnlOWVVMdTFraVp2bUhucWlMeU1qV0I0MmowS2oteG00QlVlZXpCZ0ppRXRJY0hNU0g1OVhXazVmWmJpbHJneWRZZFRBQllSdjUtSnZiUEdIQ3AzM2xBNUZDeWpoZENYRnFZMXlPWk1LSWU4QUp3WElLTTZUSzI2SWJwV09EQmgtQmo2ei1MMm0wVmMtbGRzVQ": 1792991725.3497136,
 "Reuters|CBMipwFBVV95cUxQLUJNY3U4X2RGNzIwQU1lVkItd2Q5RlNjUENyaDhfd0F5YndWcFJqVWg1Z21DeVZrY2x3UXpxYmFrcG11aGhVbFQxekdDVFRyVEkyaUZZenJVUndKMXhmRGM2a3VMZnhmMGlYX1R1ZVZDQXNpVnF3ZXNUYVNXMFlHX0pua2xGczgzMnE1bG1TbkVOdURua2ZYY0IxVDVUUnd2X1NZU192UQ": 1793206843.939874,
+"Reuters|CBMipwFBVV95cUxQa0FMRUdJbXh1dzBNXzZKRG1aUC1scGpiM2RhVi1rUVZSOEhLTzNIV2pGY1lPRjdaT25sYVlEZW9Wa1B0bFpBaDRQRFNLdHFUQmRsVERzbnAxUHZpYUYzS09DZHJxRmdKVF9aTTY3T1U0SFg5Z1c2Y2czaG9MN0VZSTRhMEVOSWxSTm5zSWZPZ2NzUHE2SkJkWktiWVRBWE9FR0RSbl9HOA": 1793300440.7039309,
 "Reuters|CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0": 1792912031.9234908,
 "Reuters|CBMiqAFBVV95cUxOLXJUVFI3SlI4RURDYmJzVjhTTXRvS2FMWlZFSGhVU2s5eFhaVVRZNEZpb2xJdVdGblVEY1BoVDdUN1VhYmthZ2M2ZkZlMXlnLVoxa0NQekhGYnNPcXdQTTlHZ2l2V25DdW4wOFl5MW9mN0xWdXdOck9TSnhPZFMzZUhXNlNwZGJ0bXRzTVEtQ0NEbDRQZl80eEhLTWtOZURTckRzZDRIWGk": 1793061033.4823194,
 "Reuters|CBMiqAFBVV95cUxOQkxLeU8ycml3ZFI2Y2JxRTctVlNVajMydkZZRDZWWl9yYjg1T0Y5bE43c0YxY0p1cVZYalJ6M1FEdDkzdGhsOHc4T0xWRHU4emhiS2RsT3otaFVxUlNFQXdhWlhkLVliMVZPSW1jRjRndDVhaW9qcXpJMjBPZFlybkJLNElBdlM3aUZwWG13MklzWFZyQ0gtSXFWVTVNaU5iMExaUGhtWTQ": 1793206843.939874,
