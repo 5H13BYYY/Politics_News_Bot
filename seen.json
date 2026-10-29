@@ -3982,6 +3982,34 @@
 "src": "Reuters",
 "title": "In Lebanese village near Israeli troops, farmers brave danger to harvest their olives",
 "ts": 1793274138.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+"ts": 1793279964.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+"src": "Reuters",
+"title": "ECB keeps rates unchanged but points to mounting inflation risk",
+"ts": 1793281049.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUEtOURjOXhiX3AyUzZjeVhLOTByR2dqLXZyNkJLa3BCa1JLOWRFblV2NlJaWUZkemRuMGE4bDA1V2RDUGJjR3VCa1d3Z0VYYmhrYjJwdl9ZYWM5bW5yd2pjWDVCWDJvQmk2N0NlWFNvNkZTcTlvSEhpOEJGZ0J1ZDd1OUVpX3JHblJRT2VES3BFS0UtUnppTjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g?oc=5",
+"src": "Reuters",
+"title": "China's Communist Party conclave on toughening discipline sees record expulsions, absences",
+"ts": 1793282531.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/29/lfi-remporte-une-victoire-a-l-assemblee-nationale-avec-un-texte-adopte-sur-le-foncier-en-outre-mer_6802339_823448.html",
+"src": "Le Monde Politique",
+"title": "LFI remporte une victoire à l’Assemblée nationale avec un texte adopté sur le foncier en outre-mer",
+"ts": 1793283180.0
 }
 ],
 "seen": {
@@ -4012,6 +4040,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#0": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#3": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/c6y93pz494zzo#1": 1792912031.9234908,
+"BBC|https://www.bbc.co.uk/news/articles/c6z7x8214np7o#0": 1793284234.1797616,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#1": 1793097929.898054,
 "BBC|https://www.bbc.co.uk/news/articles/c70989jrdweo#2": 1792912031.9234908,
@@ -4252,6 +4281,7 @@
 "CNN|CBMiZ0FVX3lxTE4tcFlQQUlyU3JDTzdzUURyRV9kd0c4QklpeFh3eUN5Rm00Tmx3ZDlBQjZxV0Q3dm1Qb0paZ2JxT255UGQ2ajlnSnVjRDNxbm04VVEzQnBOc3hxN3hRVmRlSzMxeGs0SjQ": 1792912921.1568482,
 "CNN|CBMiZ0FVX3lxTE5BeXUxVjl0ZVRSUjRtdk5HMmt1bUkydWd3Qk9SUEQ2Wld4Zm9hWDNyRWF0d1VTUS03UkY4QTc2NDM2UWdGdWhVdHhTbzc4OXJKR21ELV93SnFRZWlSMExuVVpzNmpwODQ": 1792933239.4215345,
 "CNN|CBMiZ0FVX3lxTE5NUjJmUkR6enJ3NHZVanZjNFpxZVVwQ3hubFZDUzlMeWdPZnZWNkpsLUwtWUFmWDdvNk9yY3JUUHBRMkVQREQxRUh3bnFSYlp3YllZaGM0TjFVNU1DMF9ZM3NoTmFjbXc": 1793108729.8130138,
+"CNN|CBMiZ0FVX3lxTFBLU3ktcTdqeUtlNlVOTmltLU1TeElsTG41MnVtLWVsSl94eFQ0UEJNVnhncDFzYVRZWU1vMEthSzNqUWMzMi02NmRNTk9VYkNNS2dDZlo3cm1lWWk0TnJWWFNUYlZyeFk": 1793284234.1797616,
 "CNN|CBMiZ0FVX3lxTFBXTHhEM3p3ajR1MUN2LVNMUWFqQnNGQmZfNFgwanZIeVZ4TzlIbUpBNFRpX0tSem5Ua3NYV0lFQlFfMmVsZ2ZFVVdka3pIcXNJUTVXMURHY1dibDd5Y1hmd1h6NDFXSUk": 1793223924.5496054,
 "CNN|CBMiZ0FVX3lxTFBfa3ZHNkp2ejNNTUNNRGRDR1NiekxqTUNOUlU0WmxDVUtlS2pHRWJyZmo4ZWd0Rjd5dE1oQjhWb0xQa2NBdWhtekRoOW9xZDc1Z3hMUXJwa2ZtZFdsYm80c0VfZUoyWUU": 1792912921.1568482,
 "CNN|CBMiZ0FVX3lxTFBwRmVDMDQ3VjhYc0s4R0FMeDY0TlM3Z1JkaDdsQzRsREcyUFROSEFDWDAwTDNrUi1Yd1FFX0tLa00tVTNrTVBOWElSejVKNFlZcFhPM0g4WDBrZHJqcjR3ZTVpX3ZZOVk": 1793196040.685963,
@@ -5455,6 +5485,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html": 1793265325.4624467,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html": 1793234725.997194,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html": 1793249125.369052,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/lfi-remporte-une-victoire-a-l-assemblee-nationale-avec-un-texte-adopte-sur-le-foncier-en-outre-mer_6802339_823448.html": 1793284234.1797616,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html": 1793276125.8577242,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
@@ -5943,6 +5974,7 @@
 "Reuters|CBMiowFBVV95cUxQQkZ4N25va01lZDFPNDY5czBzMEpWY0dmZEZ1WG9ONU1Uc0VOUURXWGVfRWNDX3R6b2VYQktHWTZiTHJsazI4UGxXaDhGaUJyQjVTOV9QWUJZcTliNlZnNXhIaUpJYlQzWFJGT1hZM3B0eU9Ob183Nks5NVdfbVhtcXNTT1VHVjFYbzRFS096SUxwdWdMcTVuYXZMQVdkQk5hZTZR": 1793277035.900759,
 "Reuters|CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp5OE8wam94MktvQlNzazVNRG1Ed2lXYTFMVjNCY2JPckJRWlIyQ2ZvVzVqOEsw": 1793153727.2979956,
 "Reuters|CBMiowFBVV95cUxQUFVYT1RvTFFsVjZzaW9MS1hwbnVWMm1xdmxOVTgwRkV4SUhlWTBOekM2THRoaTl2R3Q1Mnp2cWtRaU9Na1NTa2htU3R2SVhIVk9USktsTjJITmNGeWphMnpaU0E5eG5mZ1ZXcUpGdUpUS1BCVDQtaURLXzE5OTJFRDB1SVR4WHpVMzlIZmZzV1lYQTFGUnJrYzJzQTdMWngyUkc4": 1793036724.7557373,
+"Reuters|CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4": 1793284234.1797616,
 "Reuters|CBMipAFBVV95cUxNTks0TEhNcDhhU2VhLXNYanZDVXI2eWRLVVVULUd4M3JueFQ1TDNCTFJ6YkxFVjk0SW1iblY5Q21oRDJaczVBTTBtYXA1dmR3WHFNT1dtQm1vSUg2Z3RxcDMxSjBzMk9yR3JiaDdKNmpKMnMwRWl6Y3Y1RWRxcDlZQWhFYk1zdDRYY1llZy1iUGlJWGwtSVA0MVBYMnpHVkFkTnBTRw": 1793186127.5045333,
 "Reuters|CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA": 1792912031.9234908,
 "Reuters|CBMipAFBVV95cUxOb1lvb3NtSFNTVXN2bERVdG5oajNaWW1RQUktQVhWS0NKQzNqS2RrR19kdmlmRE9qSHh0RzlSRnU0Q3FSLXp3THV0ZkN1b1VQNjkycEtSWW5wbnhhSkZwZ2FzZXA3TVd2WkNUWmhWcWNmeng0REhYRkFOeTB5S0tDYmVYYmNiNVpaNUtqRTJ1eFAydUduYUtfdTEzZ1JGSkJFTlI0eg": 1793062838.6242867,
@@ -6479,6 +6511,7 @@
 "Reuters|CBMizAFBVV95cUxOY1hiUmpaa05TYWY4SWVDb2MycUdZMFJFSHR4YmFOWF9Mc2tFNFJQcHU2V255ZVBKdlViNm90ZXp2NEVkV3lmbzVZZ1VpdlpoQmVCTWVCNUk4STdxR1pSSHlOenloRV9FS3pqMzJkdXIxRzNxZlo4am0zbXFsVHBiS3Ywd0RKT25vZThQS0lDZWsyWGUzN0tvUnRXUHpLM0Njd2l5cFB5QnQwMGkwZlFpWmxOTzMwWUJSX3BMMDlvVGQweHlBTDRnU1BNdDk": 1793070041.9295363,
 "Reuters|CBMizAFBVV95cUxOcUFXZWt4dU44LWtRQVV1eXFUSWtQSTdWcXVEN3dHN2N3bnhxdzBocDUwVHRQdHRoQnhqZ2xHOVFDRnNMM1NYRjVFRUtJc2NHTTFpMWR0ZjhpNUQ3Z1EwOExlT21tenNoUmg5N0pCdlZtUF8wZllCam5CQWcwQ0hUTHdXOVgyWGdHVzB3N3VUX3VRZThHVm9LOXhKbVVzU24xYkhLRDgydk5WZ1RMM1J4cmdJS3lxRGh0LVU4d2dqS2dmNllfN0s5MEx6SWo": 1793283328.5871534,
 "Reuters|CBMizAFBVV95cUxQMmYxUGlBNmlhRFVjRU1sVXFiZ1RSZVNRTGhickVFME9vd19VcHRkb2NhR1J5bFJWTUc4N0RXOGwxUXlkZ29tdlA2bEV2bl9kR2ctRHd4YlMyc0s3OENSbDRnanRQZWQ3NVNHc3N3cU1ZbmhBMVgzYk5vQWVLQWd4Y0VXWXQ1MFpkUzluQ1ZyMUViT2x0aGx2eF9jdDU1MHVWQXFMMHZiMnNDVHhnQW1Wb3ZjRGVWTThfejdhbWVfel9XXzB0al8tbHRLQko": 1793267125.7120302,
+"Reuters|CBMizAFBVV95cUxQTUEtOURjOXhiX3AyUzZjeVhLOTByR2dqLXZyNkJLa3BCa1JLOWRFblV2NlJaWUZkemRuMGE4bDA1V2RDUGJjR3VCa1d3Z0VYYmhrYjJwdl9ZYWM5bW5yd2pjWDVCWDJvQmk2N0NlWFNvNkZTcTlvSEhpOEJGZ0J1ZDd1OUVpX3JHblJRT2VES3BFS0UtUnppTjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g": 1793284234.1797616,
 "Reuters|CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI": 1793234725.997194,
 "Reuters|CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE": 1793223034.3977413,
 "Reuters|CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw": 1793225728.2823918,
