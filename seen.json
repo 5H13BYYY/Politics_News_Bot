@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html",
-"src": "Le Monde Politique",
-"title": "Plus de 2 500 commerces dégradés en marge des récentes mobilisations, selon CCI France, qui demande une interdiction des manifestations jusqu’aux fêtes de fin d’année",
-"ts": 1793117825.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-deputes-ont-observe-une-minute-de-silence_6801315_823448.html",
-"src": "Le Monde Politique",
-"title": "Attentat raciste de Trappes : les députés ont observé une minute de silence",
-"ts": 1793117882.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/27/15-ans-de-portraits-de-m-les-chirac-l-histoire-secrete_1805825_823449.html",
-"src": "Le Monde Politique",
-"title": "15 ans de portraits de « M » : les Chirac, l’histoire secrète",
-"ts": 1793117904.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41NU1oQnd1NFh1QnpPZ3oxdFN6ZVBpN0NRcm0tcmlqVUU1Z1ZzSXRPQlZmRjlhMlJCVHJHM2lKdVFYTWFHYUlpa2c0bTVHUll2cUJPeURtWnVWQThVT3RKcFVQcm9iY3c?oc=5",
-"src": "Reuters",
-"title": "Putin says curbing Russian gas raises consumer costs, hints at US cooperation",
-"ts": 1793118600.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/27/jose-beaurain-depute-rn-de-l-aisne-vise-par-une-enquete-pour-detournement-de-fonds-publics_6801318_823448.html",
 "src": "Le Monde Politique",
 "title": "José Beaurain, député RN de l’Aisne, visé par une enquête pour détournement de fonds publics",
@@ -239,13 +211,6 @@
 "ts": 1793126880.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEF1eVg2dldmWWJjaXJHTkxTeWlrU080UldSdDNCazJpWnFMbDIwa2pmN0JhOTJfbFJKS0tqNWVwRDExUEtKZUJIb3kzNGJoM2h1UFFiMzIzcWprMm94eW9qMVVfSC1jX2V4N25xRzlydkQ4aklQaGtLdVhrNF9jX2tFVXh2SlE2cjd0bTZ0R3FXOFp1dFE4bWJROHpGNDMwdW5GX2FwcmQtV25FN0FOSi1ETQ?oc=5",
-"src": "Reuters",
-"title": "Israel's shekel jumps to 5-week high amid record election turnout",
-"ts": 1793118000.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
 "src": "Le Monde Politique",
@@ -335,13 +300,6 @@
 "src": "CNN",
 "title": "2026 Midterm: The state of the race",
 "ts": 1793131380.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2RBWlgza2NxamNRcktCTk1mbHlFVUpXdUVpU2tHeUxXQ2ptVFJ0dGswNU9lckJ6TFRGVkIzTk9Sem5uWUgwRlRSbkVUVzRMZ205NUNpSDB4ZU1mTWVzaEhfclBTMUZZWDZodVVwaE1FeWhIQzkzVmpLRS1sUzN6U3lfdmlHMnpxZzVQR00teXdzZFdPb2ZlSVV4ZGprdw?oc=5",
-"src": "CNN",
-"title": "Fraud vs. Corruption: The Closing Midterm Messages",
-"ts": 1793118145.0
 },
 {
 "lang": "en",
@@ -4045,6 +4003,13 @@
 "src": "CNN",
 "title": "Alaska Democrats played into Trump’s hands with Dan Sullivan ballot-stacking effort",
 "ts": 1793246475.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTNpVG5HM0dEYWs1cTRRMzd5Z184SGlxZmhka1R0TGlyVzBIU3lIaUQwdUxCQWZfeURub2tMNFp2Y2R5QzFodDhTMWw1UUFEbjBTemsxcHR1Q01WUDdBd2pQTUJKRzkyVDBMMlZLUkpHSmVMXzZDZzNvNk83cmU1YlZxbmhwVy1Tbmc2QmY4bS14TmVsTEpN?oc=5",
+"src": "CNN",
+"title": "Record turnout among Palestinian citizens of Israel could dictate election results",
+"ts": 1793247396.0
 }
 ],
 "seen": {
@@ -4810,6 +4775,7 @@
 "CNN|CBMilwFBVV95cUxOX3Exa3FnNjVram10aTNlUlR3UC0zX3Z2V0hiQkdEdFQxV1VnY09lalZDbmp5aUlVXzMzSklycHV2bGhmODJaNHNnbndXaW9vU28yZUtWd1B1eXdiV25lblhZTVVJbDlCV1Q2Y1FpX3NBVklILVlzSTZjSktWSjU0cDU4M2FvQmtfYXVQRnp5TWxJaHhNbWE4": 1793025933.3217628,
 "CNN|CBMilwFBVV95cUxOaDBCSk9SNmxjMXRLUS13YUhTQUVQbEhjM01jS3ZkOE90aFhCUXp5bzVaRWtFYjhpNnpWRXlPS0xIcld6czFsMlNyeWxLQ3d2dF9OQnlyQU4yU1VRb2xKQUl4ZzVpdXdjZ0d5VlJzZG51ZnROdVhuei1PQmdDZE1LYlROd3V3UGE4NzF5YWstZ2hscU1lT3FR": 1793222125.9720097,
 "CNN|CBMilwFBVV95cUxPZExfT2RNakpJU2Uzb3hUaE4wZmZkTjZhbmdaRVREUGRNYnVXR0EzaXdfUS15YWx3XzJfUFZKQUVkU0cwU2FJUEN2bXZpN3RaTjVETnZqY244M3AtcFJ6UjlPMmx6blFsMjZVWnJqaS1jaXZuYWlVUkk0bEZmeDhrQmtPZE1pcWt3Y3h2S3VWMm91b3FacHlr": 1793175328.5017943,
+"CNN|CBMilwFBVV95cUxPZTNpVG5HM0dEYWs1cTRRMzd5Z184SGlxZmhka1R0TGlyVzBIU3lIaUQwdUxCQWZfeURub2tMNFp2Y2R5QzFodDhTMWw1UUFEbjBTemsxcHR1Q01WUDdBd2pQTUJKRzkyVDBMMlZLUkpHSmVMXzZDZzNvNk83cmU1YlZxbmhwVy1Tbmc2QmY4bS14TmVsTEpN": 1793248241.801464,
 "CNN|CBMilwFBVV95cUxQNjJGOF95aDNGSlBreEJMbFZuWmJFcktHSXplSTJINWl4LVp2cGRpUE1FSXUzQWpVZHFmTUNLcDBkYlRTdDRKVVBHcFRMckVnNnZ5dWkxeVdHSUNsSzdYVnRCNWo0NW9DS0hxLXNfbkQ1TGxfczFFN0NHMkVtaGtOZUpobFFxUS00U3lrRXFTNEpVTGkxTk1n": 1793136635.0121229,
 "CNN|CBMilwFBVV95cUxQRHk3MU1NZ1h3Z202NC1VODZic2JCamoteFNTbTlwOWVRV0RuU2FUMWlUZ0w0VTVqZG9NSmtDUWthOEtGaGhRcVBucVMwaExSa1pqNWFaRHBqRnFqeXRwNC1TV0xfaFBjNWRzMU14TDZuOFc0dHpIdnhzZURBTlc0VzZZVFpIaWxRbUxfcUgwaUFsUDhOaS13": 1793212237.8266294,
 "CNN|CBMimAFBVV95cUxNWTRzNWFNOUV1MExrOUlXOTY4YWxfWDA4RFFobFlQbjg4Q21ELVVBQ2lrOFlVYWVfYllFVnhhRXVaaGxld3A1bzQ1VE9pcFFzU2xMNDhCTnpXeW85RDhKenR5Y1pwN2lVMFNoa1dDdlAwaGo5TmJESlVWZGstMmFlb2h2Tk9LVnBvVXBPdkM0MG5CdW1nZW5OSA": 1792912921.1568482,
