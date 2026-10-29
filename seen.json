@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-en-isra%C3%ABl-les-bureaux-de-vote-ont-ouvert-et-l-%C3%A9lection-l%C3%A9gislative-s-annonce-serr%C3%A9e",
-"src": "France 24",
-"title": "En Israël, les bureaux de vote ont ouvert et l’élection législative s’annonce serrée",
-"ts": 1793111121.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261027-isra%C3%ABl-participation-historique-aux-premi%C3%A8res-l%C3%A9gislatives-depuis-le-7-octobre",
-"src": "France 24",
-"title": "Israël : participation historique aux premières législatives depuis le 7 Octobre",
-"ts": 1793111417.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLW9jTEw4NUdlR2xBYm1wMGd5T1hYWWdfUVdJbGJhc1hQYWFPQ25kNkVjODFrazhEejc1NlNfbVI2MnRLVkV5Tkk2T290TmlvcWVzWndiSG5nVWNQaTZBc0NtQmlJcHBtbzJqY3BNQXh6aE9TeTl5UVVld3dlTVBWSmQ1cEtOUlFsMVB2bFZXOE9iblZkQ2FCU290UkVGajdFR1BhVzBvRWU3QW8?oc=5",
 "src": "CNN",
@@ -104,13 +90,6 @@
 "src": "CNN",
 "title": "Republican attack ads mocking Troy Jackson’s relationship roil Maine Senate race against Susan Collins",
 "ts": 1793115693.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWdKZEl5VlRqeGpBVWVzVm5tNzhndm1hVDN5bks0Y1dpbkpuXzdfcV9EMjZCa2JlZnpLNXhQY2pBRzFXN1RFVVdsQmF3Yy1YcGtxU1NwZVFuY0tPVGhSdXFBUkw2dnFSeFMtTTMtWDJ5RlVYMUFZbm1Yb1NwQUZ4a1NJSWRibjdWRDR2QnQ5RUhXNk4ydDJTQlJlZjhBX3R2MFY4bi1TZUpCSmZWSlR2bDY2Rjljc0NRUXQxUmRpVQ?oc=5",
-"src": "CNN",
-"title": "Olivia Colman and Alexander Skarsgård in the romantasy ‘Wicker’",
-"ts": 1793111400.0
 },
 {
 "lang": "en",
@@ -272,13 +251,6 @@
 "src": "France 24",
 "title": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
 "ts": 1793120702.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rek1xSThQYkp5N2ZqY0VDRkY1WHE4NzNESF9lZXQyVzA5U3pmdGNpZlM0a25JTVRlOWdBN0ktUXN5Q2xZa0NqRnRIVm1LV3NhR1VyVXZ0b2x6TnVfTkc3NGRwNng2cFU?oc=5",
-"src": "Reuters",
-"title": "Can we clone you? Brands are getting models to sign away their AI rights",
-"ts": 1793110820.0
 },
 {
 "lang": "en",
@@ -4087,6 +4059,20 @@
 "src": "CNN",
 "title": "Democrat Haley Stevens responds to her fiancé backing Republican in Michigan's Senate race",
 "ts": 1793238959.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50cWIwZmI4N0NrcllQWFE3WndkbmcybVNDYU5KUW5WaUlpclBrYWkxVWg5OUtORmFYZmI2Yl9jcktNdFZHa2dvcW1BWjlYNkQ5bmlsTVlxbmJnQjhua1VkcXhRTjBfLU1uczFaSXprc0JVeEhubDFxTTZn?oc=5",
+"src": "Reuters",
+"title": "What we know about Flavio Bolsonaro's wild, secret journey to the US",
+"ts": 1793235573.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQem9BcGFJTjBaWUpsbFRPaENtVmYwS0hIQkdnOGNsWHY0ellPM1VyWW9GbHJRV1BxQU1UNVV0NHN5N0hDbUtPUUg5ZDNoUDMwOEk1X2tlWWphYVdNYkd2WE1HNWtReE53ckhHU2xOMzBQa1lvMUNFeWtnT1pBMVkydFU4NFlFVXhtS3B0VDh4akFLTjBYODJ3d0F5T0Q2S3dKcnF6MXlYTHNoRVcwRlVnVDJoeXhVRkxtaUdFRy1WVS1wRGtEVC0yTS0yZk42VzlJaDkw?oc=5",
+"src": "CNN",
+"title": "‘Pass on Paxton’ video gives GOP ‘permission’ to break ranks, top TX Republican says",
+"ts": 1793240280.0
 }
 ],
 "seen": {
@@ -4241,6 +4227,7 @@
 "CNN|CBMi0gFBVV95cUxQb0Z1R1hJZGE0OE1yZk9LZGk3UkpSU0J5alRpbGNLUzBmMWFsemF4RDdlNHpKNl93aVFGc1pSeWxOMFhUOU1HRk5RRkttbTBuR3BCT0pNdElVY2FwdFdnZ2ZVazBheTZYRFlOT2V5TWsyeWtxenFwZ09URnA3TVNUaXZ5TWE4WXJRWS05WUtHQ0pEUWJpc19KcFpub0E2Qm02Zm5HNW1SYkNWOG5GZ3JJa3hSMjY3dHhhT19tQTlzRXg2Xy1rRzdUdFFvMzJESG1uWUE": 1793134845.1371863,
 "CNN|CBMi0wFBVV95cUxNZE5XcGZIeFRsYVdpbmQwVkpoc1BfcDlqcnE2ZG02bERfNzRtN25Da1lEX1NDU2kzWi1RMG1OV3BhbHY1Sy0wdzc1dW84b3VBc2dKUF9EekJMNzBRaDJHLVNldWgxam16akM2b1M0LWZJdlhRRHZheF96cjVadGhlTnBGNVdMVUNwQXhsUUhibkJ4c3R4cXRkcktxSTAzVVF6WWRnc05hTmhCZlJqam5BYldFMWNkZDdGZ0Fnd3JvUTdDZTU4MUZHRVVCcU10NHBUWWNN": 1792930525.0455637,
 "CNN|CBMi0wFBVV95cUxQbDZSRW8ycFZ4US1MUmREaC1BN2owdzRmMVQ3Ul9EZEZ0dkNmQmdJa29zQ3owMFNjek80bGUyR2dmQVhfanlMS3N5Tk5GaHlVSmRXRGhUUmNJSEVxZWNFUXUxcG9odm9zZHRqQ09zeTJ6QWtkSnhOX2JVaU9WY0I4T05WVEM4MklTTy1nekdMLWkxc2hQeURwNi15MWVxMHU2dXJOdTk0eGR1Vmp0QTlYUUt4U0dSRko5dEt3Z04zeklXai1hekJFRUlaVHJFWmRtdU9F": 1793062216.0282428,
+"CNN|CBMi0wFBVV95cUxQem9BcGFJTjBaWUpsbFRPaENtVmYwS0hIQkdnOGNsWHY0ellPM1VyWW9GbHJRV1BxQU1UNVV0NHN5N0hDbUtPUUg5ZDNoUDMwOEk1X2tlWWphYVdNYkd2WE1HNWtReE53ckhHU2xOMzBQa1lvMUNFeWtnT1pBMVkydFU4NFlFVXhtS3B0VDh4akFLTjBYODJ3d0F5T0Q2S3dKcnF6MXlYTHNoRVcwRlVnVDJoeXhVRkxtaUdFRy1WVS1wRGtEVC0yTS0yZk42VzlJaDkw": 1793241034.2881014,
 "CNN|CBMi1AFBVV95cUxPX0NYZEtZT0MyTmpiOUl4UGVhM1NuaHcwYlJybDZjcTJDRHYzdjJKMC1CV2stMlgwblN1X1F3QXZIM3RBSFo4QUtlNURRLUdNLUJlekg0aWg1X0k4WFZld0g1V1FqYVp5Y2hZa3hjVVdSbWpiZGlDcWZYdTAwT2JiYW03TUtESnhTa2JQQnRubUpYYUMtMHZlYWVyTHhNc0VQTkt2VTlmY0dYY3N3RTFPYWg2aEg4T29CcG1Sd0EzQ1JpaGo0TlRvYUJzbXM4enpPLS1JSQ": 1793142041.9219406,
 "CNN|CBMi1gFBVV95cUxNUXJQNHFkY0xrUVpNR2lpc2h3T3VYcDl3SzhScGpFTTh3NW1pRFNOUjJ4aUR2MWkwaVpoajF4WkE5VE5yUUZzODNCYmFfUkdFUTdURmxMNjZjOFFKbTVJcFlQbUtGT1pfTXhHSDhLZGVhXzlfdWtpd3JJSTBGZENoUW5paFE0Q1FaYjI1TTdTQ1hnMGRmZjk4UDg2YVJVSmVmcFpLQUhqZ2lGZ3BPcmN2Smg0OUZZcUVRSU00Z1U0emJXaHZCVlJYZEdCRHpWRVFFV1BGWk9B": 1792978235.0885806,
 "CNN|CBMi1wFBVV95cUxOVEp4ZEZ0RXJsUmJnLW5LWENSYUs5RlVfdnI1b2Z5NnlmUUdDLUZFNG1aRHRSX3BoOVV0c2xPd0JGRkJ1c05jSUZXa1NYZkJWOUpoc2ZnY01vdnVaS1FYMHR3OVVhTWo1S1F3bkprWkIwZU02R09XUE5OUE9IeFo2c2tXWEVkV1JVa0ZKaHZaY2FpQmhWVllBZlZDMHFFM0l4X3JqUzhCb2twbTRULXRJbXJ2TFpSa3VJNllXbFZFUzNJMHA1eWo1QkUzSjdxaVp2d3hsaUQyVQ": 1792912921.1568482,
@@ -5672,6 +5659,7 @@
 "Reuters|CBMiekFVX3lxTE1yaEtSNUFTaEFpY3p4Tmx2MVRzWHBjNkpqdGh2VVhTX2tyZWtGWkdaVlVMNEs3TnRXTDdiQzMyRUFmSEhLYjhyYkdKZUVjUExReURCWXRmYXp3dHU0SDFUTThJWFZMQWQ2cnZla0tKX0pQWHZMS1ZHN1Vn": 1793169032.3620625,
 "Reuters|CBMiekFVX3lxTE42dmFzZWd2NWJMQUYtcVZFTVEtT21JQnVWcWUtOXd0Z2dleDNNT016ZTFDTjQtRUFYZFVLSzBXQ0EwQnhXRURRVVVrWVhibzV2bXpwLWhjZjg4SC10RUhNRko2YXVRWHI1MXdyRnF4eFg4SmNnQ0EzODFR": 1793017836.5340102,
 "Reuters|CBMiekFVX3lxTE4wcEFhRk1LTk4tQWpiWlVFXzRYUE9qSWc5akg0TDBLd3R1OW50LUc1azNUaEd5T045aXptejlzSDNwQ2wzWm41b1VnUDRvVHpvaldaNTZPSHR1ZEFPMG4xWWVwbU9OblpnR3NualJqOENDWE42THNVVVZn": 1793177126.9660783,
+"Reuters|CBMiekFVX3lxTE50cWIwZmI4N0NrcllQWFE3WndkbmcybVNDYU5KUW5WaUlpclBrYWkxVWg5OUtORmFYZmI2Yl9jcktNdFZHa2dvcW1BWjlYNkQ5bmlsTVlxbmJnQjhua1VkcXhRTjBfLU1uczFaSXprc0JVeEhubDFxTTZn": 1793241034.2881014,
 "Reuters|CBMiekFVX3lxTE53bE9QM0J6LXJVbmhIcmVLWHBQZlVCZEZWN21pMEJfVkx0aXRTcWhyczF2VnJkWl80RGhpNXNycU9WemFwR09LaVVTTzVmcTN5NG1XcE43emQ3a1NpSDRLc2k3WDRhZmpqbktpTGo4SmhjZmxxTnBBRmln": 1793160045.455372,
 "Reuters|CBMiekFVX3lxTE5BTENPV0Ywc1pCWU54aldlOWk3OFFLQ202aW5FeUJQV1htT2NKTTB5S25ZRkRZWWw4enY3WUJ5d0V2YUpTNXpqMlNUOExqNHNyZ0FiTDB6N3lsNldpb0laRnphZG5TYkE5OGJxeXVBdUtTYWdURXh5VVNn": 1793158234.565429,
 "Reuters|CBMiekFVX3lxTE5Dc2g1Z2tNdWFDS3hZQkJDRXdabGZiLTNtSzA3OUJDQWhLaXZkRXdSb2F5X081bDlOZUhTRDl3OVk4ejdELUNEQjhFSjNpMDN3S0RkNGk0X3gxLW10MS1hRlJEMi1paGt6VXRvUi1YYlVDbkg0S2dEQllB": 1793115927.1792972,
