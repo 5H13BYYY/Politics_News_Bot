@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
-"src": "Le Monde Politique",
-"title": "A l’Assemblée nationale, la gauche et le gouvernement s’affrontent après l’attentat raciste de Trappes",
-"ts": 1793130689.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Yaël Braun-Pivet mentionne Gérard Larcher comme un recours possible, pour « incarner le rassemblement » de la droite et du centre",
-"ts": 1793130749.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeG5TYUtYZlVhN3VSdENnd1U4UmhLU3FhZVNkNVZlaGl6cEpSSmZTeUlUTEJXTkZzSThUNW5tZi0xZTN2M2MtSF9JOUhGaURnN1JYbnBOODBQdHhWNHNKeFBsUW93SFpkVFBUcnZaR3ZDVmlEY1VHd2JlVmF3MUhtUDdpNjlCZw?oc=5",
 "src": "CNN",
@@ -3842,6 +3828,20 @@
 "src": "France 24",
 "title": "Attentat de Trappes : Macron renvoie dos à dos le RN et LFI sur le racisme et l'antisémitisme",
 "ts": 1793259559.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1dvc1d3NmlSaEtWTmdoeE1EbzVYVThSTElsa1JWNjdBOEw0WU96VnZoRk9USy1XRlBLdzNsWTNaRHVWdVNERjVybldSbXprNHlZczVNTU1JNC1qbkJPN0hXXy1DU2VsU2tidmdlMGhxTXFDZjhFdk9wMXFxNW44aU5teEtsczB2aHN6ZWpocXdGRi05X3c?oc=5",
+"src": "Reuters",
+"title": "After landing in US, Bolsonaro says he's Brazil's rightful leader",
+"ts": 1793258491.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/videos/cx62y550nrpjo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Ed Davey: 'It's a £76bn stealth tax rise'",
+"ts": 1793260191.0
 }
 ],
 "seen": {
@@ -3985,6 +3985,7 @@
 "BBC|https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo#0": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo#2": 1793195126.4120665,
 "BBC|https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo#5": 1793128528.0402112,
+"BBC|https://www.bbc.co.uk/news/videos/cx62y550nrpjo#5": 1793260840.1601005,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service#5": 1793100633.0510104,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet#5": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#5": 1793072725.925812,
@@ -5604,6 +5605,7 @@
 "Reuters|CBMilgFBVV95cUxPQ0xKN3NiZXBfNy0zVk1OU3RLVmdydXhXVERkQ0JZMEpEMUxTWVJXY2lqaUo3MmJXblNqYXBmY2xGUTFmaDdEb0VGeGwxbG1RS3FRSFhaeHRTeVkzOEhWWE94cEhVLWhKQXdZeFVxdHUxTnRZa09rLVJBYTA2TFlqQWphZ2ZzU1N4Y1gyOXZZeVZfTXlRcXc": 1793019644.3332078,
 "Reuters|CBMilgFBVV95cUxPTnhCY1VMRkprd0RrbnBhOHdEX0VUa3A3SmoteHFpa3NmbjM3RWczY28xV0xxbWJKeHpLd2ZwU05GUVdINmFUd1UtdWNIeTlPR2M5LUY5NkpoYU9fOVYxNG9xSUkwemJwMWM3ZUVUQXJLSjl3NXJfVkYtQlBVdWdvclNnOEdMZThtU1Q4VFdyc3ltMUV0MUE": 1793157328.411098,
 "Reuters|CBMilgFBVV95cUxPaTRSdE0wWjRCQkh0THhSUUg1ejlBa0pNZGUzeURRN2NlclVYeUlZbHJLa0VEeUIxT2lPYS1oWkVjRjNWdE91cEJEaWZSOTh5cXJfLVNhSFdiVC1Xa3A4ZW5nUjFMODBJNmo5dHJXWG1taW5US1JjV0YwcTk4czF6VVVyaXc4bndKNHpsTU9VLTJYNDdLUmc": 1793143835.2585323,
+"Reuters|CBMilgFBVV95cUxQM1dvc1d3NmlSaEtWTmdoeE1EbzVYVThSTElsa1JWNjdBOEw0WU96VnZoRk9USy1XRlBLdzNsWTNaRHVWdVNERjVybldSbXprNHlZczVNTU1JNC1qbkJPN0hXXy1DU2VsU2tidmdlMGhxTXFDZjhFdk9wMXFxNW44aU5teEtsczB2aHN6ZWpocXdGRi05X3c": 1793260840.1601005,
 "Reuters|CBMilgFBVV95cUxQMk9hR1V5bHlFYXBJQ3Q1OTlBOUlqTDFCbG82MGFVeloyNk9XdmhjcE9hQld3ZnBhenVXaEZwOHNnU0d4ZEN6NjBEODVwRzlOSGFpZ0pkN2VUZEU4N3ZFc2hBNFZGbllwdk9rd2RZTllKWDJsbGloRTYtbDlvQVVKMU1MSFJvcFBwaGxqYTZZb1JXX0NIWUE": 1793140231.6447988,
 "Reuters|CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc": 1793097036.2631872,
 "Reuters|CBMilgFBVV95cUxQR1VTQ2RVSW4wc1Z2U3dIU25pcklIOUdUOFQ1TG85UUtHbld2Zmt3Sk9rQjRuU1dhY0RXR2dDNmlHb3JsejJOb3dIdVhuT1ZITThFMEtyWDVNczZxYlVRLTJRTXVRaDlwWHpKOVozU1VTaEVLamJzS2g5YTRDd015UzJrN1lHZjZMdVJuT0szSkVoMTItZ2c": 1793024129.9475675,
