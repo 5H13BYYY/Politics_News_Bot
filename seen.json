@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3FkS3FJOGNLTkQtZWJUSWFnVkw1dERsMUdRUFRLVThOQy1DNm5LVldVTzZ6Nld2elBfR3BGUk15eXlRbDZLYUszbnlkZUZ1QVJXeFlMTjVpMkYwLUZFclBZVzFPTlIxRXhxVTNxSHJjaXUxSUFJSDFQUldWdWVFNFEyQQ?oc=5",
-"src": "Reuters",
-"title": "Putin says curbing Russian gas raises consumer costs, hints at US cooperation",
-"ts": 1793117129.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUxtV1ZrVWRORzdBYW9DZlNsV2txY1ZQZVQ1ZnhGbGZNWVM4WkY3TzdPX2JlSDVIUUdGdk9xanNsU0dqVWlvZ2NGTXo1b2Q4RGR1YWNhSkV0eXpDLXFzWGdzV3Rqb0pldzV6Tk1jcGhEbGJZZ01VVlpSUGEzSkFFMElSR2pvbG1BX0IyRDlSWU1lckdJMFpsTVRNdW1CaGFrZlJmMVNPVjQwV1BzaEJDd3ZB?oc=5",
-"src": "CNN",
-"title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
-"ts": 1793117211.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html",
 "src": "Le Monde Politique",
@@ -226,13 +212,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xXzdNcW52UUE2YUdIelFwTDZtTmlHbG5oTVFEZ0pGVnEyZWV2SGJkZ2FnQXJsR2lGck9aVTIxVWFTbDdIRUp2aGhHY29remZKMHgzdXBVR0NJY2tyYmVsLWZCb0Q1WlJxQ3VENTdBWEZvZVZUNGNIbA?oc=5",
-"src": "Reuters",
-"title": "Putin says curbing Russian gas raises consumer costs, hints at US cooperation",
-"ts": 1793117129.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXh5d3E4aHI4eGRrZ0ozdHVUN2owN28xWklaMnlLclRjeWRKRjBxMW02MzhDY0VETkktRUJyRHBSZFFMY01wOGVVSW5WVXNFVWFvMUxmeHBYcmdSbVFPckRyd2xvcE85VHJKSHV5ZkVneVY5Wmo4c3pmbVdVaGtoZ0hNMG5UaHVVLXhFNQ?oc=5",
 "src": "CNN",
 "title": "Author Lawrence Wright on the death row stories that have 'shaken my belief in the idea of justice'",
@@ -356,13 +335,6 @@
 "src": "CNN",
 "title": "2026 Midterm: The state of the race",
 "ts": 1793131380.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXZ0RG1PYTZ3eXpDRVBBdmMwQ0luRi11UlFWX1YxU28zVmpKbHVBNG1BUE1Mb2d5LV9UaXROX3NSenJ6eTdFTHhyNW5PR180Z1Y1QVRZUnZYZ045ZG9zREJsd1pHZFQ3RWNPemk3V3AxOFVyQXpxY0FVQTVYYUJpX19zX09SaEtReFFIM3VQd2Y?oc=5",
-"src": "CNN",
-"title": "America Welcomes Its 64th National Park in Arizona",
-"ts": 1793117245.0
 },
 {
 "lang": "en",
@@ -4059,6 +4031,20 @@
 "src": "CNN",
 "title": "Minnesota Senate Nominee: Cheating rhetoric is ‘nothing new from Donald Trump’",
 "ts": 1793245231.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html",
+"src": "Le Monde Politique",
+"title": "Baisse de la natalité : comment les politiques comptent-ils y répondre ?",
+"ts": 1793246411.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tcjBpTlUwYzNGX0IyZl9zYTJGUnQ3a3p3azZZU0NQUDRVOVEwTVk0TzlrYlRFYjVEVzV0aFRGX0JlWl9tdW96NUF5ejNUZU00VENSZ2JNck1rekRZZU05SXh4MUNCSHNwQ2ZBRGxHQk9RdG8?oc=5",
+"src": "CNN",
+"title": "Alaska Democrats played into Trump’s hands with Dan Sullivan ballot-stacking effort",
+"ts": 1793246475.0
 }
 ],
 "seen": {
@@ -4403,6 +4389,7 @@
 "CNN|CBMic0FVX3lxTE50LUJNRFMwek9BNlBfbEduTW9QYlNac25nU0lFNFFjUUJWdEY0M2dUTWFoeDlMTk00eVFHQnQ5SzliX1NydVhoakNRLUV2YTZ5QmVDSmJXZ3doOXNlWGFpRmNDbmxkWlZ6MGdrVFdoMFFJY1k": 1793066439.9056492,
 "CNN|CBMic0FVX3lxTE55aEZSZ0xqSlh0VGxOQnlrLTM1WTRvWDJfb0VzWGlMZ2tPM1hXOWpSamROTHRtWmNoS2Zvd0NxT1pxV0IxbEluNnptTjZDbEV4YVdJM1RiREFCQ3pFTlJsc1pNN05ONEJiLTRiVUtjMUlJbnM": 1792912921.1568482,
 "CNN|CBMic0FVX3lxTE5mNnpoYVdwVUdhQlNJblAzNGZnZE11Ym5ZNXFJWURVTmF3ZjJfd0RwVUJwRjJhc0hjLVNFNXNTR0NZNmU0RFJwTnBXWjlyemdsYVRzSVVKSmQ3LS01N3FCbmZTNEZ4TE1oMU5hbDN6WFFweWc": 1792998926.4494357,
+"CNN|CBMic0FVX3lxTE8tcjBpTlUwYzNGX0IyZl9zYTJGUnQ3a3p3azZZU0NQUDRVOVEwTVk0TzlrYlRFYjVEVzV0aFRGX0JlWl9tdW96NUF5ejNUZU00VENSZ2JNck1rekRZZU05SXh4MUNCSHNwQ2ZBRGxHQk9RdG8": 1793247326.4928353,
 "CNN|CBMic0FVX3lxTE9EbVhvTHVjWlFiSFljMGZVNWx0dEF3eXdocFoxYjFnSzVFTG1iZF81dGRyOEY4cF9YeW00YllHOU1EOS1FVnQtMVJReUREQ2pmMi1UV0c2WDJya0RlN1pwOFFGQWJIaklDX0J3YXY5SkdVMjA": 1792925608.8006206,
 "CNN|CBMic0FVX3lxTE9iemZ4MjlsX0gxNTlDUVNrci0wNkhYWXNHZXJLQWF4b1VWVklMTXZWU19wVGpRcnJ2WVZPV3E2bDNpTXBsWS1WYUpSS21jQnJpc3RObnIxSlFKTEFSOElkS1RIcWZJcmpleHVGMlNfblAtZGs": 1793221242.5759828,
 "CNN|CBMic0FVX3lxTE9zZ0VJTHBFLWc0UzZzcWVMaEI2WXVwek9TVVl3ZUZoRGNvbkJqMFBWdmdRRFdpZ196cmlkZU85X3NmbFhNOGFaMENaQ2d6SEczdW8tbU1YMFBTVzlpTVh3alZKTmFZbjh2QmJJOUtnaUFSZTA": 1793105126.5123024,
@@ -4515,6 +4502,7 @@
 "CNN|CBMieEFVX3lxTE9iM19TeHRCM0dTLURxWUhYT28xRkhfVXhpRndVd3BfT1k5X1lkWkI2RWdmSWV2MEFQOFVRUTh3SVQzX3RaS29GTmxOb1JlbGs0SGQ0ODFmdlpkTXpMS21JcjN4Zk11MVRSWEhlMFZiS0dXX1hWczFoZQ": 1792912921.1568482,
 "CNN|CBMieEFVX3lxTFAxSTROUU45N3RyWnQ3TVFCcGE3NHAtR2hNa3RrdmcxdlVRcDZtRGRkRlpGdHNIQzVyZU05eU5VanNyaGxaN1JnN08tcGtyQ2czelAzZ0tVaERzS0FoN0NjREFFM0g3aTMzRlI2WUJSQmpqZnB3YkdMWg": 1793232927.3653555,
 "CNN|CBMieEFVX3lxTFBJSllzMXYzS1VocUVrZDFRNGdhYWRhT3Izbk13bFc5UFJ0YXVRWEVVMS1qblBqeU1XS192WEROOG5zUjlReVFZeExUZ3NFM3ZUT194WGZuLU51OUNCQ0haa3Y3dnozQlg5eTBFWnJuQ1V5SnNCRmxqZw": 1793103332.2267172,
+"CNN|CBMieEFVX3lxTFBUMnZ3QUhYMkUxWjhtMl9reFoyRmtMb2FOMFZwT3U1Vld5Ty1ib1BUNDNtWDFuamlTY3R6Q2RST25lamR1Y0hucVR5NDVMbUFCTDYwdGdsckxvUEJfRjRxNmxsMzF1OFJSZlpDVjdEeWUzVnk3N3c3Tw": 1793247326.4928353,
 "CNN|CBMieEFVX3lxTFBuV2diSkNKVEdDeWM5dXRBQzBnNGVZX2lwZUI3dDYtSjA4OWRGbUduOFNvMEVOb3Q3LVROQU5UXzJTamR3amFkY1I5OFFFbHh3T2JpZVVUQld4NEtaaHJfV2kyMDNmYnptQkE5ZzdMQUxaZjV0NDV6ZQ": 1792925608.8006206,
 "CNN|CBMiekFVX3lxTE01cEdEMXV2bGlZU2RtZVVGeXQzaFlXMHl6dEd4Zm5VTWs3N0QxdmY2czI1SDZSQW5wWXNkQkUtYVRGTTlTdVBWX0NoTUh1UGJobTB0YkotQWNiYlRPc3hxQk9RQTdnQXc4YWxNU0hYRVNmZ3VPYjVwU293": 1793063726.3992236,
 "CNN|CBMiekFVX3lxTE1IWko1Y0x2aHdOYkZzeExrYlhfcXlfQmNEanVsemt6aFNOVFRIeHozOUtYWU9hYm5KU3BudDJ6OVd1cFJJV0l3Vm1oNTB1c0VYVWIwUHYtVl92TS0xeFVzOUtNUzY1elpmRGx6T0hJb1duRTQ0XzdRWERB": 1793160926.4758592,
@@ -5369,6 +5357,7 @@
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/26/un-pirate-revendique-avoir-vole-des-donnees-a-la-france-insoumise-au-parti-communiste-et-a-renaissance_6800789_4408996.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html": 1793136635.0121229,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html": 1793220336.2652586,
+"Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/arno-klarsfeld-accorde-sa-confiance-a-jordan-bardella-malgre-les-revelations-de-mediapart_6799675_823448.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html": 1792912031.9234908,
@@ -5582,6 +5571,7 @@
 "Reuters|CBMiZ0FVX3lxTFBDQjdlM3Q1STFhRGlybjRZMkt3OHllRXVYR1JzeFlQX2lRYUFJdDhtd3g0Qmk0QmEtM1JFZUtjYndJNndObGIybkRRTnRFN3p3Z2RJdVoxWlMwdFYwdWhmbGRZSUk2bDQ": 1793125835.223307,
 "Reuters|CBMiZ0FVX3lxTFBKTW1WdGdfRkNGTHpPaGlMdzBvM0pIUG1BWksyTzRhcXVNVDR4OWlnZUQtTUx5Qmp0T2h0TVZUZlBEeExKUzNqTDVRZ2E1cFFtUVNiTFhFT1pneEQxSWZ3bXZ4Z01Rb1k": 1793090729.0474913,
 "Reuters|CBMiZ0FVX3lxTFBKZXFXT0pLVDljQWtCeDRlaDhhaGJ3WGhTNVEtQ3NGODdJSmItTzU5OFVnTUV2Rko4WjhlMzdJZDdZb3ZsTm42SGhEa21vWlF0NnhwamR1empnV0psSGMwX1hNRUoyR0k": 1793187925.6303358,
+"Reuters|CBMiZ0FVX3lxTFBLeFlPRmpsMFJJQ044OEtMS0Y3dDI3SElzYmMwU05INk1qeElzcHMxc1lBSlFPcVFRcGE2dkVJNGFxQ09wUFRDVGkwOW1vNkJfMmp1RTZ2cEVVUlRLUXNlb3dOcGxaTm8": 1793247326.4928353,
 "Reuters|CBMiZ0FVX3lxTFBNZ0R0MUM1NS0wOVJWZ29IaFFzcnVhT2VsVnB5MVN4MGVSQjFjMlFudXdmRVBBaFZWbGtPc01rRDh1OGl0d3ZzMUU4Wk9tcm5NUTFRNGhRZTBhcnc4MkFJVk5wS0xYZ2M": 1793052036.5986388,
 "Reuters|CBMiZ0FVX3lxTFBRZjRXUlQ0U3hES1R3aFJRTVFaVC1uTmU3Ql85YzVWbG5ZdkRQNjlFZExtNEtqN0R0aExfdEFBRjBmNFJuZ2NwSkk3bE5IQzkwejFJbzhoZ1BPaVlVYTY0MXhZbFU5bGc": 1793016926.187019,
 "Reuters|CBMiZ0FVX3lxTFBTSDI2QTFGakl2OHlNcjhuWWNPVm1EY2lzNDVscjd0b053ekxSMTVKSTc3TDJ5MHp6V0NnN0Z6UTlmalU0bDNYdXlQemY3SU5UWDNsUkFPQXFZZVdRa19sWmdrQnFyaEU": 1793117726.0329168,
