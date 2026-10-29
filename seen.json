@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-"ts": 1793130065.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu",
-"src": "France 24",
-"title": "Élections en Israël : Eisenkot peut-il battre Netanyahu ?",
-"ts": 1793130138.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
 "src": "Le Monde Politique",
@@ -41,20 +27,6 @@
 "src": "CNN",
 "title": "2026 Midterm: The state of the race",
 "ts": 1793131380.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5",
-"src": "Reuters",
-"title": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
-"ts": 1793129739.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmQtRUgyWVhnQjI5ZTlYdHdUXzZrSXlWc0RtRXZoMm9kc2NKa1FlNWtIOWFnaUhzanhnN1J0cXh6VlRCb2F6eUZLZVF2TWlxQ1ppWlBsd2N3RlgzMll4MmxFQnpUR0hySzFvNnpuX1hPVkJ3ZFpSQ3VRNXFmZEZ5RWpRU2JHVmpxTmZwVHliSktNQ0k?oc=5",
-"src": "CNN",
-"title": "Trump Makes His Closing Economic Argument",
-"ts": 1793130145.0
 },
 {
 "lang": "en",
@@ -160,13 +132,6 @@
 "src": "CNN",
 "title": "Justice Department fails to indict former White House aide who testified about Trump and Jan. 6, sources say",
 "ts": 1793137315.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGpVUWVtcllaQ1Y3a2NDRFRWQ2RDZkFBVUlTWkxBY25hRTV3Y290SlBhWElrX3duRE1SSTdIWmZ4RUtIQ0NteXQzY29tcGhvc2ctc0JVRnZHXy15dDhxYk5GeWtMcFZuVUdFdWRYX3ppbExoOU9COVFtdFFqOXdkYjBucVp4SS1TaW5fNnEteGxPUl9oU1A4YXlqbGVDZDlONmJIcTJySVU5YjMxR1BrTnlGQ2NSZE9XbXBFZmt6OENndkkwYm9na2NiaVdEVXB3ZFpSYXhzMThROTlNTi0yYmlLSQ?oc=5",
-"src": "CNN",
-"title": "Ted Bundy linked to another Utah teenager’s 1974 murder through new DNA testing, prosecutor says",
-"ts": 1793130121.0
 },
 {
 "lang": "en",
@@ -405,13 +370,6 @@
 "src": "CNN",
 "title": "Omar Jimenez talks to father and son about their top voter issues",
 "ts": 1793146320.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RVMXFJX0xRRW1pS3hqM3NVR2h4UXo5YUtfTUY3UEROdjFJdzM0QnhOV3QxaU9jcEhFNEhSTDZWQTBORTlndjBvMmVCS2V4Q1lSQTBSSXYyQ3g3UkVHNkhReXhMRnNVSDE5OU5ZSVVxUkM3NFRVdkpWRE9zM1ZHSk5fR2Y5YXlhZjZiLVpWRXB1VTBWLVk0MmVwQ2IwRGhPUkphZVFBWkFxWHlVZ3dwcnpGclpZb0FiSEE?oc=5",
-"src": "Reuters",
-"title": "Shackled, shaved and in uniform: first inmates arrive at Costa Rica mega-prison",
-"ts": 1793130104.0
 },
 {
 "lang": "fr",
@@ -3877,6 +3835,13 @@
 "src": "CNN",
 "title": "Heckler yells ‘Trump went on the Jeffrey Epstein plane’",
 "ts": 1793258640.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/france/20261029-attentat-de-trappes-macron-renvoie-dos-%C3%A0-dos-le-rn-et-lfi-sur-le-racisme-et-l-antis%C3%A9mitisme",
+"src": "France 24",
+"title": "Attentat de Trappes : Macron renvoie dos à dos le RN et LFI sur le racisme et l'antisémitisme",
+"ts": 1793259559.0
 }
 ],
 "seen": {
@@ -3959,6 +3924,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#0": 1793097929.898054,
 "BBC|https://www.bbc.co.uk/news/articles/cqg7xenmde78o#1": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/cqlyejngjenxo#0": 1793195126.4120665,
+"BBC|https://www.bbc.co.uk/news/articles/cqlyejngjenxo#1": 1793259927.9221706,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#0": 1793217647.96939,
@@ -5052,6 +5018,7 @@
 "France 24|8fa1397a-d2af-11f1-83ab-61dacfb7af29": 1793184327.9725888,
 "France 24|905c960a-d202-11f1-bfe9-fd7cb7c06336": 1793111437.85042,
 "France 24|91314e5a-d120-11f1-9552-6b78f848a2be": 1793008843.1617062,
+"France 24|91327e96-d347-11f1-a311-41720142f882": 1793259927.9221706,
 "France 24|926e7bc6-d1de-11f1-b31a-816eb48722cf": 1793089835.1308231,
 "France 24|92723a5e-d13e-11f1-9220-4dbb3306e554": 1793023247.452176,
 "France 24|927ab698-d067-11f1-9ff0-f5a3bcbf504d": 1792929640.0968695,
@@ -5064,6 +5031,7 @@
 "France 24|9ac2adca-d16a-11f1-8342-ebb18ca20e2c": 1793039433.9108324,
 "France 24|9cfc2f14-d1f4-11f1-953f-eb0ad91bae4d": 1793100633.0510104,
 "France 24|9d32d2da-d2b2-11f1-b654-6da5a60beaf3": 1793187033.4741743,
+"France 24|9d52aeb6-d366-11f1-b5ec-d7b5dcef79d5": 1793259927.9221706,
 "France 24|9ee50f18-d14e-11f1-af54-17f29f97887d": 1793028637.2954068,
 "France 24|a035dc8e-d17c-11f1-b3ca-f9b37cc142e7": 1793048443.460441,
 "France 24|a0b0ac2e-d2f9-11f1-a827-e9a7f934f260": 1793212237.8266294,
