@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : une gigantesque campagne d’influence anti-Qatar arrose la France de publicités racistes, révélant une possible ingérence",
-"ts": 1793250790.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWHY0emZlVG82MHlodHJwaW5SZG1hdDBPZk13N2ExeTJYYjVpclpHYTVDNXJqYXJHZ0xJek1nbnRNVWhORHJZWDBwVGZkdmFLYkRVa3p1Ui1qWU9VMFFnbjIxRGtIMHhReG5fbGJmS1lHb2RKVjNYd1VJemxsdmNRcW8yc3FDTFN2NWFSZUlLeTczWElNcmhoeTBqa3ZoR0tMM2Rya01WSGNORElLa014eDJXOA?oc=5",
 "src": "CNN",
@@ -41,13 +34,6 @@
 "src": "Reuters",
 "title": "Cuauhtemoc Cardenas, elder statesman of Mexican left, dies at 92",
 "ts": 1793254980.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNWEZHX3V0d0dTazRUSW9wUDBGLW5UNm9pbW04dHVQbTBOSHVKZDlMNWxESjZ0eURhbE0yZEpmckU3NzVneENFeUg3a2Y1bXNvSzF1dHYzUm5Gb0hhbnRMeTBsOXFDczA?oc=5",
-"src": "Reuters",
-"title": "Stars say new 'Hunger Games' is a fairy tale amid world's 'darkness'",
-"ts": 1793250896.0
 },
 {
 "lang": "en",
@@ -3793,6 +3779,27 @@
 "src": "France 24",
 "title": "États-Unis : des profits financiers sans précédent pour Donald Trump",
 "ts": 1793379139.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
+"ts": 1793378223.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+"ts": 1793379393.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3lVYmRXTnlwU1pZdGxlb3VmRGJLa1NZemtHNHFxRWhvci1sRzQxNUZTNk9hSU14cTZ1Y3JHUGhCTy15Qk9JSGRxX2V6VUQ0dzJWb2ZoRTl0blBjZjA5aEdqbDJLa3ZyT2JOQi1nTU94aFVpVkNzT1FfNkRyMVdLS2czM0dCRllTam5SZWRyN1BJRlBGTXc?oc=5",
+"src": "CNN",
+"title": "Pope Leo XIV casts mail-in ballot for US midterm elections",
+"ts": 1793379441.0
 }
 ],
 "seen": {
@@ -3872,6 +3879,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#0": 1793125835.223307,
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#1": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/articles/cmg4706xkp35o#0": 1793379643.6981492,
+"BBC|https://www.bbc.co.uk/news/articles/cmg4706xkp35o#1": 1793380526.2364905,
 "BBC|https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo#0": 1793286041.3185582,
 "BBC|https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo#1": 1793288225.827647,
 "BBC|https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1": 1792912031.9234908,
@@ -3895,6 +3903,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o#0": 1793376041.3538332,
 "BBC|https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#0": 1793217647.96939,
 "BBC|https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#1": 1793286041.3185582,
+"BBC|https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o#0": 1793380526.2364905,
 "BBC|https://www.bbc.co.uk/news/articles/cqx28yp532r0o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/cqx29dj3vv50o#0": 1793213126.6938767,
 "BBC|https://www.bbc.co.uk/news/articles/cqx29dj3vv50o#1": 1793254525.7460687,
@@ -4768,6 +4777,7 @@
 "CNN|CBMilgFBVV95cUxNZ1A1SDV3MWFBbjJ4YmR5SFFxb2d5bkJLUTRSTXdzbktqVEg3RzkwSHZXVGQ3UThmUUxtc1dlSDNfMFFUUV9wRGdkSGw0ZGtQVGd2dnAzNGJLUW5oNmQ5VHg1M3RnZUw3dUJXcGZQNVcxQWw5eV9zdXhYa3V0bjhvcEVzU1MxWXUxaHl4N3hrR1FZbWxmZEE": 1793357129.6771312,
 "CNN|CBMilgFBVV95cUxNbjFHTXlxejlDOGZFb1lGT251ckVvcWd0eEZRS2VpQ0JIZWlabWhXMTEwZ2NWSUs2MUIxdlFOV0lsY2NPbldUNm5WN2RPV2s3TEVTRjlqeHZiQjh6UlUzTmtIaEZoaG8tMXgyVWs5WmRBUWZ1cDNhWG91TjBCZmlqN1ZKekdqUHJSMDZlVFUzUzZHdEt2bVE": 1793303126.2614126,
 "CNN|CBMilgFBVV95cUxOV3ctOXBhQlIxWGx2djFXaGRhSXV4ZTdWTVk0aXdLSUdtOGlnSTIzN1hvZjRzUnJ4Z21BX0VTeC1EbXZLSU1BMXhLdGcxQmhscUpGVWFOSHFMSHRKSDQ5RVNVdGZhQzIyelIxVWFWSEQ0UlhOOWNsYm1aUFZIRThlb3NkNlVWR2FLOUtKdTFiTWF6Q1dTanc": 1792912921.1568482,
+"CNN|CBMilgFBVV95cUxOY3lVYmRXTnlwU1pZdGxlb3VmRGJLa1NZemtHNHFxRWhvci1sRzQxNUZTNk9hSU14cTZ1Y3JHUGhCTy15Qk9JSGRxX2V6VUQ0dzJWb2ZoRTl0blBjZjA5aEdqbDJLa3ZyT2JOQi1nTU94aFVpVkNzT1FfNkRyMVdLS2czM0dCRllTam5SZWRyN1BJRlBGTXc": 1793380526.2364905,
 "CNN|CBMilgFBVV95cUxOYUJyRl9IcktUWWRtV0p6Z0dzdVpiZlFEa19PbzhzaURDR1ZjYkxqUmoxMHhVTXFtZHdQSnNhZldDM1pva1RYV0VNRVNsdGdiTUswRXBiRF9iMnYwSEJaUEdNLVQwV3p0V3hCNnNjY2lIU2Q2Ukp6WHJpem5CczJUNjlldlhkXzNWZjhhY3Z6eUtYVWtKM3c": 1793367928.8022168,
 "CNN|CBMilgFBVV95cUxOaDRldFI0endKdDZxZU92UDlOR3R5c0JhR095ZXdTUGppMmNuUXVUTlhjSE01RHJieGpuQXNRX3RVUW8yVTNXblNBQjcxNFY2Si1BTkE5aGRPa2xCbEZLMV9hVk9XdGNsM2lFbkY5N0hJanJEYnlBY3NrazZ1MmlqYVlJdEFneU1QN2pVcGNwX0RmdnAzcFE": 1793042126.6168418,
 "CNN|CBMilgFBVV95cUxOcEFpY1VJZjdqUE9DNGd1eXBzb1dKLXBzN25DVVNkODAxU3F3aEhuNXZmaU1TSkxUZjZZWWtPb2VKaW5fTXp5WVFLQVNuN1M4elB1TV9mcFkyd3RTSjlmRXVZUXBYblY4MHJNcTFWam5KeVRrSXBuY2Y1cnM3S25nc1FqWC10Q1N3NU81cmN6WEhRbjFqU1E": 1793099725.458703,
