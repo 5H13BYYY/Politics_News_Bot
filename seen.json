@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaE5td3hXSU5HNEdFMlVMMEhuZTU5M0cwSkZqRHdYY0pOajN2ZGYtTWlISi1Ga2NDTlVwcHZHbU9LWll6dzhHNXBQcFprRGlQVVFNaVdWZlZJV3ZSYVZfc2VZQXRsT0NVSFVuSmk3amxKNEpqeVM3U0l1Mno2d0RZajVKTG9rRmU0X0hR?oc=5",
-"src": "CNN",
-"title": "Michigan’s Midterm Message",
-"ts": 1793233560.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
-"src": "Le Monde Politique",
-"title": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », visant le RN et LFI",
-"ts": 1793233735.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3l6U3g2VEp1OVNQSVZBcVpZNFV5Z2hGcTRSX2JWN3ZNSXd3YnI1akF2RnNoYml1QWhrUlJNU25Fck5BS3NoNlVkRHJDZUNsVUtWaGhLS2RzdGZLR0tQSXlnTlp6VE1KSzk0SjRKanBuMUN5bzJlX1B0c1YtZUt1NUMwdVFNUFp4YnRHcWFlYlNTUTNLemFpQk84OHQ1MWRiUXg3Rw?oc=5",
-"src": "CNN",
-"title": "Black nominees for Governor from both parties look to make history",
-"ts": 1793233835.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObW9yS0lhZlNxc19EbnB5M2hmWFgxMk9hU2xSWGxieFp6MGpnSVg2a1p2eHZKNEx6V2ZkQ3BMNW5XRUNITWdBZm9PNWhIcHM2RVJUSXpvU2xWUWVSQ2NuY05RR1gzN1ptRUVyZ21mcUI2Q0M0aG80eERWNEpzcXFRem1acVhVcVJRRHVaejBnSFNnUl9DTjJIYlgwVlY3aVNYMHJIVFlJVGQ0bjdkRFlR?oc=5",
 "src": "CNN",
 "title": "Why Democrats Believe a Blue Wave Is Headed South - The Arena with Kasie Hunt - Podcast on CNN Podcasts",
@@ -69,13 +48,6 @@
 "src": "CNN",
 "title": "CNN’s Manu Raju presses Ashley Hinson on vote for Trump’s war powers | CNN Politics",
 "ts": 1793236380.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
-"src": "Reuters",
-"title": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say",
-"ts": 1793233260.0
 },
 {
 "lang": "en",
@@ -139,13 +111,6 @@
 "src": "CNN",
 "title": "‘Pass on Paxton’ video gives GOP ‘permission’ to break ranks, top TX Republican says",
 "ts": 1793240280.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVV5aXNSQ21ieTViM3dvUWpfSGZCbzlhUUwxRXJwcVJoRVZud2ZSbWhDeXNLNDV2d3lUOGdnM0Z4ZXVjZVFhZHVhUHh2X3haVXhiV0ZKSUI1M2xZTGlldS1faXhyRW5ENzFUb2J0RjBMbVVrbVdJUkJFU3U5RlAtcWFiNmNwc2tta2NBVE81bzR1c2xZNnlHMV9TV3hqdDNUTk0wYklqVmlVVjU5NWk5aUUyNHNQMHE4VEhKd0dpS0dOV2Rid0tjTQ?oc=5",
-"src": "Reuters",
-"title": "Minnesota charges conservative activist O'Keefe, influencer Higby after voting stunt",
-"ts": 1793233200.0
 },
 {
 "lang": "en",
@@ -3506,6 +3471,62 @@
 "src": "CNN",
 "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
 "ts": 1793362083.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVF9pNjc4bUNhTHhCaVFuSUo2ZGpJN1lUYlpQdzdnZDd5bHd6V2hzeWdSUDFVRXZDQ3p5VzUzbjE1ZVQtRTFqMkxRcGZHd1lMdGhUVU9OeEhTMXRCeDlyaGZydG1qdlZjMzBUazdLSTBoWFRMajlDT1lHbS0waVA3NFFkNl92OHk2UFZWUTNnX1hvNGUxTkdPV2VuMGJTTmcyWWdwSkxnMGktdXRCV1Vj?oc=5",
+"src": "Reuters",
+"title": "China's Xi, Swiss president praise trade deal that boosts access",
+"ts": 1793353843.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFVncVU1VXFVcXp3WmlCZ19iQnpKSUJ0SHByNF9hVkUtZHlOOHBQdGU0ajlrbk5NXzA1QlZLTENGMzJxYkRPZGl6RmhQUmdIc0dlMVhBSHM3SWFvY1k3cTlVZ2hfc2xzRk5CdlpoV3luSHZITW93RzYzYzllUnNpaXJnUFZvTk5nQ0NzRDVEVkFFRHRuTEdEQVVwNTlsN01qd1FsLWZHLVZ1c0RVUmNpVmJIYjJDX0E2dHRZ?oc=5",
+"src": "Reuters",
+"title": "Trump escalates legal challenges against states as Election Day nears",
+"ts": 1793357177.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTJyUjYtcVpRS0h6RlBTekt1RXAycDdtbl9UMlpENE44d0ZtbDUzYW1tR1hqczVONjJOY3o2eEEwRXFINzM5bERjN3FxMm9IZXFZaTVzUjJBU25yaGlzc0RkZGNsMkhER1U2VV96cGJoN3ZKT3dCd2QwekEzV2wwdUN5VEMzRU9DR3IydjZGbkF5REJHVFA4MDdIcVNxRFV3bjBNYWlaVG05Ukg4OWNuLWRZeXM4bzFvbzJmRkRRRUxxM1ctZ0kw?oc=5",
+"src": "Reuters",
+"title": "Slovak prosecutor reopens probe into fighter jet donation to Ukraine",
+"ts": 1793358223.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-vladimir-poutine-pr%C3%AAt-%C3%A0-partir-en-guerre-contre-l-europe",
+"src": "France 24",
+"title": "Russie : Vladimir Poutine prêt à \"partir en guerre\" contre l'Europe",
+"ts": 1793361145.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-rwanda-les-%C3%A9tats-unis-sanctionnent-le-pays-qu-il-accuse-de-soutenir-le-m23",
+"src": "France 24",
+"title": "Rwanda : les États-Unis sanctionnent, accusant Kigali de soutenir le M23",
+"ts": 1793362082.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-tournant-d%C3%A9cisif-dans-l-affaire-martinez-zogo-journaliste-assassin%C3%A9-en-2023",
+"src": "France 24",
+"title": "Cameroun : tournant décisif dans l'affaire Martinez Zogo, journaliste assassiné en 2023",
+"ts": 1793362315.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-x%C3%A9nophobie-en-afrique-du-sud-le-pays-refuse-les-manifestations-d-un-mouvement-anti-immigration",
+"src": "France 24",
+"title": "Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration",
+"ts": 1793362553.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/30/manifestations-du-31-octobre-le-cortege-est-autorise-a-bordeaux-malgre-des-actions-violentes-redoutees-par-la-prefecture_6803085_3224.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 31 octobre : le cortège est autorisé à Bordeaux, malgré « des actions violentes » redoutées par la préfecture",
+"ts": 1793362724.0
 }
 ],
 "seen": {
@@ -3539,6 +3560,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#3": 1793130325.6428828,
 "BBC|https://www.bbc.co.uk/news/articles/c6y93pz494zzo#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c6z7x8214np7o#0": 1793284234.1797616,
+"BBC|https://www.bbc.co.uk/news/articles/c6z7x8214np7o#1": 1793363436.891757,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0": 1793040326.575875,
 "BBC|https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#1": 1793097929.898054,
 "BBC|https://www.bbc.co.uk/news/articles/c70989jrdweo#2": 1792912031.9234908,
@@ -4644,6 +4666,7 @@
 "CNN|CBMirgFBVV95cUxNVDJEYTl1Z25MYzlkNnRIS3FkbHV5eVkyOHJGWnFVZWZmSUtDdTU5QllrOFZoNm00NGROX2h5N1g0eWFOcVJ3OVpIaUZNVHU4Tnp5azE2dnE0RXBLQ1JPd2k2MDhMdTlLR3NJU01GclE0SklRTUQ2VUxzOGplSnRMVGhqcV92OHlBb2NudE0zRkJ0MmRYS0Z2RUR5UEs0S3RYZDVPbHI3TzVCMjBOWVE": 1793144726.8513815,
 "CNN|CBMirgFBVV95cUxNY2hlX0RrNFh4eGdWX3UwLS1lU3ZDcm1sUVlqUy1CSlRUb3p2UG9waVNSVlNtbTFLcEFtcmNjamZ6RnBBZUdVc1RhS1pGV3k5THBuNjQ5NG9lUjJJT1BTT2FqTmlVc3pPQVBwSzVXZHZZYUgtNmhvTG91WS12X3ZOVTBfX0lmUVgxS1c4aDBqTFpaTUZOaE5kS2FzX3ZDSmp3b3RwWGp4QVZhZ2tVVUE": 1793034925.3473341,
 "CNN|CBMirgFBVV95cUxORXBLOXlqZmw2dkFoN2FRcmdzdVAzR0k4VU9GZzVuTHZVVUNZTEs4SkwxVDFCZmo4d0xVZGpmaEtUUjlnLWdtbnRPOTM5UElGV1pJeDBGbVo1Nm9iSV9lQzVweWowb0V2T0F4Njkzc0EyRURzZDZBNnpTLXFWME5NNmVzZFZDNGtraVNVUmJFTDF4ZlZiUFRKQWtvWml2c3FBeUZIZmpWOUZKbm9JNHc": 1793076327.4460669,
+"CNN|CBMirgFBVV95cUxOTllsX0U1ZmliTU9xZVdUV2lqQXdjVDRxRjh0QXJxb3BRUDNEakxINFJMNkNWTkRtdEZhd3NpX2QzN1RjaUUwYTZtaW0zMXVtd04xZlF4UndnYVhOYjlXWWxibjJUdTVtSVE2LXp0OFVMb191Q0gxRjNTRGxiQmxxa3JyWm03Zm94STJlSm0yWnQtc19sX0hqaUxrcDdkS3VIa09FQkgwdmlPeTU1LXc": 1793363436.891757,
 "CNN|CBMirgFBVV95cUxPQ2NJVnhxaHppQXlnZkZ0NjdjbmZBNXVFNnJFZ3o4b29CaGxUUU1kaHZiYlRlQ1lld3JKUlk2RThvMGpMRTBYQ2x0ektJRExKUFFpSC1YNkRWN3RCOEZaZUN1TmdmLVE2X2NrNWZmZjU2RGdjR3A4OUQ4b1JNM3VTeDNzMzBEZFVIZm45Snhhd250N0tDc2pOWDhvYjdac28zVDUteUZ3V2FHcTgzRGc": 1793242844.883447,
 "CNN|CBMirgFBVV95cUxPbE9CZ3o3RjZwcFFUUjhoc2RNODVleUlOYjNibUVNZDFtUjhDeFh4emp2b0hJNU0zWE1fUzRoTmNhU2FrYXFRSW9YQmdCcTJoTnUzd19jT3Q4NXBtTXVSM3NadTBlT1pEeDU1OFphZ3V6UTkwbGFCRlRfTl9ORml1dlc1QjlvRThkTEw0ejhzY1BscnZ0eTZZSEM1WmNjS0cxcGJxQ3NFQktjb0lBelE": 1793319866.611987,
 "CNN|CBMirgFBVV95cUxQSXJXbzFLdnhfem1oTTlOMUE2Zl9uZEZnWkhKeUpYeVQ0amtSMjdUclYtcEotNThlVlZEaWNrTlJKbzE0RkktUlE5M2k4endSV2h1TG1mUXhvLUJjLWczR1lFM3ZsMjN5azN0UU5TVEc3UWg2NWoxNDVGZUV1S1NncmhCZ0hJOHRhZHp2T2gzVHVtbzE1a1Rldm9TUWVhMjMtR0I5UVFGeGJ1aDdzMWc": 1793061033.4823194,
@@ -4661,6 +4684,7 @@
 "CNN|CBMisAFBVV95cUxQQS16LWI5Z01WQzFfTmtUVkloSFJBek1nOFhYYXFESE52NVE1U3EwREs3cDdkTlNKQ0h2a194MTFjZ1prT0N4TVhqdTVzN21yUmt5ZXFLcVM3T0QyTTZUTkpuMGxIbTY0T0l0UjVSRDM2X0M1aXVzQ2lPSzFGQktiMUR0VWlRVTZWVzBXd1oyU3J2aWdDeWdaNXlCenU0Tk5PMFVDNFMwRWs4Yms1UFpiTQ": 1793114128.081916,
 "CNN|CBMisgFBVV95cUxNV2dfT3FEVW5WSWpjS0t1QnJyR1J0WFpSVk5JTHNDU3BLdU9TOEZ6SVdRLTlVQ0pYdUVFdGJhYk5qV1Z2NWZidUxtUzl0Wm5xQmdmWG1aeFBTbUx4WlRTSTNuZ25DdV9mak5VRHpDcEtORk9pa0R0dVQ4RTdYRkxBOWZwa09jRnBLcUx6MGRLMWRRUS1Cc0dqeUgwamxISDY1ZFhuMEFHX1paU0dCMF9LdUJR": 1793151031.1450777,
 "CNN|CBMisgFBVV95cUxNYWE3ZTc0MGEtcklJREg1eWNUcnhkYlM5c21OQXd4OWxFTlh5U0FzeHp5N3liZXZLekI4ZkVsOUgxcnkwaF9BV1ZxUDRRTHBrSjVRdm1hd1hIZ1lGbmVhaUs1TTVnR0JxWkZiMERzTFZtLVhtZ1hfdDJMTlJTTzRZbmJtSDg5WjVLTElVNm9UcUk5dm5ZQlNYdGtoSFZ2MXcxQlhXaTRBX3NtY2NaeEFKVzN3": 1793319866.611987,
+"CNN|CBMisgFBVV95cUxNbzFOLTJMVFVGYkFGVnlEVjUyUjhRVVB6djhFaDM2a1A2Y0pZcjg0TDZZZ0Fkd3dQeGR2d1diVDA2VHQ2cC0zeFNOVmhtRDJITHhJX056NGhjQ0hSY3ZkcFpXdGd4VkpXQU5rSWVFZFdtU3c1MUEzSDlGNnN5SlF6bDVaazcyUnU4RGFKQVpQVVNHR2ZBdEVSWHhiYWRXajA2RVVqU2Q0cndvM0tPVlZDY2ZB": 1793363436.891757,
 "CNN|CBMisgFBVV95cUxNdXJjcGEtWEJFVEgxR2xqWWFrVk9Ed1BEYldQV3VkcGNKUWFMcnNHN3B5eG42b1NVb2JzR24zWjMtTGoxR2dfVTA1dWN6SXRHeXFMbGF4U1liWEJieUpldS1VaEdMTjNDZ01RMFNTTGduMk11aVNGd1pkcFRuWjBLd2pKUm5NOHlsY3pOOVZvQ0gtenFtQlpvSDVQRFJNVXhROXJLcHFuVFF5WEdSSDJwa2ZR": 1793361641.3968227,
 "CNN|CBMisgFBVV95cUxNdllTRlNQamtTanJTVUpNbHJQa0U5TjFpQl80YjFyWTVVcjEwVW1FcFhnSUM3aFpudHh2eUt6SUtnRVdTcnZsc21Gbjl4T2ZEdkRmUUk5OThlODh0NG1zMmo0NFNUWnFlTl9zRXdtWVR1ZjAxOV9xZlVpWUZ0SWp4WmRRX3BWMkppYVhydTRtbFczYlRhQnBIZTlZMElhcGNOcU9DNmxkWE5OUEQzX1ZvWTVB": 1793142925.8137388,
 "CNN|CBMisgFBVV95cUxPT2ZSODRpRWZhUEVGWElHWXdEakFfU3hFMnZSTzNlQjV3ZEhSRFFSWlJ3ZzJhM0E0UnBoOGxZeEdFOTBfNDBuSGljdTBfOGJuamllZmhJVWZVZnhaVTRHOG95N0tOSW8zTUJNR09zTEp6TE10bHdrdU5rT2FueDJqS0xxdkpfN3VJcEthd0hUbUFFWjI0bXRwM0xSVWVBQU1yT2U2UVNURTZWb1N0VUJFdlpR": 1792965505.8590639,
@@ -4811,6 +4835,7 @@
 "France 24|1a22051c-d2e6-11f1-af02-991ac2d95e53": 1793207729.6428788,
 "France 24|1b016554-d214-11f1-8f25-db9f647a95e7": 1793113242.844439,
 "France 24|1cb437d8-d1fa-11f1-82f3-cbae56948920": 1793197835.728742,
+"France 24|1d994382-d452-11f1-be13-93f68c163590": 1793363436.891757,
 "France 24|1e628f5a-d13a-11f1-8ce3-c71537c59723": 1793020526.6017363,
 "France 24|1ee7db52-d247-11f1-a685-0b385a1eb898": 1793272529.3505046,
 "France 24|1f9eb046-d2e9-11f1-9cb1-abfa7de2182a": 1793206843.939874,
@@ -4823,6 +4848,7 @@
 "France 24|231126b6-d242-11f1-885e-f346a195d123": 1793133927.9900343,
 "France 24|23588a7c-d12c-11f1-bbab-b7a4d70971b5": 1793017836.5340102,
 "France 24|2444fdf6-d43a-11f1-bdcd-3723bbb15ed9": 1793351725.7774043,
+"France 24|25c6df06-d457-11f1-9067-3f4fed6e8dac": 1793363436.891757,
 "France 24|2635c4c2-d298-11f1-8805-a9b4af8e5825": 1793169032.3620625,
 "France 24|27eae0d4-d3b7-11f1-849e-0dbb01bd5396": 1793293248.1022131,
 "France 24|28331558-d226-11f1-a4e4-51f2e6dc9b37": 1793121327.7241075,
@@ -4969,12 +4995,14 @@
 "France 24|84fcab1e-d190-11f1-a14e-9b46ef6b2b27": 1793055639.8065987,
 "France 24|85a32818-d109-11f1-a5e8-c925d0569b7b": 1793000726.4345882,
 "France 24|86694676-d210-11f1-b7f8-1f43206f20ec": 1793112328.6785605,
+"France 24|86a26a1a-d458-11f1-8398-fbeb7edc9ffe": 1793363436.891757,
 "France 24|8730b69c-d1fd-11f1-ab71-03518785ecdf": 1793109642.2235074,
 "France 24|87ddc03c-cf12-11f1-82c1-b94b09ade009": 1793013327.7299454,
 "France 24|882180a8-c876-11f1-a6a6-4ba086e41259": 1792925608.8006206,
 "France 24|88cd2be8-d2de-11f1-876a-bbabadbe6e77": 1793203249.0614064,
 "France 24|897bb202-d159-11f1-a3b6-1da06aeafcfd": 1793034044.801758,
 "France 24|89cb71a4-d1f2-11f1-a3c5-fb04ba085a26": 1793102444.1008482,
+"France 24|8a6942a8-d454-11f1-bc7a-19e956bc70c3": 1793363436.891757,
 "France 24|8a9af6ac-d226-11f1-889e-effdbd0bfcd9": 1793121327.7241075,
 "France 24|8b5cbc42-d2ad-11f1-b3ac-afaed4320b1f": 1793178928.730777,
 "France 24|8c5d3798-d3ac-11f1-892a-25810c506df0": 1793290525.2920587,
@@ -5035,6 +5063,7 @@
 "France 24|b2be4370-d42c-11f1-9972-9d021588b61b": 1793349031.6580546,
 "France 24|b2c339ba-d2e3-11f1-aa71-b7f39ea4462d": 1793207729.6428788,
 "France 24|b32bf808-d2ff-11f1-b738-e5091efb9c8a": 1793216728.4482749,
+"France 24|b3b8ec00-d457-11f1-ab3c-81247da246fe": 1793363436.891757,
 "France 24|b3c6a52c-d211-11f1-8c48-11f60a7d659a": 1793111437.85042,
 "France 24|b52bfd54-cfb9-11f1-8924-c7c079fe7763": 1792912031.9234908,
 "France 24|b6cbd574-d141-11f1-885a-53c68e33fce4": 1793031325.941255,
@@ -5105,6 +5134,7 @@
 "France 24|e4632d60-d381-11f1-a6b6-791ff85672db": 1793269836.5959818,
 "France 24|e4aee706-cfe8-11f1-8aec-bdcd937426ba": 1792912031.9234908,
 "France 24|e4b4ed28-d2c1-11f1-a808-a1ef05055d0b": 1793190635.6630328,
+"France 24|e503502c-d455-11f1-8eae-dff56529d90b": 1793363436.891757,
 "France 24|e5d700f8-d166-11f1-8b8e-2b7b3a2a6346": 1793043926.9561915,
 "France 24|e607408e-d38b-11f1-8b64-4b9614858702": 1793277035.900759,
 "France 24|e64b6cfe-cfb3-11f1-824a-51ddb86eddf6": 1792912031.9234908,
@@ -5128,6 +5158,7 @@
 "France 24|ef83eefa-d390-11f1-ae79-5b8af1938b31": 1793277932.5154068,
 "France 24|f096e032-d132-11f1-82a4-fdebef7242c6": 1793016926.187019,
 "France 24|f1878398-d411-11f1-8572-bf6604f2550d": 1793347239.982538,
+"France 24|f25d41ea-d452-11f1-8093-d93c01bef57d": 1793363436.891757,
 "France 24|f26d1df8-d381-11f1-bb12-6fa724dc46bb": 1793272529.3505046,
 "France 24|f2ce36c6-d389-11f1-b5cd-e333270025b0": 1793277035.900759,
 "France 24|f3dd92f2-d2e7-11f1-a0e2-7f510be309e1": 1793280634.7048082,
@@ -5300,6 +5331,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-31-octobre-a-paris-rassemblements-non-declares-interdits-et-couvre-feu-instaure-pour-les-mineurs-jusqu-a-lundi-dans-certains-secteurs_6802363_3224.html": 1793294129.1107152,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/30/a-charleville-mezieres-loin-des-scenes-de-pillage-on-a-vu-les-fractures-se-multiplier-au-fil-du-temps-des-peurs-monter-sans-jamais-redescendre_6802770_3224.html": 1793336439.7719917,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/30/apres-la-manifestation-du-24-octobre-l-identitaire-gros-lardon-vise-par-une-plainte-pour-des-violences-a-rouen_6802923_3224.html": 1793351725.7774043,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/30/manifestations-du-31-octobre-le-cortege-est-autorise-a-bordeaux-malgre-des-actions-violentes-redoutees-par-la-prefecture_6803085_3224.html": 1793363436.891757,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
@@ -6005,6 +6037,7 @@
 "Reuters|CBMirwFBVV95cUxNMWpuZUNfTG5SVElSYVdOYzQ1MlhJZ2NPeVM2ckpQUGZ5eUw3dnJNMklDeWNZZ0ZCeEpxelZ2ME9tTEN6YmFuUWxNdmQydGY3Yk9yY0ZSU3RPWE5VTHJ2VTdpVXBwZGpCZ3AwOHhKRTlrXy1LS0RGZTdGeWtQZHVuTGtCSXRpd1ZvS2trN1dwYzZHNTR4NVBEWEpKMzFlMGt5M1R4blJtbmllcll4U0VB": 1793147288.4473698,
 "Reuters|CBMirwFBVV95cUxNNEx1ZTd0Y0hkdnJHWTZNU2JXU21wRDcyRVRVZ2FIMkVtckpnSTlEV09VWElYSzhjQmFPNzZkNmpETllORk91MlN3SFFTb0xndkV0R0x2bldXU3lLTmRyVlFzdm9BRm84MFIyN1VJSXllXzhHV1lRc0NWWEx0Vm9fb3czVlluM2JrSk41Qkhmbkw0NlN6N01KVG9Sems4bzBueEJOLWt1RGthRWNoY0hJ": 1793231126.4789531,
 "Reuters|CBMirwFBVV95cUxNREE0MXdyYXNneG05dnVLVTRwSEFQWXZkcHFfWFB4Z1pKbWZuTUE2X285RTQ2SjdjUkozeU1tRi0yczdvSk5VcUNmZU5TMkh1RGFhT0hCRTVwVHJDTHBCb0hzZk9vTWRFRWVjeFJYbEdHcFpBVkJYcjRUbTdGajFPemxXZVlIZ0ptZmsyUEhOMk94Z3FmSXJBZjNFNXhCSGVxenVXT3otZEYtdE9YbHF3": 1793039433.9108324,
+"Reuters|CBMirwFBVV95cUxNVF9pNjc4bUNhTHhCaVFuSUo2ZGpJN1lUYlpQdzdnZDd5bHd6V2hzeWdSUDFVRXZDQ3p5VzUzbjE1ZVQtRTFqMkxRcGZHd1lMdGhUVU9OeEhTMXRCeDlyaGZydG1qdlZjMzBUazdLSTBoWFRMajlDT1lHbS0waVA3NFFkNl92OHk2UFZWUTNnX1hvNGUxTkdPV2VuMGJTTmcyWWdwSkxnMGktdXRCV1Vj": 1793363436.891757,
 "Reuters|CBMirwFBVV95cUxNclYtUXdmSlNpRWlCYkF0T3M1UEpKQTRlS3hyeXRBS3lmVms3cXZNSGl3NDl1dDZ1cUFpR1gtaW9NQ0lfaE1wSWd1ZUNsb0tkQ3JWUzdoVzJJSmd0UDUtXzFfdHhobnlfZ1A2bUFCSFZfVjVYNl9tYTR3WVlmSWRrQXFLSjFrdUcyV2sxTi1ET1NJZ3o3UXFBOEhuaDVyLS1zeHFPSVpXNkI2Y1V2Q1M0": 1793105126.5123024,
 "Reuters|CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw": 1792912921.1568482,
 "Reuters|CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ": 1793205926.8064494,
@@ -6218,6 +6251,7 @@
 "Reuters|CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV": 1793206843.939874,
 "Reuters|CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3": 1792999837.110346,
 "Reuters|CBMiuwFBVV95cUxPcjBneVJWM1NqM0tlN2lIMUJBelRScnJBeENXVERoUWVzMGNma2tPdDk0WnNtcnBmS1N5aHJoTnpmSVBVa2xZYjJ5Q1N1YjV4RkloRjNsVDh1RjVtY1ZmSjluRVZMV0htNDV2NWg3dVZqdTBYQVNvUDEwN0NPdjA3cjVMX0MxVHZud0FUM2xjVHh1c1AxQXc0dHRBWHBSLTdnekFZN09jdXRQakJfVVNEYXI4ZmZtQlRzelVR": 1793268925.8536756,
+"Reuters|CBMiuwFBVV95cUxQNFVncVU1VXFVcXp3WmlCZ19iQnpKSUJ0SHByNF9hVkUtZHlOOHBQdGU0ajlrbk5NXzA1QlZLTENGMzJxYkRPZGl6RmhQUmdIc0dlMVhBSHM3SWFvY1k3cTlVZ2hfc2xzRk5CdlpoV3luSHZITW93RzYzYzllUnNpaXJnUFZvTk5nQ0NzRDVEVkFFRHRuTEdEQVVwNTlsN01qd1FsLWZHLVZ1c0RVUmNpVmJIYjJDX0E2dHRZ": 1793363436.891757,
 "Reuters|CBMiuwFBVV95cUxQNThzOE4yaVVRWTBtaGNOZTRMVGhFc1JsWmF0YVQ4Zmwyc3FOTHRkdnUxRjVYNDhLRW95UE9rUWFLVURlT2JrRU96cXU4Mm5yVmZERjJFOGRpVDhFWTRWQnF2R2Z2bDQwc3Rlc0xEWTdvVEg0Mm45WEtSVE5RdFlaNkRyS3l0SThNUWQ4QXRYSVh3QzZMV01YcDVXX1JOcV82TUp4cGRJaWpTajJIQlVVN2JQV1RKc1ZIMWpF": 1793061926.1457267,
 "Reuters|CBMiuwFBVV95cUxQOTVPclN4TndVZGlrc09IdmpNTGRXREk1Yl9aXzU5eldRZzVoNlJOZURSSWRlT3k5UGFhZjdlYmpORE5tdHZLV2FTcWFTTmFFX2t3R2owVTJCNnM0Z2J2WnF1T0R4YnZNUlVIS2Z5djBTRjFiSEppSkItb1RPMzRPUVdFX01uYWZjWl9NMjlwZkM1NjdoSEtfRUJyTEhYUWpySFJRLWdoZlZFVU54MnRIN3h5ZnhVUGNVR19F": 1793182526.7809327,
 "Reuters|CBMiuwFBVV95cUxQRGJjWTFGMk9ycWp1UHQwZWwtZWVkU25QRmg2NzVIVkpUdXhvR3dtTjNtY3FCSkJacUtkbE9vOGItMlRtaGduTm83Y1lkOUtOT09SanAxOWhQd2IzTGRpYmpIUVhhcmV4YmtvR3A4VFJ1dEJscVVHYVl1QzJRYkVzLTBXRXI0WkFyaHlKUVhEbDZIdFhLT1VaUzhiNEJsX1B2bU85MHVtdkhhWmUzbTZOMWFMRnJuNVBnUnRv": 1793061926.1457267,
@@ -6425,6 +6459,7 @@
 "Reuters|CBMixwFBVV95cUxNeUNQU3o4Qjdjay01U0RvQ2tGcU1qRU9PdDEwclA2WWxxVmtzUlU0OE5Za1RrRDRFcmZvMGhiMTdsYUxZNk50ZTBQVHZUclg1di1xMnhlNS1COWg3c3pIUlVfSTZoTm5MS1JQVTA1bVJ0NXA5OHVVRXZqSWJmM1FleDEtQjF3UlFTckpLT01xUDRRa3R2ZVFIZkQySVEyYjQtdkFza1pYX2NWZ0l2OTlKUTdtejBkZTZrVTlhN0U3R1ZSTjlCVHMw": 1793017836.5340102,
 "Reuters|CBMixwFBVV95cUxOMlNDdS1xNThiMGROQ1VFcERKZ2lYZm5zWENYNTdaMnZJemJtRmVkXzlQRXY4ZEpwRHdiTUczZ3djSHFDaEQ3VVJVUHkyZmZVajJWUVh3Q1N4ZkJxbWtQMHhpOW1Rb3pldUw0TE5NaUMwY2FuaGZTMVNqVzZGeHVpYmFROS1nSWt6S2l4Y19yLWxZdU8yOWg3ekdBbm1wbkhJTE9yWWFXZGtvUnUxLU1acjFTUUJ0T2Y1ZGpndHlybDFsTU1XcU4w": 1793250042.4369838,
 "Reuters|CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ": 1793142041.9219406,
+"Reuters|CBMixwFBVV95cUxOVTJyUjYtcVpRS0h6RlBTekt1RXAycDdtbl9UMlpENE44d0ZtbDUzYW1tR1hqczVONjJOY3o2eEEwRXFINzM5bERjN3FxMm9IZXFZaTVzUjJBU25yaGlzc0RkZGNsMkhER1U2VV96cGJoN3ZKT3dCd2QwekEzV2wwdUN5VEMzRU9DR3IydjZGbkF5REJHVFA4MDdIcVNxRFV3bjBNYWlaVG05Ukg4OWNuLWRZeXM4bzFvbzJmRkRRRUxxM1ctZ0kw": 1793363436.891757,
 "Reuters|CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN": 1793025038.3195713,
 "Reuters|CBMixwFBVV95cUxOcW5Zc3Vkc1M5V0VJanhieUFLbE4taUtFc0QxMlAyaWJ0WmZLRTEyajdNZE9MTHlxaTNiZ3RVNk1TYllnYjltZkMxYnlnTTVWUFJFVVdQdmVmNFFEM1Q0VklpQ3FtLUUtcTYtNTRtX211WG5Wb1RRLUt5QXpnVGI0cm9iemRnZkI3STRXdi1NOEp3dmhlMXRfTS1CMGRWcXVURXVuZVZtX2RNMFNQQnpzbEFCc0ROM1h6enZ3cUFaS3RPOWJkZjc0": 1793136635.0121229,
 "Reuters|CBMixwFBVV95cUxPN1k0Vkc0Q19hSjNUU2Jad3dyWjJQMC03MXlIR2ZkbFpId3ZQa3hGeVhBRExnUEpKYzlEWmxQaU1SX0FKVTFodXVDbnh4OGEySkNzdjlsU0FiakFJSWJic2NjOTN6b0luZERLRmEwWGxqVHNFQ0NMUG5BcTdHcnF3YmdYU3d1ZzlpRmlFRWQwM2gyeEUwUDdQTFBIell3Vno1VTRVbXNpd2xrYXA2R2Y4aV9OLW1ydDlNb2xOLWVLVjM4WXZ0YkJF": 1792975528.6344075,
