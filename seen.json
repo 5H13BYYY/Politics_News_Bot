@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXB1Z3ByYU5kYXFORVM1Si1kWkhaWGt0bGZvZmNtVzhJM2w1ZHM2Zkd1NnZJVEhNSGFGcGdCTlc0RmJTcUVuQllIeS04aVFNYUxzSzk1T1V5NVVhaEVUSGwwUHF2S3NReXNQekFDdF9JRDh6bXd2NWhLUHBaNkVTcjJKaUdJcjQtRnV3S0xuTlhhLUZRcVdzX184UzlIYTZxZWVra3g2aHZiaTdZT3VYVWFvNC1jbU5UcEctUVVn?oc=5",
-"src": "CNN",
-"title": "Will Independent Senate candidate Dan Osborn vote with Republicans or Democrats if elected?",
-"ts": 1793228913.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1NOX1dBX2MzU1QzZHFpQTc5YWJidVFrV2h5M0lCcXc1cTJ5Xy1yajZhVmduUGQzcVdudWtTVk40eVliRFVYX3RUYThqbTdHV1pwUm4ybzlyNEdEa3A5SDhvd0h6VF9KbW5LTWRmNlNxMEprMDk1T25TZEdTNmoyQ2JaUkhqOW1GeWI4LW1aaE5pTFQy?oc=5",
-"src": "CNN",
-"title": "Warnock calls midterm election ‘a moral moment in America’",
-"ts": 1793229070.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzV4TW9Jd194UGVZNm9YTHZkZlpjR2VBeGpqTDR4dDF1Sjg1NmZEU2JMWmhHeUlkMW1iNHRfaUJ2SHNJRkpTOE8yTDZvbFQtek9zR19FQmtXZ0l6VmxXQVFrQi1WSFh1aEQwWnZZNUxHdkZ6ZWU0bG1WWmNGcHRPckhERWsxVkN5XzRnMUFwalg?oc=5",
-"src": "CNN",
-"title": "Why the US has become a political base for Brazil’s Bolsonaro allies",
-"ts": 1793229320.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWUxMmd4ZDRwMWdhMUJXdnhNcWVFcldTQS1iUHloYk9XNGJnZEQtUllfelZRZDdaalJhTEgwWVY3UlBQWEdFSmM1OHByZWRWVW9TTVgzZ1FBNDkyc2NJTkdENnRjLUttUExMcHNEOXByY1JzMmRsT1RWRk8yUkFmeXVYdVdiZkZkcm1BdVZDcw?oc=5",
 "src": "CNN",
 "title": "Trump reacts to Alaska spoiler candidate",
@@ -48,13 +27,6 @@
 "src": "CNN",
 "title": "Three times Trump voter on supporting the war",
 "ts": 1793230380.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMndmWGM4dy1ZYm5LcFJiY0t4RG51Z1lVRTI2RWJJMDM4ZDdESHQ1Zl9FeHZsZkRfOFdWa05idTdwNUlqNHg4MERXYWRLb3RPS1dpaTBtakJFMFNHTUZtbUVJaDNRZGpmSE9VSXpfREtJZ0FSdWRrWm1rSVFSRXRYdFltVGc3Z1VfSkhLYXFGZVFHMW84SXc?oc=5",
-"src": "CNN",
-"title": "Why the US has become a political base for Brazil’s Bolsonaro allies",
-"ts": 1793229320.0
 },
 {
 "lang": "en",
@@ -90,13 +62,6 @@
 "src": "CNN",
 "title": "Michigan’s Midterm Message",
 "ts": 1793233560.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU9pWXBKNGZmbzR4TW5XWXpQZWtYcUNWaGdzcFhJX1Y0anpqcWdDNWZxelhIQnROZGZCdzQyTVRZdjFqTFNQVUVwcnE5U2c2ekFwT2Q3bXZ2YXVzVWVsQmJReXNKRWF2TG5DeFBaYmpjeWtBVE5kUE54SnVfUlBnaVc5WTRQb3h6NEwzLWROMDlHbFpjbjBpUDFibDNjdjBGWDVYbmFpUzR1VFl4VEhsb0dlb3dydmgx?oc=5",
-"src": "CNN",
-"title": "Will Independent Senate candidate Dan Osborn vote with Republicans or Democrats if elected?",
-"ts": 1793228913.0
 },
 {
 "lang": "en",
@@ -163,13 +128,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUFNRDhyTkhSOUMtUGpZNXMycjZXSVl1VW9pMTNoclk1Q3N5UmxIZlJ4ZnZzRHUyRmRodUloY0hpdjV5RDRYbGIyRkJOY19JY1dScnVhT05yMTgzOUw3NVhlX0haWC0zWF9JX05kN2x1Z1lYWlI4VGZDb0EzVXBEcmh6d01BOWs2N0xlWVNMcFRtS2toRVl2bFEzU0lLU0twUzlyODAta3NFZ081cG9z?oc=5",
-"src": "Reuters",
-"title": "Belgium tax agency hit by cyberattack, shuts online portal",
-"ts": 1793229273.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjh0VFR2ZmRGMGE0Q1JxeGpJZWhrRGJaV0VrSHl3TmpFVXFpZUwzcTljRzYxUldDUGp3VXdVUEU0UFVwbUpSSjFLWHFCYjNOZkd2STdXWW92SDlrclZLOUF4UGE3LWQxcHlqdnE0dTh4bUlZZVhNRHYtZHZqMjJkOEdoVWh3d21MNGpLdklidjdOVlZ3cHJTcUxfd3FzeHdtcFNFQTcwbzB4Q2w4RUVNeDRtWGFBTXRfM2c?oc=5",
 "src": "Reuters",
 "title": "CNN, MS NOW, Politico expand lawsuit over White House access limits",
@@ -219,13 +177,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZnhkUTRaS3AwNEhGakplWWhnT3lVVzVGQnlXaTROWUFGd0lYOC1RYWhxUkRsZEw5T2RFbXpMRHZoOWdieVBVX2MwWC1VOUxCV0RLT3ZYbXVHdExuOVN2MEdGQW8tTnM?oc=5",
-"src": "Reuters",
-"title": "California’s AG says 'Trump does not get to rewrite our voting rules'",
-"ts": 1793228824.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGlnTjZiZ1lCWVloUkpGS3hzeUdzbGp3WndPM1RtR1FfNmZJQ1Y1cGpGbUljaUwtb3BVZ0J4MDRwbFNfTkp5VW13bm90NVdaV0JVb1c5eG5EMGhqcHNhU3F1R1RIaUR4eDJ4RlM0TnoyUHFiVC1nTXpuLUhqc0tEY3dtUmtBSjZYZG1rV1VR?oc=5",
 "src": "CNN",
 "title": "Federal judge warns Trump administration bid to set aside 20,000 California mail ballots would ‘wreak havoc’",
@@ -244,13 +195,6 @@
 "src": "CNN",
 "title": "Pentagon watchdog declines bipartisan request to investigate Starshield slowdowns in Ukraine",
 "ts": 1793239065.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
-"src": "Reuters",
-"title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-"ts": 1793228625.0
 },
 {
 "lang": "en",
@@ -447,13 +391,6 @@
 "src": "Le Monde Politique",
 "title": "Jean-Luc Mélenchon et LFI à la conquête des « gamers » avant la présidentielle de 2027",
 "ts": 1793248207.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMlNDdS1xNThiMGROQ1VFcERKZ2lYZm5zWENYNTdaMnZJemJtRmVkXzlQRXY4ZEpwRHdiTUczZ3djSHFDaEQ3VVJVUHkyZmZVajJWUVh3Q1N4ZkJxbWtQMHhpOW1Rb3pldUw0TE5NaUMwY2FuaGZTMVNqVzZGeHVpYmFROS1nSWt6S2l4Y19yLWxZdU8yOWg3ekdBbm1wbkhJTE9yWWFXZGtvUnUxLU1acjFTUUJ0T2Y1ZGpndHlybDFsTU1XcU4w?oc=5",
-"src": "Reuters",
-"title": "Zillow to pay $212.5 million to settle class action over failed real estate venture",
-"ts": 1793228575.0
 },
 {
 "lang": "en",
@@ -3555,6 +3492,13 @@
 "src": "France 24",
 "title": "Collision tragique en Espagne : tristesse et indignation dans tout le pays",
 "ts": 1793357715.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xSVNBU3FpLTA2cXF4M0Q1QUVtYUpvamNjZXE5dlBYcDlfX2dzU0N0Q0pVSDBhSHU2N3VmVDlfQ2FHSC0zdlRIOVYxMkJvb3RPX0Y4a0ctRlZTU2RydDNCUFVkZ0JoeXR6b2c?oc=5",
+"src": "CNN",
+"title": "Hennessy, horses and huge money: Inside the most important horse auction in the world",
+"ts": 1793356215.0
 }
 ],
 "seen": {
@@ -3904,6 +3848,7 @@
 "CNN|CBMiaEFVX3lxTFBCc29GR2llYUtRd2poMzVmRmRWTGxDbUw0Zm9ObndGYS1TTTQ2b3VTYklnTjY5UHJYUHZJX1VFMHE1dXdIc0hOemhZVGJLRDNVUmdtRmZDVTdmb2tSTVgxbUpMN2M2OFlj": 1793277932.5154068,
 "CNN|CBMiaEFVX3lxTFBJbnVRY0dPaE1zazl4NUxxRFV6Q1JmU1ZvT2RQcHZ4dnZiUzJ3X1pIQUttYzZkdUVsNlRVQnZTbXg5NmRRcUZoOEZpSWhJVVB6MHhWU3cxdmlvSWo4R21lOTJyZ3l3Ny1B": 1792912921.1568482,
 "CNN|CBMiaEFVX3lxTFBUWU9uRDlvYWFaNHA0ZEdRQzMwVTh1WTFFNFhCa0dWUGg5TDlOYTlxMWg5cnhPWkZTNHRCdUpnR2o5X2E0a1RfdDcyZ1NZVll0YlVvNmxUWGtSNlhvUzkxRmJNUXJ1ZWdF": 1793196040.685963,
+"CNN|CBMiakFVX3lxTE0xSVNBU3FpLTA2cXF4M0Q1QUVtYUpvamNjZXE5dlBYcDlfX2dzU0N0Q0pVSDBhSHU2N3VmVDlfQ2FHSC0zdlRIOVYxMkJvb3RPX0Y4a0ctRlZTU2RydDNCUFVkZ0JoeXR6b2c": 1793358929.4003494,
 "CNN|CBMiakFVX3lxTE0zb292SV9QRDFWb0NQNnBWQndITmVJWjl4Wm1KWHFDeUdia081YjgxY3hIbFRuNW5RdXY2X1ZON18zZGZYd0FFTklDb2tZaW04ME5WUTU3Sks1RVhlSW9TdXJrbkhua1NUVUE": 1792985432.7294014,
 "CNN|CBMiakFVX3lxTE1BSFoxMFpaUC1qSGZvZWNtZkIxRDd4Z0NIQTJqOUJjZGlvOC1ub3dvMmhCT1pRaWVfYkU3TVZWb3ZyNjdQNFRNMDhKd1BVeHE0RzlneGNFWW5oVDN2eF9uck1wRmNVY3lTYmc": 1793051125.8484197,
 "CNN|CBMiakFVX3lxTE1PYlE4UkJKVjYxQ2Y4ekhjVWRpcHV4ZXM0cXB3RWZiRko5MUVBaFRKWGQ0ZlNTRkhlRVZiSXBsVmJ1cHQ4RVNuZ2U3bmN5QUZNNVhlejliVVZvaU5vWHdjSG5nSXBzYm1YX3c": 1792912921.1568482,
