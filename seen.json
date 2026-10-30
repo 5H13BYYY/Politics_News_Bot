@@ -9,45 +9,10 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/idees/article/2026/10/28/la-lettre-ouverte-de-l-ecrivain-jonathan-littell-a-emmanuel-macron-taper-jusqu-a-ce-que-le-peuple-se-taise-voila-votre-reponse-tout-au-long-de-vos-deux-mandats_6801615_3232.html",
-"src": "Le Monde Politique",
-"title": "La lettre ouverte de l’écrivain Jonathan Littell à Emmanuel Macron : « Taper jusqu’à ce que le peuple se taise, voilà votre réponse, tout au long de vos deux mandats »",
-"ts": 1793206866.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261028-attentat-trappes-il-y-a-continuite-entre-discours-haine-actes-racisme-extreme-droite-rn-reconquete-le-pen-zemmour",
-"src": "France 24",
-"title": "Attentat de Trappes : \"Il y a une continuité entre les discours de haine et les actes\"",
-"ts": 1793206996.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnNfSTAxTUwwSnM3TE5zN3Qtc3FZOVRRQm5LTlRxbkh5Z0tvNWcyYUo1SUIzUEJ4RDQ5SjItcHdaSHpqVmVRSUV6WWRydFRMLXkwZW9nUkpHY3RZclZqY3V6eWRMOEt1UEU1YTFjeHlnazdydEVvY1VVci1EYVhFT1VTeFRzdw?oc=5",
-"src": "CNN",
-"title": "Election Day storm could impact voter turnout in key midterm states",
-"ts": 1793206871.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlBfbXV3OGlSdDZTUTVyRzdDLTdBYVJRdUtIcUtfd0lOa3VlX0l4YnRnb1JycWZPMWdzUHUtS2l5bDZHVjAyRVV2NkkyLU1qaHBsaFhtc19CbERWUkRtY1J4MHQ0UE5RZmpObV90Q2hBT0xEVWFmZ3Fkems2aEJDaWxXWnUxNzRuWWg3S3hta2owR01wYXduMWQ1ZmhwZFY5?oc=5",
-"src": "Reuters",
-"title": "Explainer: What's at stake for Trump in Israel's deadlocked election?",
-"ts": 1793207708.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/28/apres-l-attentat-raciste-de-trappes-lfi-et-emmanuel-gregoire-mettent-en-garde-contre-des-manifestations-liees-a-l-extreme-droite-prevues-ce-week-end_6801620_823448.html",
 "src": "Le Monde Politique",
 "title": "Après l’attentat raciste de Trappes, LFI et Emmanuel Grégoire mettent en garde contre des manifestations liées à l’extrême droite prévues ce week-end",
 "ts": 1793208107.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMElkbllBVWQ4V1k5TGpMQ2wxSTJQaDRVSjdicW5oRHFMblZPNW9BX3p2M05zN0w0cUd3YTRLR01qbDlVV3FTUlNnMTFlMnlIRXItakRsS01iVHNHTWszM0FkaHdDcmhRUkpjTkd3eno5R2hLUlBjLWthb2tkeGtuejRhYlg4dGRXNFBiZE45MU9kdw?oc=5",
-"src": "Reuters",
-"title": "- Reuters",
-"ts": 1793207527.0
 },
 {
 "lang": "en",
@@ -678,13 +643,6 @@
 "src": "CNN",
 "title": "A ‘generational defense opportunity’: Hegseth offers full-throated endorsement of Trump’s arch amid legal battle",
 "ts": 1793225756.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR28taWpnNW9HZG0wV0NXUWk5cW4wTGdUcE5Fd2EzRHlXVWFfVHd1SXdrbkhEdXlVQWQ1bUI2cmlOUXRMaXo1dUYwQ0JZUzZ6ZGhic3NXTWRiQTZ3VVZUZ2NVeE4zTDdqdnI1dUlhRGU5YlZQSUJZcHRuX2hoN3VTRnVWNnJ3cnZIVW9ieHlWNmxmWkpFZGRtZFhuZlBxVHREd19hUG83MVN4TEU?oc=5",
-"src": "Reuters",
-"title": "Russell Brand says friends abandoned him after 'devastating' sex crime allegations",
-"ts": 1793207019.0
 },
 {
 "lang": "en",
@@ -3744,6 +3702,13 @@
 "src": "Le Monde Politique",
 "title": "A Charleville-Mézières, loin des scènes de pillage : « On a vu les fractures se multiplier au fil du temps, des peurs monter sans jamais redescendre »",
 "ts": 1793335507.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzM3EtRmJMQWNiU0JCMnNiWVdSRWdYTUFodDY5azNGWUJYaEo4UVFUVlVpeGFHekN2cEpIbUJjcENra0FnTXZpSENnTmFycE9mMHhiZHNzTnNXSnRaSl9kYkJjWW5VTmhJNTh3NUlBMlhLOTk3OGFMRjJ3?oc=5",
+"src": "Reuters",
+"title": "Madrid residents donate blood for train crash victims",
+"ts": 1793333697.0
 }
 ],
 "seen": {
@@ -4053,6 +4018,7 @@
 "CNN|CBMiZEFVX3lxTE9GYVZDLXY5Y09xMnFYTWtOMkNFdXI1WnZKaVhxeHZxTEcwb1U5LXhMWUpqVXZHbzlnc3JxVEFSd0g2Q0NaOFowand3NHpGMXN3SnRqTV9fTmk1TnBpdDhMb1ptZGU": 1792912921.1568482,
 "CNN|CBMiZkFVX3lxTE01Z2J0MUxDUnNqM1kyMkg5X2FGZmp1cVhGWG04MFJTUkxPZ09BdGkwNWwyOEhCd3FxUlZYRFNNQnN2V2VNNkxEYlZfZ1pGZVhEUFdrdUlRRjVhNVBJZUptOGJrVloyZw": 1792946894.72391,
 "CNN|CBMiZkFVX3lxTE0ycWVLQ09PdU9KMUZJRWk5dlJrWVA4NjByLTZDOFVDMHFDUmxaSHJ2VHNSRFVlSV9yYkQ5TTI1VmV3T2p1d0V5aXNZcm94YnlfMUk4UmtqX0NfNzBjQURMYms0UUZDZw": 1793160045.455372,
+"CNN|CBMiZkFVX3lxTE4wUkdrU1FnT1RnYjE5NXZZSnNwZ29nYThnWmRQWG9lRzh4RTJuYVFObUR2LVNsQmVJX3BJTEVWX21zSk1rU0t3VzZrb0YtaDE2S1JaZGhJNTM4UTB6RkszVXNSSVFWUQ": 1793337324.7022479,
 "CNN|CBMiZkFVX3lxTE5Oc2lucUxqWnRRemJvb045LUlTUHdoaDU0OGg1aU5QLWN1anVnUWMzZ3BPUGZQYzNoNERJZ0Q2QktuenZyYkVocjRjZXVKZ0cxdDRsUHZpa09IZW1FREVjaUc2QWxfZw": 1793105126.5123024,
 "CNN|CBMiZkFVX3lxTE5PSUhiQjJnd2dId1RobkFlXzVsUmVKZVJEQk54VTAwSTA2SjRUbVNwTDhkdm1maWN5VU81cEktQVV2bGhqVjg4R1BudlFWdHlZemhtdUVKWkpZNDJhcklWUmFGY1BWQQ": 1792930525.0455637,
 "CNN|CBMiZkFVX3lxTE9TTUMzZ3kyQXlPLXRDU0hPQjlUZU9XWVhtZkhwMlBkSVRMOWVHU3MzcF8yUWJYTXc1LUdiQnZNc2ZGOWNibGt0SjBHRXBhbURnQkFOWEk1aDdIaDJhZTh5WkQ5M3kwUQ": 1793021434.3883493,
@@ -4136,6 +4102,7 @@
 "CNN|CBMic0FVX3lxTE5mNnpoYVdwVUdhQlNJblAzNGZnZE11Ym5ZNXFJWURVTmF3ZjJfd0RwVUJwRjJhc0hjLVNFNXNTR0NZNmU0RFJwTnBXWjlyemdsYVRzSVVKSmQ3LS01N3FCbmZTNEZ4TE1oMU5hbDN6WFFweWc": 1792998926.4494357,
 "CNN|CBMic0FVX3lxTE8tcjBpTlUwYzNGX0IyZl9zYTJGUnQ3a3p3azZZU0NQUDRVOVEwTVk0TzlrYlRFYjVEVzV0aFRGX0JlWl9tdW96NUF5ejNUZU00VENSZ2JNck1rekRZZU05SXh4MUNCSHNwQ2ZBRGxHQk9RdG8": 1793247326.4928353,
 "CNN|CBMic0FVX3lxTE9EbVhvTHVjWlFiSFljMGZVNWx0dEF3eXdocFoxYjFnSzVFTG1iZF81dGRyOEY4cF9YeW00YllHOU1EOS1FVnQtMVJReUREQ2pmMi1UV0c2WDJya0RlN1pwOFFGQWJIaklDX0J3YXY5SkdVMjA": 1792925608.8006206,
+"CNN|CBMic0FVX3lxTE9UZHFVajVqLVFXT2s2aWxkN1VRMmZnY3VJZU9LS2Z3ZjJONU11SEEzaWMxMzQtLU85U0F1a0gyM3FKYU9qZ3hPWUhtUld5MEtMczBJUjdaR1JLSGd5eTdMbTJKaXZMWnNnYjNSV3R4ZlhOWXc": 1793337324.7022479,
 "CNN|CBMic0FVX3lxTE9iemZ4MjlsX0gxNTlDUVNrci0wNkhYWXNHZXJLQWF4b1VWVklMTXZWU19wVGpRcnJ2WVZPV3E2bDNpTXBsWS1WYUpSS21jQnJpc3RObnIxSlFKTEFSOElkS1RIcWZJcmpleHVGMlNfblAtZGs": 1793221242.5759828,
 "CNN|CBMic0FVX3lxTE9zZ0VJTHBFLWc0UzZzcWVMaEI2WXVwek9TVVl3ZUZoRGNvbkJqMFBWdmdRRFdpZ196cmlkZU85X3NmbFhNOGFaMENaQ2d6SEczdW8tbU1YMFBTVzlpTVh3alZKTmFZbjh2QmJJOUtnaUFSZTA": 1793105126.5123024,
 "CNN|CBMic0FVX3lxTFA5a2U0NHdibjZYRVM2TGh0U1FxbW1rZ1h1bWdmT2VoTnp0SmhyYWEwTlFlenN6R05aX09MdldFV2dBRHNhbVdEbTVJWmtaUW5ub2RIQnBNUExEc1Q3RVIwZHpwaVZVbUdIdm1xbHd6OERXYms": 1792965640.5462003,
@@ -5744,6 +5711,7 @@
 "Reuters|CBMiekFVX3lxTE9yQXczRVJFZHQ0M3lSaVp5MVpXX1IxdWF6SzV0TmFDb2FqZmtrZzVDQ3hWbkNYOHZXODlJRDBCTno4bmY2eUVRZDlzaXY4RDRrUU1jVnkwZUZZZ0F6QXhwTV9WS0daRnZWM19YUGFuMm1pcVBabmVqd2Zn": 1793083526.8981297,
 "Reuters|CBMiekFVX3lxTFA4bV9LMG5YeUgzdEJPWFIxdFk3bldOSnFrdE5mVVdYbHpQV2d3OUR5aVpQcVZsRXhOYjZGWEZhbXFQbEY1SjBKSXFqYlZUWVJ6SzBMczBfTm1VVGlNSGJxM3VhTnpoTVc3S21nSEpfZUpDYWg0eWFZZHFn": 1793298636.3125336,
 "Reuters|CBMiekFVX3lxTFAxb29qaWtOajJ1SWt4bTdTQWRRbnNDS2hxbko3UFhPeEFQREE1UktJQU54bjJ4bm1QS01mX1MyNi1QcnNQbjdXZ2xvSHczMFNuZzdJcWV4TTFRSEdVS09SZjlpQmhSYUFrOThUQ0RZLTVBTFRweUlNY2Vn": 1793306727.6227753,
+"Reuters|CBMiekFVX3lxTFAzM3EtRmJMQWNiU0JCMnNiWVdSRWdYTUFodDY5azNGWUJYaEo4UVFUVlVpeGFHekN2cEpIbUJjcENra0FnTXZpSENnTmFycE9mMHhiZHNzTnNXSnRaSl9kYkJjWW5VTmhJNTh3NUlBMlhLOTk3OGFMRjJ3": 1793337324.7022479,
 "Reuters|CBMiekFVX3lxTFB2MHJhX28wTGtTelZRLUZlcVJocWVZSWxranJPSEIwcWJJSHpVeXZWNFdMclRJVkthRDVIekw1Uk9MTGRyTkNEYjRoQ1F3VXBlMkxpbkZRejQ4RVhIVE1xS2FQOWRYcXViVnZvTk1UYXhKSG5vQTgzZzFB": 1793219434.8698084,
 "Reuters|CBMiekFVX3lxTFB4cEFYT3VPWm5OZk9XWTFhNmtpSmlrTlJqaDF5NXNQV3ZwV0luUDFCcldlWjNUMUdCaXR4bWZpa0ZSRTRjaEVxWGg0RlRrU2xSaG80VVpUOWZ6V1JqRXp6MElWbmttTVhpVXVKdllpb2lpaGoxODRuN2VR": 1793097929.898054,
 "Reuters|CBMiekFVX3lxTFB5Z0dlMjctZDFUNG9lQzQwaHlQdUhvbFNIbWxuV2VDaUo1X2pJcUN3VE12TTZBUXBFdzE0Qm5OV0NPbUs5MGZQZ0hLa1llZ016SFdDZVU2YXhRS3FfMHpHUklyckRWdFFla1FBQVdpemNQd2FLanA1VWRR": 1793203249.0614064,
