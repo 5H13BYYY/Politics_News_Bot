@@ -8,34 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-"src": "Reuters",
-"title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-"ts": 1793214503.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc?oc=5",
-"src": "Reuters",
-"title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
-"ts": 1793214136.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261028-guin%C3%A9e-mamady-doumbouya-nouveau-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-de-football",
-"src": "France 24",
-"title": "Guinée : Mamady Doumbouya, nouveau président de la Fédération de football",
-"ts": 1793214173.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXIwdTVTX1BsNlRRa3Y3WTRpd25TM2thZlR4N2hUMFpJY1hvazJQejM0T0FtdTBSQUhVTHNFOVZIMVlNLWRjLV96allLZ3pTNE5SS1pZQmpLYm1mOTJ5bmRrWVRnSVhWTEpnY3BBSnB0WUt2UUFadmtJZUNrOF9zdkg3ZFc2c3JFN1lXZQ?oc=5",
-"src": "CNN",
-"title": "Turek brushes off concerns transgender ad will upset the left",
-"ts": 1793214396.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans",
 "src": "France 24",
@@ -83,13 +55,6 @@
 "src": "CNN",
 "title": "Netanyahu is the ultimate survivor. But can he survive this time?",
 "ts": 1793217806.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmV3RDU2M0FDYzd4bkhDVTVfWWVVQmNWSG93dmpXNjhkdjFGUDhCYWF1RzRoUkhjTnVqUWEwNmVVeWZWakJJZmt1RkU3QW1ZbXNOXzd1dTJBNXRYaUJob1BleGdhVjc5T0o1a0psMnhUYmQ0UF94SUVDZDhTVmJFWkEwUDJRX0duaEt6ZFItZHVJbkJFYWp0a1RHMUJDaktFcDhsbHFZUVUtTlpQak9HUDVlRTBPRk1WNmhN?oc=5",
-"src": "CNN",
-"title": "Turek brushes off concerns transgender ad will upset the left",
-"ts": 1793214396.0
 },
 {
 "lang": "en",
@@ -167,13 +132,6 @@
 "src": "Reuters",
 "title": "Leak website releases data on tens of thousands of DHS employees",
 "ts": 1793218863.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5",
-"src": "Reuters",
-"title": "Anthropic tells California governor courts should be able to block risky AI models",
-"ts": 1793214262.0
 },
 {
 "lang": "en",
@@ -3562,6 +3520,27 @@
 "src": "Reuters",
 "title": "Forest Green Rovers turn to houseplants to improve performance",
 "ts": 1793339498.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzlMZVQzYmtkbHlnOHhzUVNGUWRZd0VBeUhTQkpZYzVRYmliVTF5VDVZVl9ZRGk4V1pzODNzNmtvVDgtYjAyei02TjY5MldLX01xWEpWUW5Sb0htSnY1cDBNbm9GQ2JNcmY5a0ZJVk5nNG83TDE1QmM0dUpOWHh3OGF5U3A3NXh4M3ZYbXRRdUZmb0ZmSmttMUdWTzJEWTBoZTEzNnh3?oc=5",
+"src": "Reuters",
+"title": "- Reuters",
+"ts": 1793337876.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/10/30/mobilisations-sociales-le-mois-d-octobre-restera-comme-la-repetition-generale-du-choc-autoritaire-que-nous-redoutons-pour-2027_6802907_3232.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : « Le mois d’octobre restera comme la répétition générale du choc autoritaire que nous redoutons pour 2027 »",
+"ts": 1793343608.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/campus/article/2026/10/30/j-ai-vite-compris-qu-il-fallait-s-armer-intellectuellement-pour-ne-pas-etre-decredibilise-le-mouvement-lyceen-vecteur-de-politisation-acceleree_6802908_4401467.html",
+"src": "Le Monde Politique",
+"title": "« J’ai vite compris qu’il fallait s’armer intellectuellement pour ne pas être décrédibilisé » : le mouvement lycéen, vecteur de politisation accélérée",
+"ts": 1793343612.0
 }
 ],
 "seen": {
@@ -5134,6 +5113,7 @@
 "France 24|ffa02bb8-d233-11f1-8d31-bfc6bd0ccdec": 1793126729.8237443,
 "Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html": 1793266235.552444,
 "Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/29/vote-des-mineurs-on-dit-que-le-suffrage-est-universel-sans-se-rendre-compte-que-cela-propulse-les-enfants-aux-confins-de-l-univers_6802087_4401467.html": 1793250926.0898464,
+"Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/30/j-ai-vite-compris-qu-il-fallait-s-armer-intellectuellement-pour-ne-pas-etre-decredibilise-le-mouvement-lyceen-vecteur-de-politisation-acceleree_6802908_4401467.html": 1793344527.2852259,
 "Le Monde Politique|https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html": 1793019644.3332078,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html": 1792989924.9740305,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html": 1793128528.0402112,
@@ -5165,6 +5145,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/28/la-lettre-ouverte-de-l-ecrivain-jonathan-littell-a-emmanuel-macron-taper-jusqu-a-ce-que-le-peuple-se-taise-voila-votre-reponse-tout-au-long-de-vos-deux-mandats_6801615_3232.html": 1793207729.6428788,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/29/crises-sociales-il-est-temps-de-rompre-avec-la-verticalite-erigee-en-principe-de-gouvernement_6802329_3232.html": 1793278839.5575335,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html": 1793333726.6988363,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/30/mobilisations-sociales-le-mois-d-octobre-restera-comme-la-repetition-generale-du-choc-autoritaire-que-nous-redoutons-pour-2027_6802907_3232.html": 1793344527.2852259,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html": 1793065523.9823225,
@@ -5837,6 +5818,7 @@
 "Reuters|CBMipgFBVV95cUxOSHYwckZlc1FHWHRfRTVLN2V3a0hqb2RtSTJhR1dTTWJtZ21RcThwUDEwRVdnRm8wa1VhX1lsc0IyRzNYRW9iYzlUTjg4ZjJxY0tLTzVyRFBteHBEa0FUYWRkM1l3eVF6cXlhbXlvd25DX1l3WmVpNmk2VnBaWWw0bDZpcGFwUDBkMW9sLVQ4c0YtWmY4Q01vZmwyTk1oRUZBSHBEX2hR": 1793244634.3159676,
 "Reuters|CBMipgFBVV95cUxOYmM0NWVqSXJ6b2JIQ0xtMGJucUdzdENKalhHSEhSNUtXUFcybzREU0MtS2tYMEJNRHhSQi1BbTdMLUlDZjQtUzJjTEJ0Z0lwVURNYjgteGRxU2FjNFh3WW1ib2U1cEtHeVk3cmhSMTE2UXE0SXNSWHBHaWxoWXpUMGZPSlJLcEFkUHAtYlViZ3FpakFDWUJIT05UU3QtYWlCbnYwUG1n": 1793227530.4269037,
 "Reuters|CBMipgFBVV95cUxOZWI3WVB4MnRkUWhZenBmcGdoODF6ZzBYY1JCV0V1MU1xNGRXclAzc1dSMkU5aHRGdXRDeU0yeE9XNGo2RUt5b1h4TmNLYkxWRXE1Yjc1UG1BQjV0NTM0bTBhOUNwTkJBRXhmd0N5Zl9BR3BwNmtpSmh2QmhGLV9KWDRxVkU4b2dOU3lfV2NuQ1FiYjFuZ3FFS1JmMmhrei1MalRVT3V3": 1793101527.3223946,
+"Reuters|CBMipgFBVV95cUxObzlMZVQzYmtkbHlnOHhzUVNGUWRZd0VBeUhTQkpZYzVRYmliVTF5VDVZVl9ZRGk4V1pzODNzNmtvVDgtYjAyei02TjY5MldLX01xWEpWUW5Sb0htSnY1cDBNbm9GQ2JNcmY5a0ZJVk5nNG83TDE1QmM0dUpOWHh3OGF5U3A3NXh4M3ZYbXRRdUZmb0ZmSmttMUdWTzJEWTBoZTEzNnh3": 1793344527.2852259,
 "Reuters|CBMipgFBVV95cUxPQUotTWYwZ25zZmVFb1AzaEdoaEFPcnFISXFRVi1nWjBQZ3FMc3VOajN5Sy1ZWFkwbFdJajBBSVhYb0liVkotZHN6QmNzZ1B2MFJKYjc0VTZMZXFVWTBKR1FuQjRUdi1NWFF5QUM2QW5GX1pfb1dGeWgtRWN1MUQxc3IzWHBZVl9xN0IwRGE3QXd2anNrODBxMDhzWTJBQThQMUhuQktR": 1793034009.146361,
 "Reuters|CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB": 1793212237.8266294,
 "Reuters|CBMipgFBVV95cUxPdUNGUW5tbnZDMW55VkkxZXBQYkF3a1dOQmw2Unk3MGVVRWlsdWttLVRWTmNkWVpERlVPZVNpeGhPMlJCYWdWczhlQjN0SHc3czRuaVNOQVBGZlV4aGZycFE4S1hlUGRXSkROWmVNYU0waG44cHNiaDM1MjdiVjQyVV9FRmdBeW1WVmREXzl3QVFDUlRXczd3NmYwWjVIeld6RXpIVkZ3": 1793024129.9475675,
