@@ -261,13 +261,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aU3ptejJzYnZUak01eEhoclJrM1FJUUVIUjJUb0FyTGJZTGhjR0pkb1VuYlB3eXhnN2tBUXFNbmp3S2xtRUN1Mmtpd19NdDU5WkRlWUJ4bkRGdlp3aUNfNGxRNTZENW5VQUQxQTMtRENoXzE1MG13eXNPaVo3cXc?oc=5",
-"src": "Reuters",
-"title": "Morning Bid: In the AI alphabet, cash is king",
-"ts": 1793251920.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVc5YXVLWExOY09icEczOTNNbnZFYTNCSVRiMzV0d3NZeWFYZ3c3R3huOW45UUhCb2x0a1hZaWFtRDM1NERYMkxjVEE5M1owSzdrMDdPRzBYYmdEWTZnSF84Q3pYRUdxVFhvSDlDaE9vWVdHbTc4dTJ5WnE4VUVFenhmUnlxMzBNbHFWeFY0RmlKYnI3a2EwWE9PeDJvb0s5MURsOVhhZ2xlWmF1emlMODdIbWwtazNTamdDX1FXY21PVUJsSEVDUU54azFxMlU?oc=5",
 "src": "Reuters",
 "title": "China condemns US move to add Chinese medical equipment firms to Uyghur forced labour list",
@@ -3870,6 +3863,48 @@
 "src": "France 24",
 "title": "MAGA : pourquoi le camp de Trump se fracture",
 "ts": 1793381121.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTZ0Q2t4V1c1SG5UYXREUFktejZ1TVBmV214MVNqYlM1VkZDUUc0VHBPUnlpTktHRW43N3lYc3Nua2V2SDF3MTdmVEV6alVoS1hlcGZZQTZid0hIbjRsdjlsd3p0SkdGeGRJZWxaYzhzZ1dlUE1YZGVJMUhScGFVWGNB?oc=5",
+"src": "CNN",
+"title": "Pregnant women in Yemen forced to give birth with no medical help",
+"ts": 1793375400.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2loWk9nZ1F0TW55VEE5WVVTeG1JMnpSS3hSMmNNTHZjb2luWWJLOGZ0dXIzR2JkOWNUX0k0eGhxV3JqOU9Za0FpNkM4eXJndmduMUtIanZDSkVkWkJrQ0xGLTk5YzZXcmJqTmZqR0ktT3hYaHRab2tWV2F3ckdrb1ZTRWV6Z0U?oc=5",
+"src": "CNN",
+"title": "Spain train crash honeymoon survivors",
+"ts": 1793377200.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Id2dqdTFtRHFsUTBWakI3X0J1NkZoaVBGUHFKcU9FZUYxaFAtMm1WVmVSSTdOTTZwWmtId0x4V1h2bVlIeGNfQ3puRUtQMHdvT0swMHljQzZsNmlz?oc=5",
+"src": "Reuters",
+"title": "Johnny Depp and Amber Heard arrive for final day of case",
+"ts": 1793378342.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+"ts": 1793381120.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Treasury accepts role in staff member's death",
+"ts": 1793381200.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html",
+"src": "Le Monde Politique",
+"title": "Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible",
+"ts": 1793381404.0
 }
 ],
 "seen": {
@@ -3883,6 +3918,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c3n04yxn2yqro#1": 1793087126.2328327,
 "BBC|https://www.bbc.co.uk/news/articles/c5rmy84np001o#0": 1793087126.2328327,
 "BBC|https://www.bbc.co.uk/news/articles/c5rmy84np001o#1": 1793181641.4084585,
+"BBC|https://www.bbc.co.uk/news/articles/c620r2vg355ro#1": 1793382325.3549972,
 "BBC|https://www.bbc.co.uk/news/articles/c63r5779vyl9o#1": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c63reg9dnex9o#2": 1792912031.9234908,
 "BBC|https://www.bbc.co.uk/news/articles/c65yn9p55np2o#0": 1792912031.9234908,
@@ -3946,6 +3982,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#1": 1793287834.339659,
 "BBC|https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#3": 1793206843.939874,
 "BBC|https://www.bbc.co.uk/news/articles/cm8xzw8zgdedo#0": 1793362527.3143797,
+"BBC|https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1": 1793382325.3549972,
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#0": 1793125835.223307,
 "BBC|https://www.bbc.co.uk/news/articles/cme36gez2d3qo#1": 1793181641.4084585,
 "BBC|https://www.bbc.co.uk/news/articles/cmg4706xkp35o#0": 1793379643.6981492,
@@ -4527,6 +4564,7 @@
 "CNN|CBMigAFBVV95cUxQbzFqR2Q5bms0bzV0a0hMZmp0dGxobXJmMG85S1JDUjNxa256N0dKd2dUeEhyVkdOQmEwUTR5ai1nRTcwWHE3ZG1nWHZwSU1FQ2xVZXVWUXVPUVlIMnBMVTYxZ2pVSTFvcWxDOHdaT1hFUVlIOVBYaTAtNEljdVBYcA": 1793131238.1148856,
 "CNN|CBMigAFBVV95cUxQd1NWUmZCbTMzNGtaTkgxVlo5NFhJakRCVV9zNWZrcFFDeGwyVUdUcHZHTldxOHdrc0pFWGN5emZBcGp5VGpKeXFCajlUSlhiV3pMVnBOc3hMMEZWanVVOVJxMEZvLVNyWnl6TUhOMlhDNy1PbmxVVmx6dlRRRHNDSA": 1793318445.8265395,
 "CNN|CBMiggFBVV95cUxNRGxnLXRjOEZLNWVOU1pwNGE5SHN4Y0dwd1E0aUpvcXZlVHJ1c0toRmZ6LWNWcnZtcXc2cHFsSkIxUmJIVERxLXM2aW1TdENpNGVRWDk3Y1hYMlk4dDJTay1scXYtbmtQTjJMVVd1Zk1seDJ4YWVlTkxlUElkWXNEVVBB": 1793048443.460441,
+"CNN|CBMiggFBVV95cUxNRTZ0Q2t4V1c1SG5UYXREUFktejZ1TVBmV214MVNqYlM1VkZDUUc0VHBPUnlpTktHRW43N3lYc3Nua2V2SDF3MTdmVEV6alVoS1hlcGZZQTZid0hIbjRsdjlsd3p0SkdGeGRJZWxaYzhzZ1dlUE1YZGVJMUhScGFVWGNB": 1793382325.3549972,
 "CNN|CBMiggFBVV95cUxNSU51WEo0YXk0LTBlbDR2QW1GNklPWDJhWkpfQWJiLWFVLXlscXpLQS14SDh1Ti1GaWQ5WHRTT2gxV2RzZU5BTThuWVhHbVo2ZTZpVV82RHVITi1ocDNzaHg1SkpLZGRLVXdkbUZGVkJEVXlFeGh0T19GdG0xZW43cTNR": 1792912921.1568482,
 "CNN|CBMiggFBVV95cUxNTG9HczhVdHkySTNDSG9zV3Mzc2ZYWXhtaXdKcTgyRDhCMllOcDBHZUh3OGU4RkpOTWc0ZmgxcDI4c1haMndHNjJtMXFHN3FRYlBIM3ZBczItTVNoV01HUGlEVnFrQlYzdmozdVVEZUt2NndHSWlGUno5aE42cEV4eUN3": 1792937725.1038725,
 "CNN|CBMiggFBVV95cUxNUW5PR3RZejJnRXM0b3FXN1FESXhkRUNoRWo4Z2tUZlhFY1B3TXNPWTZ1OG9aNkh4NWs5LWFUU3FUc1ZaLXhxb2d6Yjd5a2xJYkUxeURpUjBwZ083UVZURm51aGQyeThxaXB1aWxObUVBVnhpeFBTZlY2cnBWeFJfLUdR": 1793273432.8183353,
@@ -4609,6 +4647,7 @@
 "CNN|CBMihgFBVV95cUxQZEtoRk9WWk5vNENWYWIyRkRIcjdhdk1KSUpQQmE3cEM0cjhuaWg1ZTNnM1RKa2lvWEFjUnFVUTh0eGVvVGhXNDBtaGZDbUcwSUhjQ1RaYkxsX195YkJtRS1ZLWlTX00temx3N1RKZlUwT1Z2Q3laZ18wM2FPZTQ5RlhIWDJLdw": 1793290525.2920587,
 "CNN|CBMihgJBVV95cUxQX3hUUF8zQ3dkZllvSS1ER05uMU5DNUlIbmNYNXg1dG5hM1YyN3Q0TzNWWjFwUWZtY0VNblg4dmQtRE1MSEs1MldSVHBQYW1QWndBZHQzbnktc2s1MjQ4ZndtTU50RzhUcFF5NzVVM1BHd01TV29mRFVJYmI1YWZuYWNXeWszcFVsSjRUSWtPdXMwSlpacDEtQWFyY1N2M2hjWWUyTnppY2k5d2FEdWJhNXlJQWIzeXRZdmgtdXhvRG5ZME9WWXp0alExT1AxdGFaWldVR3RJTVp1NmpLTU4yRzJodnZ1WVlYSVlXZzZ5OWxORzhQbDgycE84YzczRHYxT0cta2RR": 1793375126.1995485,
 "CNN|CBMihwFBVV95cUxNQjE5ZEVPX0FkZTdEbUtabi1sc1plMWlIWWZ0bV80MUxKTlNhUGlDQ0Qwb2NrT2VCTXNXLXFJVWlTLS1YU011QTgxTW51RVhlczJHemNMeGt4WjdVeEFrcDduZVhrcV91YzNJcG9RbEdrQ0ttdjlTTG1nVUs5QTMzV000Sm5aYms": 1793101527.3223946,
+"CNN|CBMihwFBVV95cUxNT2loWk9nZ1F0TW55VEE5WVVTeG1JMnpSS3hSMmNNTHZjb2luWWJLOGZ0dXIzR2JkOWNUX0k0eGhxV3JqOU9Za0FpNkM4eXJndmduMUtIanZDSkVkWkJrQ0xGLTk5YzZXcmJqTmZqR0ktT3hYaHRab2tWV2F3ckdrb1ZTRWV6Z0U": 1793382325.3549972,
 "CNN|CBMihwFBVV95cUxNTHBzYlJmSlkxc1JBVThONDZYN3FyNDY4bzFPZ2ktUUpZRjhrQkEwWkpIb1l3eTNHSERrWmZKSEFpY2N4UGRSVkpkWVUtblo3MUdlTm5vaERfUGtHTkFqak9CVXd5YWJpMTBMZjhJc0pQQnZxTExEQzZwa3Q3MFk2WFludk5oSmc": 1793194237.7530143,
 "CNN|CBMihwFBVV95cUxNYk1FZnYxUFpFSWNxbEwzN2xkVWhFNUlYZnRSTVdFRFBDbTlXdlZ5amZVUEJDWktNSlJ1cjFUZGQ0UTZzVUFKWlkweGJEVUZteExKVG1GS3hsVnBid25jRVU1cVZaQ1UzaXBqc3Q5bzBfdW5qMTQ5TFF1MjZZcnRQb3NPLURGU2M": 1793270725.68037,
 "CNN|CBMihwFBVV95cUxNbUhCdnhQNDE5LWxxbjJ5Ulh0UmxLSW54VnFsNFRDTFJXRVhkMnV3eWNXRklFS3c5bjRqMEcwbDJUbUczaUZMUWtfdF81dDdqbDRvOWFYSF9tRlY3UXFFcEQ2bnJzd3BxajJndG1KSW85UjVlWENKYTljOGxKb1dDclZHd05BZHM": 1792971928.0190003,
@@ -4939,6 +4978,7 @@
 "CNN|CBMingFBVV95cUxOZEx5MFctVkNTQl9NWWhFNkkwN01QT1JNanpkN2RZdmVPTWNOS3FETExmUUFMRzZXM3hFUDJ4N3h3TWo0aXUwOW5OR3NqLTR2QzVEbkp2NDNKYTdNbGpUcjRDR2lSSV8zYmtYQkFNVTZKb1dTX3U2M3doajZSY3EzQ0daS1pYbmtTc3FHcTRUUG1qdjFsTlhzQ19PZ3hidw": 1793305832.1628714,
 "CNN|CBMingFBVV95cUxOZVZsaTg2MmYxZ1M2TFFSNUxSWHBTY20zdXJ0NlBSZUtLQlhxNzIzdjBWaUxDbGE5QlNlUnd4bW5ya1ZkQmJJZnJuMUJITnl1bUJtdGpqOTJDaEFkNzMtS1Bxb19WNHZlVXlGaXloaVJQZTBDbGNVdDRaallnempFNG9LNzBpUUxZblo0NEU2aWljOVViYzc5NU9tZUFZZw": 1793214041.915029,
 "CNN|CBMingFBVV95cUxOdFhhMnQ5VkQ2c2FDVnBrWUpqUTJNOGNkcUFHcVh6Y1Zrc3lYODJxaHlqM3NjbUJvb3RuYmRtMkRzcEtVNmdCU1lJbzhma3A4cXZXUmRmSnMyNUNPZFlmTUNxVGlUX3A1QUo1QjhhdUh1YjFfUkZKUEVtTm83M0xQV2NXdC00TzRTQ1V6X1FJZ0dKMTdHdHJoSm1kS2U1UQ": 1793036724.7557373,
+"CNN|CBMingFBVV95cUxPN2FHSGlmamZuQlF5Zng3TTE5WlFMbGdVNjZIbGwyQmVMcERTZmhPN0xWMV8tNHNHTnByQldmX3J0TnRjNTRCVkgydHNKeXJTR21KdHpjUlpIdDFCMWNsNDY0SklNMjY4bjN0Rm1KLUhHMlJVSDc1bnUtbXRjTGJDZVNRRUxraU4tQXhZdTNqLU9BcGpOSnhlVlNpc28tZw": 1793382325.3549972,
 "CNN|CBMingFBVV95cUxPb2RBWlgza2NxamNRcktCTk1mbHlFVUpXdUVpU2tHeUxXQ2ptVFJ0dGswNU9lckJ6TFRGVkIzTk9Sem5uWUgwRlRSbkVUVzRMZ205NUNpSDB4ZU1mTWVzaEhfclBTMUZZWDZodVVwaE1FeWhIQzkzVmpLRS1sUzN6U3lfdmlHMnpxZzVQR00teXdzZFdPb2ZlSVV4ZGprdw": 1793133032.981041,
 "CNN|CBMingFBVV95cUxQVnlzSHdqT3BRVzY5cWZxdlBRWFZHSTNiLTNKNnZuUngzM1dCS0VMbmhlclZwbm5aYk1aTWVUUVE5STI1aC1wQ2FnbkMxenR3NkhlWHJ1M2x0cThzSUZDeWVkUEIzTi0wM0dGY1kwVG8yUV9JVWc3aHpMcTZ2OVJFbjZSbUJfRENnZXVsY3VIVWJTaVpFY1dOSVlFZElwZw": 1793231126.4789531,
 "CNN|CBMingFBVV95cUxQWWNxbVk3eXlmcHVCV0I3dkxJQ2NXRE1wSHRpVmVCbjk4eFBYQ01jTmt4QWc0N1A5T3FkUUlZaGtQUEZmQnRqYlFUWGt2VmFVUTVZWWQ1aXY5b0FOU0dXeWpfX1VTam94MDlYajlBcHdzb1JEMXpqSmpIS3BtekJBdG1KaHhwOW9vemtuYnBobUQ3ZnRuY2lQZVQ0SkNGdw": 1792925608.8006206,
@@ -5733,6 +5773,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-les-deputes-votent-de-nouvelles-taxes-sur-les-grandes-entreprises-et-adoptent-le-pacte-papin_6803105_823448.html": 1793374235.9154475,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/comment-l-extreme-droite-contamine-la-campagne-presidentielle_6803117_823448.html": 1793378725.8865774,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/commission-d-enquete-sur-le-17-octobre-agnes-firmin-le-bodo-deputee-horizons-demissionne-de-son-poste-de-corapporteure_6803084_823448.html": 1793362527.3143797,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html": 1793382325.3549972,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/les-ports-francais-et-europeens-perturbes-par-une-greve-des-dockers_6802917_823448.html": 1793348128.623687,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-24-octobre-apres-les-violences-de-groupuscules-d-extreme-droite-le-ps-demande-des-explications-au-gouvernement_6803118_823448.html": 1793378725.8865774,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-31-octobre-le-port-d-un-masque-d-halloween-dans-les-manifestations-fait-encourir-une-peine-d-emprisonnement-d-un-an-menace-laurent-nunez_6803112_823448.html": 1793376925.3028862,
@@ -5826,6 +5867,7 @@
 "Reuters|CBMiXEFVX3lxTE1uYjBWU1NPZktfdG1sM2tIMDlMcWJudWtxbjBtWUNPQnlBaV9faHdkRHdpYV83eHc3Q2pSbTA0RlpCQ29qYXhYbFQxaGRhV3AxbHVPVkNTU3FSY3VP": 1793330123.9385524,
 "Reuters|CBMiXEFVX3lxTE51UGRoUnBPQUJyeHFfLW5xSm9taGtFWnBHRXZ3emdUTko5d29BZlItSG1DN29la0pwMGk4M3NPdmhQWHoyOXZQYVJtQm5DQXZrenQ0MEZXVFpQQjFX": 1793349924.5690713,
 "Reuters|CBMiXEFVX3lxTE5COC1Wa1ZnRGt6ZDZVQXZDYnVNeEFyOUhDek5KMEk4bkljMVR2bXNrVGViVG1JNm9HMmI4cXE4TUNBd21HTnNPYUs5bVc2a2ZxNHNoSE9IRmN5RUhs": 1793341831.5381763,
+"Reuters|CBMiXEFVX3lxTE5Id2dqdTFtRHFsUTBWakI3X0J1NkZoaVBGUHFKcU9FZUYxaFAtMm1WVmVSSTdOTTZwWmtId0x4V1h2bVlIeGNfQ3puRUtQMHdvT0swMHljQzZsNmlz": 1793382325.3549972,
 "Reuters|CBMiXEFVX3lxTE5KdzJrMzZWUDdieU5pcXBsaHR4cjJZbjF5UDVtUmp3RkFHWXBqTndUWE5rMlNXcThQUWU1TUt5UURFVURRMDZ5bnlabTVTTjJ1ajlZbk5IZlpmOHBs": 1793136635.0121229,
 "Reuters|CBMiXEFVX3lxTE5LdEotcTgzeVM1OVNEY0p3YnVFNUFOMUxzbUxVZjY1XzUxUXMxclRZUF9Pc1NUV1NXZG55SklKTUFzcHA1ajZPOVhWOGRuNldkR2dUSmdvb3NBLXpv": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE5VcDFWMVVkT2lWa2ZFbW01al9zWVpsNU01X2ZwM25TWHIxdTVhQW1IUjVDZWNDbTVxMDVDaUxGRVhiMV9WQ2NXNWlsRFFvc0pYSzdNWkpCaExqMkRN": 1793349924.5690713,
