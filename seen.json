@@ -9,41 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/moyen-orient/20261028-isra%C3%ABl-apr%C3%A8s-30-ans-attente-partis-arabes-enfin-arbitres-jeu-politique",
-"src": "France 24",
-"title": "Israël : après \"30 ans d'attente\", les partis arabes enfin arbitres du jeu politique ?",
-"ts": 1793191546.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261028-br%C3%A9sil-flavio-bolsonaro-en-fuite-apr%C3%A8s-sa-d%C3%A9faite-face-%C3%A0-lula",
-"src": "France 24",
-"title": "Brésil : Flavio Bolsonaro en fuite après sa défaite face à Lula",
-"ts": 1793191916.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "John Healey pays homage to predecessor Rachel Reeves",
-"ts": 1793192242.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckZxYVJiQUM5YkR1VGc0ZkdyZzNKOVBUNEVaMlk4eHlndFM2UU1vQWFpNVNCdDdCWjFxTGU4WS1mZ0pvZ3pGNGl2VXpZeEJiOEtxajl6OTVWOXRab3Bab1lYMFA5VFV5Z3h3S0VKOE84bWp5YmZLWWY1Z1hIeUNZYlRzLTZqUQ?oc=5",
-"src": "CNN",
-"title": "Hundreds of World War I munitions exposed by melting ice removed from Dolomites",
-"ts": 1793192146.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YZzBmYVJRV0tfVVpDWC1sU3JBRlktTDJOVFNmU05TZC01V25rRXhTV2dMU1FXbHl2dDBwRmprdnJsR3BzNGpUS0VZNHBwS3pDVGktRENLZVhKT3J3bzM4R0NJRU50dzZ5Q2c?oc=5",
-"src": "CNN",
-"title": "Who will be the next CNN Hero of the Year? Get to know the Top 5",
-"ts": 1793192228.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/28/budget-2027-les-deputes-rejettent-la-surtaxe-sur-les-grandes-entreprises_6801577_823448.html",
 "src": "Le Monde Politique",
 "title": "Budget 2027 : les députés rejettent la surtaxe sur les grandes entreprises",
@@ -55,13 +20,6 @@
 "src": "CNN",
 "title": "Trump Goes Big in Texas - CNN This Morning with Audie Cornish - Podcast on CNN Podcasts",
 "ts": 1793192733.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yVW5GQlkxSzRpX1J2ektpYllfWUJKWHlWXzFTWWJYU0Jad2NsSmFhdjk5Z0RMR01mZ203d0xoRjg0MVJCdFNuX1pFUk9OWk5Ga1dzNkNieXZmQnpSYUFId0pqcThNTktKZjhJNjQxQQ?oc=5",
-"src": "CNN",
-"title": "Who will be the next CNN Hero of the Year? Get to know the Top 5",
-"ts": 1793192228.0
 },
 {
 "lang": "en",
@@ -86,20 +44,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZ3diUlNseGhvNWZzeTg5REY5by1vZ0xiQzJCZUVEOElORmxralpXNXZWNXozaFR4OGpaRXU2Y2l3cnVuODRCb25HRXlHMnBEMWtWbm8zS3FRNkV0QWhzRTBPTTh5QQ?oc=5",
-"src": "Reuters",
-"title": "Drone threats set the schedule for Ukraine's passenger trains",
-"ts": 1793191711.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/info-en-continu/20261028-isra%C3%ABl-isaac-herzog-le-discret-pr%C3%A9sident-qui-d%C3%A9tient-les-cl%C3%A9s-du-prochain-gouvernement",
-"src": "France 24",
-"title": "Israël : Isaac Herzog, le discret président qui détient les clés du prochain gouvernement",
-"ts": 1793192083.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Chancellor begins to deliver his first Budget",
@@ -118,20 +62,6 @@
 "src": "BBC",
 "title": "Burnham insists 'no confusion at all' over his Brexit position",
 "ts": 1793194724.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjd4SVdyN0hZcml3UmdlZW1qOW11WFNjUVJxTjhiNHF1N2tCanBqd1ctbzNtOFhOQURONzhNZFRyckdnVVloZ05VNFVaTm9EbFpUUm16MmFrNlFNSC16N1lMb1h4cUdCS29DalBFcEptZkpVLWVUbFhpQ2lwdkV1SS1RYU9ReDU1czFNNHB0dlFTM1BOWnhudzd1VUViVWg3WWViWnlaWnVlZm9uTDN0LXlEVF9VNDVUcnc?oc=5",
-"src": "Reuters",
-"title": "Iranians cut essentials and put dreams on hold as war-hit economy bites",
-"ts": 1793191783.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SOVhXVVdWMTE1YzkyVEZ3X0FIdXpORHNHS0dfWW1XMFBEcDFNVnZOMC10V1ZQSnZ5X2ZTZnBMcUNTaWQ1Zko1UF9XN2h2aWIyMmljSE51U3J3Tmp4NmJxQzlPUFVOUlhPUWx3dzhud0FsY2QyWW04X0N0MVZPUQ?oc=5",
-"src": "CNN",
-"title": "I loved my month using the Amazon Kindle Paperwhite. Here’s why I’m still mixed on it",
-"ts": 1793192400.0
 },
 {
 "lang": "en",
@@ -163,13 +93,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclRxQVZIbENtSlAxOVNvNk9hRHh5S05UNEdtbm4xeWVIcjU1YnBwV0VNNjQ4d3g5b0dwa3R4eHMxdXRYbjRhRjI4a3c0UGdRamVOMndGTGozdlc0NWJFTDNaZ0RBU1lzU0hBVzhSMkQtazFGWkxHMTRuOFJ6dHBnMWZ2M1FtRUN6LXFpT2RWcw?oc=5",
-"src": "CNN",
-"title": "- CNN",
-"ts": 1793192180.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkVGYXBiWnNCZDFyNVRMSjNnZG5xRENTUDkzbk04SVdRV3d5LVZFbkxRR2FVSGt5MnhUYkZSVWtBNzJBclcxZ3FacC1JTUpMTExLQU9USDhTTjY3aWwyTWNpSlRMUy1FLURMQkpYalZXdl9qS2RFdHQ0Tm9XaWdjU2pqSTNOQ2U5WDU1OXUyaVZYcG1LMkl6UmRJZ0M?oc=5",
 "src": "Reuters",
 "title": "Canada reports limited progress in trade talks with US",
@@ -195,13 +118,6 @@
 "src": "BBC",
 "title": "Badenoch: Budget 'does not come close to meeting the moment'",
 "ts": 1793196410.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MZ0RCR3VoZUMxZFpOTThMMmlacXdldDNKcFFNa01qazlUbW01dllLOEkxdlRxU3ZpaVFoX0ZVbHh6aHA2bExYdzhpbXVhQkdsVVE1eDhsMnl1NTQ3aVAtUTF2VU9YU2djXzNZZzJaU25uQXF3bWd2eGQ0UW0?oc=5",
-"src": "Reuters",
-"title": "Drone threats set the schedule for Ukraine's passenger trains",
-"ts": 1793191711.0
 },
 {
 "lang": "en",
@@ -391,13 +307,6 @@
 "src": "CNN",
 "title": "Scientists discover a never-before-seen potential dwarf planet in our solar system",
 "ts": 1793202993.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnluZUNMcDJHWHhMd3Atc3djSVVENDE0bVgyN3RlNGozc0NQdW94ZGtENHJKNXJiaURSVlNGdU05NW03dFVjVzdDS1RPaERIdVNLTGk0MURfaU8tT2trbEVjQ3VzdEJqQjh2UE1jcHhCeUR3cmtVVWpBQ0FMSTlSZVZUMHBlRE1YR1NEbkhVVVZ4elppclB6TERFYlAwUW04?oc=5",
-"src": "Reuters",
-"title": "الآلاف يتظاهرون أمام البرلمان البرتغالي احتجاجا على أزمة السكن",
-"ts": 1793191731.0
 },
 {
 "lang": "fr",
@@ -4199,6 +4108,20 @@
 "src": "CNN",
 "title": "Early Voting in Battleground Georgia Breaks All-Time Record",
 "ts": 1793320367.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjh5aGprVXhNT0JKMktNU1JCYVRxVHBDZFpHbmRmNHFiMzFJWmRnU2l6alRCblEzQ1YwRnBEMi1EZWhtbnI5UUdXeVp5TjRuYS1nLWp1cFphd19IeHBaMFVnWHhKa3h2VWNSUmUtUzBnN2NkSHM5eWJ5RTd4SkcyemE2Rk5ON0VDRE9z?oc=5",
+"src": "CNN",
+"title": "The week in 35 photos",
+"ts": 1793313300.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHJVY2Y0NkFMejNOY2taNllUR0ptb1NXdnQ4bTVQZmpPenlsWlNqNkk5Z3FSenhrUmdQemFIMjVia1k4ZS1LUnYzQndTaEJLblIxMVdINHQteWQ2V1dWNHZWNEUxWHZfWjRQVEtkd1ozZkY0OGl6MlBfb3h1c0hSUzZma3N0Y3Vyay1QZ1M4UENDWUdEeE5J?oc=5",
+"src": "CNN",
+"title": "What's on the line for Elon Musk in the midterm elections",
+"ts": 1793316518.0
 }
 ],
 "seen": {
@@ -4604,6 +4527,7 @@
 "CNN|CBMicEFVX3lxTE1fZWRkTXZkNEVjaXNnX2ZQa1FKenBMU1ZrLW81Z1JkclhoQVhFVUp3QzZzVWgwN0dsZGxfOWNscnhSeHBoV1dHcm4zYTAyNGdyTkZfU1l4NGM2TjRPOGVMWFhPVV9xdHR0dlhNTmRCS20": 1793218527.4185884,
 "CNN|CBMicEFVX3lxTE1yeExQZnF2MW9rQ0FSZGIwbWE0alBjMTB1NlByZkFib0E4UnMtaW55Mk95clJ3S0E1cmlFc2l4WVdrY0I0aDFhMElFamlrY2tKb3NZUkVWdzFEdlZ4cHhQTXlINmMySHhXQjg1SVp2TXg": 1792912921.1568482,
 "CNN|CBMicEFVX3lxTE1zSm9ydEpuSnZqR3BBeW5UdXRReHdWNmtOT05Xd3NOdHBtVVVfc0xZZ1BuZkxIOFI0WTNOTlRCMWJ0Qlpfa2tWcUk2b3RFdi00WEVLczhDNmJ3WlZ3MXE1OU8yWmhtLU1wVjhRbC15eTI": 1793045725.385302,
+"CNN|CBMicEFVX3lxTE43azV5Q2ZZUDVrX2FZcE5UcTkyWGU4OVA1NUl5X2VnLTZNSDVkX2dMRjZqak5aTmlkU2pEOGxSUkZNeHl3dENJaGl1N2tudGFVcjNTTFQ5REtzSE9FT0hIWEJfQmpWV0VZQXFwNFVGUDA": 1793322040.9233415,
 "CNN|CBMicEFVX3lxTE5MMms5Q3dOT19iMDFYaUZySjNkOXlIc0ZJN2Z6UWpWZldoanNWdTRqa256MUc4NXpmcDZscGNuNk5kQ2puUkxBcjF6Zmc3cVpkRVJPSWt1TzNpdVVXc18zOEVUVnRGc2p5LXhJUGZBeG0": 1792996233.2945092,
 "CNN|CBMicEFVX3lxTE5MTFBkb1dheGY1ZEMwQVlCNURzdUJvQ0UtLTl0cU5hQ3dwN1ZXM2YteDBjRFgxWVQxaDZfUUhzcGRNdkgwaHk2T19zOUVPVU11dnVTYW0wWkhCS1JqOE9WaFhCRXhBcVhUN1RKYmg0NFA": 1793027734.901764,
 "CNN|CBMicEFVX3lxTE5TUGhEVU9BcnU4TXlPOGNBN2tZaEpGNDYyV3RWd2MxZUNhQ0JvclZyaGRCSUo1SGgwU3lpcElBNTZkcWlEVlVKMGx6SkVhazhwLW53OTNfNFVjUjRrNUhiUzkyOFFFN3ZyUjRVYXpNVFQ": 1793312127.0299957,
@@ -4916,6 +4840,7 @@
 "CNN|CBMiiwFBVV95cUxPYzczbkp1YVAxbmFOcVFiX0F1bU5mZExoMk5ZX1lnMV9GZmh4bVpaTmh0ZUJqVnp6OVJ4Zy0yamRDM3pSMjlSZmpiZ3lDNWFJakRkYzNKUXJ6VW45QUVjTzFLc0lSdWVyV2dKMVRRdm10cXp5Y0JhYzJSRzZVQW5WX0VqRmJKcEdELTc0": 1793031325.941255,
 "CNN|CBMiiwFBVV95cUxPaW01YWJtLTAwbnlET2FvbWJVZ3hUVnFMaDUxdHB5RmNGejM4UlBwbVZqTkhLU001UDF4Z1Y5ZWl1ZElKcE1BTThHWTRiNE9Eakd3Q3Rub2Z3VzE4NWFzSndRdzF5QzRvRy1kNy1ESU5oQ1R2OGJLSWZJbnljZWgweFRkY1Yyc25GamU4": 1793167249.833775,
 "CNN|CBMiiwFBVV95cUxPcXBMd2ZIeHhhTzZnQ25IdVZIR2RQRlczVkhHOUpRZWNRMGxGMHVaMVRCOGpiNEQzZFRRdXp0dlN2cEk2d0JOYVZjSnhqY0tVU2FLNW4zcElrbDVJdlNDbk9aZXlIc2laX3hwMlhTbk4xSTFmU19Yd0JtR0hIYzBwMlE4VVZWelExemcw": 1793085327.0261214,
+"CNN|CBMiiwFBVV95cUxPcjh5aGprVXhNT0JKMktNU1JCYVRxVHBDZFpHbmRmNHFiMzFJWmRnU2l6alRCblEzQ1YwRnBEMi1EZWhtbnI5UUdXeVp5TjRuYS1nLWp1cFphd19IeHBaMFVnWHhKa3h2VWNSUmUtUzBnN2NkSHM5eWJ5RTd4SkcyemE2Rk5ON0VDRE9z": 1793322040.9233415,
 "CNN|CBMiiwFBVV95cUxPd09FeU9rODBVZllvalBaZUo3R1hxUFA4ajJBaXQ3NWdxaXlRbzFHM0ZSTVhsODJGbDhXN3UzYWd3NWlFQ181MnRadXU2eWlSanpsc3M3SGpJR0JRcUswMnpncG54a1J0eTA2eWdzVS03ZUY5cFctUzNUWWZfemU1Qk5GYWZSaUJqV0lJ": 1793212237.8266294,
 "CNN|CBMiiwFBVV95cUxPdnZ1U2JNSU01LVo0bUtZc0NvUmJGdHZPbWxSeE9KQUthRVVZbXd1c0hBaWJ4RmN4LWRPX3BDUzJFQURKU0s4RjdSdVp6YlhfbVl0VzRQSmNucDF3ZTE0U1BYRTNrUlJTUDRQZW1jYUs2NUNMX21XakV2cERMcEc3Mm50STVfYnJGQ3Bn": 1793192979.21698,
 "CNN|CBMiiwFBVV95cUxQMHlEN3VJZWdYSjhzR09nWVFvWFljVi1tcVZGSnZIaWU4UjI0MlVzR090OUMycWlFeHctQVhTYXB6ZjM5cF95U0ZNSnpKTXIwdVVYX2wyLUpjMlgyUWVPRmhhVGx3SDd1SmpTTUU1UlQzbjRwcGl4VXVvMDNzQm5KNkFuNDVHYURyTUJN": 1793212237.8266294,
@@ -5084,6 +5009,7 @@
 "CNN|CBMilwFBVV95cUxOVUxlMVhCQVJCdVF0WGstOWhkQ1VDMi0zYklIMFJrRi02eklZY2ZIUWtLdjNLQmo2QjM2OGt1ZDZOd1d6b3ZreE1ZQ1NwcEZHVzljUjhOaC03dUItMDg5UGxVanBEYXVmZGNQQjREVEhWRzQtRG1YME14M1pNUlpkVm1scDNNY2xuM3Y2OXhuN1FYR2lnYndJ": 1793259033.12376,
 "CNN|CBMilwFBVV95cUxOX3Exa3FnNjVram10aTNlUlR3UC0zX3Z2V0hiQkdEdFQxV1VnY09lalZDbmp5aUlVXzMzSklycHV2bGhmODJaNHNnbndXaW9vU28yZUtWd1B1eXdiV25lblhZTVVJbDlCV1Q2Y1FpX3NBVklILVlzSTZjSktWSjU0cDU4M2FvQmtfYXVQRnp5TWxJaHhNbWE4": 1793025933.3217628,
 "CNN|CBMilwFBVV95cUxOaDBCSk9SNmxjMXRLUS13YUhTQUVQbEhjM01jS3ZkOE90aFhCUXp5bzVaRWtFYjhpNnpWRXlPS0xIcld6czFsMlNyeWxLQ3d2dF9OQnlyQU4yU1VRb2xKQUl4ZzVpdXdjZ0d5VlJzZG51ZnROdVhuei1PQmdDZE1LYlROd3V3UGE4NzF5YWstZ2hscU1lT3FR": 1793222125.9720097,
+"CNN|CBMilwFBVV95cUxPOHJVY2Y0NkFMejNOY2taNllUR0ptb1NXdnQ4bTVQZmpPenlsWlNqNkk5Z3FSenhrUmdQemFIMjVia1k4ZS1LUnYzQndTaEJLblIxMVdINHQteWQ2V1dWNHZWNEUxWHZfWjRQVEtkd1ozZkY0OGl6MlBfb3h1c0hSUzZma3N0Y3Vyay1QZ1M4UENDWUdEeE5J": 1793322040.9233415,
 "CNN|CBMilwFBVV95cUxPQjJ2X0pJTDJfY3UzSlo5NVBlSW05ZkRzR0JGbmUtRUJFejB2MmZDLTA1TXVmMmFwMkRHQUlfNklCNXNqRDgtZU1fNGp3Tmg3MTVGYUNJUzcxMnZWRVp4MkMxN1JOUjNyV0hObndOQVYySEpGZkZkNjlPWUVfQzlXb0ZIUl9GendhVXQwbGFySnYxcDRsZ2N3": 1793321129.663344,
 "CNN|CBMilwFBVV95cUxPV0VLMlJ2UDR1SkYza2hRZ1o3VERXbGF0SUhYcnRpRTdCUmVjMDRfN01UdEx6cGQ1d1g1ald3NkYtcmdpMVVMdjZNZGctZEE1eUJ6eHBjMFdXU19vT3FIVkJXaWJjYUFLcllrbkZ0OXNCMTVxSGlDSEc3b3ZqSEhiS0F4Z0FtWTlFOHpydEQ3TUJTWVdYOXBR": 1793319866.611987,
 "CNN|CBMilwFBVV95cUxPZExfT2RNakpJU2Uzb3hUaE4wZmZkTjZhbmdaRVREUGRNYnVXR0EzaXdfUS15YWx3XzJfUFZKQUVkU0cwU2FJUEN2bXZpN3RaTjVETnZqY244M3AtcFJ6UjlPMmx6blFsMjZVWnJqaS1jaXZuYWlVUkk0bEZmeDhrQmtPZE1pcWt3Y3h2S3VWMm91b3FacHlr": 1793175328.5017943,
@@ -6521,6 +6447,7 @@
 "Reuters|CBMirwFBVV95cUxPU0lJZ29paHVHYVJsR1ZCMnJ4MHFia1VjMjZMc2VFWDFfUHdjUVlNUXplaUQzTWdMc0gzRV8zLTBIQWg5R1ctZEN4M0RRWEVKbmllZEVXc1BpQ2FmMXF3TGNlenVnOEc1bEN0R0FvMklJWXNCLWNtTmlGMTc1Yi1sb1VHbF9mMm1OcVYtVFF6MmJLVmE3aHV2NzdNdzI0cEFURnR3eDd1VkpTeTNEOF9J": 1792960233.7799172,
 "Reuters|CBMirwFBVV95cUxQU1RoMGJHVE96MkNSdDBSb3o2TnNlN3ItNmNVR2p0eFdBZ0J6UzRrNTdHX2VmYVZ6RVMtUFJINFFBVGhqQkpmcWp3V1FOc1gyV091Q3NtXzJ3WVFMSy1nSDhuS01zbmRjeU9NOF9feU5Xc1hBMXpfNjNHNXJFYlBHLXRjOFdtNEozdmw0LWczVzIwZWRQYzgweWlScGRHcGJCY2lPc21CNWw3WDZ1cWJF": 1793144726.8513815,
 "Reuters|CBMirwFBVV95cUxQbTBFVFJ4OTREU2ttYTFuUEZjUnROc3JNdnFidXoxR21JdVF2M0RBN3NmWG9wdl9wZy1veEZETVVfZkxZWDVNX3dkWXZMNGRTS2trcHRHeU5UWjNPdk9MV3ZKVFhCS0ROWFJ1OHd1YS1ndzVhTjVibzlzTnd6R1FrMTVQWGlTZ1J1R0hjaWw2OGxtdFRJUkl6bWVnRV9DQS1vN0N0SnE3MDExbUpmZWRN": 1793097036.2631872,
+"Reuters|CBMisAFBVV95cUxNSk5OLWpKaHFDeVJaLTc1dnNlR2tFejZxSjVvdVdXQ1lxWW5iejZRWlVRNzhNUjJIazBKX1lxNENYWkhaM2x0blFRMGZsSXdTdm9GZjZERHZNUncwUmMyRjRRUkI1eTg4ODZyOXA0WV9YXzRoQkE2QjU0ZDlvR09qZExNaFF6c0xmX2FpLVZkUE8xdF9BZEVxSk8tLUJmb19maU1iRFpmQlFPbTVaMzdxMg": 1793322040.9233415,
 "Reuters|CBMisAFBVV95cUxNaUowdTlPaUFzb0tCdUQ3UzdYalJsS2ZEYWNvMUVtUzdKams0b051VWNIcXNPdG5wYlFzaWZIZVJfcVFTb192M3ozWk1kcW8wY1NNd1FSMzAzQ2FGTm9Mb0tfU21BenhMSXg5bFYxcXZqRlkzdHdESlZYVFlnLW82eUNZeER2SFU5ZXNzdExzLWxBYmtRTDRiMVFQQk1BYjB5dUdGQUEwb0pWYlA3VWluaA": 1793211332.0526388,
 "Reuters|CBMisAFBVV95cUxNcnFrUEpEY1lYNWVmc2JOMkctRWhNQ0lvT001NFV2cHo4SGtsYUVGMTVad2NQWkJyenYxVExnR1ZUdG9nZFp1Ykt1NExfWGc2eWlFUzYzaGlOaVFyeEhzUmNXd3R5XzZGRWtGS1RyazJ0eW81bFBKYndzbzNYdkpvMlU3cF81Ynp5WFJ6eEgyaWRyZmFPNHVWTlVvTTUtZDQ0cWFVY3FyOTU5YWVLTGVMUQ": 1793133927.9900343,
 "Reuters|CBMisAFBVV95cUxNd01ZaXVHOVFyVzc3TTVmem1XZGdxVDc2d1ZkdEZxYTRzSV9PbkF5VTljWDRIekY5UDMtX2cxc0pVTmduQnNnTkpwakJ6ODNwTnAzYkVGd0J4YVBic1lLSmJSU0JkSHpSWTBNa0VfTzBEVkRoaGtCRk50WHpYMllCV3RPLU01VFgwMjQwQWhubTN5UkpZOEQ2UE9veFlCLUFNU3hKZ0JpWXZJSnBZMHJGRg": 1793166327.257786,
