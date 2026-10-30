@@ -16,24 +16,10 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
-"src": "Reuters",
-"title": "Microsoft cloud revenue beats estimates in sign that AI bet is paying off",
-"ts": 1793221590.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
 "src": "Reuters",
 "title": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead",
 "ts": 1793223295.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
-"src": "Reuters",
-"title": "Alphabet shares fall after revenue miss, cash burn worsens",
-"ts": 1793221681.0
 },
 {
 "lang": "fr",
@@ -3436,6 +3422,20 @@
 "src": "France 24",
 "title": "Au Brésil, la victoire de Lula freine la main mise de Trump sur l'Amérique latine",
 "ts": 1793350678.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/10/30/apres-la-manifestation-du-24-octobre-l-identitaire-gros-lardon-vise-par-une-plainte-pour-des-violences-a-rouen_6802923_3224.html",
+"src": "Le Monde Politique",
+"title": "Après la manifestation du 24 octobre, l’identitaire « Gros Lardon » visé par une plainte pour des violences à Rouen",
+"ts": 1793350820.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxa1FzSDRnX1dpdnYxSjRUNjNHVEctQldVMkZEaVVWaUdXS3U0U0RvWlZ5SURTSDBWR1dGRXUxV2tDdG1mTm1NLWdQb1hQUnFaUWduNzBfT3Nra0NMY2RmamJweGk0dkJNTnpOd2RmQzQ5aWh2cDd5djJWU2VFQQ?oc=5",
+"src": "Reuters",
+"title": "Philippines raises alert level at Mayon volcano after eruption",
+"ts": 1793351245.0
 }
 ],
 "seen": {
@@ -4350,6 +4350,7 @@
 "CNN|CBMilgFBVV95cUxPSHFOVmVhV1VWZHFRaTdTc3dzbTg5azlRZXk2MU1QMlA1ek55dmdZaTFsNGlCTjlYYnJrNV82SVpMcEdESlhmR1ZVSjhzRU9ZNnVYSjExMXZtTjBrWjFEajNOeThmUkVmUk95Z254dDBlQlJyVjFJWU13N3R1RHpsS21BT1kxNFlRVmtTXy1GU251THNMd2c": 1792970130.5726538,
 "CNN|CBMilgFBVV95cUxPTzltQ0Z4X0hnSXBmUG1aWjRnWi1LdHIxcmNoMTdqMHJjZjl0UEVOSFFZM2V0bnpULW44ci12bWEzekdEdm91TjdWOFFXTHMyWFVYOW5mdUFydjREVVN3THNXREZaYW55SlA4SkdBODdFSmZGRDVTOTFuUXNxbE9IOF9xWTNVVV9hTVI3ZkZzUFBIX0o2Y0E": 1793196040.685963,
 "CNN|CBMilgFBVV95cUxPWWU2Y3BZdVFKNldvMXRMUjBiZTBPcFNBN3pIY1FlYUJEWkpoYktESlBzT1NjTGh0T0xkTHh0QlJaODktbGdrSHlhb3UybjRHeVhURGc2emU2TlJIM2ZrLUZiMVRVcW9OUnRMMU41UHVickFMaDBUbXBPQ3djRVUxZWl6dHFUUTY5c0F5SWUxcTVYNV9QaVE": 1793321129.663344,
+"CNN|CBMilgFBVV95cUxPcmQ2VjZTakI5cHFRdmhDX0xCbkRzeXUxb2d0eXB4U25GLXM5TGRMMUZlRUs1dEVodGRBNlpMeWoxTzg1RlV0SHdBTWZsZGhZM3NkN1J5TUJYSnJ5Q2N1aHBLTDQzeFF2QVJRb0xrRXYxdDNsUHB3RllxUVpHVkxhSVZtNlAxVXBMQXAyX29GLXN3LVJJeGc": 1793351725.7774043,
 "CNN|CBMilgFBVV95cUxPdDhXZzdYSC1Bc0N4dS1UYWJ0WVJONUdhaDVlVXJRVnJyeG43UUtxaEtESVplamZDNlNranRacEQtSEI0aTlHS0tqV0ZGMFVXb0REQUI5NVE2Zms1VzFULVNNWjh1UDFPMUNrOWZNWm45UDhRWnU0VG1YTnFsclRYVzItS19hNlVuQzNNbFc4cTE2U0d1bkE": 1792934126.3624318,
 "CNN|CBMilgFBVV95cUxQQW1xbUtnUXJHb3dEUTlEMDVDWjUzbzJsWXotWTI3blhULTJ6aUdWVzFyYTc1S29LMUpRamNZdnV3VEIyYmxlRHBNZm5EU1lGOHlBblRzMGRVMWNuWDNFQk1CRWRFWHctOWx6MVF5aGtxTlg3NGU5UUFqMDZ0S25ZT1daV1VIQkw3WDRKRy1FMEZlY1lZTHc": 1793236524.364081,
 "CNN|CBMilgFBVV95cUxQQXpnc0EzenF3NHhXYmtTT3hoWnpYMVZvc2FGTkE1UzBMVUgyY0ppZ3pNbnNyYTlmcmw5MzlCZHNaWHMwSFF1RXRXWkUzQWwtS2U3YjJNVlJKNW1EUlRlV09kbjdjM1ZRdUVlLTB3cG5QWGxXcUZPNFllTUJKRGZqR3JSbS0zTnNZLUFhblluS01IOWdxMGc": 1793348128.623687,
@@ -4713,6 +4714,7 @@
 "France 24|22c420e2-d151-11f1-877d-67a0d7221302": 1793029529.2200255,
 "France 24|231126b6-d242-11f1-885e-f346a195d123": 1793133927.9900343,
 "France 24|23588a7c-d12c-11f1-bbab-b7a4d70971b5": 1793017836.5340102,
+"France 24|2444fdf6-d43a-11f1-bdcd-3723bbb15ed9": 1793351725.7774043,
 "France 24|2635c4c2-d298-11f1-8805-a9b4af8e5825": 1793169032.3620625,
 "France 24|27eae0d4-d3b7-11f1-849e-0dbb01bd5396": 1793293248.1022131,
 "France 24|28331558-d226-11f1-a4e4-51f2e6dc9b37": 1793121327.7241075,
@@ -5173,6 +5175,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html": 1793237432.3577285,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-31-octobre-a-paris-rassemblements-non-declares-interdits-et-couvre-feu-instaure-pour-les-mineurs-jusqu-a-lundi-dans-certains-secteurs_6802363_3224.html": 1793294129.1107152,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/30/a-charleville-mezieres-loin-des-scenes-de-pillage-on-a-vu-les-fractures-se-multiplier-au-fil-du-temps-des-peurs-monter-sans-jamais-redescendre_6802770_3224.html": 1793336439.7719917,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/30/apres-la-manifestation-du-24-octobre-l-identitaire-gros-lardon-vise-par-une-plainte-pour-des-violences-a-rouen_6802923_3224.html": 1793351725.7774043,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
@@ -5538,6 +5541,7 @@
 "Reuters|CBMifkFVX3lxTE9uTGRFVnlValB2dFVMNGlrSW1SQkJtTVdtc25ybzF6dXZMQ29nalNmZWk0MlpoUjVSZlJzMUpaMHlIRExBX2U1TXVONDdGOEpDQ2h1OU1KREppNmo3MEtXM3VJb0E3Z1RIbTY2Nzh4V2tqcEtPRDJlY2FoLUhMZw": 1793087126.2328327,
 "Reuters|CBMifkFVX3lxTE9yVUpRUTdUc042Y0VLX1lmSDlfazFQVC1kcTQtR1l0T0dLc2pvLXFDX0lSUEtBUDgwZUExdGFET1huNDhMcXlCYlBqcVVVWER2VGhHVE1fU0JhcGlfNWNac1FzZk1xUGcwdDhtVE43eTRWX3N2YVd6QWdpbDVOZw": 1793255432.9365704,
 "Reuters|CBMifkFVX3lxTFB0ZUsxRzlheFppbF9XM1BEblFWMFlzYXV5X3A0bGc4SHFYdVRLZWcyVEg0bkM3OU5nWXNILVBCYjZWbUV2RmNDdld4LU9JVVFDLWxiWHh5b3RHeVFWeVBKT3J0bkMwRFhQeWpxSjJEc0JKZWVPLURXUVR1MGhQdw": 1793202327.6191547,
+"Reuters|CBMifkFVX3lxTFBxa1FzSDRnX1dpdnYxSjRUNjNHVEctQldVMkZEaVVWaUdXS3U0U0RvWlZ5SURTSDBWR1dGRXUxV2tDdG1mTm1NLWdQb1hQUnFaUWduNzBfT3Nra0NMY2RmamJweGk0dkJNTnpOd2RmQzQ5aWh2cDd5djJWU2VFQQ": 1793351725.7774043,
 "Reuters|CBMigAFBVV95cUxNUHE3QVZaRTNaOTRISlVpRW56ZEpKQXJJeG5MMzNHaXpJYmlOc2JHUmZtMDRYazRkb01CR05nYjRtdTZWRWlXc2JReDEwSlQ3ZnBacG85ejlxLTR5Yk5vUUlMMkRiLTV6M01ZYTdaTU80OFBGcElaWlFLdDJERnZxbg": 1793242844.883447,
 "Reuters|CBMigAFBVV95cUxPczZpdU5meDlYa25qQ0ZoUHZyUG9rb0ZSQUt3aFVFQVZINTM5dUxGclozQ3pyMXh4Qll3b0FnUmFQM252bU5RM1FlVnpLQXR6WFJpdVhoVlliWlhGM3lpVTNvb1JHcVJsbk41aGtLdTAwY3JwZFNLTjRQWTQxODhZMA": 1793262635.1933663,
 "Reuters|CBMiggFBVV95cUxNVHV6RHpIYll2NW9tQVpvMTVtZW1fVWM5cThpMm40TjMxOGxUcU5TNVRCd0NBa3ZCa1E3aENqNU5MSG94TzFyVWpLZjUwdjZVNndfeUpmaXZneWtJbDdKcm00ZkFYc3VhS19Lb3B6WFdPX2RkNmVQSThDanhIMTZNTk1R": 1793009727.4528742,
