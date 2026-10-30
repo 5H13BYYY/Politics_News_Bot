@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/am%C3%A9riques/20261028-en-fuyant-bresil-flavio-bolsonaro-a-t-il-condamne-bolsonarisme-jair",
-"src": "France 24",
-"title": "En fuyant le Brésil, Flavio Bolsonaro a-t-il condamné le bolsonarisme ?",
-"ts": 1793209589.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjRzbXZKajJfMXJwUHB4Zkl2amJKREtEODJEb1QyRDhiVUdlRUd4SEp3dzZsaktUcklxaTNxZTlBU3RTTlZTVy15TnVrLTZMUzBnbHlyNWQ1c1haZDVLQ2dIZThvNVoxMXZxN2RNdk9YREpKTkdHR3FxdFZZcG1UZWxxRnlyNXZpM3BQVTdkT1JKUE5INXNxaGpkWTJZY1p2WDVyMkFxaVVuaGdyYnN3VU44TQ?oc=5",
-"src": "CNN",
-"title": "Is Ohio a swing state again? John King is there to find out",
-"ts": 1793209648.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Netanyahu shares AI image of Arab voters during Israeli election",
-"ts": 1793209880.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html",
-"src": "Le Monde Politique",
-"title": "Mobilisation lycéenne : des experts de l’ONU se disent consternés par la répression des manifestations, et dénoncent un « recours excessif à la force »",
-"ts": 1793210152.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/28/remplacement-de-parcoursup-sebastien-lecornu-dit-attendre-des-propositions-et-des-engagements-precis-de-la-part-des-differents-partis-politiques_6801626_823448.html",
 "src": "Le Monde Politique",
 "title": "Remplacement de Parcoursup : Sébastien Lecornu dit attendre « des propositions et des engagements précis » de la part des différents partis politiques",
@@ -51,45 +23,10 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczlFUEUyRFVyTlZ2aUR4SE9QNkNGR293STdVYjJrLXNnc0JGeWpNa0xfSWs5U0hNa2wwaFBTM3lIT052UThmcmxRUjl5TjNNdWdldzZpSkU2eGZqVFdOdWhxN3oxbm9VQUJOc09IMGVrQnBfVEx1N2JTZmpPUEVFOTFRcEloZw?oc=5",
-"src": "CNN",
-"title": "American policymakers ‘prisoners of history’, says historian on Iran War",
-"ts": 1793209580.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck9zM0dZQm14ak83eHZ5RU9TR0FTUktXdk93ZGh3MHhmYnNIZF9BTC1acEdNbzlBYzkzaTN4NHdMX28zZUQ4ZkVPS0hEcnlkOW4wVkZFck5XRlBVVHNOV0RJSnNFbEJhTV9vdndUbkFkcUZtUS01TmhIZUNIai10XzZjaEtHRXFPakpZ?oc=5",
-"src": "CNN",
-"title": "Joe Rogan defined the 2024 ‘podcast election.’ But 2026 is a different story",
-"ts": 1793209945.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHlEN3VJZWdYSjhzR09nWVFvWFljVi1tcVZGSnZIaWU4UjI0MlVzR090OUMycWlFeHctQVhTYXB6ZjM5cF95U0ZNSnpKTXIwdVVYX2wyLUpjMlgyUWVPRmhhVGx3SDd1SmpTTUU1UlQzbjRwcGl4VXVvMDNzQm5KNkFuNDVHYURyTUJN?oc=5",
-"src": "CNN",
-"title": "What caused the deadly train crash in Spain? What we know so far",
-"ts": 1793210226.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55TllMbmQyY19NWW8zN3NHdFc3M3BudWRLY2NRSmQwTlVaY0RWZVFjNjVhTXJab3l0TjljaTdMZnk1RloyZWdnQ25KdWpnUmM5eVp0RXF6a2tTMWxCaTdLT1NFVVRCSHRTUksxaHNmWGFJcl9sVDlTSw?oc=5",
-"src": "CNN",
-"title": "Apple just announced its first ever MacBook with a touchscreen",
-"ts": 1793210390.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY241bmlVVjZXVGJBODVqdGNybkdlMFd5TkUydmFrNFNZejdOd0NybWFZTTZOZ3Jlc1R6ZlJOdy1oQXVvczBuVVg2QXJveUlmMGJTZnE4ajhCa0R2Q1lnTWphMWNIVkNOQjRhMWJKcW1nRzVOQzZMdk5TNm9zQmF0ZS1KTjN0dGN3akxqZ252SG5aVEljTG5wZkNxZTZ4SWs4ZlhzWWg3eHdiMmozbHE3bWJjY1BOZ28?oc=5",
 "src": "CNN",
 "title": "Political deadlock looms in Israel with no clear winner",
 "ts": 1793210750.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzR0akhER3FqcmVpeEJQTFZqYVdhLVU3U2FiNWgtMDdYa0c3em11My1ORnlEdkxCY3ZoWnVDcFZBZlgzY2Ixcm1ZREo2UlVXMzFTWUZEcnB1VWlRcTBzdVZsaDBCYUNTVnJhYlQzR2NSRlE2MkllWjR0NHM1MUdHZEFXWDFQdw?oc=5",
-"src": "CNN",
-"title": "What caused the deadly train crash in Spain? What we know so far",
-"ts": 1793210226.0
 },
 {
 "lang": "en",
@@ -146,20 +83,6 @@
 "src": "Le Monde Politique",
 "title": "Dominique de Villepin accuse Edouard Philippe de céder à « la dictature de l’évidence » après ses propos sur « l’échec de l’intégration »",
 "ts": 1793213223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDd6RUZsUC1NLUItQXZOVzZTSnQyTTlVQm9RZzdvQ3JhM01maTVqSGU2R2c0X0hCU0tzazdhWTcxQUdycTN6b2pJdjN6TVBUa3BEWF9GZDQtc0JqTndQNWNjemdlRW1XNTJKVVlJQVFXZTNzVnR2V0pvcGl6NjdoN0N3TTZGaXUxSUI5b3czMk1aZkNSUXNxSmNsTFBqS09DRlVTYkFQSXJCTGFOYUlFWVNvTVI1M0k3?oc=5",
-"src": "CNN",
-"title": "Is Ohio a swing state again? John King is there to find out",
-"ts": 1793209648.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpvLUNOUFQzeXRMQWpoMFlZXzduMTRXb3hrSUlLU05mMU5hWk42bkdDREdUeU56UTI4MTNMYXZHb01IcmdBVWNsellUZTR3TlBDYlRtYlc0a01oMEZQeVp1SkpvOGpZQkV5Unk0TnFoa0hXel9ha1pIZ3E1TzM0VWIzU09sRnREZTRUV1pkTTFQNzIzWmpWZ2c0THFLRDdKUUluWnEtUnNIeFdUN0dSSV9YRnpEVnl4a1dn?oc=5",
-"src": "Reuters",
-"title": "Airbus holds annual targets, bets on year-end delivery surge",
-"ts": 1793210012.0
 },
 {
 "lang": "en",
@@ -338,13 +261,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iemZ4MjlsX0gxNTlDUVNrci0wNkhYWXNHZXJLQWF4b1VWVklMTXZWU19wVGpRcnJ2WVZPV3E2bDNpTXBsWS1WYUpSS21jQnJpc3RObnIxSlFKTEFSOElkS1RIcWZJcmpleHVGMlNfblAtZGs?oc=5",
-"src": "CNN",
-"title": "Apple just announced its first ever MacBook with a touchscreen",
-"ts": 1793210390.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
 "src": "Reuters",
 "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
@@ -363,13 +279,6 @@
 "src": "France 24",
 "title": "États-Unis : vent de rumeurs à l'approche des Midterms",
 "ts": 1793221081.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDBCSk9SNmxjMXRLUS13YUhTQUVQbEhjM01jS3ZkOE90aFhCUXp5bzVaRWtFYjhpNnpWRXlPS0xIcld6czFsMlNyeWxLQ3d2dF9OQnlyQU4yU1VRb2xKQUl4ZzVpdXdjZ0d5VlJzZG51ZnROdVhuei1PQmdDZE1LYlROd3V3UGE4NzF5YWstZ2hscU1lT3FR?oc=5",
-"src": "CNN",
-"title": "Apple just announced its first ever MacBook with a touchscreen | CNN Business",
-"ts": 1793210412.0
 },
 {
 "lang": "en",
@@ -492,13 +401,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtbmlBWUZTVUUxQUo4dmMzSE9QOHh5aWxjOEN3V1NmU1FTM2ZYMUVjQjlMZmtpdW1yaER2THZ6c3U0UW1iOGRxaDJmelExdl8zWGk0MFFJV1BzckhDd1JEMW1IWlRIZ1pWZDM1S3NNWng?oc=5",
-"src": "CNN",
-"title": "CNN News Central",
-"ts": 1793210400.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw?oc=5",
 "src": "Reuters",
 "title": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
@@ -566,13 +468,6 @@
 "src": "CNN",
 "title": "A ‘generational defense opportunity’: Hegseth offers full-throated endorsement of Trump’s arch amid legal battle",
 "ts": 1793225756.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmM0NWVqSXJ6b2JIQ0xtMGJucUdzdENKalhHSEhSNUtXUFcybzREU0MtS2tYMEJNRHhSQi1BbTdMLUlDZjQtUzJjTEJ0Z0lwVURNYjgteGRxU2FjNFh3WW1ib2U1cEtHeVk3cmhSMTE2UXE0SXNSWHBHaWxoWXpUMGZPSlJLcEFkUHAtYlViZ3FpakFDWUJIT05UU3QtYWlCbnYwUG1n?oc=5",
-"src": "Reuters",
-"title": "Dutch court allows Booking.com to require 40% office attendance",
-"ts": 1793210333.0
 },
 {
 "lang": "en",
@@ -3667,6 +3562,20 @@
 "src": "CNN",
 "title": "‘Bravest person I know’: Father’s pride as school shooting victim leaves hospital after 262 days",
 "ts": 1793338699.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSTh0UVY1OTRUcTFDbmE5T1FkZEZWNUx6ZWsxeFUxVDNxTE1PMDk3cThycENyMWEzeWtmMWVjb3lMa19iVnBHWC1xMGVqUWFHeWljWEdQRGdmbUF6SG1wM3hBNlc1VnhUZUhmeWZfNG5faThiVVRF?oc=5",
+"src": "Reuters",
+"title": "From Star Trek to Shakespeare, tributes pour in for Patrick Stewart",
+"ts": 1793332537.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGFqTWpLd1VGWDRlZFFuRktMaUo5QVNMMW5LWEdtbVF3ZEw4WXoydTRydVpLLUVCTFQ0dEVXUTUzTGhEUVltSU9TRWRxU1p6UnhOTDFuWFJiem9qYTQtakdyWmt3T1IzdUlOWjR6WTIzaXR0MFJSR0dYRFYzdWZQaWJyZVc1azc3QmJuTTdRQkZoOWplZ1g3WUxZeW9OZWdYMjdyS1BwaTQ4ZzN5a3JPLTJuZ1lNOV82?oc=5",
+"src": "CNN",
+"title": "Which Dan? Alaskans on the double Sullivan ballot for senate",
+"ts": 1793339100.0
 }
 ],
 "seen": {
@@ -4800,6 +4709,7 @@
 "CNN|CBMiuAFBVV95cUxPUzc4ZHVHN21UdEx6dVVGR2l3bUJjeWRrdEc3cDJYSThGSUdLcnluY1JCejJDUDNCajJBZHNySlNLVFhNTkJXZndGaXN5MjN5dDFnbC1Qd0dnV2FDNFdEVXBUN2s5VXI3VHFMdWdQZGkwWnhadGktRlBZaXd3ZHpDOG9kWDFMN2dmQ1JXeWRjVHJtb1dmMWYzNlVsVnFUVWlYLTdfbEF6UGY1Rlo0TzBFSkxlMnh2UHVS": 1792912921.1568482,
 "CNN|CBMiuAFBVV95cUxPYU1CeEdEcW9yVFlvbDAwVmZBcVlwUnpDZkNEMVlndFRIZ3E1di1TSk5maGRKTFAyYTRFYWdCazgyVmYzQ0xjRjFqNmFHS1BVTHQzbGxiOFZVYUdQY3U0LVREcFd4a3ZJQmY5Nk5KUXFodTVIbGhTX0p6SF93TzV0T3IydTNtcEItYWZHYVFBVFZkRkJvTkpvcWU3V0lNUnV5cWJhejBOSDZlWHJ1M3lmYjFMdFJpa3hk": 1792943124.2310648,
 "CNN|CBMiuAFBVV95cUxQUDd6RUZsUC1NLUItQXZOVzZTSnQyTTlVQm9RZzdvQ3JhM01maTVqSGU2R2c0X0hCU0tzazdhWTcxQUdycTN6b2pJdjN6TVBUa3BEWF9GZDQtc0JqTndQNWNjemdlRW1XNTJKVVlJQVFXZTNzVnR2V0pvcGl6NjdoN0N3TTZGaXUxSUI5b3czMk1aZkNSUXNxSmNsTFBqS09DRlVTYkFQSXJCTGFOYUlFWVNvTVI1M0k3": 1793214041.915029,
+"CNN|CBMiuAFBVV95cUxQUGFqTWpLd1VGWDRlZFFuRktMaUo5QVNMMW5LWEdtbVF3ZEw4WXoydTRydVpLLUVCTFQ0dEVXUTUzTGhEUVltSU9TRWRxU1p6UnhOTDFuWFJiem9qYTQtakdyWmt3T1IzdUlOWjR6WTIzaXR0MFJSR0dYRFYzdWZQaWJyZVc1azc3QmJuTTdRQkZoOWplZ1g3WUxZeW9OZWdYMjdyS1BwaTQ4ZzN5a3JPLTJuZ1lNOV82": 1793340040.7416325,
 "CNN|CBMiuAFBVV95cUxQbU9pWXBKNGZmbzR4TW5XWXpQZWtYcUNWaGdzcFhJX1Y0anpqcWdDNWZxelhIQnROZGZCdzQyTVRZdjFqTFNQVUVwcnE5U2c2ekFwT2Q3bXZ2YXVzVWVsQmJReXNKRWF2TG5DeFBaYmpjeWtBVE5kUE54SnVfUlBnaVc5WTRQb3h6NEwzLWROMDlHbFpjbjBpUDFibDNjdjBGWDVYbmFpUzR1VFl4VEhsb0dlb3dydmgx": 1793234725.997194,
 "CNN|CBMiuAFBVV95cUxQeFRHMWw0QllPSk9HVDljWnVWa3VLcks2ZUszRC1qYmVUU21vM3NSc01JMUo1X3h5b0oxVzNPaHZtME1JZ3k4Y3dHTnB6UGtaSTlWRzE0S1B4RldyTWNYSmM2aGpjNEdsOGRyOF9VcHRzYXpIWG9zRy1DZF9pNXdnc2d3cDh6RVRFSVZJVWRGT05uZlE4ZzF5UHBwbF9EMVJpZTAzVHR4N2JxX3lubjZkRGd1MF94WDJx": 1793074528.1118133,
 "CNN|CBMiugFBVV95cUxPM3Y1SE5Ub3U3cTU0WXVtdDd3N0h1T0NMU1ZZS2M1eTB6V3kyVkRhVEYxR2pWQTRDTEZveGRiSk5xTjZEOUxZbFhQZU5HQ014VUtYNTdYSXd1NkRYWFJ6MnJ3c2Z1LVRIRC15QTNkU0ZYVklWbTJvcEI1ZnRxMkY2TGF2YzdpSTg2ZnpwY3NMajdtWTh0Q0JPRFRROUVUVkR5aU1SbU95UjQwMElrRmgxU2NDdWtZU09sUFE": 1793330123.9385524,
@@ -5606,6 +5516,7 @@
 "Reuters|CBMid0FVX3lxTE4tbFFaZU85cVJPcXZ2R3pMWndlTkIzNWpwLTJ1NHAtT2ZCM2JpZXJ0LWpKVGxNaU5Ucm5UN1hIVXY5R0dGcHFkQUsxYnZYQnZJZmY1X2dkWXAtU0p2aS1RRHNjMHRkYmNSSkd1TWc3QUdtbUR6WnQ0": 1793318445.8265395,
 "Reuters|CBMid0FVX3lxTE9iQjRVOGRvZEdRUVVXMHZkYVd5SVhqOVZmZThhODFJS2JwbFlINmJ2T1NRWXNfaXJSVlVQTl9LekRPWTlDTWtKd1o1djhGQzdUdWcxTWttdHBvSThFdEVLN1lDbXNTVE5OdXNDMW1YRmpWcGNSV1A0": 1793140231.6447988,
 "Reuters|CBMid0FVX3lxTFBFNDFna3Y3eGt5dVk2cER0cG5uY0JFbmlzRmEtR0p5M1ZNTWtBQVZGOF9tVzBrTHV5bDIwU2o5U0lIcjd2LURBMkx5S0VmczV0Q2theS1uYVNUdVRLZmJSUlZCUUlHV3RIcEFwTTRia1MxbU1fS3ZJ": 1793023247.452176,
+"Reuters|CBMid0FVX3lxTFBfSTh0UVY1OTRUcTFDbmE5T1FkZEZWNUx6ZWsxeFUxVDNxTE1PMDk3cThycENyMWEzeWtmMWVjb3lMa19iVnBHWC1xMGVqUWFHeWljWEdQRGdmbUF6SG1wM3hBNlc1VnhUZUhmeWZfNG5faThiVVRF": 1793340040.7416325,
 "Reuters|CBMidEFVX3lxTE05MkdQa21uUFY2M0l3ZHRGeVY3dG1tbnk1dTF1ZklOeDQyTmxyaUNNTkg5cDhWRmFFNmhkMTAxeUtaTy0wRU9rMjBodlk1RGNZYXBoN19oYzdScmRycU91ZDZqenA4bjUwVmtVXzNfNEF6bGw4": 1793262635.1933663,
 "Reuters|CBMidEFVX3lxTE1pRmp4amozT0FjLXF0Zk1ZZ2lCMEJTTE9nU1d2UnltS2xZWXVLd0ZsbG1Dc1p6bTVFZGticENxeDdSOXhTWGQzRjBvVkxiNHRhSng0a3k2dmVkcnZfZ2taSDlkVnhVY3otaVljZ3lDMmFueUFv": 1793317526.738277,
 "Reuters|CBMidEFVX3lxTE9HQ01nYTg1ZFpTYVJUNXlRdTlTa3FmWS1PUTNfX1E2VFBSS1hZdFRWblZhUGtzVnY0N1poQkJXdkg0b21oWGMzWmw3S2NVbE1tajJzQ0xBa0J3U1dtMVBKXzl3cVFEMzEtck9Fa2pTb3dUYXAw": 1792912031.9234908,
@@ -6494,6 +6405,7 @@
 "Reuters|CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE": 1793223034.3977413,
 "Reuters|CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw": 1793225728.2823918,
 "Reuters|CBMizgFBVV95cUxOYmxxX0JFWUowUGY3OXdUSDhwZkkyampiYmZUbnNVOF8tVXNMdExmTWp1TVBFTmQxQkluZUp5UHg2QTZTS1JkSlMxV0VWRURtSlZZai1COUFOYUF6RHo3aDZfMUJ1Y2NWSFI1QXQ5cExYUlgyQ1VUWkFYSkZmNlJjWFZYR01sYjVhOFFUb1RMc0hVUXBDSDh3QkN2OUk2U2FoUnFLVjhxOGFzaWNWZHYzZVFKR2Z3eC1xMWRSX1QxTzZoR2NGaWNJR1laMHBuZw": 1793227530.4269037,
+"Reuters|CBMizgFBVV95cUxOd3Nla2xMeVNaMDYyMkZHQ0pvNzM3b1BqdEJIS3pLN0NKZm1VbjlhUnJVdm43RzYyTHhJWnR0dFdkaXR4amRNNjhJU29ibEpWanZjcEdzT3h6MzVqa3dYRXp1c3pEamVaOVRNNXRiZ0p6RGg1aS1lek1VaFdZYTN0VFhWakhhZEdBX0tqUU1BUWdhX0pqU21fcUVyMWlDTUppN1lkMFVsTjN6YnhMb29UU25LS29SbUVjVmpMSzFSTENuR3M3UkRmRHJCcnY2QQ": 1793340040.7416325,
 "Reuters|CBMizgFBVV95cUxPN3J6WGNOeVpGVUFtLVBCWkItVWVEQmQwMnhTeldWYko5SnR6akxlQTJOR2ZMbnZodUhnMk8zMjRLaFpsQm5iMVFlTnJheVlnQzVhOW5WVFRYdnZHMUFxRWJBMVpUMHhubklkaFJ0dVloc3d0dTItcnJ5NEFMYlBXY1F1ZTFHV3lpN3NOSDNKQkJ6THNpbUp0MlMwRlpSQU4yNzdUMmZQOVFFSS1mVWROaUJpSjNBNXJZQS1nV2xEU1FJQmJaZ1FBenROYkM4UQ": 1793271640.6704144,
 "Reuters|CBMizgFBVV95cUxPRlJ2VXVOdFlqN2JLVUdxWXlTRl9aZjBHSGQyWjFvYXdOMlNkU2lBQ21GOEJOdGtidFVmMXZrenMtUV9ZbmVObkR0R2RfZmRGV2V0aVZoWV9XTnZmUlJVZ082dXgwTVMzNktzM1BzUHg0RFZaaS1nVlNqZ1ZiVXhDdEhGR1RpdGdNTTFnbEpHUnFPQ1plemozXzdoZmhKSmgxSnZQRW4tM2pGUi10NXlBN1VybGYzZ2NuT2RibmI0bWZvYWs1Q0N5bWd3TjBMZw": 1793268925.8536756,
 "Reuters|CBMizgFBVV95cUxPY1FBbGtkNGhROXJGS3lSUms5VFRZSTRDZHJWblBwLUkycjY2OGJLLUVreTc4NHhGVFNLeklQZkQxMEQ5VS1DNHlBZGxtbGJJbjlJNjBsNDZkRFJPaUFqOGJKcm9Za1YzTGgtcEtGMlF5YXE3djc1OXN6RmU3bHJUZmUxSl9ua3JDdjRqVE94eUxOckVEVUswa0pGa29qRzZTZW10YkxYSGQ1REVCN3l6VlRkNkxhSnFDTVM5ODlWdjFvQVlOTE95azBOV1c2dw": 1793229326.9620984,
