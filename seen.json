@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHBzYlJmSlkxc1JBVThONDZYN3FyNDY4bzFPZ2ktUUpZRjhrQkEwWkpIb1l3eTNHSERrWmZKSEFpY2N4UGRSVkpkWVUtblo3MUdlTm5vaERfUGtHTkFqak9CVXd5YWJpMTBMZjhJc0pQQnZxTExEQzZwa3Q3MFk2WFludk5oSmc?oc=5",
-"src": "CNN",
-"title": "CNN reports from scene of train crash in Spain as serious rescue operation gets underway",
-"ts": 1793193399.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-emmanuel-macron-a-preside-un-conseil-de-defense-pour-preparer-les-manifestations-du-week-end_6801580_823448.html",
-"src": "Le Monde Politique",
-"title": "Mobilisations sociales : Emmanuel Macron a présidé un conseil de défense pour préparer les manifestations du week-end",
-"ts": 1793193779.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/28/face-au-basculement-demographique-le-cese-plaide-pour-une-approche-globale-loin-seules-des-incantations-natalistes_6801581_823448.html",
-"src": "Le Monde Politique",
-"title": "Face au basculement démographique, le CESE plaide pour une approche globale, loin seules des incantations natalistes",
-"ts": 1793194202.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Burnham insists 'no confusion at all' over his Brexit position",
@@ -62,13 +41,6 @@
 "src": "CNN",
 "title": "Dutch zookeeper dies after being attacked by leopard",
 "ts": 1793195503.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkVGYXBiWnNCZDFyNVRMSjNnZG5xRENTUDkzbk04SVdRV3d5LVZFbkxRR2FVSGt5MnhUYkZSVWtBNzJBclcxZ3FacC1JTUpMTExLQU9USDhTTjY3aWwyTWNpSlRMUy1FLURMQkpYalZXdl9qS2RFdHQ0Tm9XaWdjU2pqSTNOQ2U5WDU1OXUyaVZYcG1LMkl6UmRJZ0M?oc=5",
-"src": "Reuters",
-"title": "Canada reports limited progress in trade talks with US",
-"ts": 1793193345.0
 },
 {
 "lang": "en",
@@ -321,13 +293,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Jean-Luc Mélenchon affirme qu’il remplacera le directeur de Bpifrance s’il est élu",
 "ts": 1793204521.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmI1bDFoNk1OMkN2bGpWazh3MmpIVHdTcnktNFFlT2FnQ1o2WXRhYkRqeVF3WGxTTHhNdFAwaFJ0d0dsaTdOaG0xazNmalBQLURoNW83VkptS2ZHUHR5MGQ3ODBHLUxKM3IwWXZBMERiOG1hVk1fRUlQdld5S0hneGZXS2hzckJsWEl4MXo1c1R1NnZ1WXhBZ2JyMFNfQTZvcnJIN295OWlJXzRSeWdVM3JLY0FWakNkTHBFSlJFYmhiVjlt?oc=5",
-"src": "Reuters",
-"title": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels",
-"ts": 1793194132.0
 },
 {
 "lang": "en",
@@ -4087,6 +4052,20 @@
 "src": "CNN",
 "title": "Slotkin Urges Dems to Unify at El-Sayed Campaign Event - The Lead with Jake Tapper - Podcast on CNN Podcasts",
 "ts": 1793321898.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkpKYnhvMnQtbHJyX2hKWFBSczhWczJLSmpOdy1pRmRVQ1AzYlVPVjV4ZzJaTGxiRGlLbWlyb3NiTlZLaGM5azRYMHNLUFFmOUtJM0ZpUnFjbVhUVG1BZkJteU4tSm1kTVdNZ2R0ekN5ZktwUFdaYU5SdlloUmh0VGFDSHJaQUs0T3JpVjRPRUVSSjBzbzE4blh1VF9mVDBfNEV4WTRMNGJ6a2dDOTNMOFNvSQ?oc=5",
+"src": "CNN",
+"title": "Musk bankrolling group using AI to attack Talarico on AI",
+"ts": 1793317848.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwRnRaSVpiaTZ5MXdRTUhUTURwVTFYb3RBMlc1WEEtVmZZdG5leFp5RncyaFpPcXd1Q0lKbTkyOU5WMEtYcGZZNXIyS21YRHpVc2FQVk5vMUl4UkdNNzQ0S19NZDVrbG4zWFE?oc=5",
+"src": "CNN",
+"title": "2 helicopters carrying 3 people collide midair near Oregon airport, FAA says",
+"ts": 1793323523.0
 }
 ],
 "seen": {
@@ -4435,6 +4414,7 @@
 "CNN|CBMiakFVX3lxTE9MUEhVSmdBRXlRMHlzMDRxVm1WVktyUnFoVTJPTWpOaktYTUVtZi1ramt6Y09tSHdTS3FZTkFLME85MHdZUE1VbkdyYmtPb0txZnpzS3FOaEFGQ1pIeG1ScndnSzJjbTBNRUE": 1793106925.8356864,
 "CNN|CBMiakFVX3lxTFA0REVnQ0FQVkxzNWE3Y2ZHajhXV3pxeDY5cnpSNWhoMEpWekEyZDZsMldXblRfYVl3WDZoYWZyNWR2R3VJN0dWRUdTS2tvSEhrNE4td1pxQlRwaEdNSWdxM0xZejRFajdxcHc": 1793241927.2380865,
 "CNN|CBMiakFVX3lxTFBWTDRYY0wwSmlQazRXUzN1TlFVQnY1NThJSzloU25abVhBMllIWEVxdDlxcWVVT2htMFpTOTE5M3FVQnNkYzVUNEc4ZkhuR2VYSkhKWFN5eUItNjctU2g2VWRxYWlwMWNQVlE": 1793008843.1617062,
+"CNN|CBMiakFVX3lxTFBwRnRaSVpiaTZ5MXdRTUhUTURwVTFYb3RBMlc1WEEtVmZZdG5leFp5RncyaFpPcXd1Q0lKbTkyOU5WMEtYcGZZNXIyS21YRHpVc2FQVk5vMUl4UkdNNzQ0S19NZDVrbG4zWFE": 1793323833.314121,
 "CNN|CBMib0FVX3lxTE01dUxlcGRWOERRay1CUkx2UkJ1VFNxRGFaTzBRTlB2NFpRMWlCenJhT25sUkZxNW1EWXA5dmVTdHhicmdMOUc0U25WTjhEU1A1M25uTWt0dE9ZbW9SQzFEdXRFZWcxMksxcnd3aFY3Zw": 1792975528.6344075,
 "CNN|CBMib0FVX3lxTE0wZzlDYzlBV2ttYld2YVoxeExZQlZOZDRhbXo0YTl1Wi1ENkZ4a041elVYLVdxVV9WVHJVaXBteHhkM09MUjB3eWVJVEl0X1RFaUxuZ1FaLVoySU1LUUtObWR1blY4M21sYi1CalRwTQ": 1793227530.4269037,
 "CNN|CBMib0FVX3lxTE0zNTNiTjZtTk8xSGpSSnJZUkdNdVlIX296MC1tNjQ2WTg5UmdOUS16aUVKdXpndkRRamtPTGNrY2tnVEdBeFozOG9TZ3dMVkNCM3N6Qkk1ZEtiWjk1ZHdyWUg3Nms2QVpkd19ScEk1aw": 1793045725.385302,
@@ -5169,6 +5149,7 @@
 "CNN|CBMiswFBVV95cUxPRXZKZmxxLW9rbWZKalB0eFhodFI2R0JLa1RydVkzVjBFcmdPM1FCTjROQ3pjOGZSbHhLYkR3dFVza2lVRmc4aDNzQ3JTZHJwWWRVem1PQV9DZGdRX3M5WjZ3R01FdXlUTjFsQll4YUxHSlNMcDRqZThGSkp4elFpYS0xM1RxSXk1eHNNX1BKaUpEWDJLaS1GNW1HemtCNTNvanUtNm9aZUdwaUlEVXVqeUV6Yw": 1792936834.8154562,
 "CNN|CBMiswFBVV95cUxPU1luU01HYmVqc2xaOUFsbHo3UXQtZl9CejZCd25lQmllblB1N2pVc245d2QxeTZhbUlQYnlaZGlyWC1tbmhTZm9ERHFneVlaTFVGR1dzYVExTmZ1ZHhmSkhDclNTM2tKT2NCMk9CX0tuMC05a2RwM204bktfdzNGRnBQZFd3a0tvNkFUMVNodDh3ZjBvVi1DeDdmRWEya2QxV3VyYW9wVDFuamthTXFVcVBQSQ": 1793042126.6168418,
 "CNN|CBMiswFBVV95cUxPWHY0emZlVG82MHlodHJwaW5SZG1hdDBPZk13N2ExeTJYYjVpclpHYTVDNXJqYXJHZ0xJek1nbnRNVWhORHJZWDBwVGZkdmFLYkRVa3p1Ui1qWU9VMFFnbjIxRGtIMHhReG5fbGJmS1lHb2RKVjNYd1VJemxsdmNRcW8yc3FDTFN2NWFSZUlLeTczWElNcmhoeTBqa3ZoR0tMM2Rya01WSGNORElLa014eDJXOA": 1793253639.4994042,
+"CNN|CBMiswFBVV95cUxQRkpKYnhvMnQtbHJyX2hKWFBSczhWczJLSmpOdy1pRmRVQ1AzYlVPVjV4ZzJaTGxiRGlLbWlyb3NiTlZLaGM5azRYMHNLUFFmOUtJM0ZpUnFjbVhUVG1BZkJteU4tSm1kTVdNZ2R0ekN5ZktwUFdaYU5SdlloUmh0VGFDSHJaQUs0T3JpVjRPRUVSSjBzbzE4blh1VF9mVDBfNEV4WTRMNGJ6a2dDOTNMOFNvSQ": 1793323833.314121,
 "CNN|CBMitAFBVV95cUxNMmF6YUtGWlNBTjhBOG4ycE5GQXJsMjdoSFM2OEZZaVNUdzl6bmNraEVTem5Ua0JvbnNkVkdsQkVoTktQeUZwazdjSlhMc2VGQVJSbjQ5WlZQUVYzWm53OTExckJyRzBzbmpETk80dTJLZmJvQTYxeUlWOTFWRFdKUUtKSFNUTF9OZEJXWEVRLVBkcEdlaVZrNEQxZm9CX19Va3hnUmRSMWZxVDRwdFA3VU1iVGc": 1793089835.1308231,
 "CNN|CBMitAFBVV95cUxOTEFYR0RPQlZJdnNxM19qVHUtWjljTkdDNVlWWWdlQTVrQTFNZVBiR2hXWGpuVVBWZm9VXzNfOHNaWFdTdnlWejJMRjdOTi11eWpRSTV0c3NQUWJ3QlVvQ0QxREtna2VjYnlsQUpqcHVaSXRmaVdfQ0lWSGlVTFNxN3dKVThCTkM5VklKeFFYSnVBZDhoWmpUTzNpOWl3WWNRQVhndkdxNUlMTVBsQlRENVQwdk0": 1793133032.981041,
 "CNN|CBMitAFBVV95cUxPYkljSnNkcGI2Mmc3NTlNeWpCZk1kS0thdTkzYlZRVDdGU2pqbHcwU3A2Uy13WmlFanEwTFBHenFhVTB1T2hfSXVlOHpkRk5QNldycTlOV2RITUtKOWdJRkw2V0pqOGZIbENIVzZ6bDQ0eUFUbVpqNDBQQWFsbFRzaHZfbGNEVDA2d2JYUGtpVXFqNmEwVEdaRHlXbjExWmpGOWlXN21QcklrN0tFMXFncW9LQWc": 1793181641.4084585,
@@ -5850,6 +5831,7 @@
 "Reuters|CBMiZ0FVX3lxTE5VNzMySW9FeW5oSF9YdDR5QVI1Y3VYeDBXZW11REZxVHk2eTlHSXU4OGd5OXhSMmx0MXAwbnFVQ1BtelVrOU9FS3F3d1dRYVlLVklEYWVWNl8xcHlXbGpXNjZrWFlSUG8": 1793115035.7537491,
 "Reuters|CBMiZ0FVX3lxTE5VX3kxUUJRR0w0dGR6WW55NHRoRHpDVUZIcmpZRzFvVlZONk9CVjBYdF9WNXQ3UHNXelVNWTBDeFJyNjJRQlpvVUc2ZGVzbEF3VWpnLWowZ0dPbUFvdEV4Yy15R1kyZXM": 1792980042.310782,
 "Reuters|CBMiZ0FVX3lxTE5WcU8tSzBPT2ZkclRpNDdCWGNsVWpPMFFwVnhBTUJBd0VRUnFYemdnajdPM2tqZnNraWExc2FaZXJ5V2xCaUJVaXVLMUFIQkljVVpZMGVCMG1IRGo4Z3NDMDB5NTE5bEE": 1793015128.0146222,
+"Reuters|CBMiZ0FVX3lxTE5fSExrY0twS25uLV9LaW1XbHpQM2lNM0xVTDgyNGxxOGxFWW5LRmRkWHcxUGlFYndRdTJHazJYUXMtLWJ0WmVNOWxUNmpGVHJCSGRic3dRNGZkNnI3MTVFN3B2cVpEOVk": 1793323833.314121,
 "Reuters|CBMiZ0FVX3lxTE5hdjVCYW1OdnZlMXh5MC1pT3c0SjZnMGN0Q1N1U0VMWmJYRnF5a2t0Y05JYzJIaWZZM3ViUHlLVHJSNFdJVWlHdDBTUGF1cHpudGFmaDB1OFBsYlpObWVmeW9jb3NIX1E": 1793059244.7564826,
 "Reuters|CBMiZ0FVX3lxTE5kS2l6QkJkUVQ5b1lYc2hLWkE3eHJib3MtaVhoaUZZeXdEU0U5QWNnMm15U05UUTJSYXNWWUZTaF94aVhPQXVxWGJobzd5ZGc5RmpnZzVaZ2xWWndtNWswT3Q5dkxtdVE": 1793117726.0329168,
 "Reuters|CBMiZ0FVX3lxTE5ldU1JXzhtYVZLLS1mSXNQT1hBVng5NnNFdkpSSXh2MHJCWDJGYWlGUzVVV3NBbmNTdzlQeHo1bW9iVmN4dk1NTU40anFIUTlhLVlXUEk3VVQyamctenA2ZVhqR0JubE0": 1793174439.1437364,
