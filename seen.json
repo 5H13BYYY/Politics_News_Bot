@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWUxMmd4ZDRwMWdhMUJXdnhNcWVFcldTQS1iUHloYk9XNGJnZEQtUllfelZRZDdaalJhTEgwWVY3UlBQWEdFSmM1OHByZWRWVW9TTVgzZ1FBNDkyc2NJTkdENnRjLUttUExMcHNEOXByY1JzMmRsT1RWRk8yUkFmeXVYdVdiZkZkcm1BdVZDcw?oc=5",
-"src": "CNN",
-"title": "Trump reacts to Alaska spoiler candidate",
-"ts": 1793230080.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFk4X1dMQmJtc0c0elJvZFNucEFTdEMtaEZJU1Bhd1d2anVuNnZvZmZfdl9lOEpJM0hrQ3VIYVlCWnJRQkVrZmNzWVI4bG5lV2hqLTF5aFZfQjB3V1JLMGxtakZSdUJyTzdxSG82UWdVV1BGOG1WLVBzc0tUYzMxZnlpQl9Cd0FR?oc=5",
 "src": "CNN",
 "title": "Harry Enten on corruption as top voter issue",
@@ -223,13 +216,6 @@
 "src": "CNN",
 "title": "‘Pass on Paxton’ video gives GOP ‘permission’ to break ranks, top TX Republican says",
 "ts": 1793240280.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45YnFFaGgyTm5xZ2dyZE9mQlR4RzFIRFB6ckh0cGFjN196a1R4b1o5NlVhWWRTOWFLWUZCZnN1cHRDQ1BmZVlrYzV2QzNHSzhIblVoYUg4bWQyRUpmS3JfOE9fbjJTQktMTkVTWVpfRmJLTzFQUGoxT0JWSlpMZw?oc=5",
-"src": "Reuters",
-"title": "Why a Fed rate hike is likely coming in December",
-"ts": 1793229811.0
 },
 {
 "lang": "en",
@@ -3499,6 +3485,20 @@
 "src": "CNN",
 "title": "Hennessy, horses and huge money: Inside the most important horse auction in the world",
 "ts": 1793356215.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG0xTHR5MnhXWURibWJVUzBySU9MLVBNUzNXYjdITGFZRHl1eGNCYk5uVlluTkJxNzRLX25NRVRMVFFUcmRrTFZuNjNwOU04N1VPTmpPTWhnTVNRNGFJdE9jRFFldTBXcVhvMEp2b3doQ2tnTUtBcmwteTRaUWk4OEl0bks?oc=5",
+"src": "CNN",
+"title": "The push to impeach Hegseth will gain momentum if Democrats win the House",
+"ts": 1793347217.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
+"src": "Le Monde Politique",
+"title": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
+"ts": 1793358865.0
 }
 ],
 "seen": {
@@ -4166,6 +4166,7 @@
 "CNN|CBMihAFBVV95cUxOckFlZWJncWdIVGVGT2R5eVNFQnNFdVotS1Y3SW1DVmlYbXkwdENISWJ2NlBkVFNqVjNpNmk0Ty0tUExweERmQV83aDM3QTRibTJpZXVtakk3TmdudWp3c2gxXzgxQ1FLOTR1ZGZPSGdud2lWNXR0TDhGV0NLTzFtcTVYY1Y": 1792980927.5227904,
 "CNN|CBMihAFBVV95cUxPWWJ6VXpuZXdmTmhRcXE3Yko5bURpenBtYTNocWh0T3lYcHBJcE1OSnZZRVM1eFVZZmJ3cllnMGhwMVBGdnh3cjRjZUVuYzJlVmJHYWl2SS1wMG9WNmRTdDNoZG51OE9WbEtLQVVnUzZJNEdFR2dELUt2VDg1MzhMSHFscWE": 1792912921.1568482,
 "CNN|CBMihAFBVV95cUxPZGllUjM3VHBvdXFlRkFnTWYzZnFUMDk5VXpaSUxZZTNtbGVRVW9HMFd2LWQ2NjMzTDQtcmtPQktmT09vamZQT010dk5LUkVoWWdmczh5RkVlbFdpWDJSQlotT1Z4TC1hNzRHRmUyZXc1VUxmZENoS2RYQmt5RDM0enhuQVA": 1793220336.2652586,
+"CNN|CBMihAFBVV95cUxPdG0xTHR5MnhXWURibWJVUzBySU9MLVBNUzNXYjdITGFZRHl1eGNCYk5uVlluTkJxNzRLX25NRVRMVFFUcmRrTFZuNjNwOU04N1VPTmpPTWhnTVNRNGFJdE9jRFFldTBXcVhvMEp2b3doQ2tnTUtBcmwteTRaUWk4OEl0bks": 1793359835.3079414,
 "CNN|CBMihAFBVV95cUxQRzBsLTBPRXROVU1IMHNFTVlJeElOWlF6NVFvR3EwcnpFUEpoLU82QjJnQVo1ZW5UNFQ0OGVsRnQ0YktJWW5BRUdDSzdKTHU5bXUwa0xZdVNuSFJvMGNqN2NhRlZLeUkwQ0RKOGs2c1dhVEd5Ymt5UjVuSVpJa3pScjg2aG4": 1792912921.1568482,
 "CNN|CBMihAFBVV95cUxQVEVUNnBtOEJZNkJ4TndmMktpUjRSaG05Nld0clJpMkl4Um11RzZHOTZ6UDF4U3V1b2MxN3JqOUphdnNzVzMxTFV6RVRLYjhlUXdmQ1BaUEk5bzJyUzdvMHNXNlIyektFdm1nQjhEcUstajQySE9vNXJNa080X3ZPT3lSNDc": 1793272529.3505046,
 "CNN|CBMihAFBVV95cUxQZGlHajdidFFLSW9YVmg5czA4c25ucEZuMlE2VHVHZm53dHBIVjB5WnB1S1ZpUWdwVlBCOE1pLXdRT01vekU4VEo4RkpKQldwZDB2c09wLVYtdlowZWxKOXY3WnRaTGpNaHlqVzhGd2pRRC1rMFZJMnJiUmRUYUdwRGY3UWs": 1793348128.623687,
@@ -5243,6 +5244,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/objectif-remigration-le-colloque-et-la-manifestation-prevus-par-le-collectif-d-extreme-droite-en-ile-de-france-ce-week-end-sont-interdits-selon-des-arretes-prefectoraux_6802325_823448.html": 1793276125.8577242,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html": 1793307641.893474,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-les-prefectures-de-paris-et-des-hauts-de-seine-interdisent-le-colloque-sur-la-remigration-organise-par-les-identitaires_6802356_823448.html": 1793290525.2920587,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html": 1793359835.3079414,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html": 1793354440.5258033,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-dans-les-bouches-du-rhone-les-maires-en-colere-menacent-le-gouvernement-de-ne-pas-organiser-l-election-presidentielle_6802990_823448.html": 1793353525.5542397,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/les-ports-francais-et-europeens-perturbes-par-une-greve-des-dockers_6802917_823448.html": 1793348128.623687,
@@ -6347,6 +6349,7 @@
 "Reuters|CBMiwwFBVV95cUxQM2Ixc21EUXZ4UEhWVEtXSkJzV1EwWm5tT0V5dlFkbWlKaXJidVNoLU4xZEJScWpKZnlYajJyQUJITE95cXpwRm0wdE1jSGhOV3VpWEk1b1FtRU80ekFYZ0xsTEdPMldZU1EyRkZ1cXU2alZ3eDRBUU5xVGtpM3kxa1FqQUR5Nnk5Q1luX2ZZbkJUMHM2THMxa21GTUlabXgzMWljZWtkM3BxS1RRbklkWlZHNmNzaVhVeGg4U1RWWWV5d0E": 1792929640.0968695,
 "Reuters|CBMiwwFBVV95cUxQU2NKUnhMNTltUE4yRzUwTUFQVDU0b1ZqR19OSkRHTmhBcFk5cHEtSXN2b0d5SUEtOEczMTRQVXQzNlZ0UENocldxQ2lKUlNTNjRKM1ZlMFE1aHU3ZUxLalhjZmtremFGQWNNN3g0dkl6ZmxuRFdQaEVhX3Y0T0lDRUFOZVpNaWNrNW1xSXA0NEVmd1RNenY5TFpXY3VJNmJ5Yy1nZnNuWS0za2g2VmR1bnhxNC1td1ZWcjRYOVpWR0pPZnc": 1793146527.9270666,
 "Reuters|CBMiwwFBVV95cUxQVkJINDNWTi0xMlhKWTBGWWJHdTdlbU1QRWZ5bnJBdmN6aUtRM0xYRDNqSzZhUXNMWUhNY29SZnViemFWZHRZZFVGMTNUMzhBM0xWNkJoU1JFN0Y4QXJOMXA3bVViU3hSZ3ZhekYtblZUR3VvcG5jY1d5cDdLcWFWZ282VlFnZjd3em11cGZDQ0VaZjBVdkpFdmJWbDhjaHE3SFFqbW90RkhxUWJYVnhvY0N1Z1JpODg5aFRPSXdENFIyYWM": 1793186127.5045333,
+"Reuters|CBMiwwFBVV95cUxQYi0xM2JlcVB5b2NSQk9RbFd4MzhwdUV3eXJBY0xuR1dibzlhanl3MWM3d1FZazJXOTJqSnJ1cFkzRHpkRXlsU3ZUYXlJUmN2V3czTEhuVjJXVndKRjQzUkJBeWxoUjVIeVJnRHNJZkk3NU1zUHRKUUJSU3B5VThJNWhRRGZ3Sk9HTjY2Yk1qeHpWa1VBbGROdlZBQ2FYcnhhUnpGMTBpa180Qml6eVBib05JaVVwSzBhTXdmemt6U1RrbTg": 1793359835.3079414,
 "Reuters|CBMiwwFBVV95cUxQaUlocHg0Wi1HZlV3d1NxZTgzNnI4VnpNaXl2OWNfaWVPT0dUQTZZdUVuMWx4QVQ1YTk2QTF5aEltWF9FdExLRnUwZ2d1RTh2alVlMWxVLUxQVUhLdGQ0V29uaFBxeWFSUEdhNFBZOEJYM2EwbEhkZFJ1WGl5WUwyd1NQMk9qM1hfWkY0Wjg2Z1lQTldRQmQweUV5VTFQQjhUaEx3a1V6OTNaZm5pWUc4VnFyNXdHY1lSSjVZTHdiZ0lhaEU": 1792994439.246797,
 "Reuters|CBMiwwFBVV95cUxQcUE3TE5PZ0RPU3B0VFVDMFpLMTlISmJiNlNjeDRpOGN0OWNpTldZYWtyLWVhblI0dXFORjZ0MmdmOXFuOU5SUVpTYkVTVjN4RVhSNlI3QmVZYlR2Z2RlbjB1dklOdjJMa2lzUmNZalZzRlVDT0lYVGhodW5nZmpibFhtSEtCSVNDVXZ3Rmd3N3IyeEI5QndLbUQ2SkxvUFhhdjZnTVZRcW9iOXN1Mm16d2FSM01UUl9NUEpLS3NEdUFQdFE": 1793279726.6660645,
 "Reuters|CBMiwwFBVV95cUxQckhjWGxOU2JrMmdQNF9EcVJqWGdXd1JvODF2V3dtZHFDRV9LUkRFeDE4bF82TVRxQzhidWtOX3FZQmpVcFFCd1hSY1JaWWJ6RlY4VnJEMGhQWVFxUzRkenRLYXR6RmdxSWxiTVZwOTdyX3lpMEROZWl1dHBRU2EyWUNzd2hXY2ZJSWdoRzR5VXAtVUhOWG1ONlFYQmJDanFVaVpHLU9oS3AwNWZnSmRmX2ltcE1aVUlycWg5SmVtNnBMS0k": 1793145642.8676639,
