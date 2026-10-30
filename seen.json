@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/28/enseignement-superieur-le-sous-financement-reste-sans-reponse-malgre-un-premier-pas-gouvernemental-estiment-les-presidents-d-universites_6801597_823448.html",
-"src": "Le Monde Politique",
-"title": "Enseignement supérieur : le « sous-financement » reste sans réponse, malgré un « premier pas » gouvernemental, estiment les présidents d’universités",
-"ts": 1793201157.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGWlRzby1wQ29Yc2JuWmkxbUVNNFRpMUx3a0FoT1NjOWpXc2VHNkE4TEsxcW9lcXA5NGxzUGs3a0N2QXB5d3FzZHpRLVlfWVN4S20zSTFqbFF3eTRPdTRTSEZFSQ?oc=5",
 "src": "CNN",
@@ -121,13 +114,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hmM3czNEdSNnpYeVB5eGZpZVB5QzJSa3ZNdDVsVVd4WHVZTkhyMjFpM3J1czNvMFprVU1NZmN3cDJmT1FTN0ZCRXFkYzI4TFVpbkZ0alFuY2l1QmhXWmJ3V1duQVhaSThlSjY3djh6empxXzM3VGIxQmVsMUFXSGdEVjRZMW1EeXZnU2Q3cHRITE5XWElQbG4zOERNUW44WXd0RkdYVDdQc0xERGdPdWRn?oc=5",
-"src": "Reuters",
-"title": "Prediction market bets set the tone for Anthropic's much-awaited IPO",
-"ts": 1793200861.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmRZb2FaYzNwN01jZkQyVDduNGVhQnlKUGFmRjFiZGlEOHFDaVhWOFdrNjFPV29tQzFuUENrVEpNZGt5LUlvMjItOWdVUGJDTWxOZWk3MFZnMU1MTTNYTDIwMU1ldVl6eUNzb19iakZ0aUdWOHdsN1Y1WWVUNnZtNzVQeHdtQTg?oc=5",
 "src": "CNN",
 "title": "Scientists discover a never-before-seen potential dwarf planet in our solar system",
@@ -167,13 +153,6 @@
 "src": "Reuters",
 "title": "‘The People’s IPO’: Dangote IPO closes after drawing major investor demand",
 "ts": 1793205158.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak1XQ3I5Y25ZUUdWTlFEbnJYcTFNRFgxTmYzRXJzVFhkYzNpdHk1NUVyMzlVTzlLOGxhX0Z1QlFMNW45MEFQNlRfS3lEenZtUllHMDQtMnRWZy1oY3NHQXVxYmh6UzA0ZUluSXR2bE51RFFzeF9mUXZPR0JpY2ttdWkyRktiNktZb3ZSb3E1d0dLSkVOSkxKSGc0VDNWX25yNm41WFVyaDl3N1hwYmJKeGk5dGY?oc=5",
-"src": "Reuters",
-"title": "Italian judge frees protest suspect, prompting Meloni fury",
-"ts": 1793201420.0
 },
 {
 "lang": "en",
@@ -237,20 +216,6 @@
 "src": "CNN",
 "title": "Inside a Michigan election center",
 "ts": 1793206560.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUFYSUVzczU4c3VBa1VPWWRjcThyVnY2bUFyWGs2THJESzZJNl9kcjlSaVlUeUFpemFGNnZ1YkMwSkpESXR1WG9QV3RyTXJjb3c3d0oxYVQwRkNPNWE2MXBhenJvbXdBTkhqSUtxam9SaVhBN2dxT09Ua3c4VGtSeUJMRGc0Y3hrWUwyUHd4SUQySWlVc0o1T3c3OFRpQkppbkE?oc=5",
-"src": "Reuters",
-"title": "New UK finance minister unveils 'steady as you go' budget",
-"ts": 1793201055.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/moyen-orient/20261028-y%C3%A9men-plus-de-dix-morts-dans-des-frappes-saoudiennes-les-houthis-ciblent-l-a%C3%A9roport-d-aden",
-"src": "France 24",
-"title": "Yémen : plus de dix morts dans des frappes saoudiennes, les Houthis ciblent l'aéroport d'Aden",
-"ts": 1793201081.0
 },
 {
 "lang": "en",
@@ -5160,6 +5125,7 @@
 "France 24|0c6e4f0c-d151-11f1-879c-a9f1b4ed1116": 1793029529.2200255,
 "France 24|0cc25a26-d213-11f1-85c1-89fbe534e3d4": 1793113242.844439,
 "France 24|0d7672e2-d0b8-11f1-8c45-b102727f9dee": 1792962926.5174387,
+"France 24|0dbfa7cc-d410-11f1-8fd2-eb36430c67cf": 1793331032.958267,
 "France 24|0eaebe22-d3b9-11f1-94b6-b9f0f6ef9b7d": 1793294129.1107152,
 "France 24|0ee1d4f8-d123-11f1-9bd0-6ffdf4852003": 1793010634.9602375,
 "France 24|0f789998-d145-11f1-9be8-3fa69f81bcea": 1793050238.2716792,
