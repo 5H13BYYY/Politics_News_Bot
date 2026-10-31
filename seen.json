@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/france/20261029-prix-livre-albert-londres-arthur-sarradin-pr%C3%A9serve-m%C3%A9moire-rescap%C3%A9s-prisons-syriennes",
-"src": "France 24",
-"title": "Prix du livre Albert-Londres : Arthur Sarradin préserve la mémoire des rescapés des prisons syriennes",
-"ts": 1793305941.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxb29qaWtOajJ1SWt4bTdTQWRRbnNDS2hxbko3UFhPeEFQREE1UktJQU54bjJ4bm1QS01mX1MyNi1QcnNQbjdXZ2xvSHczMFNuZzdJcWV4TTFRSEdVS09SZjlpQmhSYUFrOThUQ0RZLTVBTFRweUlNY2Vn?oc=5",
-"src": "Reuters",
-"title": "Vertiv, Alphabet examples of AI 'haves and have-nots,' investor says",
-"ts": 1793306579.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html",
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
@@ -72,20 +58,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neVJ6MU53Q2JZMm44MWJsaVF3TFY1TWNoVUlHSzVMdTlDUkZmQnNYbGZoWmJnQWo2cTA1TlhSRVRCZ1JTdlljZ0wyMFY4NGJ1bXlXaHZZU2ljVXM5TmNocEVhWXRsOWM?oc=5",
-"src": "Reuters",
-"title": "Stocks will move 'sideways' through year's end, investor says",
-"ts": 1793306108.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oNEdkanZfbHg1N2dTYXFwV1FEN09ELS1YSFZlZFVTTUlyUnRQZG5DODZUT3M5UUlLNlNFQTU5MEEweEktQW1PUGNvMDBUQTZscW5jcHl6UG40azQtWmJtbnJEWGUwZ28?oc=5",
-"src": "Reuters",
-"title": "Vertiv, Alphabet examples of AI 'haves and have-nots,' investor says",
-"ts": 1793306579.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uVUpCcGFqRXZhVkxfNTBhcWpHUmJ6eHVoWE9NeHFxSlVZQUNiaE0yQmROdHBJSzhxcUgwUGo5bGZ1dXVyaWJJb2xsaDJLNzJGYU1BSFZ4ajEyb0E3cm5mdG11LWVrLWs?oc=5",
 "src": "Reuters",
 "title": "Trump says Canada has treated US 'extremely nicely' after tariff pressure",
@@ -97,13 +69,6 @@
 "src": "Reuters",
 "title": "Machado says US has proposed Venezuela elections for 2027",
 "ts": 1793308387.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXpURnVtVEwtS1MtU1phcFJQWVY3Y0JPRXB3aGJjMWVUTkVkdVk2cTU3THItZDdrYkhWN3c4c1dYb0pEcjZqWDctdmVJRDlSQk9vN252a2QwRWVNVUphTGp3cUpvZ3NNYmw4ekZBbjdlQkw3NXZKWVJ3S0ZZem0zRDMyQkt3YndsR3JlLWc2TmpUNWNGa1FCdW9PUU5GZzNlNnNSOURBa3ZDRVBBT2ZlQXBmUlFUZXpBUFNiS2g2ZjhLYmpp?oc=5",
-"src": "Reuters",
-"title": "EXCLUSIVE: Greek PM calls Turkey-Libya maritime deal 'void;' calls for global truce after Black Sea attacks",
-"ts": 1793306404.0
 },
 {
 "lang": "en",
@@ -3303,6 +3268,13 @@
 "src": "Reuters",
 "title": "Pelosi arrives in Malaysia ahead of expected trip to Taiwan",
 "ts": 1793414620.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkRfckVPS0Z1bl9mT1pYRGRaV1BaeW1nbnUzdFhPZ1J3RzRQRTBDMVB1RjZWUDlnUFo1STNwaGtCRWZXSjZxRWZiem5ISDVMRkd0OGVHWUYzdHFxNV9NQXBaS3FKb1NyNThmNlRNTjhudUhPSGJDOUltUGk3dWxxSnA2akRxejVnc1p6SVY4cnBmdkE?oc=5",
+"src": "CNN",
+"title": "Bet You Didn’t Know This About Halloween",
+"ts": 1793435914.0
 }
 ],
 "seen": {
@@ -4033,6 +4005,7 @@
 "CNN|CBMihAFBVV95cUxNa3RGOHlOZ1dWRnZtVHVENkRjaDdOZm1QVERyTE1lcjRRcTNTazNlTHJkNFozdVlySV9wX01pcnppeXZlQnRBWmR0WVpuakhNVEcxS012RGp0cGQya0xBSUs2dTdpdlhfZ25UN2lyeV92bVQ0dXpRVl9LajFIa2lGaVNXWk4": 1793192444.7248962,
 "CNN|CBMihAFBVV95cUxONTl1WG5lb183ME1reG5aVWg3MGl6b3U4NUZud1pZWlhaVjZOaFp3eGdvSjF2MW1HeThLTXQzRGlhWnBqb2hmdW04eWNDbmdzRUtEV2hoekVXVENoelRVdkJLMEFNZjhVNVhOc2ptZGdkVk1CLVVzdFc3UDlUektFRUlHa1A": 1793060126.7645686,
 "CNN|CBMihAFBVV95cUxOWm9BVkxKM1padFJHaGtydDJqVzYxLUJYaXNycjVOT0d4V0VZRDljdFM5eG9lR0lEbkhhRkFRZGJNRjloUUF3eVVSS2FaaEg3WnBvV2pPb0pzaEFnd0FyNDlBTUxHZ2NVSldqSEJVdWxDLTBKd3plRGZhaWplZWw1ZGxSMkY": 1793206843.939874,
+"CNN|CBMihAFBVV95cUxOZmZaWWFoSURqOW10RHBWZG9BeW1mbDRtVHJYc2RyUGh1c0k4RlRnb1lIbmVoMm1CX3NwVkVZM2wzMWhMYWU0MHRQNGVnTlM4dWRMeGNnNkZWYzdqcFdqRUpHdjVQbUY5NjFaekJjb2lxbGJtbDRZVVBiU1o4bHdwcWRRN2g": 1793436324.0201294,
 "CNN|CBMihAFBVV95cUxOaHAxYmJSMGFrWkZldThPTGFadHFNX3piZDJ3M2FtdDJ4eWVVNGZXV01ILU4tRVVMQ3p3T0pJSHc1VTNvY0REbWlHbEhfM3BveEIyUjBzX01YN3JSTTBmTGxRRXNxakxEbWZHN0h4T1N1ZGluMUx4ekZqSEJNWGdWenBmeDU": 1793106925.8356864,
 "CNN|CBMihAFBVV95cUxObDNUQmdvamdpOURwZHZJeTdYN1U1Y3p5ZWducGxTVXFSdXRVUmpja2wySzVkdFRnZ2pJczlBYzczaXQ5cFRFUWxYVDlPQm1xb0d1ZnBTQWNqRHoySWJ0NEJuR3dvUWZIR2w0ZnhvSl9ZekRkRk12MHdCb09KUDdyRkhpZjI": 1792959325.548691,
 "CNN|CBMihAFBVV95cUxOc0dhZGl6ZFg0bEU4aXhmeGdQUW1jRFRTeGpKaGhXWnMzSFpzd2ZFdXNqUTVOS2dmTDc5ZmE1clo3ckExY3dnSGM2RXBlc08yR0ZBWGhNM2g3bDNRYVE0bjNhcmpYTWpGaUp2NHRxNG50bHlqUlo2aEpBYkNaMEpNWnJuWnk": 1793190635.6630328,
@@ -4294,6 +4267,7 @@
 "CNN|CBMikwFBVV95cUxOQmIzbG5faTdlNk5DdFJBamFGVllwUzdlZ0VyTFNXanRlUW11M3dLS0pDTm5tX0UxVWJBUlBwN1ZSb3lCSTZqMXFEWFVtZk1Mc2dHRXJESzNnQ2dOZW9Kb1Z6UEhCQW9Mak5vYmV4bTFYY1VXWGYxNjQtV1FiOTVGWXF2QWFNZTVSNWd2a1I0Zlg5MTQ": 1793376925.3028862,
 "CNN|CBMikwFBVV95cUxOS3IwNjNxd0Z5NHJxV1ZVcDh5amtuMW9jbnZhcnNJdVZvaTdjWV9iZmpza21JQkZuVDlVRk1yWkJHdmU1cWZneFlCZmFITmVrMUxqakF3RTZCNlZLSUplMmh5XzVCMUkteXZmSjEyWTVXRWoyVXlpTFJUZXFfTGdSM3JjdndkTUEtNjNLTkJQaGRsX3c": 1793395840.0476148,
 "CNN|CBMikwFBVV95cUxOTkljOVMyR29NcmdITDlrQlp0VEZNQjlhYURrZ0hfRkhpclBMa3l3ZlpxZ2dVaFdDNnpydGxmWE5iY0JvLVNkVDM4SjRqNEVyVVdwaWhTME40STBFcElMQ0ctanBMSVMxeFhyNE13UElidnNVMUdyUllud0lnNlh0YUdpYmxPZF9MOHRQdXkyT0xuZkk": 1793249125.369052,
+"CNN|CBMikwFBVV95cUxOUkRfckVPS0Z1bl9mT1pYRGRaV1BaeW1nbnUzdFhPZ1J3RzRQRTBDMVB1RjZWUDlnUFo1STNwaGtCRWZXSjZxRWZiem5ISDVMRkd0OGVHWUYzdHFxNV9NQXBaS3FKb1NyNThmNlRNTjhudUhPSGJDOUltUGk3dWxxSnA2akRxejVnc1p6SVY4cnBmdkE": 1793436324.0201294,
 "CNN|CBMikwFBVV95cUxOUl9RSlFOTzRUZ19BbEhRQ2hnRjVEN2VSSlZ2d294Rk9Pb19SUGoyZFBySlJMU0l4TjhGU0x1N2J2U04wOE5kQnZtLW90eklrVjY5aTdJb2lHUXhLLU9TSmtEMFlGOEdWbXMtQ0RJSDlSWDFCVDNHSnIweEtxYzZPU1Q2ekREdHJXTmlrWS13SVltWFU": 1793186127.5045333,
 "CNN|CBMikwFBVV95cUxOWExMSHdtYmZGM25TczN5MHA3OW9TMDNieUp0cjlXQ3Jwank1b2tYSmdiLV9WTkFyN2VmQlFXRWJzbDlibVpwVm9SLXJST3BTU2h5UnRpUmkwcTNuTldLdC1UMF92TTd6aC1oTzJRRm5ic01VOUNJVDhWMnhBTUVuMDQ5d2YtbnlEenJ1N0QyVWNuTE0": 1793236524.364081,
 "CNN|CBMikwFBVV95cUxOYVBQaUFmYTUzS1Uxc0RNZmU2U3Nmc3BqWE5Tc0FGS2h0TmpqZTA0OGNsUWUtZzMzXzl6ZzhYYUVRVDhkdnpVR2xmbmxwMjAwbC1ldHpfUDVGQzJQNE9WdFllX1YtNGdEUVk3WXdGTkpwQS1MRFVaWmhOMFRwMGxCSUdsSWpndk9QSFVtWUtQcVEzWGc": 1793273432.8183353,
@@ -5013,6 +4987,7 @@
 "France 24|add1fdc6-d449-11f1-bd32-2f38ba2bc5d2": 1793358040.6947284,
 "France 24|ade59812-d143-11f1-b0f6-7b772a04489f": 1793024129.9475675,
 "France 24|ae61cc4e-d3cc-11f1-a76a-8178b688e392": 1793314841.3412535,
+"France 24|af2bd732-d4f8-11f1-a512-21cbdcaa2efd": 1793436324.0201294,
 "France 24|af733652-ceb0-11f1-b1da-a995cfbe3b32": 1793342727.4364471,
 "France 24|af73b3f4-d44e-11f1-b02c-d5038f574105": 1793375126.1995485,
 "France 24|b0d2d30a-d15c-11f1-8dbb-b167d47c95ba": 1793034925.3473341,
@@ -5726,6 +5701,7 @@
 "Reuters|CBMiekFVX3lxTFB2MHJhX28wTGtTelZRLUZlcVJocWVZSWxranJPSEIwcWJJSHpVeXZWNFdMclRJVkthRDVIekw1Uk9MTGRyTkNEYjRoQ1F3VXBlMkxpbkZRejQ4RVhIVE1xS2FQOWRYcXViVnZvTk1UYXhKSG5vQTgzZzFB": 1793219434.8698084,
 "Reuters|CBMiekFVX3lxTFB4cEFYT3VPWm5OZk9XWTFhNmtpSmlrTlJqaDF5NXNQV3ZwV0luUDFCcldlWjNUMUdCaXR4bWZpa0ZSRTRjaEVxWGg0RlRrU2xSaG80VVpUOWZ6V1JqRXp6MElWbmttTVhpVXVKdllpb2lpaGoxODRuN2VR": 1793097929.898054,
 "Reuters|CBMiekFVX3lxTFB5Z0dlMjctZDFUNG9lQzQwaHlQdUhvbFNIbWxuV2VDaUo1X2pJcUN3VE12TTZBUXBFdzE0Qm5OV0NPbUs5MGZQZ0hLa1llZ016SFdDZVU2YXhRS3FfMHpHUklyckRWdFFla1FBQVdpemNQd2FLanA1VWRR": 1793203249.0614064,
+"Reuters|CBMiekFVX3lxTFBCVXdjVFp1OXozZHZDRWhSV191dVc3X0o1MjNiRkJ5T0lkaHEtamlMbkpSNVVvdWREZU84QVh3ZWt1TFZhYmFadGpubkJ4enFrWjJGZzUyNkIzOVJkaURBNzZkbFlfVndnQUtYNXdjOFpDak8wNW1nMTRn": 1793436324.0201294,
 "Reuters|CBMiekFVX3lxTFBMWkF0SkZtQld0Qk9IdXpFMUZWQ3NCcTR5T3dDdWhkUWRoM0toNENTZWNNRFpVVUk5SmE3Mmc2Y2RROXJEYW13YkVGVm5BbHpIZ0daRzJiRFZiRXJLSkRfN3FtR2RreWJFdnRaWEJuM2g3dVF0NHdyWUV3": 1793251833.8198926,
 "Reuters|CBMiekFVX3lxTFBNSGdBR1BUcThfSEQxVEE4b2VrLV92Rm1pMWY2bUlkbjItOF9MWUpsV2plVm5UU2RUTGV3bnRocWh0a28wX1BqZXFhVmU0b3hTWUc4QlNTRFJyWVU4d1gxV2FNV0ZhT0lSZVlqQVMycmlFVXdKZWRsZUp3": 1793022326.7653923,
 "Reuters|CBMiekFVX3lxTFBQR19QS1ZxVkY3Ykx0dnVYdGV3ZzRxdHktaUJJQ0xDV3VDV0NzRXUzVEpoTWtwQkRzbTJoVGxWcVJYbk9Kc2Q2c0JrcjF6dGNVT0hNOVphOWVKRUJCMHlPT3dJTWdaZlo2QmFLY1RHT2dkbFNjZjNyem5R": 1792985432.7294014,
