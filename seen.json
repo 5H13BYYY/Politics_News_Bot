@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
-"src": "Reuters",
-"title": "French centrists' feuding increases odds of Le Pen-Melenchon runoff",
-"ts": 1793344116.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261030-trappes-ils-d%C3%A9noncent-le-climat-de-haine-qui-a-servi-de-terreau-%C3%A0-ce-drame",
 "src": "France 24",
@@ -83,20 +76,6 @@
 "src": "France 24",
 "title": "Au Texas, les républicains accusés de modifier les règles du jeu électoral",
 "ts": 1793348878.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VcDFWMVVkT2lWa2ZFbW01al9zWVpsNU01X2ZwM25TWHIxdTVhQW1IUjVDZWNDbTVxMDVDaUxGRVhiMV9WQ2NXNWlsRFFvc0pYSzdNWkpCaExqMkRN?oc=5",
-"src": "Reuters",
-"title": "Cougar project aims to build highway crossings",
-"ts": 1793343644.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51UGRoUnBPQUJyeHFfLW5xSm9taGtFWnBHRXZ3emdUTko5d29BZlItSG1DN29la0pwMGk4M3NPdmhQWHoyOXZQYVJtQm5DQXZrenQ0MEZXVFpQQjFX?oc=5",
-"src": "Reuters",
-"title": "Chinese EVs gain ground in South Korea, but Japan is a harder road",
-"ts": 1793343645.0
 },
 {
 "lang": "en",
@@ -3296,6 +3275,20 @@
 "src": "Le Monde Politique",
 "title": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
 "ts": 1793471515.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb29odE96T1FNMnJyanVycG1XV2EyWE96ck80Y3BxQmtNUTNiVWVaVGVRQmN3c1BQT0NfcHZ2MGFUUWdKUlpfLWh6bkR5ekF5bURPSjFiMUl6UEZCR1R0QmU2b3dsdmFDY3ZycDhfUjRCWGExdFl5Y3AweEhaaU1FRUJlTQ?oc=5",
+"src": "CNN",
+"title": "Paxton Rally in Fort Worth",
+"ts": 1793473620.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-laurent-nunez-declare-que-les-corteges-se-sont-bien-deroules-40-000-controles-realises-dans-toute-la-france_6803391_3224.html",
+"src": "Le Monde Politique",
+"title": "EN DIRECT, manifestations du 31 octobre : Laurent Nuñez déclare que les cortèges « se sont bien déroulés » ; 40 000 contrôles réalisés dans toute la France",
+"ts": 1793473713.0
 }
 ],
 "seen": {
@@ -4004,6 +3997,7 @@
 "CNN|CBMifkFVX3lxTFB4cFh2UUtFMm80LWNfVkhGVjM0d1RHV01zTXlONGt0TXhJenhzV2VhZWdweU1rMkluWTJZTUN2bFhteVdLdmp6Y2hCa2RCdmlMUHVjeGRQMVdaeEd4WFloU0gtM0MzYUdKc1l5NGFPdFUyd2RTZmd2OUlyc3JLUQ": 1793276125.8577242,
 "CNN|CBMifkFVX3lxTFBISHJaSXdaRmt6a2w3cUNKdTFzcWZhdFdlcnJHS2JrRFYxeVhEbjFZci0xQ1FNWExYRjNhZmpiZEREbTB6SDRSbm9BZmVFMF9GNy1xTjJtVFVPM3BZbnVTaEM3ajZWOEpEcnU3dThHbWhoV0diMHR6WEtfeDNIdw": 1793143835.2585323,
 "CNN|CBMifkFVX3lxTFBWdGlOSGFWZ21jS0o4MUVtVUo1MjlpV1B4XzVRYkp2TTBhTDd6MXFvb3dTYkdsWjVHZ2xXbEhwYVBrMjE0QVVMdV9iWXc0aXZxWFdOcGgyNUk5Zy02SWd0QjI0NDZMNGNEYlBVYVBYQlhyR0JhbGJOMGdlS0VqQQ": 1793381436.2808292,
+"CNN|CBMifkFVX3lxTFBuRW82WFNpaFpfcUs2MzJJMkZoWWx5STBjSjRJeVVIQ3dZNjRQVTZaN1dKYnZMUGNXREdkTzFPRlkzQXNiUUtpZWk4NWEzZFpfTWFXRUlvSl9Obnp6bElubG9jQmJZN25sMlpPUlZZRmN3cE1SMFkwTTk1QjRHUQ": 1793474130.9776192,
 "CNN|CBMifkFVX3lxTFBzZGt3cTgtZnlVUUt6THNOcmYtM1hsZVl6V183MVpxaXZmWEFVVG1IbTk4a0pfQTFpTElOdUJQRVZtUFZxbm02YjhmcTVrRU1IaEw5VjJQZThpWnNSQkdNWlh6SmZybEZZdnJHbXA5cG9CLXZtS0x5WGF1VEtXdw": 1793092525.5795987,
 "CNN|CBMigAFBVV95cUxNLUtfOUY3VUpvSHdtZnJ6V3ZKRzBDTnpyaVIxVm02TE9IUkZZVlRuMnB0bDJlRkhsbUpfdXJlaGwzcUNNcXMtMGxQZC1jRDVHYkRSWV9jc2NSNi1hdktibUdJamUyYUNaR1lkRzdjdjRZQ3p6Z0FLUVUxQTFPanFQSA": 1792912921.1568482,
 "CNN|CBMigAFBVV95cUxNNEtuaHBmSDlOS1pYRy15dmw2WE9QOFlkN1g0NktiN2Y5WHV1NHNPTFd2YUVjMHNYYWkyMU0yNXlERnV4clJwUHBRV09pU08xVVFoT3BOZER3Q3JCeFZ3VHQ5NmxoOVBoMXBWUHFPWHFSWWlZdlJGWU9lcTdaa3NEdA": 1793016926.187019,
@@ -4060,6 +4054,7 @@
 "CNN|CBMigwFBVV95cUxOVkF3akFhU05qbUZRWHcxUk0wVm9WQnZjQzZtakVrdlphSEhyTVI4WGlrNFJVMWNMSno3MEVZbEtGWE1GY2o4VG5YYW16cGFRNXM2eTVDbTZMNE1yQmZ1SXBtSGlUbk1hMEcxQllnLU5kZ3VoaGJXYWtncktLLVczWFpxZw": 1793286041.3185582,
 "CNN|CBMigwFBVV95cUxOXzhsX0g0TzVVT1Y2VDJ2UnJrRC12cmtrdlg4YTVxNlRWQ2lHM055V3VDV0R3TzFRU3BKMDVoNE9VS3dCQkpJUUxjMFdBTW5lNnRpY2x4V1NRb0xzdDdaWTVJUzlGNUE2YjVrelo1M2pwNjg2d3phWnZmQVUzZzJxVERJbw": 1793456125.0995028,
 "CNN|CBMigwFBVV95cUxOa293ZWZ5cllzeE9jaVNEVWE3Ynpma3VBNnZaRmY4YW9DNU5STk1jZGxFdXY1WW1Vd2E5UzVhRUx5Uzc5eHB5R3hvNUwzZHBoUjBGTVpUWGpEMjZKanNBT0Z6WDF6emgyUV9SMUV1WlkzanVNUXNvXzNVdnpPV0ppbktBYw": 1793361641.3968227,
+"CNN|CBMigwFBVV95cUxOb29odE96T1FNMnJyanVycG1XV2EyWE96ck80Y3BxQmtNUTNiVWVaVGVRQmN3c1BQT0NfcHZ2MGFUUWdKUlpfLWh6bkR5ekF5bURPSjFiMUl6UEZCR1R0QmU2b3dsdmFDY3ZycDhfUjRCWGExdFl5Y3AweEhaaU1FRUJlTQ": 1793474130.9776192,
 "CNN|CBMigwFBVV95cUxPN0Jyb0F1T1BYX0lDWHRraFNCT0tqUFgtYk0tSnpabzFXYXRWZm96NWI2aERnNHlSS3hhOW56TFp0djhwNWo0Z1hOcmUwa1VJNEJpZ3I4a2dmR1F1YUFOWEVyVV9jWHllRmFmaE8xTFlvekp0XzBJYVRMM0ZpX0tEa1BIRQ": 1792958440.360454,
 "CNN|CBMigwFBVV95cUxPOXlDREhQb3RjSEEzRGpsV3FYRVI5Z1l1bmFfLWZWemx0MWl3RzExQmRVcE5lUksyZFRrNWpFU0laM1gxMHhkVHpPN3o4OHBfcGVmVWxVOWl0cHR4SEZOUkpNbVRxcFRTSmt4bXhUV1ZYYWI3aDZnLWhrQjZ3OHY2YmQ1MA": 1793079032.3150072,
 "CNN|CBMigwFBVV95cUxPZTJYcGFCZEQ5dktTMnJHZ3Y4d3oyMXVzdzFCekJOcVFjcGF6aXVuNjFxSFQ1VmNKQWtZVTBaX3BRbWxBSTZPbWFMX2M3cWM1RFh1eUpQRmpvbzkwLXdhOGp6UzJJLVE2cmJWSW9lR0kyNXNaTFk5aEJXeXpoN3pGNnZzTQ": 1793153727.2979956,
@@ -5466,6 +5461,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html": 1793462438.8989837,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html": 1793452525.7107594,
+"Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-laurent-nunez-declare-que-les-corteges-se-sont-bien-deroules-40-000-controles-realises-dans-toute-la-france_6803391_3224.html": 1793474130.9776192,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html": 1793423728.032773,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
