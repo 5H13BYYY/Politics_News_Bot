@@ -72,13 +72,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTlxRWJYVzEtbmtpdUhPSVJSbFF2Zk5RbDNCeS1jakpZalhDUTByc25FNEtQVy1sazRSRFFCOUFvQWMxZk82WUx0XzJYbFEyLVQ1eXMwZG5CUUVIOGF0NjVjMDVPc1dmbVJZVlFXanRmN2QzcFV3cVB6MHJtaTdJVTRWZndyalItQXVRSzd5NHR2bFVBcGR6QzJnczdhQjhHeXcwUnNmenh1ajVzYjk2dm9LZm4zRmFLV1hF?oc=5",
-"src": "Reuters",
-"title": "Venezuela to offer state assets to private sector, President Rodriguez says",
-"ts": 1793291642.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0I4ZjFfbllYWVl6NzYwb1JjSmt0VjBpTXpiRjFWTnhfWDNIVTh0d0U5WlRsUEtpb3VYTktENDVFZjVaQUFrOFBQSDEzS2JKQmRQR2lkZzU1T280M2VkNXYxQ0xOcmwwdUZtZGZGV2pRV3ZIS1Zydmo2d1k2SFNkVWwtbl9CYnozUUs1U05iVQ?oc=5",
 "src": "CNN",
 "title": "Spain train crash piles pressure on a PM already on the brink",
@@ -3548,6 +3541,41 @@
 "src": "CNN",
 "title": "Polish president turns plane around to return home as court chief’s suspension sparks protest",
 "ts": 1793420629.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXk1S3NHdWFyaW5FR2xIZTNXczZnczhPU1NJUVRpU2NUeU5iajVUcDN0RVl6cGVjNmJGanQyU0F1UmQ2a2lKQnJZNXRROExfOEZISzdKcExIOHFua19XVUc3RmF5N0pCZEI4RXZ0Z1ZvMkw3T1l3bjB4T2syMllUeFBiYV8yeG53SmJfZWh1NEw3UGVjTm05T2ZOdzF4aHlRdi1sNU0xajFBdw?oc=5",
+"src": "Reuters",
+"title": "France braces for fresh unrest, government vows tough response",
+"ts": 1793404980.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZEZrRGp3Z2FOWVVsRXZBSWxPY3JodHlyZ1ZSYmhYSnB3TXRPeDRJem02ZFJwbHlCRzBVUHFvUDZ4VFhPMEVjNnBnT3YwS25OZEYxX09adW5lQl9BZklQRzd4c1cxaExlMmJ1ZVRfOThfMldxZWxmR0JPeTJ3a2c?oc=5",
+"src": "CNN",
+"title": "Putin is wooing Africa - and the feeling is mutual",
+"ts": 1793419215.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : les tutoriels destinés aux manifestants se réinventent pour la « gen Z »",
+"ts": 1793421006.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/10/31/isabelle-sommier-sociologue-l-heure-devrait-etre-a-l-apaisement-plutot-qu-a-l-attisement-des-haines-entre-les-radicaux-de-tout-bord_6803385_3232.html",
+"src": "Le Monde Politique",
+"title": "Isabelle Sommier, sociologue : « L’heure devrait être à l’apaisement plutôt qu’à l’attisement des haines entre les radicaux de tout bord »",
+"ts": 1793421023.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html",
+"src": "Le Monde Politique",
+"title": "A Madagascar, des fouilles archéologiques font parler les trésors des pirates de l’océan Indien",
+"ts": 1793421031.0
 }
 ],
 "seen": {
@@ -4027,6 +4055,7 @@
 "CNN|CBMicEFVX3lxTFA3SlhDWEoxZFRNNXQyc1BTMUpXTkVsT181dExxaTNBdWw3ZklRLUVmYnJ2UEpxZWNHMFhnR1hZNno1SkZTVURSbk1Kd294VXIzX210cEdTYWxDdHlsakFySmZDVTY4NGlfVkFOVGRSdC0": 1793036724.7557373,
 "CNN|CBMicEFVX3lxTFA3cW9UOXlESWUzeEtYVVVEekRXY2V3OUNLUS03b0g4ZVBVVTFlYTN3a0d1YlYyY2dyRlItTURoN2U4QTlWdnF4R3drSWkzLXFHTWNmUU5IaVB3ZHlTT3labWVxTG1VWjJvSlhyQ2tKMHU": 1793045725.385302,
 "CNN|CBMicEFVX3lxTFAtbmlBWUZTVUUxQUo4dmMzSE9QOHh5aWxjOEN3V1NmU1FTM2ZYMUVjQjlMZmtpdW1yaER2THZ6c3U0UW1iOGRxaDJmelExdl8zWGk0MFFJV1BzckhDd1JEMW1IWlRIZ1pWZDM1S3NNWng": 1793225728.2823918,
+"CNN|CBMicEFVX3lxTFB4UGFjSHpOOWhmS2JFN1JxaG50M1FkMlY5NHlmdXpjV0x3aEpoYThnbFMtODl6V19tbFRYUW80RWU1ZjF1T0pZNW5QaW50bWltNXp4cU1jeHhubzdPOV9sMDQwYzJPUUZrSzAwd0tzN2I": 1793421927.1703074,
 "CNN|CBMicEFVX3lxTFB5OGJneFhaMURQb1UtYlI5MGhadjhYajdnVE9hRjVWOFZIM2tsajhtbHVKOXJVUnVwbDFQaU1Qb0lJS3JpUGFfUUZ2aGlGaE9OSTVGc3lsYzBIemJWbTctU1pzSmROdGRVNG9nTWJxa1k": 1792935031.8835816,
 "CNN|CBMicEFVX3lxTFBGcnVieTh0UEVtX19zWnBTNGN2a01ydHVjTnpFTFJCeUxveGFOTnNMYjAwbFcwOGh3TUhITE51MXMtV2Z0TVE5ZFF0RWIzTGVTUGF2OVo0SWZXM3FscDdpWU5iZFJkdE9tQVd5RmRrWjU": 1793188844.5736964,
 "CNN|CBMicEFVX3lxTFBLWHAtZV8ydWlCb09BYVpUcDBxTEJzQnJSTkRTOVF6WmlwMXQ4dk1xdzNfYVNTT3pWc1V4Wlc0S1kzdkd0RFZrU3FWRl9NWnFpOGJVUE5KRUJnYkhEbDNrUnhCekJNZzVickVrOGoxRzM": 1792925608.8006206,
@@ -4164,6 +4193,7 @@
 "CNN|CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E": 1793043032.0944161,
 "CNN|CBMif0FVX3lxTE5JTXhTR0xheE1iU05OX1MwNWRxSXN2Qld6ZzdCMHZkS2swaEx6aEdWVHJqZ0FRMjFXWUtZSl9fNXU0RTRLa3FZd3diTjc2clh3bS1BMTVMQkt3bzFNTG0tOHEzbmV1Ry1lWlV5T3BrczVrTzJkMHJNUEVrT2xRSkE": 1793097929.898054,
 "CNN|CBMif0FVX3lxTE94eUlnTW0xbnE3MXlkbWdiR2EzNUFlZFJtSlFZdXVhNl9WcGE3b1FZSHBLZnVpeFhZb3dPLXV1Z0czRXFOQ2YtVHdqTEQ0Nl8wRnVXeE92N0h0aFNUeW5oRzVkeXRWSXBmM2s1bTB5RndpVVgtd2I1VGdjWmRhS1k": 1793348128.623687,
+"CNN|CBMif0FVX3lxTE9PZEZrRGp3Z2FOWVVsRXZBSWxPY3JodHlyZ1ZSYmhYSnB3TXRPeDRJem02ZFJwbHlCRzBVUHFvUDZ4VFhPMEVjNnBnT3YwS25OZEYxX09adW5lQl9BZklQRzd4c1cxaExlMmJ1ZVRfOThfMldxZWxmR0JPeTJ3a2c": 1793421927.1703074,
 "CNN|CBMif0FVX3lxTE9TVzBqZXQ3aDZoVktRQmJ0amZHZXdRQnhQVVI3elA0dlhXcy0zSm56NTVGLXkzWGV3ckJQeElqaGZqNV9rSWFJVHFyLXBKaXhWOTFpUE5JRndhZ1A5dlRBUUJEdTFtRHo4N0xBOXFEUjNGQkpBTENwRVpmSnVkQkE": 1793273432.8183353,
 "CNN|CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0": 1792912921.1568482,
 "CNN|CBMif0FVX3lxTE9rMlZGWkszUHlBT0x1U2VuWWw1T0l5WEppaUhORDJ0VHRQeFNDUjVYTXY4LTBkSi1uc2N5NlBqRmhGQUt6VEtCdzZXYXF4cXppNnh6NWhjQjdhdjJOVjg5MF9RS2dwdHg0NWoyMTl4QXpqbDJ2VGhiamRJTVhGaVU": 1793179834.431065,
@@ -5419,6 +5449,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html": 1793333726.6988363,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/30/mobilisations-sociales-le-mois-d-octobre-restera-comme-la-repetition-generale-du-choc-autoritaire-que-nous-redoutons-pour-2027_6802907_3232.html": 1793344527.2852259,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/30/mobilisations-sociales-les-manifestations-se-sont-imposees-au-fil-de-notre-histoire-comme-de-veritables-piliers-de-la-democratie_6803104_3232.html": 1793374235.9154475,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/31/isabelle-sommier-sociologue-l-heure-devrait-etre-a-l-apaisement-plutot-qu-a-l-attisement-des-haines-entre-les-radicaux-de-tout-bord_6803385_3232.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html": 1793065523.9823225,
@@ -5432,6 +5463,7 @@
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html": 1793220336.2652586,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html": 1793250926.0898464,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html": 1793376925.3028862,
+"Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html": 1792912031.9234908,
@@ -5515,6 +5547,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/26/on-n-avait-pas-anticipe-ce-qui-s-est-passe-les-images-d-emmanuel-macron-en-visite-a-marseille_6800795_823448.html": 1793025933.3217628,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-deputes-ont-observe-une-minute-de-silence_6801315_823448.html": 1793118633.9665923,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-images-de-la-seance-houleuse-a-l-assemblee-nationale_6801333_823448.html": 1793124039.6769316,
+"Le Monde Politique|https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/a-lyon-la-manifestation-interdite-etouffee-par-le-gaz-lacrymogene_6799727_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/24/mobilisation-du-17-octobre-l-homme-suspecte-d-avoir-declenche-l-incendie-de-la-mairie-de-limoges-a-ete-mis-en-examen-pour-tentative-de-meurtre-sur-des-policiers_6799692_3224.html": 1792912031.9234908,
@@ -6242,6 +6275,7 @@
 "Reuters|CBMiqgFBVV95cUxNRDBMWWg3Z1JPS1hKTmpRTkJBZTFETG5EYm1VREdCeXpSRG5ORjNTbTMzWGZpcGxkT0Vid05KbEYzeGU5d2o0WTZJc3ZiMGdLV3hzLW1XQ0hYc0FBSWxpbDZtZTRZWm5iNF9WT0szeEpXTkpIRC1QTFV5QWIxUHdnclZsTzhuQU1jU1RWLUxEM2RnT1hDdU1QbmlvM0Y3VUcwLV9IaUNYRGt3UQ": 1793231126.4789531,
 "Reuters|CBMiqgFBVV95cUxNSk0xQnpMT0V4RFZ2aWJ0VGlzeWpmMXpGT1ZQT3BReV81UkxFWEFncVNxYzd1VkZqZTJmc3BWOXdDeWNBV0ZubWdJeDRKRUpuQ2VPMFZFbXdZU2ZzajhGNUFfVS1GeURQdUpDN1NFYm1lNEtPQXhoMDQzN3RpN1h2TjNlTVNZclp4MjJsQjVIRWJaMFBHbW0wWldKUno1ZXQ5TnZ4emVTVFdyQQ": 1793268037.973616,
 "Reuters|CBMiqgFBVV95cUxNVlpiem5XSDBRRmZVd1BHdS1GaGppQVhLQkVhWkFaU3dvYTl6UkJ5MnZySmFpUkxfb2xZMy14V1pQTlRURmQ3eUNISklSZlVkMkVOZjBja1ZCNkxaaHo4c3IzYUk3VEczNWR0RzFSVEhfXzRUWEliODc2Y1hNSC0wbk5hdWFoUG9IYmxtMURiOHhtYVB1SHJRTWNEbDdBV3dvWXdKTF9lQ2s1Zw": 1792972841.7553523,
+"Reuters|CBMiqgFBVV95cUxNWXk1S3NHdWFyaW5FR2xIZTNXczZnczhPU1NJUVRpU2NUeU5iajVUcDN0RVl6cGVjNmJGanQyU0F1UmQ2a2lKQnJZNXRROExfOEZISzdKcExIOHFua19XVUc3RmF5N0pCZEI4RXZ0Z1ZvMkw3T1l3bjB4T2syMllUeFBiYV8yeG53SmJfZWh1NEw3UGVjTm05T2ZOdzF4aHlRdi1sNU0xajFBdw": 1793421927.1703074,
 "Reuters|CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw": 1793283328.5871534,
 "Reuters|CBMiqgFBVV95cUxNZTZMci1EVGk2U0dEQW5URlVsYVFnQ0xZR25QXzdKTHVDR2U5TzMycm9Ma0RrRi1RN0dkTThuRnhiN09KZnRaWTdMQ19nSDg5QWxXVG1zT3JFMU15WDBxOEpBdWdyY09ia3lUQTlld3ZXTk5DYjdjZ3RJa04xeHVPbHlzVWQwVzVqMzBPd3RqaHNtT3hvWnpLdEdoUEQxalpmU1J1VDhab05DUQ": 1793149239.0357418,
 "Reuters|CBMiqgFBVV95cUxNaDU5OF9aQ3E2dTNHOFJTREhlbTdKc2pnSkx6Smd0eC1OYzVYc293MVpLNzBrYWZfcnd2VG9rZW9RQVVSQktWNlpYOEdmSEFSS2l0dzBsSHNtLWxBTnZHeThBdWJNOVZwUy1HY1RGRGU5WVZmTzExSklDNkVJb3JYdDAtSF9LX3V6Y1BQOHVwb1l0WXJHdlRqelVubTdrdTZBN1QxZWNXUThwZw": 1792970130.5726538,
