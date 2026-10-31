@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
-"src": "Le Monde Politique",
-"title": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
-"ts": 1793353615.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JR1JPcEpPQ2VlWnFUWHNTc3E2SzRuLTVqT2hyV3MySDhlcGVIQXkzQlRQYVRiaWQ3amdqUzNTTW9sMEREWkxVeF9BUnE2OG95MjVxa05hbWNyaWtuQ1IxdDMtUjNPejQ?oc=5",
 "src": "Reuters",
@@ -62,13 +55,6 @@
 "src": "Reuters",
 "title": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say",
 "ts": 1793355223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUk0taEd5eWdWVWtONWpOWjNLNXcxN0VJNHZKQnUtQ0VlZnJYNFQxekUwbDZhY05FSkwwdzlXSzFJX0Z1Mmc3ODgtaVJtbFVReWRBUHdWQlZKTDZKTlBKdWt2b3M1SG4tQXA1TlAtS2N0YXVITUJ6cVlnUE5Nb0hZMWlUcGFaanB4QmhSQ2xKeDVpVFRuR25UX1NuNWI?oc=5",
-"src": "Reuters",
-"title": "European shares drop as AI spending worries hit tech; though best month since June in sight",
-"ts": 1793353744.0
 },
 {
 "lang": "en",
@@ -300,13 +286,6 @@
 "src": "CNN",
 "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
 "ts": 1793362083.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVF9pNjc4bUNhTHhCaVFuSUo2ZGpJN1lUYlpQdzdnZDd5bHd6V2hzeWdSUDFVRXZDQ3p5VzUzbjE1ZVQtRTFqMkxRcGZHd1lMdGhUVU9OeEhTMXRCeDlyaGZydG1qdlZjMzBUazdLSTBoWFRMajlDT1lHbS0waVA3NFFkNl92OHk2UFZWUTNnX1hvNGUxTkdPV2VuMGJTTmcyWWdwSkxnMGktdXRCV1Vj?oc=5",
-"src": "Reuters",
-"title": "China's Xi, Swiss president praise trade deal that boosts access",
-"ts": 1793353843.0
 },
 {
 "lang": "en",
@@ -3149,6 +3128,13 @@
 "src": "CNN",
 "title": "Families reunite after months without food in occupied Ukrainian town",
 "ts": 1793481720.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzctRHBMYndYTU9VZklDcXFaVEN5clc2Yk9xb3VEQmxFd2l3ajFrbllHTVVrSjhhMkVYRTNzbHBVT1J2Qk9nZnVCd21adTRDZEpieE9mSDNLUHNyNS1LTUd0NE9WR25paWw2TVE0WWQ3TnJWRDFxc1NwZUdzU2JMTVd1V3BQZFRkX1RtZ25UVjY?oc=5",
+"src": "CNN",
+"title": "Judge tosses Trump’s lawsuit against Wall Street Journal again, this time for good",
+"ts": 1793478402.0
 }
 ],
 "seen": {
@@ -4179,6 +4165,7 @@
 "CNN|CBMikAFBVV95cUxQUDRYaHNmbFVwV1NCb0ROVnVlR0o0azBHWGl0TFU3NFByUXNlY19Ia0N3ZEptMkVtZWRzdlNFX1ZNTjU0Z2xFRC0wWEVINTcyNXVDdnc2UC0yOVJJOWdldl96VU5DVG9faU4xQU9JYlltUEpJUE1td2x2T0xVN01MbFB1WXVXcWIwNzBQamZia2g": 1793320236.1400473,
 "CNN|CBMikAFBVV95cUxQV2lURmRjN2xrN0Z4TDdKYTQ1RGJZU2xRaVdwaGNEZU8zdjA5SHE0aGcydnc3N0ROSDUybDdVU25jRDJhZmdDM2tPOG5SOEczSlgtTVlma2JSeXNXeGI3RGhoSGtrXzZCTmVOZDlvNGkzUkJLOWtZRzdDbUItMkVQZGVlRnphNENaRkNQZEVJaU8": 1792989034.109569,
 "CNN|CBMikAFBVV95cUxQVVlIb3lKd2ViU2owQTFZYnN1ZkNjUHpUOWExem53RHExdGtvMExUY0t2RE1yeFJFMjJFQVplSFpNQlR4LWZfSUs4SGpvQ1BqVGROT2d1aGNTWkh0bkFQMFFrdUhaV2FhaUZkMGJjdmp3Sm5vanRwRlZrdUNtVUFuZjB4Y0dIVVhHemN0Z0pzbXc": 1793185239.9986968,
+"CNN|CBMikAFBVV95cUxQYzctRHBMYndYTU9VZklDcXFaVEN5clc2Yk9xb3VEQmxFd2l3ajFrbllHTVVrSjhhMkVYRTNzbHBVT1J2Qk9nZnVCd21adTRDZEpieE9mSDNLUHNyNS1LTUd0NE9WR25paWw2TVE0WWQ3TnJWRDFxc1NwZUdzU2JMTVd1V3BQZFRkX1RtZ25UVjY": 1793483730.7001805,
 "CNN|CBMikAFBVV95cUxQdTNKUGotRkV2WHJMdU9FWDhLWTI1SkZLWkhWdjBvcUV3ODZ4bWg1ZFM1Qk1XX2dfYnZzNzFVNHRDLTZxOGVvTGtwaGNpWkRSNVJ4NHQyVlU3UHFUWDd2aXZjSHhuQmEwSWhGX1M3bEpYUU1pTmlvcHR6OVVpdmxfdmFGcTRvWU01LVktOHBWWm4": 1793396727.7290416,
 "CNN|CBMikAFBVV95cUxQdnFBaEwzSFN0MnJORVpOMXZoeG9JNkhqa251SGZ5d2s1Tk5zbFl2UVhZTGR1alpVUmhib1hwc2pQU21kZlRpUlcxR1hMUHRGWkZBSi1UWDRMSFM4ZHFkUFlWTGRxTkh2OVNsOHZ5ME9HbFplTU1JaFJveXFUMS1jVFFFQXgtTV9hTjVJV3pJTV8": 1793086234.6876798,
 "CNN|CBMikgFBVV95cUxNT256ZndVOG84LV9DcGplWnNhMkFhOXRZdU9pODVvSkp1dWxOQTNBQ2pSaGNHRjBOdjF0RmlGcHhjbXFSZmNXTWtDNmpfTnlJS2JsUTNlcXJEMWRmcTRfV0paRFRSUTl5LVo4ZlBidzVLMEU3NWtmMzg0ZWJtMHVhYWdiYUpncWNDT29SMVpGS0prUQ": 1793317526.738277,
@@ -5423,6 +5410,7 @@
 "Reuters|CBMiXEFVX3lxTE5WOTFSbndnRDE0bW54LU9jTUxRLUhsRktINTlvVmoyQ2tJRFM0YTFFYkMtd3cxUXhIYnhFZmJBRmNDTmwwMXdET1c1WGplVXU2eFB3LVdLdTJNWmRI": 1793192979.21698,
 "Reuters|CBMiXEFVX3lxTE5iendiLVhXX2hPR1BpdVZoLWdxaWdmMUUxSUxaazkzNzd0S0hlRlVZYk1VTVV3SGo1TjdsZG1pbEUxWkFTU0g0UHFhbmdpUW9zR1hXR2VIUjdnMldp": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE5kWElldm4zQlNSUzZmVHpSR0RWQmlkTEhfc0dwODBHTi1WeDFfaEdfLVFGR0J5NjBGWlA3R1g3OGVwM2o2RVFoZHVrMHNxLWZURDlrWFNhbC14T3lI": 1793428233.0818176,
+"Reuters|CBMiXEFVX3lxTE5oUVZhcXA5UGRzTndfWnNYYm1mZFIxLXh2RHFfTTFrTjFsTE9CeGQ0YWc1ZzhlNzJaMDJSd0NyMmN4OUNJWWh0eUN5Y3l6VTI4eExhdzYySjVVR1lS": 1793483730.7001805,
 "Reuters|CBMiXEFVX3lxTE5qSkRrbmZtTVRTbnFXb3B4LWcwbENtQ3Z4V0pJSVl0Q0lkMUVIZVJ0d3l3eFBWZUcwaFA0b1JBZF9iVTM4SWlFZVpSOENZYTR1aU5nWGlZLXRvZmww": 1793431837.952425,
 "Reuters|CBMiXEFVX3lxTE5sYnRiUjBCbjVFYnFYVXB0MkNOQks5cGtmRXBtdjJIRDVNOURMa2xlWmZHS19SZzZ6T3ZPNmhsaFFSQ3pFLXlNaDkwMk5TSFluVzJIc2RPbzZkcDNw": 1793448926.9679341,
 "Reuters|CBMiXEFVX3lxTE5tQlVKRmZuSnRDRHpaaGR5V01ZT0ZSRmUweWhiZmw5cFFLeWNXd1RvMlQyUklxTUVWSDg5VUhVN3c5T2s1aFFaOUlyZ0JIbTE0YTM4blRuamM2X3dq": 1793342727.4364471,
