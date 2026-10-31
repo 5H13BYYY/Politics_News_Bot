@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Foreign defence contractors will need to invest in UK under new rules",
-"ts": 1793348839.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/focus/20261030-au-texas-les-r%C3%A9publicains-accus%C3%A9s-de-modifier-les-r%C3%A8gles-du-jeu-%C3%A9lectoral",
-"src": "France 24",
-"title": "Au Texas, les républicains accusés de modifier les règles du jeu électoral",
-"ts": 1793348878.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
-"src": "Le Monde Politique",
-"title": "Recul surprise du PIB au troisième trimestre, l’économie française flirte avec la récession",
-"ts": 1793348802.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90WEI0TEVuSVJHYVE5X0JWX2hId19FSW1CY2lzRGtCZFdkaUdGYmJPQUQwWkRCS1hKRGhZbVV0cEVPa2R2OGF3ZXp0aEVnMWkteVVhRnZlZHh2b0NZdENkcFRHQzJLM2ppeFVwel9CdlJIX3JhN21HVU0tWQ?oc=5",
 "src": "CNN",
 "title": "Packers’ Watson makes improbable ‘Thursday Night Football’ return after mid-game trip to hospital",
@@ -55,13 +34,6 @@
 "src": "Reuters",
 "title": "Philippines raises alert level at Mayon volcano after eruption",
 "ts": 1793351245.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjM1NLSG1QWEJZcFZxWWdqS2p4cUFpMUpvSVdmY1dPZGZpaThLaElUcWI5UW5ESGZ5dF9NSEN6dzd6RzZkQVhDM1VPZldtVGo1UFJRLWN2NGpLeU9MUEplY2xNaW1wM0k?oc=5",
-"src": "Reuters",
-"title": "The B-52s get a Hollywood star, remember former bandmate",
-"ts": 1793348359.0
 },
 {
 "lang": "en",
@@ -3191,6 +3163,20 @@
 "src": "CNN",
 "title": "Michigan man charged with threatening to kill FBI Director Kash Patel",
 "ts": 1793476040.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTNJYUlGTVNOdEQ0OERvS2RrMWVPQUJUQkQ5NEpYTGItMHc5UWs4a0Z3WldFT2pBNmtHeGNDSFFRODNOXzJQd1NCQmJsQnhyaEc3WDdXd3lLbTBkVHlwY1RfWFFvVFhVRkV2SDV6X0duN0YxYzlJNnZqZnVIX1E0UUJaV1lHa1pMMkRqbWZuV05xNkV3XzdDYzFrVzNCSThGVjltVnFn?oc=5",
+"src": "CNN",
+"title": "Record numbers of election monitors expected at polls",
+"ts": 1793477640.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/31/manifestations-du-31-octobre-les-mobilisations-en-images-et-en-videos-partout-en-france_6803733_6717263.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 31 octobre : les mobilisations en images et en vidéos partout en France",
+"ts": 1793477780.0
 }
 ],
 "seen": {
@@ -4264,6 +4250,7 @@
 "CNN|CBMikwFBVV95cUxOUl9RSlFOTzRUZ19BbEhRQ2hnRjVEN2VSSlZ2d294Rk9Pb19SUGoyZFBySlJMU0l4TjhGU0x1N2J2U04wOE5kQnZtLW90eklrVjY5aTdJb2lHUXhLLU9TSmtEMFlGOEdWbXMtQ0RJSDlSWDFCVDNHSnIweEtxYzZPU1Q2ekREdHJXTmlrWS13SVltWFU": 1793186127.5045333,
 "CNN|CBMikwFBVV95cUxOWExMSHdtYmZGM25TczN5MHA3OW9TMDNieUp0cjlXQ3Jwank1b2tYSmdiLV9WTkFyN2VmQlFXRWJzbDlibVpwVm9SLXJST3BTU2h5UnRpUmkwcTNuTldLdC1UMF92TTd6aC1oTzJRRm5ic01VOUNJVDhWMnhBTUVuMDQ5d2YtbnlEenJ1N0QyVWNuTE0": 1793236524.364081,
 "CNN|CBMikwFBVV95cUxOYVBQaUFmYTUzS1Uxc0RNZmU2U3Nmc3BqWE5Tc0FGS2h0TmpqZTA0OGNsUWUtZzMzXzl6ZzhYYUVRVDhkdnpVR2xmbmxwMjAwbC1ldHpfUDVGQzJQNE9WdFllX1YtNGdEUVk3WXdGTkpwQS1MRFVaWmhOMFRwMGxCSUdsSWpndk9QSFVtWUtQcVEzWGc": 1793273432.8183353,
+"CNN|CBMikwFBVV95cUxOYk5GODdFNTF0ZjdxMG9FVjVpNW1VVUpTTFhiTlJ3cm9xWjN4ODNPS3ZzUURuN1RqVFNqbTkwRTlReGN1Z2E4akNhT1k5cXZoSEhpRjdCQktPeld6cVRrZVdfMlFVdG40c3ZZWjJfSFR2Tm9hTzlqaXpHbXdRYXlwd3NLaW1HNzNTVVdZYzZXQ0xXVUE": 1793478631.9334962,
 "CNN|CBMikwFBVV95cUxOZ2RBbmdEN05TWTRUNkhTRC1EaW9zMTRVOGlabUd5emJsbzZJLVRod2k0WG5HaWRCMnBRT2t5RWpoZjBvNW5iSFVncVZncTVuRDlNeThEWHBPVkRudlRUc09XZTMzZUZIbUdXME5iZUxDa21jVGtSME43WUVYWEhFcGVJemkwa0Fxd1FaZXFSSl9pZ0U": 1793007925.80866,
 "CNN|CBMikwFBVV95cUxOZDVzcGxBanBsTlQ5a0JEendvdkhjS1dkN3pVLThMYWEzVnJzbnBjNzBCZ1BJNUVjcEVPSVVJczctTExUaUZhT2RtaDZ3MGlaWWFCY1ViS2NFWUI5dmNNZ2dnbWtCTkVVRnZxTkhkN21EeWdYbFYyWEUyR0VGeTFRdWI2Z096cXdzcHhLYkZyS3VfQ0E": 1792912921.1568482,
 "CNN|CBMikwFBVV95cUxOa1BEaWc1cnp4TE1nLS1rREhpUHBMaGQwNXBKZVhmVmRvSGo2M2NGbmk1LURlYkVMeGNvZWxlTUM3TTNJX3ZubGpWVE9CTkw1YWl6QWxSV2tKUDhNOEdWTVEzekYzNmgzWjRPbUFNS2Uza3Fla3VqcWhLLUE4ZzF3UjhnQ2hDdGdkSGFPdG5kbGFXYW8": 1793169032.3620625,
@@ -4495,6 +4482,7 @@
 "CNN|CBMipAFBVV95cUxQc3l6U3g2VEp1OVNQSVZBcVpZNFV5Z2hGcTRSX2JWN3ZNSXd3YnI1akF2RnNoYml1QWhrUlJNU25Fck5BS3NoNlVkRHJDZUNsVUtWaGhLS2RzdGZLR0tQSXlnTlp6VE1KSzk0SjRKanBuMUN5bzJlX1B0c1YtZUt1NUMwdVFNUFp4YnRHcWFlYlNTUTNLemFpQk84OHQ1MWRiUXg3Rw": 1793234725.997194,
 "CNN|CBMipAFBVV95cUxQencyYld6aDRvY0VxdENXZi1GZG5jSmNaM3VMaWJ0YXNRcWhLYWZEb0VFaFY0dWQ3VEMxUFlIQ3NrblRKcDFBYk12UFdIUUs4REhHVDljTUVSRFNmOXpyLTg2R1pOci0xVmlCOU02RGk3djNjOWdla2pSWnp3ZE1Nd1NUc3V1aWRvakFxcElid0ltYnRoUHd4dWtJaEV2aXRNVlZqTg": 1793109642.2235074,
 "CNN|CBMipgFBVV95cUxNOGZJYzR1R2g4MjVBVDEzSFJoMHRBZ2xvX1lNMnZZcVVucFNFNXV5dFdhRUQwbHBPSmxQazhkcWlqTS1Zb0RoejA2VWRSc2dMd3MwNGRzWmdhOUhVcjZKN2JGeUtRNUdzd1NlcmVFTTIwZS1zbi0xRDZBZ3UxazFvdWlYMUs5Uk5vVG1GRmJaZFpIVDZldUVyR0ZpbFdEenVtMFRwRGJR": 1793209528.5569124,
+"CNN|CBMipgFBVV95cUxNOTNJYUlGTVNOdEQ0OERvS2RrMWVPQUJUQkQ5NEpYTGItMHc5UWs4a0Z3WldFT2pBNmtHeGNDSFFRODNOXzJQd1NCQmJsQnhyaEc3WDdXd3lLbTBkVHlwY1RfWFFvVFhVRkV2SDV6X0duN0YxYzlJNnZqZnVIX1E0UUJaV1lHa1pMMkRqbWZuV05xNkV3XzdDYzFrVzNCSThGVjltVnFn": 1793478631.9334962,
 "CNN|CBMipgFBVV95cUxNQnllLTBrcGNZU1l2SnhEdzdkLUtTUW81OWdQZXVWX051OUlxRk5aeURPREFUZkpCSlRIWXE5NUFwRnRMMTJwYU4wZ1hyTzNyeUE3eV9NQkpKVWl0bkpNZjJYQ3RCVnZnLXB5akVVR0VGRm1YZWtncVN3VW1Gb2l0dnljb2N2VEp5cWMyQWN5WDEzQVhyVHNQRnZhVnQ2SEtsU2lpVzVR": 1793068231.9529712,
 "CNN|CBMipgFBVV95cUxNSGFkM3hObjhBMFBtS1M4ZGVOdUJlaXBDdmlSR0NWMlNBVzVMblNSWlZ3STNKN05PbWpBVGtFZzhfMXRENGhsdEpIR3VWM0tNZmZOMjNZbjJsdVV6TWdJM2NHMkROaVNwNHRDVVFWYVdKWXdoU2tPMTV6MFdrS1RPTjdMZjlVOFlaeXI4OWIzR05EUUZpR0RJckdtVnlhcUYzV2JyU0FR": 1793033128.0726519,
 "CNN|CBMipgFBVV95cUxNZkpuaHRKTzJjV1hJbDVzOGZpUkY3S09xM1ljdk52MlpKNE05YnVvNER4cVhnMElycndZakxsYS1tcGdrRi1mVVREd3IzUEVvOHRZLTVsMEs2UExmWXRTQ2llR2Z1X0pwc2hoRnYyWmJzV0RDTW9hVTA1Y3FyTXNSUjZ5RjNDN3ZWTnd3bWJqWmNaNFFRZG96Qm9NWFJRaG52Slc5d3BB": 1793383241.2383296,
@@ -5202,6 +5190,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html": 1793403033.9221654,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html": 1793267125.7120302,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/24/en-images-manifestations-du-24-octobre-un-dispositif-policier-important-des-premiers-rassemblements-assez-calmes_6799697_6717263.html": 1792912031.9234908,
+"Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/31/manifestations-du-31-octobre-les-mobilisations-en-images-et-en-videos-partout-en-france_6803733_6717263.html": 1793478631.9334962,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/la-discipline-budgetaire-et-l-ambition-productive-ne-peuvent-pas-etre-concurrentes-la-france-a-besoin-des-deux_6799700_3232.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/24/manifestations-du-17-octobre-lorsqu-une-societe-fait-de-l-achat-son-principal-mode-d-integration-c-est-dans-les-magasins-que-la-violence-finit-par-resurgir_6799669_3232.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/25/attentat-de-trappes-du-racisme-au-terrorisme-une-responsabilite-collective_6800082_3232.html": 1792934126.3624318,
