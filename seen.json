@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261029-midterms-l-h%C3%A9ritage-de-charlie-kirk-%C3%A0-l-%C3%A9preuve-des-urnes",
-"src": "France 24",
-"title": "Midterms : l’héritage de Charlie Kirk à l’épreuve des urnes",
-"ts": 1793288994.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261029-accident-tragique-en-espagne-comment-un-telle-collision-a-pu-se-produire",
-"src": "France 24",
-"title": "Accident tragique en Espagne : comment un telle collision a pu se produire ?",
-"ts": 1793289266.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEtLaktaY1ZZSndxM2VvZmdwZFRMODJZTTRENVRTbzVOelRlVzdFZjc1ZXEyWlNuV2VWMGFReExiUkNuWFJiTzBKTGp1anN1NUZsb3lTMnBzd3JuNXRIQXJfbTZBWXBWOWlSdjJHVHVra2NnQldhUTNXWW1CX1BRTkNTdnl0R3k3dXNKUl9ESEVYTVE?oc=5",
-"src": "CNN",
-"title": "The Election Conspiracies Spreading Among MAGA Faithful",
-"ts": 1793289419.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261029-j-5-avant-les-midterms-bient%C3%B4t-l-heure-de-v%C3%A9rit%C3%A9-pour-donald-trump",
-"src": "France 24",
-"title": "J-5 avant les Midterms : bientôt l'heure de vérité pour Donald Trump",
-"ts": 1793289635.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/europe/20261029-ukraine-union-europenne-presse-alli%C3%A9s-renforcer-pression-russie-apr%C3%A8s-nouvelles-frappes-dnipro-kaja-kallas",
 "src": "France 24",
 "title": "Ukraine : l'UE presse ses alliés de renforcer la pression sur la Russie, après de nouvelles frappes",
@@ -71,13 +43,6 @@
 "ts": 1793290321.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB?oc=5",
-"src": "Reuters",
-"title": "Russia to extend diesel export ban, use quotas to fulfil US deal, sources say",
-"ts": 1793288899.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-%C3%A9tats-unis-obama-se-moque-de-trump-%C3%A0-l-approche-des-midterms",
 "src": "France 24",
@@ -97,13 +62,6 @@
 "src": "BBC",
 "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
 "ts": 1793292948.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZG9MVndyZUY3UDctSGdHUks4c3h0R1g4ZHRhME9DWTFVTlFZU2x4X0g5YVd6bTctY3NTZlluRHlzY1ZUNHltTHVlUGtuaHNZN3k4dG0xdkhRblhnbFZsYmtOYndtLTZEUjgtTGlYcmVGalhNUlBqRTkwSEVkQQ?oc=5",
-"src": "CNN",
-"title": "Humans accidentally canceled the next ice age — but it’s no reason to celebrate, scientists say",
-"ts": 1793288739.0
 },
 {
 "lang": "en",
@@ -223,13 +181,6 @@
 "src": "Reuters",
 "title": "Christine Lagarde: The outsider who led the ECB her way",
 "ts": 1793290294.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2Y0TTlRTjdmZ2xQYUM4UnNEc096cElFamdnZjZuY3RaNmxaYXA1NUU4N1ZXMWJRd3pUVzVaRExwRndLQWpOc0dyNXE0Z3kzV0pOMkN2ejYxSmt4ajBfYmdrZU5yYlVxZHNEWkk4aVZ4cUtra3R4R3QyOXZrMk5aQXltenppdFI2X2REMkVOWms4eFc5MWJTNQ?oc=5",
-"src": "CNN",
-"title": "The Election Conspiracies Spreading Among MAGA Faithful",
-"ts": 1793289419.0
 },
 {
 "lang": "en",
@@ -3597,6 +3548,27 @@
 "src": "Reuters",
 "title": "Collins and Jackson make final push in Maine Senate nail-biter",
 "ts": 1793400075.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wdU42eENHb212T0ZFSjRjR1VGM0JFNkNsb3d4NUJvSThITW1iRFBHZVIzUzFNOWV4bHlJMDFXTGJOUERMbHh0cTdwWW5Ta1R6M3ZIZ3phWTJCT3pB?oc=5",
+"src": "Reuters",
+"title": "Indian farmers, tractors, face off with police",
+"ts": 1793398431.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html",
+"src": "Le Monde Politique",
+"title": "Mobilisation sociale : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
+"ts": 1793418308.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXR1WFpPWld6MFlwOWxHVUlxUzBOdmFId1ZaSFdZUEFqMmp0X0YxVll5X2JFa215d0RTVENEdmxwRndmN2Z1ajV4TlpHU0prRWFEaFZGVWhQLWNmS3kwaWQyMWxBQ1NZMFAzS255aUZjbDBxcXJMZFFmQzlwUDhzd0lTc3d3ZU8xUUZHcU5Wbw?oc=5",
+"src": "CNN",
+"title": "CNN decision desk behind the scenes with Jennifer Agiesta",
+"ts": 1793419020.0
 }
 ],
 "seen": {
@@ -4495,6 +4467,7 @@
 "CNN|CBMijgFBVV95cUxQekxVMERJSHVmWjZ0cm1aTzhpVWZzVG1lV0hvNF9CX3ozaXMyU0N0UFNzeEEybHVHanMwQzdSVHhTamhzU0NvNkVWRE9YQkxpdGNBelNyQXJXUU85bWdvWm00eXkzZkdfRWVTSm5sQnl2VVBOMHJLRUY5d0k2UmZXalNiRUJBRXpKNkdSOWJn": 1793226634.8021224,
 "CNN|CBMijwFBVV95cUxNLVhaOWNUaXpsMm94Nkg5YllvUU1TVnE1bTdEaG5NaS1XclpPZW1hbFd3RDNOYnNYc3phY082cWxid0d5NVJJUEdzNzRQb2ZycXA1X1dxVWdYZlljMnFlVG1EQUJ5blRfcU1sVEQ5dUNOQzVkemxhdk01NXNybHRVQWpOdUpiSlBEd21jV3FXZw": 1793234725.997194,
 "CNN|CBMijwFBVV95cUxNNF9aZnhXX2xYUlpWNnlwMzYtaUw2VXdKTlBReWIzSU42S0liWXZibHA5cDlSb3E3NTN5UThlYVdkNG1oSWYzaS1qLVlFYi03T1R6MlFYd3ZMN21MWXBlS1ItU2VkNVBndlhtOUxRT1ZIVGtjczdxa28yZDhIYWJiLTFRN0YxMEllMzh6TXRHZw": 1793384127.994549,
+"CNN|CBMijwFBVV95cUxNRXR1WFpPWld6MFlwOWxHVUlxUzBOdmFId1ZaSFdZUEFqMmp0X0YxVll5X2JFa215d0RTVENEdmxwRndmN2Z1ajV4TlpHU0prRWFEaFZGVWhQLWNmS3kwaWQyMWxBQ1NZMFAzS255aUZjbDBxcXJMZFFmQzlwUDhzd0lTc3d3ZU8xUUZHcU5Wbw": 1793419240.244225,
 "CNN|CBMijwFBVV95cUxNaU5SdTMxSXZtcl9ib2taTzdaVFgwV3MyWHFrRTNyOFVsd1FxTkFhMFlzMGFBUDlZM3dBNXlLc01POHBQTW5Lb0N1Um1xbkpXVzc4MHVYelVPeFI0ekFEM3liTUlKZ2k2Yll2ZHVLckRVOHFCYzVsWHMxXzllQ3hpb2RtTEJXQnBhanRaaXNvVQ": 1793095243.9518056,
 "CNN|CBMijwFBVV95cUxNeWNyVFdmTTlmZWVCLVlCLVpfU3ZGTWVhLWl6dUk3bmxMZTNZRWN0VEdRWVgwWDdmbTlTeW56Yk5SVEFtejNEUl82dU10aTljWUhqZWlTWUtBS2lQTTZGN3MwVjNhUWxyUXY1UUpPSHpTVFBBejl3MG9BWkk4bTRlWVUxbzdTYlBoVEtBS2pGQQ": 1792979125.3230052,
 "CNN|CBMijwFBVV95cUxORlRIUi1peDZScmotNTJseHVEU2pEN3JWWFZTUWt2bkNqNDFqQlJVeng5RVByMmk4ejFxR2pYRlB2eGNCTzFRVDhFaldJWEVSTVowcDVxVEJEVlBXTXA0Y0pteEt4ak9jQ1gwbUl3b2NfRWkwLTVuQzhOQVl4RG5nbDZ5YjdrbVdxaGdJb3Jjcw": 1792930525.0455637,
@@ -5550,6 +5523,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/les-ports-francais-et-europeens-perturbes-par-une-greve-des-dockers_6802917_823448.html": 1793348128.623687,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-24-octobre-apres-les-violences-de-groupuscules-d-extreme-droite-le-ps-demande-des-explications-au-gouvernement_6803118_823448.html": 1793378725.8865774,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-31-octobre-le-port-d-un-masque-d-halloween-dans-les-manifestations-fait-encourir-une-peine-d-emprisonnement-d-un-an-menace-laurent-nunez_6803112_823448.html": 1793376925.3028862,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html": 1793419240.244225,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
@@ -5655,11 +5629,13 @@
 "Reuters|CBMiXEFVX3lxTE5WOTFSbndnRDE0bW54LU9jTUxRLUhsRktINTlvVmoyQ2tJRFM0YTFFYkMtd3cxUXhIYnhFZmJBRmNDTmwwMXdET1c1WGplVXU2eFB3LVdLdTJNWmRI": 1793192979.21698,
 "Reuters|CBMiXEFVX3lxTE5iendiLVhXX2hPR1BpdVZoLWdxaWdmMUUxSUxaazkzNzd0S0hlRlVZYk1VTVV3SGo1TjdsZG1pbEUxWkFTU0g0UHFhbmdpUW9zR1hXR2VIUjdnMldp": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE5tQlVKRmZuSnRDRHpaaGR5V01ZT0ZSRmUweWhiZmw5cFFLeWNXd1RvMlQyUklxTUVWSDg5VUhVN3c5T2s1aFFaOUlyZ0JIbTE0YTM4blRuamM2X3dq": 1793342727.4364471,
+"Reuters|CBMiXEFVX3lxTE8wdU42eENHb212T0ZFSjRjR1VGM0JFNkNsb3d4NUJvSThITW1iRFBHZVIzUzFNOWV4bHlJMDFXTGJOUERMbHh0cTdwWW5Ta1R6M3ZIZ3phWTJCT3pB": 1793419240.244225,
 "Reuters|CBMiXEFVX3lxTE8zaEZKbWlOMDYyZEM3S01VOVFlTUxrTVkyaHhLVmtuMEdFWnpIcldGdXQteTVvU3V1c1NLXzdteF9tR1BtVjY1Zk9xN09lSXUydVJVdWZBeFEtZ1RX": 1793383241.2383296,
 "Reuters|CBMiXEFVX3lxTE9QREdqUzJLMHFBYURVdVN0amhjUzRsVThNZU9DMW1PWVFBWFBKYTRnWGQtb1Ric1hjZWE1T3MySUJ0anozSjdyZmt4bG8tZ0JZMjVfQVBhMlMzYzcz": 1793034009.146361,
 "Reuters|CBMiXEFVX3lxTE9RT21PZldrQlFMM0FBVlpDUVdTMEVXMlJiWUJ3SXRGYnNCVUhwSXp0SzdSY29vak83eDRpT09UcXVreDR2alJYZFMxaHNGYTRDcFdueHZYcFlhOUZD": 1793383241.2383296,
 "Reuters|CBMiXEFVX3lxTE9rWjBoTW1qSmpRSk1KdXh3VkttY1EzTlZWbHNFTk1iVnBmd1laM25rVjFwT2FNdDhMYlhmNDBBSFgwT0FEOWhPZTRyZnlESmp5MXZyRTZQajQtUGZR": 1793353525.5542397,
 "Reuters|CBMiXEFVX3lxTE9rZmRILW9SRUhLYXVVZXBCSm9nVGJRX0cxMm9wYldyUXp4MG9sZW1hYnFuZzVXb1ZabGliVmQ0MjY2aEU1Qm50LUdYZHpRY2E2NUo5OGdKRGpRZ3Fk": 1793341831.5381763,
+"Reuters|CBMiXEFVX3lxTFA3WF9wY01WalFsN05nSGItTnhERmdfemRyMm51N0I1MHRZaTR6bjg5RW9CbnZXY0d1ajN0cVhRTTVGbmhPTGNJM1NlV2kxaENPRzJaRnhqdVVYVjRM": 1793419240.244225,
 "Reuters|CBMiXEFVX3lxTFAtS1g3ZUttRl80dFRFaWFBQ2phQjRLck1uOXBvUHJqdWpJVGN2bkZ4UHBzSEFVQ1VlXzZaTFY4aGtkY2JRbTFWQmdsT0ZsQnBWRm9acFg4WUxsZHFy": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTFBLWmVBclducS1JOHRpTm1DVmJ3bl81UVhpTHdxZ3Z4ekJyQkhsS291VU9LeUw1bDRGaVFaYVJxc1A2cmNBUVY4T0RuR1FZYWlWS1NMWDY4U2pRMXRx": 1793041244.0144668,
 "Reuters|CBMiXEFVX3lxTFBOLU1tdkJpYkFTQTM2SGNYbzZzZVVLWktHMnBnZzN1amg1eXpmbDdEQmJmSFd6ZHYwZzNzZWVvWTZGdFVaTFRUVXZiUWhvUUplUi02LTVNb0dNeEdz": 1793341831.5381763,
