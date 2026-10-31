@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxa1FzSDRnX1dpdnYxSjRUNjNHVEctQldVMkZEaVVWaUdXS3U0U0RvWlZ5SURTSDBWR1dGRXUxV2tDdG1mTm1NLWdQb1hQUnFaUWduNzBfT3Nra0NMY2RmamJweGk0dkJNTnpOd2RmQzQ5aWh2cDd5djJWU2VFQQ?oc=5",
-"src": "Reuters",
-"title": "Philippines raises alert level at Mayon volcano after eruption",
-"ts": 1793351245.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rWjBoTW1qSmpRSk1KdXh3VkttY1EzTlZWbHNFTk1iVnBmd1laM25rVjFwT2FNdDhMYlhmNDBBSFgwT0FEOWhPZTRyZnlESmp5MXZyRTZQajQtUGZR?oc=5",
-"src": "Reuters",
-"title": "Getting vaccine is 'not a partisan act' -Biden",
-"ts": 1793351684.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-dans-les-bouches-du-rhone-les-maires-en-colere-menacent-le-gouvernement-de-ne-pas-organiser-l-election-presidentielle_6802990_823448.html",
 "src": "Le Monde Politique",
@@ -83,13 +69,6 @@
 "src": "Reuters",
 "title": "Seven governor races to watch as voters weigh Trump, economy",
 "ts": 1793354901.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3FGX2RFelg5Ym5xSGhDWDZFeE00ZXlJMnY3bWN1MEZMNmtYT1U5T2RtRXJuUGp2ajBySGpqVkNFUHFPakNwOWRiLVBpY0RISy1vQ0lrNkpXMEFqeHZRUFY1NWJEVFhtZ01yZFE5WHdWd3Y0bkZMQ0JvWW1jQkFxS2x0enM?oc=5",
-"src": "CNN",
-"title": "- CNN",
-"ts": 1793351558.0
 },
 {
 "lang": "en",
@@ -3156,6 +3135,27 @@
 "src": "Reuters",
 "title": "Police video shows officers shooting at drones in Kyiv",
 "ts": 1793480378.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse",
+"src": "France 24",
+"title": "Allemagne : la \"Gen Z\" demande des réformes pour l’éducation, inspirée par le mouvement français",
+"ts": 1793480318.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
+"src": "Le Monde Politique",
+"title": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
+"ts": 1793480497.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YTnRWaW5sTDNlQkEzclNmNldsb1FDQ2xiYVB1b2pfZ0ppYkp4YVgwdkxhQXRfd0dSOFBvcTVscFBPSUFxZVBISUw1VFdwZ3FjM3ZvTXI1M2cwSzZpRzZVQ1hoblpkdy1ETWhONndYNmszZDBhUExKem9pR3Nobk0?oc=5",
+"src": "CNN",
+"title": "On Day of the Dead, tourists bump shoulders with celebrating families in San Andrés Mixquic",
+"ts": 1793480867.0
 }
 ],
 "seen": {
@@ -3813,6 +3813,7 @@
 "CNN|CBMif0FVX3lxTE40WUJZeGdYSTRXMjJFOU56VnFUTTF0eFdNTkJIa0d2eVdEa1JqeUp4YUpLNEl0RzlsOHNCdXdLcGxkR0RKVU5mNkdNY2gyWDYzM0VLMmdEY1pvSWlGb3R3eENxUG4tSll6NTVDODk0THNvLUFtSE9TOVVBR2xBcDA": 1793085327.0261214,
 "CNN|CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E": 1793043032.0944161,
 "CNN|CBMif0FVX3lxTE5JTXhTR0xheE1iU05OX1MwNWRxSXN2Qld6ZzdCMHZkS2swaEx6aEdWVHJqZ0FRMjFXWUtZSl9fNXU0RTRLa3FZd3diTjc2clh3bS1BMTVMQkt3bzFNTG0tOHEzbmV1Ry1lWlV5T3BrczVrTzJkMHJNUEVrT2xRSkE": 1793097929.898054,
+"CNN|CBMif0FVX3lxTE5YTnRWaW5sTDNlQkEzclNmNldsb1FDQ2xiYVB1b2pfZ0ppYkp4YVgwdkxhQXRfd0dSOFBvcTVscFBPSUFxZVBISUw1VFdwZ3FjM3ZvTXI1M2cwSzZpRzZVQ1hoblpkdy1ETWhONndYNmszZDBhUExKem9pR3Nobk0": 1793481323.2553124,
 "CNN|CBMif0FVX3lxTE5qUGdnbTBzdm9nbzBaTWFTOUlsdVlSYWUzenpsRkg4cUd0RE9GUDFfdmZTMjRKemE0YmQ0Y1o1T1VJZHMwQTNsSWwyelY4cW04NGl1T0Q3b3dEQ1Z6SEc0QUI0WmFrMHVEUlozYW81NThMOVE1cm4xVVZvSXhpWmc": 1793440836.9587128,
 "CNN|CBMif0FVX3lxTE94eUlnTW0xbnE3MXlkbWdiR2EzNUFlZFJtSlFZdXVhNl9WcGE3b1FZSHBLZnVpeFhZb3dPLXV1Z0czRXFOQ2YtVHdqTEQ0Nl8wRnVXeE92N0h0aFNUeW5oRzVkeXRWSXBmM2s1bTB5RndpVVgtd2I1VGdjWmRhS1k": 1793348128.623687,
 "CNN|CBMif0FVX3lxTE9PZEZrRGp3Z2FOWVVsRXZBSWxPY3JodHlyZ1ZSYmhYSnB3TXRPeDRJem02ZFJwbHlCRzBVUHFvUDZ4VFhPMEVjNnBnT3YwS25OZEYxX09adW5lQl9BZklQRzd4c1cxaExlMmJ1ZVRfOThfMldxZWxmR0JPeTJ3a2c": 1793421927.1703074,
@@ -5083,6 +5084,7 @@
 "France 24|d7b1f53e-d2c7-11f1-ad75-7912c5089383": 1793190635.6630328,
 "France 24|d81a6e5a-d21a-11f1-b01a-1b824b9acf8d": 1793115927.1792972,
 "France 24|d84f9d74-d3ae-11f1-b64b-87c16149f105": 1793290525.2920587,
+"France 24|d905fb8a-d56d-11f1-83d8-7d25225ed608": 1793481323.2553124,
 "France 24|d930112a-d3e9-11f1-9890-3b6ec3604db1": 1793319327.9753833,
 "France 24|d9f9d060-cfb5-11f1-a74c-03cb5e484910": 1792912031.9234908,
 "France 24|da4bc312-d135-11f1-91a0-b31e6bb7153d": 1793019644.3332078,
@@ -5341,6 +5343,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html": 1793452525.7107594,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-laurent-nunez-declare-que-les-corteges-se-sont-bien-deroules-40-000-controles-realises-dans-toute-la-france_6803391_3224.html": 1793474130.9776192,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html": 1793423728.032773,
+"Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html": 1793481323.2553124,
 "Le Monde Politique|https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html": 1793033128.0726519,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-a-bastille-des-consignes-de-la-police-annoncees-au-megaphone_6799704_1669088.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-les-images-de-la-manifestation-contre-le-rassemblement-national-a-orleans_6799711_1669088.html": 1792912031.9234908,
