@@ -9,48 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261029-%C3%A9tats-unis-obama-se-moque-de-trump-%C3%A0-l-approche-des-midterms",
-"src": "France 24",
-"title": "États-Unis : Obama se moque de Trump à l'approche des midterms",
-"ts": 1793292438.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Lib Dems and Reform UK in war of words over alleged shove",
-"ts": 1793292815.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
-"ts": 1793292948.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnRra0FsWWUwM3NBMmVjMTVjQmVXelAxbjE2N3ZhU3J6Q0doTHFLX3VHWHJUejFnUk9GaGFkajJSNEVQbzN2UkZuRU5IdWNtSHVVbldSSWh3b1RGOWZBSWlhbG1wUU1WaGN0dE8xWE9QazljVDBkMWpYYlBRQklvSW0yeDg0VncxVzMxZnRCVWttcUtWTXBHdDl0cWFMRWx3T1A2MXNwTWRjTC1tWHVXNHJnMW5ZclJMb0ZVV0RYaGJxZ1NiZUVLWmtSTG1RZE0?oc=5",
-"src": "CNN",
-"title": "From the pulpit to politics, a record number of candidates of the cloth seek office as Democrats",
-"ts": 1793292889.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-31-octobre-a-paris-rassemblements-non-declares-interdits-et-couvre-feu-instaure-pour-les-mineurs-jusqu-a-lundi-dans-certains-secteurs_6802363_3224.html",
-"src": "Le Monde Politique",
-"title": "Manifestations du 31 octobre : à Paris, rassemblements non déclarés interdits et couvre-feu instauré pour les mineurs jusqu’à lundi dans certains secteurs",
-"ts": 1793293043.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261029-midterms-la-maison-blanche-s-appr%C3%AAte-t-elle-%C3%A0-conetster-les-r%C3%A9sultats-en-cas-d-echec",
-"src": "France 24",
-"title": "Midterms : la Maison Blanche s'apprête-t-elle à conetster les résultats en cas d'echec ?",
-"ts": 1793293184.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-guerre-en-ukraine-une-frappe-russe-tue-13-personnes-%C3%A0-la-gare-centrale-de-dnipro",
 "src": "France 24",
 "title": "Guerre en Ukraine : une frappe russe tue 13 personnes à la gare centrale de Dnipro",
@@ -174,13 +132,6 @@
 "src": "Reuters",
 "title": "California loses bid to revive ban on religious, anti-union workplace meetings",
 "ts": 1793299051.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkItMXV2V0M0QXFZS3JWalRHS2JWTDBVWGhnWFlFdTdhelZENE9PVFBPN3QzVUpfZkxZUXNnSlVGYWF2UnViZTVDQkhXdFEyeUNwOFBKaU5leHNlTm9XNXdSVm9vZHl3a2tEX2Q3ZEZIQUZZUmlUNTUwbVRkbldwcGxGY0JvMkVoODlnZldCcEU5dHVlSFFVMGdiYVp2OHhIa1NrbHJBTDhReU9ZQm1FSWtqdUk4LTZaMmhpckxXUQ?oc=5",
-"src": "Reuters",
-"title": "Mbappe should be allowed to move on after apology, says French federation chief",
-"ts": 1793293021.0
 },
 {
 "lang": "en",
@@ -398,13 +349,6 @@
 "src": "Reuters",
 "title": "Machado says US has proposed Venezuela elections for 2027",
 "ts": 1793308387.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllkUEVGQXlMa0V6QjM3WE1sOWlmclZ1SXdBWWxJSkw3ZmRzdi1nN216aDFtRjhTQzhXRmZURnp0UkRXcEQ5WDRlVW1kcEk4ZVJtR2pla3RtbldMaHVlODdVMy13cFZia21zbmFhNTZnSFlLVlhJNzY0eDE2Zm1UREhfNFBiS3hVclc5aXc1eFFNbEpJbkNQVXJOWkJCTkEwXzhiUVNMZmNESWN6UHVvSEpDaWlwdURLQjdWcFZBUjBMaWM?oc=5",
-"src": "Reuters",
-"title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
-"ts": 1793292410.0
 },
 {
 "lang": "en",
@@ -3576,6 +3520,13 @@
 "src": "Le Monde Politique",
 "title": "A Madagascar, des fouilles archéologiques font parler les trésors des pirates de l’océan Indien",
 "ts": 1793421031.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekp5UHR1VTVUUkhHc28wR0hhYlFhbUNaR0VUZW5QZWxOczNGakNYeTZwYlZ3d0pjRDBLa0dTWkZUd3BQQy1ndnk2aFVGSlBCSDNob1ktd3U5ZXgyMVplNEJQRFlzMDRkVWFONldzSEJvSUE3dHlhQUVBN0VTNFFYY3RhUGpHLWdxRzJPOFEwMnJOYXUwWE51TXFpRlFCM2pWc2JPRTdKS3RjdnZPX09NZW5aS0VHUGV2V2E2SjF6dElWZllrc3F2andkY2Z3QUUz?oc=5",
+"src": "Reuters",
+"title": "China's factory activity marks third contraction in four months",
+"ts": 1793411280.0
 }
 ],
 "seen": {
@@ -4759,6 +4710,7 @@
 "CNN|CBMipAFBVV95cUxNOWxsR0NqQ2dVTl9LNW5LZnBpY080UVZWai1jUW9SR2lLcU1YY2J1UXRSSzFnVDBnOEdEai00N21PeWkxeF8yU2I0WkNWNTVSYUY5VnQtbjEtVTZtMXpIY0YwQjBPUGZtZnpGNjhYRDRldGNsRHIxVzhQNFVpMktqeHl4U0dBMF9LYV80a0stUXI3Q0RzZnBUVXVnX1lUU3B0dWFXNQ": 1793216728.4482749,
 "CNN|CBMipAFBVV95cUxNU0NoaGtGZ2FXam4tX2RpZVBfdENoYWxRZUxDSzh0RFhMT3FHVmtzR1YzbU5FYUVKWkV0aW11RC1xZGtlSHhsV3BVYXBiVFpqWjhVSVVvTkphV1F4YlM1OXpqQ09nS0loZ2MwRVBldWk0UV9EekduS3U0TnYyMlRjMFZkUnhlS21iQk1lbTdmaGQ5M0tBQkpkYjF3QTl1MDBkTVBOQg": 1792912921.1568482,
 "CNN|CBMipAFBVV95cUxNUDAxam1KZXFFcGZnTE5IVEZYVGd4dVRxYW9DZWVkcGdfNXNfQ2dCZ3FIajdCZHMzRG41eEpIaEZHZzJkaTZOSmtaZ0ktQzByX3RudFAxM2RiT1MxMFBfSzFuelNDWkkyZjdCOXV1WVFRcnYtRGNlLTdMYXMyekxvSHNqUm5CWTJMSE5aZ0p5MUtzbnVqbXFjbHR3RlFUSkxHQko5Xw": 1793300440.7039309,
+"CNN|CBMipAFBVV95cUxNanpndVYyLUNrenUxN0QtTnY5V0hKX3dDSWpRYldHbEtzb1hWdE5WZDJzV05FTWdLSlpQckM3dDVNY1N0aFFheUR6WUlRY0FnYzFvelVpOUlyZklWRG41OGduVGE1aFdzX0lVTVV3YVlESXlaYWl5WWtCdGhrRTZSUXNrTjJJUXZLRG9XdmlfNHdIdUE4bUN1VU5UWFZDQXR1czN3Vw": 1793422837.6235816,
 "CNN|CBMipAFBVV95cUxOYzNiT2p1SGNkdHh0RXp3TTVzR2ZRZk9mcHg3QVRVSzdTTWdIcGpTZVFtNHlzWTJSazlkdW50amJhaHQ2RlNpdDRRNWtyWDNzQWJ6Y0Z3WHFMb3hiNmZlZk56OVoybmppT0p4N002NC1meHRaTWFnVW5hVk03aFR0d0NZSENjUDc5Rm83eDhocWs3T2FtVGZBc0ZUM3ptYUdyZE5CUA": 1793243726.3987784,
 "CNN|CBMipAFBVV95cUxOcU1LdmdhbVdxazBmd0VURmJTckZmUmV0UzVQUDhFT1BiQTBqbFQ1TmxtTlBHUThMUEF0NTJSMlUxbkd2NFBuVmRuZ2JFVGFmMHBrYnlrUDRnc0ZGcjdjT19Pc0h0ZV90RTJsNjdGOFhCc0kxSlQ3QTk2WXBDdDBmbURxMHExUDNTYnNkQXhBS3RlZWt1ZFB6c2IwVUVHbWxDSWh2MQ": 1793329246.9546194,
 "CNN|CBMipAFBVV95cUxPSzV6Z1pFN2JyV3Z2cG5JMnR4OXFQTXI1U2VEWU5DbnU3STg1Ti02dFJObFNCTVZGcDRWc195VWpPbHBEWF83dWtUUDVjV0h3QmFMdkhuTC1IWnpRRndLVkwzTkR6MUtlU21wTk5VczY1SDdESzdGWUoyMTJrMWk1NzI2Y1hMYkhTbC1zMkc2eHQ1MnQ4UE5FTmVqWWF3UWZqeXp0dQ": 1793336439.7719917,
@@ -5595,6 +5547,7 @@
 "Reuters|CBMi0AFBVV95cUxPeVdpV3d2UGwyVHFBR2lNS1JNaUxINlpjVXppYjNiSVc2QUtoa3RISFhVcUZFeEppWHlBTmJoRko2dEpJSjNwb2NfVDJMMVp5bGp5VUtBb1ZnYjZ2NXRKUjlwRi0wSmNYblh1TU5iNE5odmtRN09uZ1Ryemx1dzJQYmpsRVpXRS1yQUl5MzRWZVMzSXJvNW03UHBodmZHbm9tMXhwZFFiVXE2ZEpJTi05TVJpWHItRF9zbG9MRmVpSFhtVFVvc3V2TnBFOWExeXVq": 1793373326.922821,
 "Reuters|CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T": 1793000726.4345882,
 "Reuters|CBMi0AFBVV95cUxQd29zTzc4XzJ1dmVYNkJkaVUxMERuVUhjRGZWWUI5RURGV3BxWWw1S1BHODlpS0xFOWotenNSMHQyMHJtVDVkNHdYb3FtbnpSMWE0WXNKLVJBLUxtQ08zc3VvY0Y0WVhxbklRVFlSRFJJVU9XTzdhcTRBSVBRcUtJVkhNaElrU0lJTGJZc2YxeWFOV1QzaE5tQ3pSZFB1MFhCa0dsUERmQ0dYbm5lX3hGX0Z2ZnpBay0tQ0R6TVZQLVJ4OXpEUkkzU2hyam1mQXBS": 1792999837.110346,
+"Reuters|CBMi0AFBVV95cUxQekp5UHR1VTVUUkhHc28wR0hhYlFhbUNaR0VUZW5QZWxOczNGakNYeTZwYlZ3d0pjRDBLa0dTWkZUd3BQQy1ndnk2aFVGSlBCSDNob1ktd3U5ZXgyMVplNEJQRFlzMDRkVWFONldzSEJvSUE3dHlhQUVBN0VTNFFYY3RhUGpHLWdxRzJPOFEwMnJOYXUwWE51TXFpRlFCM2pWc2JPRTdKS3RjdnZPX09NZW5aS0VHUGV2V2E2SjF6dElWZllrc3F2andkY2Z3QUUz": 1793422837.6235816,
 "Reuters|CBMi0gFBVV95cUxNN056VDdHYUJJTnNENTRnRTdVVU13N2hEOWlSVWZsMVhzTDZVSmJrUzJZc3Ezd2laNkI5QWIwUi13LTF2SzUyVElxZ0JlOHRPSy1ta1ItMmhNWnJiQ3BVa0k3S2hkWHdVNTdtX29YTWJlc0p5eHVCNGtaN29vSUJTZGxaV2lrRGoweWpKcTlQdTI3djZ3UW5FbG0wMkFXWTg2UUd3RGZlTUlyMDNHRVV2YnZyWDkwUzR0VjhITVJZcW1jdXdmZHd4YXE3LS1IZTBzY2c": 1793239240.6576965,
 "Reuters|CBMi0gFBVV95cUxOcHczRE5EVXZodk5OdjV1Q21qSVFOWjlpTlF5clVZUVNVaXdQY3pSQVlSTmh5UWFxOFAxY0U0YTlzNDl3aTN3TkVMb25kX3p3SUtxVnZVYzRpbXlsX2pXd0lIZ2Z2eDlydVpkMWVXYXQwaXVOV250TnFneVNzMnZrRVhhUzZpaGZ6eE41OVdLQ2l6d3BETHJFcjlrOW45YWg0VVBUdWNwS3hIdGZ0Skk3NnRZSkFndUxDSF9xNC1vM0ZaTVBwQ3VUQlZ4YlRndFBSR2c": 1793088038.0798838,
 "Reuters|CBMi0gFBVV95cUxPSFFNRVZFeVlMLVZWNk1ReWwwUjcyT3BGWjJCZDlkSjE1b2gxUi1laUk2ZFpVd0xnM2RuYU5kd1ZMYlhBVUFIU28tQnZvRDVlNk0zazFHMFNWbXByaDNENU1DUUV6a0NzYkZaSGZUa0JMTTlHRm9pNVM4SU5TTUFrZ3A1a1RnYzgxdXBDTnJNenpPNDFSQ3NaOGJYMnBJSWtkSEU0cDhsWS1Nc0JRSzd3RnpnUUdzNFBic1dkNl85T3FhS1RUaHBKT2RwTjJMckJwS3c": 1793245524.986033,
