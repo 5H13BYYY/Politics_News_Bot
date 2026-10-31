@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1hucTFMQklDenh6T0RIclRfWk5EZmpPdGIxZGlna1JfRW1scS1NdWtfWVNMd1M4c2pDSjFRWjhkS2V5V2FSbEF0NEJzbjhhQjN4SlE5TXhYM2hBdmtUWFZibEFoMjB4SWlXM25MRTdGYnN1b3ZBQ2JBT0dMdzFKcjN1eGo1YVpLczREa0VuQ05VdHc?oc=5",
-"src": "CNN",
-"title": "‘Star Trek’ & ‘X-Men’ Legend Patrick Stewart Dies",
-"ts": 1793309295.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
 "src": "Le Monde Politique",
@@ -27,13 +20,6 @@
 "src": "CNN",
 "title": "Reliably red Iowa becomes battleground state",
 "ts": 1793312640.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlhaGhFY0JaTldCaERtblR1UmxNM0xGemI4ZjVfNkEwQWUtNXE3aVFvZF9VT2ZJX2ZiRW0zTGNUV2otaktQNmtLNS1pZXV5NXZRZjIzTHhabVRBSHQtY1NCaTRlLXpDaHQ3ekowT2tScEZhWURKQUJDODEyS3hhWVVYX0g5X0tYNnNFX1pzYXRmVXc3WWFJZ2thZWxJQ2xnRlE?oc=5",
-"src": "CNN",
-"title": "Patrick Stewart, legendary ‘Star Trek’ and ‘X-Men’ actor, dies at 86",
-"ts": 1793309350.0
 },
 {
 "lang": "en",
@@ -107,13 +93,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRWthUXRTbVNYQXlZZGs3STB0WGVUQlZ5UjllTzkxajFPSGxrUEp1SUVscVZWSzh6MEsyRk5ORGxIVUptaDZOYTJoM3JCQVg4eGZwQzh3akNlb0tjdHBKaTdDWldQMGU1R2J4QlFkLV9DSldsMWdSeklkWTU0YVhXbmlvOUZCOTNaS2VpMjRwaVNBUEV4dXB1am91THRFLUYwcmZSSzkzWktQalhCb3dwZmFidFk2bmt0R3JOXzRzcXBEbTdFUEtER3FfbE9ZaG5nQUdpVlpxLXRFMmxBby1PTFMySEFfWVF3YUhNeA?oc=5",
-"src": "CNN",
-"title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
-"ts": 1793309012.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVlkb2tiYW8wc2JKZFQwM2FUbFNvamprX0doQ0lCRDUxYU5kWnpDSzhyeXZVTXkzbVBTMEhxRHBuRVN6U2ViQlZIdTkzN20wM2UxUzJwaHZMYkZUSXF1eFpKNGxYRGpvMWQ1aDl3bU5HNWFHR004SVNyOEsyY2R5TklKaFF0cFR1S3FfckU1SkY2cjB5Q3JKWVVkNkhRVUxtMTMzUk00YWxIRmpoUWJBNWJzRDVzVnZzM0IxYWNCWlk?oc=5",
 "src": "CNN",
 "title": "Trump lashes out when asked about his health after scrapping Kansas rally | CNN Politics",
@@ -132,13 +111,6 @@
 "src": "Reuters",
 "title": "US stocks slump as Alphabet revenue miss reignites AI capex jitters",
 "ts": 1793316601.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDNhN2Y4MkIwVl9PQ25vRjJnMkE3YjE2LVFSUjhza0E2cElKZTRlQU9ZZzhiSjJrSmV4T1h5QmRGQkZtd3l3eXNVTGhvVEllQ2FTXzd1VEtVbmYtZDZsWmx6aHZLX0xGdDRoOEh4dU44YURocC13T2xHQ1YxNWdZNTBaeDlVYWhJ?oc=5",
-"src": "CNN",
-"title": "Analysis: El Salvador’s Nayib Bukele adds a wildcard to Haiti’s fractured security landscape",
-"ts": 1793308646.0
 },
 {
 "lang": "en",
@@ -3170,6 +3142,13 @@
 "src": "CNN",
 "title": "How could Democrats win the Senate?",
 "ts": 1793437200.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html",
+"src": "Le Monde Politique",
+"title": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestations très suivies",
+"ts": 1793438045.0
 }
 ],
 "seen": {
@@ -3463,6 +3442,7 @@
 "CNN|CBMiW0FVX3lxTE1sQVJES3RHamFoU1AwSUJndXZGQkZzR3prV015YVU3bjZWWFAtSG93X1pUMWlQdXJBUUEyejl5NTUxeTNiWjJHVm8zSEJsRkZPbUptVFhrTXUta2s": 1792935031.8835816,
 "CNN|CBMiW0FVX3lxTE51eDQ2Mm5sM3htOUV6ekpSYW5USGd3N3dhelJhV0dFZVA1REZpd2h6YWt5RFpiT0xMZ09iY3l4TnNhSjdCbW5qRTBlX2R2NjA0dzB1ZHJSejZ5dFk": 1792982725.406159,
 "CNN|CBMiW0FVX3lxTE91a3B6OU83QjhXTGpDWDRNS1hWOHZKMFZubm9manM3dUY1MmEwbHhVUDZRdGJIcnRWUllqWmxuMkxrU3I3ZXhqLUlqNnFNQ29nd2VGbUlDSnNZMW8": 1792912921.1568482,
+"CNN|CBMiW0FVX3lxTE9zNkRPU2ZuZXdZWUpJbUJibHBuZkJBLTkzV2RZS1hiSmMyMHlpV1E0ellOM3EtdUNxWnNJUUlVQlFJdXhZcmxUY2JaWkFiLXlHdEl5WFljcnkxeE0": 1793439036.2399766,
 "CNN|CBMiW0FVX3lxTFBBeUxNSkVOVjRrVTRWNkR6NHhRcTBfN3JzY2gyemRyWlJYVm81ZEs2aVpCN1BYdkJFZWhKOTJKdldETHFsaG55LUNVZzZaTXhBbFJ6WnY5aXg5dGc": 1793354440.5258033,
 "CNN|CBMiWEFVX3lxTE1wcXlyWENXdGtfd01KZ1ZGbXR5OTg1UVVMWDJLbGdqX0QwM2pTUFQzUzBTcnMzNDlPdnVxeWYwNTV3MnRhelFwcHJyQUlkcXozcXJobmpLaFo": 1792912921.1568482,
 "CNN|CBMiWEFVX3lxTE9KM2lqeDB2Y0VDQ1VZQzloOUpkR2tfLVBXMW0tYktRS0RiUU9WV0ZRdnBxY2JhOVVIX3ZnY2taZFgxM3NqbnR4UHo0VFpNd2JTMG1kSkNERUo": 1792944039.906151,
@@ -5071,6 +5051,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html": 1793065523.9823225,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html": 1793420126.9286642,
+"Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html": 1793439036.2399766,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html": 1792931431.0547247,
 "Le Monde Politique|https://www.lemonde.fr/le-monde-evenements/article/2026/10/29/a-lille-une-convention-citoyenne-pour-repenser-la-democratie_6802300_4333359.html": 1793266235.552444,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/10/27/budget-2027-les-dates-cles-des-prochaines-semaines_6801100_4355770.html": 1793076327.4460669,
@@ -5660,6 +5641,7 @@
 "Reuters|CBMiigFBVV95cUxQb1NTdzdueURFOXNDa19BOWJROUhoY3l0NHMzeG9EbnJpb3RjTlF5WjRXNnozb2lIcnRRSVBiSFVtckljaG0yc1Z2OGRNRnZyODRsYnZkeWJ5SENtOW9pZUI0YjRiUUQ5RW1pVXlFaE9PMnFmMllSMklwNURobFRPbUZjanRXUmFocGc": 1793052925.6166203,
 "Reuters|CBMiiwFBVV95cUxNRTNSaEwxV3hGdnZUajFpTmc1WGNMelBmUEtGRjVnR0MyR19aV2ljdXZzVVptc2c4c0Qwa0RJbnBndHRlb0txcWxyenZzWXVuNjAzZnhvLU1Gb21NYzlwRkFGTmg4YzhOem1JemlzNC1VZlN5Tk5SeDI3U2VRV01FN3M3N21FUXpCWUdv": 1792912031.9234908,
 "Reuters|CBMiiwFBVV95cUxNYWdla05nRUhYdHdvcDdEZnM4TXFzLVo0TUVwNW5VX19lcVpBbmozdDhicEdsbHpWcm5uU0lsVW5jc1Z3OXo0S3JRLXF2eFdmcHdwM2pNczN0bHBpd2h0SUwyNllQZmZVSEpaQm45ZWd6SU5oS2ZpRDdlczY0ZTRwNnF1OERySm5XNDJZ": 1793318445.8265395,
+"Reuters|CBMiiwFBVV95cUxNa084WEk0Nzc5b0R5NHJlclpkc01aWUFQZjNWeDZxYXBQNzhyMzYzVDd2TlE4aVEtRUJmeFhRb1hCTXJWWmltMHplRDJYaV90X05rT3J6YUhkck9PeFJSb2pXSWxSN3JybWhLVUVCZkQyRjByME5pby1vSTFSbi1yYWFtckZpb0o5TkJv": 1793439036.2399766,
 "Reuters|CBMiiwFBVV95cUxOMEdPZWs5TU5CcGV6R2d4cU5lc0JYclNWUjlZaHVBaGx0dHJZaFpKbjhIcWI5YmY5ZVpic3pLZmp1cFVGek1nbDk1UGhsbUxySk9IVy1DM0ZTV3RwcldwWDRGMU90LXBtenNYbnYzbXVNbEZ0STE2VTFxQU5Oejl1YzJkWDVFU1NHR0V3": 1793097929.898054,
 "Reuters|CBMiiwFBVV95cUxOQThreThHUjh1NXBySlVTTlV1RXdkeDFVUkdPR2dYaE04a1I4RlVEVEhJOXFZWVNTc1VmbWhpeFZlb3pmYS1CXzFJQV9qX2w4MFh2ZEVoRFJtdHNRYWRLSjMzOHplZWp2b0xsaFVOODJuRW5XU2htc2ZZTnd2aDM3Z19GMm1Sc2FRcHpz": 1792977327.180606,
 "Reuters|CBMiiwFBVV95cUxOSUZ3ZmR4cGMxSXQ5NndLWEY5NFluWGFMVXh1bWRYSFNmbTFxaUhtcmRKZmR6b1FVT1dra2tQSWV6RWJndmtQODRQb00xOVBKOVpYaC1nazMtYjlhazQyOXBReHRtcGNKcWlLSUJfX01RMEw5bUl3VGRKRHpDQmNld2gzS1U3blB4b0Rz": 1793265325.4624467,
