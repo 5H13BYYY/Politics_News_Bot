@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90WEI0TEVuSVJHYVE5X0JWX2hId19FSW1CY2lzRGtCZFdkaUdGYmJPQUQwWkRCS1hKRGhZbVV0cEVPa2R2OGF3ZXp0aEVnMWkteVVhRnZlZHh2b0NZdENkcFRHQzJLM2ppeFVwel9CdlJIX3JhN21HVU0tWQ?oc=5",
-"src": "CNN",
-"title": "Packers’ Watson makes improbable ‘Thursday Night Football’ return after mid-game trip to hospital",
-"ts": 1793349205.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261030-au-br%C3%A9sil-la-victoire-de-lula-freine-la-main-mise-de-trump-sur-l-am%C3%A9rique-latine",
 "src": "France 24",
@@ -62,13 +55,6 @@
 "src": "Le Monde Politique",
 "title": "Budget 2027 : dans les Bouches-du-Rhône, les maires en colère menacent le gouvernement de ne pas organiser l’élection présidentielle",
 "ts": 1793352603.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZM2xLSVBYTGpmeTc0ZmVha2RQT2xUaUhUdTNkZUJWTmtqQTA4ZGZhRDJHWW9JMUFqVkZoYjN2T2x0S0RMOWM4enhCRW5Ob3hqR1NyQ2V3bWZBdlROaS1McG9IaHY0UQ?oc=5",
-"src": "Reuters",
-"title": "Trump rallies as Republicans fight for once-safe Senate seats",
-"ts": 1793349450.0
 },
 {
 "lang": "fr",
@@ -146,13 +132,6 @@
 "src": "Reuters",
 "title": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say",
 "ts": 1793355223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44RkhzWkY5QXpTSkd5NXJlVnhzQVRSSjEyaWJ4c3NqanpIaTlFb3RyM09LU08xTDlNUE9FM1J4WEJpWEdRaG8yNTVra1RUUXY3SFpDVzlqUEJzcUkzUl9JRm9vVGdvc3c?oc=5",
-"src": "Reuters",
-"title": "Trump rallies as Republicans fight for once-safe Senate seats",
-"ts": 1793349450.0
 },
 {
 "lang": "en",
@@ -300,13 +279,6 @@
 "src": "Reuters",
 "title": "WRAPUP Exxon, Chevron earnings propelled by war-driven refining surge",
 "ts": 1793358288.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXJjcGEtWEJFVEgxR2xqWWFrVk9Ed1BEYldQV3VkcGNKUWFMcnNHN3B5eG42b1NVb2JzR24zWjMtTGoxR2dfVTA1dWN6SXRHeXFMbGF4U1liWEJieUpldS1VaEdMTjNDZ01RMFNTTGduMk11aVNGd1pkcFRuWjBLd2pKUm5NOHlsY3pOOVZvQ0gtenFtQlpvSDVQRFJNVXhROXJLcHFuVFF5WEdSSDJwa2ZR?oc=5",
-"src": "CNN",
-"title": "Somali piracy is back as the US-Iran war rattles shipping",
-"ts": 1793349780.0
 },
 {
 "lang": "en",
@@ -3177,6 +3149,13 @@
 "src": "Le Monde Politique",
 "title": "Manifestations du 31 octobre : les mobilisations en images et en vidéos partout en France",
 "ts": 1793477780.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXNTWHF0Q2JBV0Z2Zm1kX0VwbHpQTENoSnpTeUYzMDRGdGxoU2dLWkhZX3E4Mm1MZV94TjkyZXRldEVOX1pDUm9QUUFnZGZLUFp1MDZaM3BsWnFKYVhESTJoaGFnWlhoTGVScVQ0SWszRFhBLW5JYXpPd1lhOTVKQm1tOUZUMXlUNHowUlBLZ0JBUQ?oc=5",
+"src": "CNN",
+"title": "Judge tosses Trump’s lawsuit against Wall Street Journal again, this time for good",
+"ts": 1793478402.0
 }
 ],
 "seen": {
@@ -4228,6 +4207,7 @@
 "CNN|CBMikgFBVV95cUxPODViaU9tT0ZXSzZOVV9SOW5SOVlsSWlFNTlRTmxxMWN2SURzajdVRDh1ZXVKRGRaQWNnWFNKa3ZsMGRveDZaSjBIVGJhWkgtVE9qNjdpSmhLYmdNZXF4eG9kTDd0eDJQTURsY1lMYnAzZHlXQXF6ZWNxNVRabjVQMEYwTDN4QncwbGVRRVdZMjd0QQ": 1793162726.344754,
 "CNN|CBMikgFBVV95cUxPaThmVkRncVpBRnkzUk9kVlFIb3JpSE1NdHlGZ21BRlM1RU9BQWg2Nkt0YzRsTlVUMjlMQ09FUDVPVTdzRThFTkJJNFpvMWxoMVJhSHV6cUp2VWIta01aOGc2aW1uRWZJYUY4VVp4Q2hLQ2dLb01lY1hmTTJnaWZLREpOUjZyN2VjQnJGOUZndDJwZw": 1792912921.1568482,
 "CNN|CBMikgFBVV95cUxPbGhpNDl5VDJsWmpOOGFwS29UZEV3YTNZOGdPZHVpeV80bTMtUVN5MlNBOEU5WWRNd0MxeEhGaEJEUzFqbmpMQWtNejBsMElPSDJzWUFRQ1o5bXpWcmZoTjAzZWRwOFBSLVJFR1BRQ0ppbko0NnV1bEZ5dzliSUkyakQtVURnVGpUSk8tSVhSRW5Ddw": 1793296840.7597055,
+"CNN|CBMikgFBVV95cUxPcXNTWHF0Q2JBV0Z2Zm1kX0VwbHpQTENoSnpTeUYzMDRGdGxoU2dLWkhZX3E4Mm1MZV94TjkyZXRldEVOX1pDUm9QUUFnZGZLUFp1MDZaM3BsWnFKYVhESTJoaGFnWlhoTGVScVQ0SWszRFhBLW5JYXpPd1lhOTVKQm1tOUZUMXlUNHowUlBLZ0JBUQ": 1793479525.5017292,
 "CNN|CBMikgFBVV95cUxQWlNqRzE0VXQzUHZXTHZnbnhGX0ZtMi0wM2hlMFdGNm1MdXdzZEdvbDhjczJBcnQ1NGxMMXdKNFNjZndWbHFUX3BIQWRnUEZzcHFuX19tZ0FsM3UzY1NYRnlrM292bFdFTFBBeFhXcVE3ZGtwQmU0MEhqbHBNZllOZlFDXzU3MjZ4a0JITmcxTm56UQ": 1793033128.0726519,
 "CNN|CBMikgFBVV95cUxQYXM2VDJkd2ViWWNkR2JxTjAzai0xWjM2UGRDd0JHQ282QUl1My1MY2Y4WHc1dm5hQWhlNEI2Q2pocTFGUnhjUTFqR29aT1dUZVZBZmNTMlkyTTR4YUpIZ2lGMEZkTXhMbU9fblRWQi1vSGZuMnM5WDRLS1VaRDB6cUVNUENXR0otWWZGU3lYbVprUQ": 1792912921.1568482,
 "CNN|CBMikgFBVV95cUxQamhKOXl1WFo2S0w1QWNpVVk5YTRXaGhzajVwUzlkQlF1Y3JmVHlDLWU1ZVZ2RDFMSEo5S0RfSms0MGlDMnowbWszU0NMb055RElXSTItc05RREJVd3Z3Nk5WY0htLXF4RFlnejQ2eU5jaUZWU1dvQjR1WXpaVVp6MG5Fa25yYkttUE9YWC1aU2pUQQ": 1793319866.611987,
@@ -5693,6 +5673,7 @@
 "Reuters|CBMiZkFVX3lxTFB6STRYOGc0aTZXUV8tWG1CN1Y2LUxKTnVPckg5QlJ4WTcwTmNDQlczQnpjcWlFRjM1MVRrTnBtUWlzTENvVnF4cVZibDg2Wm9WSF9yWktweFN2WEZrSzBISGpfR2I3Zw": 1793023247.452176,
 "Reuters|CBMiZkFVX3lxTFBCZ09vdUxYT09BUnp4M1hmSG8wMFJHRHNZR0RtNVM4S1VGbk5INFctNnJaalhPbnhCaXZ3cko1M1RieEtxcUViUmhCemwtT2Nzb1ZZdXc4cFpHV0NUOXphejJTVko0QQ": 1793429124.5728593,
 "Reuters|CBMiZkFVX3lxTFBJejVuUlVoTFlmMnVHUF9FbF9uMmhXMlJYZ0M4NXBvZkFNNHFmNHFJVkhnVDZ5ei01MWVDdDIyRVJ2SEtvMFl5bE52RHRoT0dKenhVU1VkOVc5VnRyd1o3M1JVTG5fZw": 1793317526.738277,
+"Reuters|CBMiZkFVX3lxTFBQQ2tueFFaZ0JJOHoySUZHNF8tSHdDaXpnX1Yyc3JmVXN6OU9PMm5XOTd3QWRuYUI1Q1dPMkZIT1BKdHY2b3V4SEZ6WGJoQWwzRndFSWxqRTNoQllHUV9NUWZ0WTJZdw": 1793479525.5017292,
 "Reuters|CBMiZkFVX3lxTFBQeWhubEszNnlNNE8xbm9yY2djN3pBd29reXRON2Ffazg3NG9IVUpwN0hlcjh5ZElnNG02dGpOaGlBLUlZM2RoSDR5WGRRRllDYXhFY3dDTXBvUVVOanVHWVF5eFc4dw": 1793192444.7248962,
 "Reuters|CBMiZkFVX3lxTFBSaXlNeS1HZkdJandUMlB0NGx5dXJuaHNsek1sQjB0V1NOY216R1o5RzFPUGxERTVLdnJiNGM3U2NPdzA1SmRxQTFxZDdfQnJqdzd4TVNQY1pEUldqU05wcU8zemszQQ": 1793164525.5968049,
 "Reuters|CBMiZkFVX3lxTFBTMUZBYWljdkdieFJBcEZ5WTBfNHFKV0RFT01YSHV1SFF5QlZjMFE4cWU4SGVhV1gwbzZtTlF1Uldndkd6bDlLN2tTM0Y5dmhtWEhDRVVIcW5yaDlPTGY0OTVMRlRSdw": 1793295923.9076169,
