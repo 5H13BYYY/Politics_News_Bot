@@ -3156,6 +3156,20 @@
 "src": "CNN",
 "title": "1 dead, 6 wounded in shooting at California Spirit Halloween store",
 "ts": 1793447030.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN1VFLVIwc25EbUFJYzQ2cV82UUVOa2VzX21lejVHU1ZDV0oxQjJHRndqQ0pLMXZhTEVZekdSQ21qZU9teFFOZDZtbk1ndGRhUFVGbkdHS2VlZHpVc2tQLW9vbnRpYjF6WGtUeXVKWm80WjZ4MHEtS2QwYmh2OG1QVDVfbk5mRmNI?oc=5",
+"src": "CNN",
+"title": "He fit part of the world’s largest passenger plane inside his home",
+"ts": 1793448015.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html",
+"src": "Le Monde Politique",
+"title": "En Allemagne, des dizaines de milliers de jeunes attendus dans les rues samedi pour manifester contre le coût de la vie et l’état des établissements scolaires",
+"ts": 1793448198.0
 }
 ],
 "seen": {
@@ -3982,6 +3996,7 @@
 "CNN|CBMiiAFBVV95cUxOUmhRY0lSN3B3WnVralVDajgwSERvYjcwckgyTFpnZ2pBQkFydzMtYXplUnViTV9RY1UxQi15QS1NNkdMSkU4VzZaN1NORXJfX3NaZXk4MDh4NENaRHJpTGZsZjFuTU50ZG10dU4wMGU5S19qSFFrYzZ2N1FVM1U2SVdta2p2OHdh": 1793339123.7280052,
 "CNN|CBMiiAFBVV95cUxOWUdOM3ZxdVBzd2tER3lFQm56blc5bGdvNTluQ014STJ3R2hRWVRBOVowQWRDN2U1ZF9RMVBZOWlWNU82dXVyOG94SFJNUmhCQjVjWFNXQm1Kajg3RlVmaExLVkhTUG5fUDZ3Rk9FU3dmMkhjdVJwSVdwOGxMSzFKQktIeDc3dHlC": 1793053832.2624676,
 "CNN|CBMiiAFBVV95cUxOeDJ3d09kbXNUOXdoZ01qTllnWUJEZzJQWkNIZ3VyMjVWQ1g4VG1IVF80dThPOXFFMklRZVpFQnIwU3BUTWw4TzIxdkdzS080amFTU3BSQV83eXREYlAzQUZGZ3h3cnVQT2FpS2xRd0lYdUQtRlBvUVhvNUJKc0dSenh1VnZYSG5F": 1793006128.8469532,
+"CNN|CBMiiAFBVV95cUxPN1VFLVIwc25EbUFJYzQ2cV82UUVOa2VzX21lejVHU1ZDV0oxQjJHRndqQ0pLMXZhTEVZekdSQ21qZU9teFFOZDZtbk1ndGRhUFVGbkdHS2VlZHpVc2tQLW9vbnRpYjF6WGtUeXVKWm80WjZ4MHEtS2QwYmh2OG1QVDVfbk5mRmNI": 1793448926.9679341,
 "CNN|CBMiiAFBVV95cUxPRERzY2I1ckluNjVKR2FvZ3Zoa3VNSU5RenBBcHpOQXZaeG5Semc2aFkxVVNRVXNRLXBnMGp2NE5xT3M1V2dMV1JYUVE1ejlGem1DWkt5Tmh4dGZZam8yWG5vM2tzM2NTRmxDaXBoSmVNbTVlSGp6M3AyUmM2UlhzYXpyZm1keXlG": 1792912921.1568482,
 "CNN|CBMiiAFBVV95cUxPSERWblZHOHNMSEhoVGVibUhnTWJ1dV9Yd0FhWDBjaEdENlhWR01tQ0lqWTJkenctUjRxTHhCTm4tcmt4R2x6WkhjZUN4Y2dNS0lRdUsxVS1YMWhtVXdZT1J5LS14NEQ4UTYwZzFwaVNQSHNudlJQTjFKQzFRZDhxSGxhN1AxR1Nx": 1793082635.3350763,
 "CNN|CBMiiAFBVV95cUxPSGdvd3F3REhIMXJtVnFUMk16Y293TmZ0cllTaTRibExyV3dsRmdrbDRRZzBhcUN2QWlGeEZ0c0VWdzl1WFYzbkt6SXZ2UFQyakRFMmVCWERfdjN1VDd0aFh2NXdTU0dJVlZGVHNHVlVQT0Z0ZlZqUHZSSkpWQjFCQlZfcWFWbjlF": 1793333726.6988363,
@@ -5101,6 +5116,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/26/en-suede-le-parti-du-centre-annonce-son-echec-a-former-un-gouvernement_6800787_3210.html": 1793022326.7653923,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html": 1793065523.9823225,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html": 1793420126.9286642,
+"Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html": 1793448926.9679341,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html": 1793439036.2399766,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html": 1792931431.0547247,
 "Le Monde Politique|https://www.lemonde.fr/le-monde-evenements/article/2026/10/29/a-lille-une-convention-citoyenne-pour-repenser-la-democratie_6802300_4333359.html": 1793266235.552444,
@@ -5303,6 +5319,7 @@
 "Reuters|CBMiXEFVX3lxTE1meUx4aEZxbDFCcDRhQzBEb1U0alRtekFrbXA0eHotNWlyb204aklrNnp1ZjUtSHdXeDZSTENxV200OXJ2d1c3YU1FT3dFQjk0UVk2VnkxRVFuV0Fq": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE1uYjBWU1NPZktfdG1sM2tIMDlMcWJudWtxbjBtWUNPQnlBaV9faHdkRHdpYV83eHc3Q2pSbTA0RlpCQ29qYXhYbFQxaGRhV3AxbHVPVkNTU3FSY3VP": 1793330123.9385524,
 "Reuters|CBMiXEFVX3lxTE51UGRoUnBPQUJyeHFfLW5xSm9taGtFWnBHRXZ3emdUTko5d29BZlItSG1DN29la0pwMGk4M3NPdmhQWHoyOXZQYVJtQm5DQXZrenQ0MEZXVFpQQjFX": 1793349924.5690713,
+"Reuters|CBMiXEFVX3lxTE55RzQ4UzBNak45eWtLTWNEWXA3akdQTFNhd0dKZ1o2MlpsczkwQ3ROanVxQjU5LTJYQjZQMTJ1TUFZaWUxcm1YWkZ5UGtXckx5amdtdGRKTUhTc2ts": 1793448926.9679341,
 "Reuters|CBMiXEFVX3lxTE5COC1Wa1ZnRGt6ZDZVQXZDYnVNeEFyOUhDek5KMEk4bkljMVR2bXNrVGViVG1JNm9HMmI4cXE4TUNBd21HTnNPYUs5bVc2a2ZxNHNoSE9IRmN5RUhs": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE5HSU1xY1pVcmhqR3hjM3RENkZSMFhUY1VtTGRNS205N1YxR1phc0YtT1ZIWnEzQmphSGhwLXpQeHVZbmV2c1JlSEJod3YtWlNWZ3dwc2VyQ2xkclZ0": 1793423728.032773,
 "Reuters|CBMiXEFVX3lxTE5Id2dqdTFtRHFsUTBWakI3X0J1NkZoaVBGUHFKcU9FZUYxaFAtMm1WVmVSSTdOTTZwWmtId0x4V1h2bVlIeGNfQ3puRUtQMHdvT0swMHljQzZsNmlz": 1793382325.3549972,
@@ -5314,6 +5331,7 @@
 "Reuters|CBMiXEFVX3lxTE5iendiLVhXX2hPR1BpdVZoLWdxaWdmMUUxSUxaazkzNzd0S0hlRlVZYk1VTVV3SGo1TjdsZG1pbEUxWkFTU0g0UHFhbmdpUW9zR1hXR2VIUjdnMldp": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTE5kWElldm4zQlNSUzZmVHpSR0RWQmlkTEhfc0dwODBHTi1WeDFfaEdfLVFGR0J5NjBGWlA3R1g3OGVwM2o2RVFoZHVrMHNxLWZURDlrWFNhbC14T3lI": 1793428233.0818176,
 "Reuters|CBMiXEFVX3lxTE5qSkRrbmZtTVRTbnFXb3B4LWcwbENtQ3Z4V0pJSVl0Q0lkMUVIZVJ0d3l3eFBWZUcwaFA0b1JBZF9iVTM4SWlFZVpSOENZYTR1aU5nWGlZLXRvZmww": 1793431837.952425,
+"Reuters|CBMiXEFVX3lxTE5sYnRiUjBCbjVFYnFYVXB0MkNOQks5cGtmRXBtdjJIRDVNOURMa2xlWmZHS19SZzZ6T3ZPNmhsaFFSQ3pFLXlNaDkwMk5TSFluVzJIc2RPbzZkcDNw": 1793448926.9679341,
 "Reuters|CBMiXEFVX3lxTE5tQlVKRmZuSnRDRHpaaGR5V01ZT0ZSRmUweWhiZmw5cFFLeWNXd1RvMlQyUklxTUVWSDg5VUhVN3c5T2s1aFFaOUlyZ0JIbTE0YTM4blRuamM2X3dq": 1793342727.4364471,
 "Reuters|CBMiXEFVX3lxTE80aDROMVVTaUY0SS12eHJyaUQ0UUk1M1M2THpnYVBOUHRyZW9ZTy1HRUk0djU0TnRDLVMtZ2Qyc242XzlSQWJyVk5hQVA1VDIzcDVkYXJaWW9mdUJn": 1793430926.2378938,
 "Reuters|CBMiXEFVX3lxTE8wdU42eENHb212T0ZFSjRjR1VGM0JFNkNsb3d4NUJvSThITW1iRFBHZVIzUzFNOWV4bHlJMDFXTGJOUERMbHh0cTdwWW5Ta1R6M3ZIZ3phWTJCT3pB": 1793419240.244225,
@@ -5458,6 +5476,7 @@
 "Reuters|CBMiZ0FVX3lxTFA3LWVfWkxOMTVUeE1ZMTlSY1lWdWpFbHdidWphVTlKZmV1aWNwOE1UU3hCWUtTN183dGxTMEg4dVhaZEhoY1hKVXljVS16MmozUEp4UEdxMy03VEtycjZRUDdDMGdPSGc": 1793440836.9587128,
 "Reuters|CBMiZ0FVX3lxTFA5MVpvTGtkMDFFN2pBakVBWTlETVhOSWZlaUFmdUtSa1BnVFI2UmN5MlpTeWRLcmdTNVpjY05WSXQ2cDMycG83ejRsaHBKZkU0TkpGX1RXMEZBSWVzTExWcXIwUnFaOVE": 1793021434.3883493,
 "Reuters|CBMiZ0FVX3lxTFA5WE5RN3A2cVJqUGFzR3Eyd1dHTF9oLWRhOEx6ZmZIWFd3dFJpYjdZamNHel9INURIODFfR2VCM2o4V1gzTlpmUFNuSDljQnJCT2c4TEVxVkVyZmJ3U3VkSEFnLTNmbEE": 1793239240.6576965,
+"Reuters|CBMiZ0FVX3lxTFAtY0dkVDNJalJoVkt3VkRlVkxfZDBXY25FbzdoczdBVmx2ZlAzc3JzWXdXLS1wNDRraXpHa1BJWUE3RU1Jb1d2SUZXQnZ5NGlQOEh1SklFYXlDa1E5WnBsMmJSMlRvMU0": 1793448926.9679341,
 "Reuters|CBMiZ0FVX3lxTFAyVXBvT3d1N1I5QXNXbi16eUlxdWZtR0RIZldsLTdNY3hzX200b1RmaEJvdEhNenpqY0N0STJCTmNSNzJzOC1DT3REQlRGUU5YNnIzTHRqNWdwTXhYcjIzZjZmaXI0Nm8": 1793331927.240508,
 "Reuters|CBMiZ0FVX3lxTFAzUTBiZm04RzVhOEVMR0pJcEZWMVJkcEVKT21mLUFLR2F5N25pbXJCdGlVa1JJT0ZYOEhmM3ppVEItRFNMbHF6UWhGQzRvUDA4VXZjZlV6Tk1CU0VCNUNtMGpsSWcyU2M": 1792935031.8835816,
 "Reuters|CBMiZ0FVX3lxTFB0UHBZbnlWRUR0Snpja3NKdTdYcWM0MmduUFJsclNtaDJJZGxmT2kxZW1oWk9EM1ZQZEctUUV3X254WVZqSGptZlo4LTVNVzdmbGFqN1RKLUg2Q3dSem1HVkFMenpFR3M": 1793137528.8189738,
