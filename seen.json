@@ -9,48 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-des-drones-ukrainiens-frappent-des-raffineries-selon-un-responsable-russe",
-"src": "France 24",
-"title": "Russie : des drones ukrainiens frappent des raffineries, selon un responsable russe",
-"ts": 1793376092.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
-"src": "France 24",
-"title": "Accident ferroviaire en Espagne : les familles dans une attente angoissante",
-"ts": 1793376169.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmIzbG5faTdlNk5DdFJBamFGVllwUzdlZ0VyTFNXanRlUW11M3dLS0pDTm5tX0UxVWJBUlBwN1ZSb3lCSTZqMXFEWFVtZk1Mc2dHRXJESzNnQ2dOZW9Kb1Z6UEhCQW9Mak5vYmV4bTFYY1VXWGYxNjQtV1FiOTVGWXF2QWFNZTVSNWd2a1I0Zlg5MTQ?oc=5",
-"src": "CNN",
-"title": "What a Midterms Road Trip Taught Us about Rust Belt Voters",
-"ts": 1793376190.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-31-octobre-le-port-d-un-masque-d-halloween-dans-les-manifestations-fait-encourir-une-peine-d-emprisonnement-d-un-an-menace-laurent-nunez_6803112_823448.html",
-"src": "Le Monde Politique",
-"title": "Mobilisations du 31 octobre : le port d’un masque d’Halloween dans les manifestations fait encourir « une peine d’emprisonnement d’un an », menace Laurent Nuñez",
-"ts": 1793376276.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0JTcWRzLWxLc0JJZVdYZnZSdmwtdU15T2dOWEJFRnpPMGItdFVad1lFd3R3enB4U19zcUpPLUVDQUJnQ3VuX0RoWV9DOVRPcVMtWTNLMVpzU0JCVGpGT3hXRDhLeDY1RmhfUUxhLTR2VzZBbldLSnJBWE5Ock9uNFJEODN0LXVHeVJwanNUR3hTRzJfOFJpYUkzV01PZVQwVm9WSlgyVHhpZjhyU0RJa0Y4T1dTZXhG?oc=5",
-"src": "CNN",
-"title": "Dominion Voting’s new owner says machines are ‘tested and proven’ to be secure",
-"ts": 1793376886.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQU0hCeGp3VXBIeFNWTm5jdk56cll6MUM0Y3pUX2xKMm1FbnVSUUNOTnUtQUZnNkRlN0VQT2cyRXIxLU5BUlBIUS1YZ2pmdDc5MU5UcS0wYTQxRnNlLWxNV0drb1k2cWJuWVV6dGFaUFZjZVZGLVFWbnp3eFNDMTBHSjNrMTRmU20wRGUxYy02WGppaFZSUm5ad3FSWE9yTkJHVUdqMndIVmpHbHhFdXFlcFFNLUNkb3lHNVVOOVBHSFVTWndNTURfc1B3b3BKTkpRNmg1OENGZ29QV1dPZlRNVE5IeEtLZGxrd1BVU0NZN3A3WkFMSXhkX3hmU20?oc=5",
-"src": "CNN",
-"title": "How one billionaire could ‘singlehandedly’ alter the course of the midterms | CNN Politics",
-"ts": 1793376326.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/10/30/comment-l-extreme-droite-contamine-la-campagne-presidentielle_6803117_823448.html",
 "src": "Le Monde Politique",
 "title": "Comment l’extrême droite contamine la campagne présidentielle",
@@ -293,13 +251,6 @@
 "src": "CNN",
 "title": "Judge tears into senior DOJ official and orders investigation into Trump’s golf course plans",
 "ts": 1793385497.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
-"src": "Reuters",
-"title": "Ambani-owned Reliance's profit jumps 41% on refining, Jio strength",
-"ts": 1793376083.0
 },
 {
 "lang": "en",
@@ -2393,6 +2344,27 @@
 "src": "Reuters",
 "title": "Russian cosmonaut sets record for total time in space",
 "ts": 1793489228.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q1dNUWJlaVdvMHhrOHJGWjNZclhlRWcwRkE3SWpaa2kzSVQ4SEY4cDVxbGs5a0tVN3gxWnpmQVFuVm1VMW81NGdoSmFpS1I4MW43UC1EV3BrSzQwLVF5MDF0RlRjcFE?oc=5",
+"src": "Reuters",
+"title": "Farmers' protests heat up at Brussels EU summit",
+"ts": 1793490713.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html",
+"src": "Le Monde Politique",
+"title": "« Je crois que je vais donner procuration à mes enfants et les laisser voter pour moi » : à moins de six mois de la présidentielle 2027, plongée dans la France indécise",
+"ts": 1793505620.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 31 octobre : à Marseille, des échauffourées avec les forces de l’ordre à l’issue d’un parcours improvisé",
+"ts": 1793505628.0
 }
 ],
 "seen": {
@@ -4581,6 +4553,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/31/manifestations-du-31-octobre-a-paris-quel-est-le-parcours-autorise-pour-le-cortege-dans-la-capitale_6803563_823448.html": 1793446232.1197803,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html": 1793419240.244225,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/31/mobilisations-sociales-macron-et-lecornu-cherchent-des-leviers-face-a-la-sedimentation-des-coleres_6803494_823448.html": 1793441726.3554745,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html": 1793506526.155259,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
@@ -4623,6 +4596,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html": 1793480439.30746,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/derriere-la-coordination-nationale-des-gilets-jaunes-des-militants-aguerris-qui-cherchent-a-federer-les-coleres_6803466_3224.html": 1793427323.9638076,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/des-tags-remigration-decouverts-a-paris-emmanuel-gregoire-annonce-les-signaler-a-la-justice_6803712_3224.html": 1793459730.3652418,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html": 1793506526.155259,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html": 1793462438.8989837,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html": 1793452525.7107594,
@@ -4886,6 +4860,7 @@
 "Reuters|CBMiZ0FVX3lxTFB0UHBZbnlWRUR0Snpja3NKdTdYcWM0MmduUFJsclNtaDJJZGxmT2kxZW1oWk9EM1ZQZEctUUV3X254WVZqSGptZlo4LTVNVzdmbGFqN1RKLUg2Q3dSem1HVkFMenpFR3M": 1793137528.8189738,
 "Reuters|CBMiZ0FVX3lxTFB1NEtPWEw4Ync0R2IwRHkzcllZLUxfcGZrTGctWVdCVGNkZ01vS3hvdXdkdVBmZFVPMjdxUVctZmdvNWZRUDZHdlhfOE1YTnJZT051cC1TSGZzUHdmRjJrang1QnBzUXc": 1793199646.7068644,
 "Reuters|CBMiZ0FVX3lxTFB2Mkk0dHpPa2N1NzJoSTkzajZ0a3hvc2d1d3g5N1lzOGlUaGtmNFduc28tOUN5YnRMSmhSeTRFaWlveDVKd1UtdGZsM1JOLWplSWdTRWVBREw1dUF3QmxEWWx2S2I2Q0U": 1793435433.810411,
+"Reuters|CBMiZ0FVX3lxTFB2Q1dNUWJlaVdvMHhrOHJGWjNZclhlRWcwRkE3SWpaa2kzSVQ4SEY4cDVxbGs5a0tVN3gxWnpmQVFuVm1VMW81NGdoSmFpS1I4MW43UC1EV3BrSzQwLVF5MDF0RlRjcFE": 1793506526.155259,
 "Reuters|CBMiZ0FVX3lxTFB5SUt6S0tHTUFDVmUzTS1KYVNwN05pdkF5MElMaFBIQ3ZKclFPME05Z0pCa283dmJtT0JNR0xMcTRPLUpHWHNQUDctT0ZzUjRzS2xWbENkSS0zdXoyV1hHZzVha25wOVk": 1793265325.4624467,
 "Reuters|CBMiZ0FVX3lxTFB6MVo2XzkyOTFPWjVncUZMRlkzZVNMLTNBUGcwQnRPT1FLdXgwTERHUTRCOC0wVUx6OEFfYUhNVG5jSkUzTVI2WjFyYXJabHJjVU9reGxPaTE4T202Y2ZUWDlDV2tGdXc": 1793489435.4828932,
 "Reuters|CBMiZ0FVX3lxTFBCVDVRaHhGM3dTUDNKRFVsWi1UaDlTYjhtRGlJYWhHN1lQTmVUNkFGaDBPRHBmNGx4Y1Izc0p5ZnVTYkVqLWpjZTkyalQzbTYwekpJeHdhRUJodlFxaExQdTVkM3dfZ3M": 1792976437.9483614,
