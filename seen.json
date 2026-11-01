@@ -9,31 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cm8xzw8zgdedo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Mayors will be free to use share of tax to give residents grants",
-"ts": 1793361471.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/10/30/commission-d-enquete-sur-le-17-octobre-agnes-firmin-le-bodo-deputee-horizons-demissionne-de-son-poste-de-corapporteure_6803084_823448.html",
-"src": "Le Monde Politique",
-"title": "Commission d’enquête sur le 17 octobre : Agnès Firmin-Le Bodo, députée Horizons, démissionne de son poste de corapporteuse",
-"ts": 1793361609.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByUnNNYXM0dTNpeXAwcGJGWnBKODNxWEZFaHFVR3ZwZFpqb2ZSX1VDVjdxVnc2aElIYk1MNFRtd2NEUE81dnZGbGZBN25CRUJIWHJUQnpOdEMxVXlyTUd2UDRFUmlhSE5JMmNKeFpibzgtZw?oc=5",
 "src": "CNN",
 "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
 "ts": 1793362083.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-vladimir-poutine-pr%C3%AAt-%C3%A0-partir-en-guerre-contre-l-europe",
-"src": "France 24",
-"title": "Russie : Vladimir Poutine prêt à \"partir en guerre\" contre l'Europe",
-"ts": 1793361145.0
 },
 {
 "lang": "fr",
@@ -79,20 +58,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41SWVkb016MlJfSHZrTFhIZ1VQLUJ3czdRcm5sejFZbl9nWFBBR192dTZ3VUVPUG5CdEFNZkVYbjFKUU0tU0dTTmlKUV8yS2E0UmIwWWppZWI4eGhTcTNjS0FBMVJHNlNOaFZPdXNDUlgtSmw3eUhtUFdHc01hZw?oc=5",
-"src": "CNN",
-"title": "Global Perspectives in Doha: Can America still lead?",
-"ts": 1793361611.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sd0x3WGpwQ3hLWF8wVVNkS3FxMThzcnNUSUV6WHZ6Uzhpd0lQZ080Tm14aGxSbzJ1MXgxbmxNTDVOejltY3BHb1V1aTNjaWMwRk1uUmkycEVTMWFUSTJrYTZIeURIYlhXY2dfRjJENUZSQ0FoM1I1V2szcHM?oc=5",
-"src": "CNN",
-"title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices.",
-"ts": 1793361382.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjhrMjZTNE5WVzB1R3BMeEQzVDdlTDhmYkhlN2kwODlxT1pXRUdUWmRpamEyMFpFQzdyMHU4Um01aVBjcmZ5Z2JUcDVmSnFsTGRFZjlKZk85OV9uNDZyeVY3SlhRUWxSa0hobmhDbEtUeEplc2dpZ0M3T1lVLUN6YnVrLXAyUHRyRGhFSEZUWkpMaTYwQkVmSGhiTW9RNW1wZld4ZUlNelFjODZmelE1ekZSLTR5a3hEazJpUg?oc=5",
 "src": "Reuters",
 "title": "Swiss foreign minister discusses security issues with North Korea",
@@ -111,13 +76,6 @@
 "src": "CNN",
 "title": "Christa Pike, in first public comments since botched execution: ‘Healing is not the same as being okay’",
 "ts": 1793366524.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZxZ29Sdy1mUDVhdm1xVF9GTDFaM3hWZEhmVkFneUNHWDl4Qks4bGNVbnBRdGRBUjN1ckk2dkd2MWFKSWJ6SlpKNVVhNGZ4UDZpVk1SNTBPV1ZxVlo2Z09pNjVtZ1hGRUlZYXBVUll3TTlsd2VFdy13MnJMbG92N202OTI5d1Z6bDJ0bGYzOTF5MS1oNEhUVTFKMlVoTVdhRzA4MHQyT1lBMW9CU2tKYkRQQUp3ZzNNUEphVTNB?oc=5",
-"src": "Reuters",
-"title": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
-"ts": 1793361351.0
 },
 {
 "lang": "en",
@@ -160,13 +118,6 @@
 "src": "Reuters",
 "title": "Gone in 20 minutes: How the biggest heist in crypto history unfolded",
 "ts": 1793367426.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3Nnem5Na1FORmx1bjdhbkkxdU9mQnFIT1ZGcU5sTDlSWERVMkNsc2VHN3VCVWJpckZJU1VkRWdwYlN1WnBjOHdINDhMdmxKc1pUczBGSTNQLTJSTmxlYkk5THNxZ29qZFBzN2w4Z0xtNmNsMTJna3UzYTlNb2ppTjB3X3lza1dxeWdSaGI3OF9fY2I2WkRJN0NiZVh2R05fNkZDTTB0aHhpdFhp?oc=5",
-"src": "Reuters",
-"title": "Rifts over wars in Ukraine, Middle East loom over G20 meeting in US",
-"ts": 1793361471.0
 },
 {
 "lang": "en",
@@ -223,13 +174,6 @@
 "src": "BBC",
 "title": "Mayor defects from Greens after Zionism motion",
 "ts": 1793367971.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFqUEJjUDlnVDlFUk1EQ25ZMExqX0ZGM0FDOWtzZ1ZXdy0wWDV4MlRIMmtYX3EzTDBhQ2hCbzd0WXhnanhVYlhEVXpFOEl3Z2Q3cnhnVU54V0JXYjBBZHlKZWJ0aVh3M0xHbHNvcm8xRDEtQ1cxMEYwUEJydkh3MXJNeUJkemNELUlRODd2UUQ4cG1pSEJRTXNQTlBhYzRqMFVVQ1ZLZw?oc=5",
-"src": "Reuters",
-"title": "Binance's $6.3 billion hack: How crypto insurance works",
-"ts": 1793361462.0
 },
 {
 "lang": "en",
@@ -307,13 +251,6 @@
 "src": "France 24",
 "title": "Afrique du sud : À Durban, les étrangers toujours sous la menace des violence xénophobes",
 "ts": 1793371265.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KY09VT2NXcEFHSHdUOXZWUXdXODJybXFDS0NiOGcxdDNfejV4VnkwU21XN2hpTG5HdDhjZXhLSW1ieEJpeEJMN19nOThiRF9URHRrMVlZYWZsV2VV?oc=5",
-"src": "Reuters",
-"title": "'No evidence' Russia involved in Colonial hack -Biden",
-"ts": 1793361351.0
 },
 {
 "lang": "en",
@@ -2841,6 +2778,20 @@
 "src": "CNN",
 "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
 "ts": 1793486436.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qZEh3dVFyd3ZaZlRlMzhtU2cyQlRiZDZMOXpkV3JmekxCd2NwaEpYVDVpNFZhcEFTOTJGa0VwLVZzb1Z4Vmw5c2RiUVRPcWFsM1E3Z3FHcmZPZmF4?oc=5",
+"src": "Reuters",
+"title": "Being a rare woman taxi driver in a violent city",
+"ts": 1793474441.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkszbnRPbmxsNWpDdDJ3bnRzbmFuU1RmQUtmODNqSVRiUzJ3dDl1OWNyVGczakxKU25Xc29ub0dwMjlnZzlpRTB4Nk1abE5xOXFjSk5kWDJYRzhtd19GeFpFWnlhckNPOVdWWTQ3SzFfS0xETjZaWXI0MFdoZ3FTODFaRnlnMmViTGJuNWFWQk9ZU2FXdmhRTzhBR0tlTXUxS3NWWWhOSGVsVU1sVlFrRw?oc=5",
+"src": "CNN",
+"title": "Comedians poke fun of Alaska’s Senate election controversy",
+"ts": 1793490120.0
 }
 ],
 "seen": {
@@ -4259,6 +4210,7 @@
 "CNN|CBMirwFBVV95cUxQSnJQWUhmNlhSejBDRnBWa3lrd0ZENXpwSGs2c3ZqTF9UeWlUWlF3YjN2ajNGNEZJRGxRZnB4bmtIMDM3TWpabFhJejU4Rk5hSGdkWnIzU3IwM2N3aUlFTUNWelAxek1FdGNrTWQ4YzdPYVItMHpuZUxTYzFuemNzNjBSM3RtVVkxNG9Ydmw4NlRpeUIyVXFVWE9WX2lKU1ZNem9aM1duSnZKVW9tMEIw": 1793016042.671506,
 "CNN|CBMisAFBVV95cUxNNUwtOEU5dlhfUGRaNktmSDBlNVlLbW5ua3I1OXZibGhrNVk2VDA0aEpYMDFjS0VsVDlxdXdRRk53ZVN6eUhWUzFWZ0E5MlFORDF3aXRab1BjRnBIVk5KaTI5NjBGM2Vzc1JaRGVaaFc4SkVYNkZVVTg3djVMRDBFNDBDMUJqZWlkanNKNDhRTzRMa3pIMklRb2FHNkNkczd5enc3d3dMZUY1WEZkS1NYSw": 1793167249.833775,
 "CNN|CBMisAFBVV95cUxNUVJFZm15T25mUW1CeGN2clY2T1BNQVNiT0ptZUM2VWhJdVVnc1pHUFNRcHFaTXFicXR1SEJQVDc5SXFOdjhKaE9pUnJrWEhnU3NTVE1KakVZTE5hU1ZEY2hneXYtd1Q1bzIxTmI0MmprbmJjZGFmckl5Y25sdVAxaFdHU2QzbS1KTHlaa1BNWnhtamVjWU90Q0RRZC1WQ2h4Z2hEOGgwN3BSXzQ0ZUlaSw": 1792943124.2310648,
+"CNN|CBMisAFBVV95cUxNbkszbnRPbmxsNWpDdDJ3bnRzbmFuU1RmQUtmODNqSVRiUzJ3dDl1OWNyVGczakxKU25Xc29ub0dwMjlnZzlpRTB4Nk1abE5xOXFjSk5kWDJYRzhtd19GeFpFWnlhckNPOVdWWTQ3SzFfS0xETjZaWXI0MFdoZ3FTODFaRnlnMmViTGJuNWFWQk9ZU2FXdmhRTzhBR0tlTXUxS3NWWWhOSGVsVU1sVlFrRw": 1793491240.2401252,
 "CNN|CBMisAFBVV95cUxOMDQtNmdHam43NzZpTEh1VmM3LW1zVzQ1Y2lyWmVqSG9LaVJMSTFSZjE3UTZJUWkzQUY3WWFRYWRBSzc2eVJudk9OWWdMY3hjVjFLMmZQQ2VfUElBZVl0UzBOTXRLem5aS2tUZGQwbWVQUWRpbkc5WVVwUFJ0bnRYWm9KNlBhWnhPU2x6OGNVUXcxYzlRcEVlQVkxSGVSaGRMTkpWcFdOXzRlNE44dnRGXw": 1793453438.1877024,
 "CNN|CBMisAFBVV95cUxPTWVPbmpud0FZZklreUFJalEtSGY1UWV3cU1Pem90YjljN0FXVXVNUW43OXhMUXFET1VnNUpLUWV6LWtpbHluaFgxVndrMVBaNUUyS0txeHFfa2NiekxvamVudnAxRlVMNV9DLWw2a1gxLUJoNmQ2S09lVFo5SjVzb05DN0hMRUlDaHcxSkptOGRrQUdfRnd3LWRKZjhRV1VqWHN4cHBydktLblZWanNSSg": 1793403033.9221654,
 "CNN|CBMisAFBVV95cUxQQS16LWI5Z01WQzFfTmtUVkloSFJBek1nOFhYYXFESE52NVE1U3EwREs3cDdkTlNKQ0h2a194MTFjZ1prT0N4TVhqdTVzN21yUmt5ZXFLcVM3T0QyTTZUTkpuMGxIbTY0T0l0UjVSRDM2X0M1aXVzQ2lPSzFGQktiMUR0VWlRVTZWVzBXd1oyU3J2aWdDeWdaNXlCenU0Tk5PMFVDNFMwRWs4Yms1UFpiTQ": 1793114128.081916,
@@ -5144,6 +5096,7 @@
 "Reuters|CBMiXEFVX3lxTE9MZFhOM2picWxsZkx5Q3hIdmdiTXp6NzhtVXpmVHg1WjFYc2RiZUlNN3BOdXQ1VDRCOVVDajl0UnRnZjRHUmd4aGRhOGNlakI0eGZ3SjgtcUpsQW8y": 1793421033.0693376,
 "Reuters|CBMiXEFVX3lxTE9QREdqUzJLMHFBYURVdVN0amhjUzRsVThNZU9DMW1PWVFBWFBKYTRnWGQtb1Ric1hjZWE1T3MySUJ0anozSjdyZmt4bG8tZ0JZMjVfQVBhMlMzYzcz": 1793034009.146361,
 "Reuters|CBMiXEFVX3lxTE9RT21PZldrQlFMM0FBVlpDUVdTMEVXMlJiWUJ3SXRGYnNCVUhwSXp0SzdSY29vak83eDRpT09UcXVreDR2alJYZFMxaHNGYTRDcFdueHZYcFlhOUZD": 1793383241.2383296,
+"Reuters|CBMiXEFVX3lxTE9qZEh3dVFyd3ZaZlRlMzhtU2cyQlRiZDZMOXpkV3JmekxCd2NwaEpYVDVpNFZhcEFTOTJGa0VwLVZzb1Z4Vmw5c2RiUVRPcWFsM1E3Z3FHcmZPZmF4": 1793491240.2401252,
 "Reuters|CBMiXEFVX3lxTE9rWjBoTW1qSmpRSk1KdXh3VkttY1EzTlZWbHNFTk1iVnBmd1laM25rVjFwT2FNdDhMYlhmNDBBSFgwT0FEOWhPZTRyZnlESmp5MXZyRTZQajQtUGZR": 1793353525.5542397,
 "Reuters|CBMiXEFVX3lxTE9rZmRILW9SRUhLYXVVZXBCSm9nVGJRX0cxMm9wYldyUXp4MG9sZW1hYnFuZzVXb1ZabGliVmQ0MjY2aEU1Qm50LUdYZHpRY2E2NUo5OGdKRGpRZ3Fk": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTFA3WF9wY01WalFsN05nSGItTnhERmdfemRyMm51N0I1MHRZaTR6bjg5RW9CbnZXY0d1ajN0cVhRTTVGbmhPTGNJM1NlV2kxaENPRzJaRnhqdVVYVjRM": 1793419240.244225,
