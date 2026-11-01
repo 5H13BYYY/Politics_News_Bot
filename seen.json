@@ -15,13 +15,6 @@
 "ts": 1793390863.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBha2cyd0NDSE1HME9sb0FXR2p1bVdjZkZpVHp6U0xQaW5xV0ZTWGdPRDl2cVNVNDdkSGQ1elVuUW84UVN6ZXhfc2pqOTlndUQ0ckpua05uTDQ2TVViRnozUkVuWTM0ZlJNNGJXemdfT1lUYXBhSXNFdw?oc=5",
-"src": "Reuters",
-"title": "From Day of the Dead to Trump Rally, Texas voters split on Senate race",
-"ts": 1793389674.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html",
 "src": "Le Monde Politique",
@@ -51,20 +44,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTNlbEs3ZmozVXljdUozcGdhT1FqZUFoTmY4OHRuVm1VcGNVSVJPcnlrV3p2ZUFLUF9YNDIzX3V2NENBcWlWSDllMk5yTHI2di1ERDl1OVN5NmNaa2RfN19Ma0gtbXlYdnVCOC1qWm9oVDNmTEV1NFJ5Q2hMZ2c0MzZjWnpkOXk2RGQ2aWdHQnFFNElmblE?oc=5",
-"src": "Reuters",
-"title": "Rent and gas prices shape New Hampshire voters' Senate choice",
-"ts": 1793389700.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm5zVXBMZTEtQnVkYW9MY1FJYXo0S0x2V1llamdsaEgxZmFLMlBpVEE5b3BZUGM1akRURXg2dWJJdUpOeHJlc3FvYW5QUEc0czJZdTI1SUNKYm5GS2FGNGxqcHFwQzdmQ3drOFBwa19JaHFvZEFRMGwzdTQ3T3gyNzJYdmctUDQ1Y2xCZmh4NC1oQUhqVXc?oc=5",
-"src": "Reuters",
-"title": "Russia vetos US-drafted resolution on Western Sahara",
-"ts": 1793390361.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldtQ3QtUnl5ODNVUHVwcUJBSWQwZ1E5UG5xMlpHTUxLZWxCLVJLSG5UUThoeUVEX0RCMmttd2Q5eG9FVE8zdEdqZ25oQ1RuR0N1WkxMeURLODJyaFhqbV9qMmdTSExKU2F0U3JuZVh6bUxOcVhqQU92a1NKS0N3RDU4bUpKOXp2d2VObWtWS0RWWGhW?oc=5",
 "src": "CNN",
 "title": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
@@ -83,13 +62,6 @@
 "src": "CNN",
 "title": "Can Dominion’s new owner rebuild trust in voting machines?",
 "ts": 1793394540.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00WWt3aGlqRV96ODI4V3lCdnhJZW9zeEUxXzd0WXU5T1NGSDBna0RXaVpnNHJ2V0pBV1A0MFplRDFzQnFBLU5NalZtOGVNeERVVUpXMEh2TG82SUp2eTR1NmtDWG9GTWJMa0Foc3pqUTZKQ1Rs?oc=5",
-"src": "Reuters",
-"title": "From Day of the Dead to Trump Rally, Texas voters split on Senate race",
-"ts": 1793389950.0
 },
 {
 "lang": "en",
@@ -118,13 +90,6 @@
 "src": "Reuters",
 "title": "AI trade headed for 'painful fallout,' says CIO",
 "ts": 1793395085.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0ZZYVZ0RlUxUGg5Rm5BS29fOFhobE52cHBDQzNTOV93VTgtdWlDRzA5S2NudTNGNkd5M1k4NmVBZW10X2J5ZU9waEY2dEU4aHBlYWVDcEhsNnhCQXdXZG5LNVRHcnUzQzZrV3ZwVmtMekNKVHA1MDZldXhNMTU2SndlUHJoTUVqM0ppRU4zeHdKd1R4?oc=5",
-"src": "Reuters",
-"title": "Rent and gas prices shape New Hampshire voters' Senate choice",
-"ts": 1793389700.0
 },
 {
 "lang": "en",
@@ -377,13 +342,6 @@
 "src": "CNN",
 "title": "The Lead with Jake Tapper",
 "ts": 1793407454.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVlfN05NNVBEMzZRTllsdm1uRE9tXzZ2V0hwUXFQcWlSeFdDYmlLUWI2NW1nR2hZcmE0R3J5dk1VSFJyS29TOG51SVNhaFFTUFhPZlcyV2N0aXRRQzVSR2Jpczh1MEJ6dHdfVWptMUpvQ014MFAyX0RYay15ajdQYWZUblRSMkZyZDRLQlN3WlBlMXJnUW0xcWtiWTZjaVNiUWtPTUpQSFBsOWxWOGlJdzh5bDE1VkVDcHJz?oc=5",
-"src": "Reuters",
-"title": "Grand jury issues indictment in ICE-related crash, Texas officials say",
-"ts": 1793389936.0
 },
 {
 "lang": "en",
@@ -4452,6 +4410,7 @@
 "Reuters|CBMiZ0FVX3lxTFAxUFNJRnZ1WHZrUVhkcFdNc1hPUVEzVlQ2bllzMi1Bb2NVQnZ1RDR2ZEY4emYtdGwwS2ptUVJhMHdoWkcwSktDTXNrdGU1bWZ4Tjg0aENmcGlzS2hFYlZLdkd4T2E1eVE": 1793455236.8705266,
 "Reuters|CBMiZ0FVX3lxTFAyVXBvT3d1N1I5QXNXbi16eUlxdWZtR0RIZldsLTdNY3hzX200b1RmaEJvdEhNenpqY0N0STJCTmNSNzJzOC1DT3REQlRGUU5YNnIzTHRqNWdwTXhYcjIzZjZmaXI0Nm8": 1793331927.240508,
 "Reuters|CBMiZ0FVX3lxTFAzUTBiZm04RzVhOEVMR0pJcEZWMVJkcEVKT21mLUFLR2F5N25pbXJCdGlVa1JJT0ZYOEhmM3ppVEItRFNMbHF6UWhGQzRvUDA4VXZjZlV6Tk1CU0VCNUNtMGpsSWcyU2M": 1792935031.8835816,
+"Reuters|CBMiZ0FVX3lxTFB0U19JLWNvVW9WR0RHa1dibUNtc0RCeWdFNTJSV2NFczhVcFVuU043VTNIZzdscm80cWc1emNpTFo1cElEcnRNLTlIWTZkS3E2aXpOMVBZRW1ESnpjemM2bmFoeXdLQTg": 1793520036.882955,
 "Reuters|CBMiZ0FVX3lxTFB0UHBZbnlWRUR0Snpja3NKdTdYcWM0MmduUFJsclNtaDJJZGxmT2kxZW1oWk9EM1ZQZEctUUV3X254WVZqSGptZlo4LTVNVzdmbGFqN1RKLUg2Q3dSem1HVkFMenpFR3M": 1793137528.8189738,
 "Reuters|CBMiZ0FVX3lxTFB1NEtPWEw4Ync0R2IwRHkzcllZLUxfcGZrTGctWVdCVGNkZ01vS3hvdXdkdVBmZFVPMjdxUVctZmdvNWZRUDZHdlhfOE1YTnJZT051cC1TSGZzUHdmRjJrang1QnBzUXc": 1793199646.7068644,
 "Reuters|CBMiZ0FVX3lxTFB2Mkk0dHpPa2N1NzJoSTkzajZ0a3hvc2d1d3g5N1lzOGlUaGtmNFduc28tOUN5YnRMSmhSeTRFaWlveDVKd1UtdGZsM1JOLWplSWdTRWVBREw1dUF3QmxEWWx2S2I2Q0U": 1793435433.810411,
