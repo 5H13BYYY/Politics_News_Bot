@@ -16,13 +16,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FTlN1TG11WWZUbEs4YUxpT3F0QWR1WW1OOEdxRWljekhrSlJMVUQ2MHlkV0hYcE1LNlZWMXRQaVN4WExuX2RaR2U3djdObkk4SEdxaDZHUUNxandEektZOXhUVWtZRW0wQ0V4RnhCczZxblNEMWhROA?oc=5",
-"src": "Reuters",
-"title": "A rare moment of Russian-Ukrainian cooperation to evacuate a front-line town",
-"ts": 1793393008.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUU5b3FRamtYYWVDYXJxTlF5eGJzZGgwR0RqckY3RTFYc2lJc0V6YjQwVFVPNTA1aDhnZmVmQmI0bnlNWjFBRkF1UVp5T2U5Nlo3T2NSeFQtb25VMktfbE5aTWFubGZNaldTVDRWdERiQjhzVEI4eHRBU3d2ODRpQVI2X2pFeDdXankxV0xKbDVoZGlxVk1mYno4SHpZNmwzX0hrV1h6U0w?oc=5",
 "src": "CNN",
 "title": "Top Alaska prosecutor said he has not discussed the investigation into state’s Senate race",
@@ -114,13 +107,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
-"src": "Reuters",
-"title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-"ts": 1793392929.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
 "src": "Reuters",
 "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
@@ -188,13 +174,6 @@
 "src": "CNN",
 "title": "Top Alaska prosecutor on Senate race investigation",
 "ts": 1793403300.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
-"src": "Reuters",
-"title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-"ts": 1793392712.0
 },
 {
 "lang": "en",
@@ -1994,6 +1973,13 @@
 "src": "CNN",
 "title": "Beyond Bali: Travel pros share their favorite Indonesia destinations",
 "ts": 1793507564.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
+"src": "Le Monde Politique",
+"title": "En Bulgarie, le second tour de l’élection présidentielle s’ouvre dimanche avec un duel serré sur fond de tensions avec la Russie",
+"ts": 1793522541.0
 }
 ],
 "seen": {
@@ -2807,6 +2793,7 @@
 "CNN|CBMiiAFBVV95cUxQUGRsZEZNLVl3dlJ3c1cwZVhseDhoNGVWNjhQTTlQb1R1VEFOVVU4YmRuaENlSDQ5eFhVRnpVTXlMdWtUMFFkSGtqVTlLeFl6eHlPclROdHRYdE5Kck5tT25kQkxSZXpReFFoM3hxWW1nZ1NYWFRoRWtva1U3LWR0WGdqNFZrN3RM": 1793237432.3577285,
 "CNN|CBMiiAFBVV95cUxQWE13NkhMVk9UZ0NudHhEUGhKMjdOR0djMkp2RXlKWGpYb0NMQjRfRVZsWDA5UmpCQnFYdWJzNk5zcUlxSE1VQ3FvRjhLYl9ZbE5pVVFDaGhEZmFBc2ZzMVA2WlRxWFE4SGF6YlEyOWlBOUdZbUZvSzVLNFRuMUFvNzRhZnhiTTZG": 1793178928.730777,
 "CNN|CBMiiAFBVV95cUxQWkVnTlJZVjVNTGd1clZmeDFrVHZ5ZmFneTgxTmVKMkxxMDBHdjVtMFY5TzdWU1oyZkp1OGQ0RWEwUUxkeGtzVV9hZlktQlVqVGFocHZnVlFjT3RCLVlTSVA2TlJ6NzR2OGM3ZnVPR09Lc2hYS1U1ZmQ1N2FLclc4Uy14MThyczJ3": 1793375126.1995485,
+"CNN|CBMiiAJBVV95cUxQbV9RbGRhZHo3Wkdhdl9vS21POENQY2N5dTVxNUliUldUc1lyUHhucUFXa0xmWXdDLUVORzNRMHp4ZEJ0dms2TllRcHV3T3p1M2pLSVlRajVveUFwanlNNVNYcmRiUWZlSUJwbDdDeW1kNlRXOWpucmtINFZHUWRxSEhnMWJpeXRxS3hIMG9uWlJMU3AzMTJXM2xqNTZQd3UtM2RRZTZaUTdlTDJlV0ZOd2M5RTd1Rk5IeEtSRU1ONmg5ZmNvbzBxaXlJTmp1bTZTRHdCU05zTzRzX3REbF9Ta0FOUWJUSEpERjdVajd1S3Zqbm9LWVM3Z2FnVVo2THdrZUZPekh3czU": 1793522725.4187293,
 "CNN|CBMiigFBVV95cUxNMU03YTY5SVdieGpCUDhwNWNScElLR2JiazZEZl9wRnB6UFdoNkNHYTlxLWV1YTFickdVaFlpQURhV0docWhCanNkcW04UU52TEVEcUhCZ3h1a203eGY3MmJaSmU1Zk9xNmo2bnZjMWJPWk1ObzdtQndrY0FmQTNpOG84X20zYXZGWnc": 1793027734.901764,
 "CNN|CBMiigFBVV95cUxNRnNncXF3RUFjbEtYSElqdEN2REUxY0R6cEVXRDh4VkpWdS1jNW5TZGFiNENmTzRhQnktYzBGWXIyZHA1NlZxbExzY2N3S1c2R3JBX1o1NHQxV2VnRGFqbDRXTEJNVWU0Q1NuX2pTbjB0Tlc4d2lwNm1hWmFzQ3d5d09PaGJxYUdsX1E": 1793400332.9685247,
 "CNN|CBMiigFBVV95cUxNX3RtTjdiTklWeVlfbTUwdFowWHJBZzl4dG43UEd3c0RVLUpNYk05RG41SlNtUVdMNFR3bHg4MTlNS3BEeDdiSXVuZnNwcUZ2RGFFYWxFYXFFLTBDUE5rbkthaldwMVotX21WWk45YWhZQ3ZSTHY0ZFpvcWxueTBqcThxWlBDZHBFaGc": 1793259033.12376,
@@ -3957,6 +3944,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html": 1793448926.9679341,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html": 1793439036.2399766,
+"Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html": 1793522725.4187293,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html": 1792931431.0547247,
 "Le Monde Politique|https://www.lemonde.fr/le-monde-evenements/article/2026/10/29/a-lille-une-convention-citoyenne-pour-repenser-la-democratie_6802300_4333359.html": 1793266235.552444,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/10/27/budget-2027-les-dates-cles-des-prochaines-semaines_6801100_4355770.html": 1793076327.4460669,
@@ -4444,6 +4432,7 @@
 "Reuters|CBMickFVX3lxTFBqd2s4Y1pmWFZtVWxXcXdST29RNkRTd0NWMXZ1dGtPSXItLXhFd0JwaGg5cEtpcVJDTktacGFYandkZEhWc2xiQ2RrVzZWN05qV1c1cVBXMkEtVUI4bDBvVThlbjQtMVI0VldaZmJRWkxTQQ": 1793494839.4032333,
 "Reuters|CBMid0FVX3lxTE4tbFFaZU85cVJPcXZ2R3pMWndlTkIzNWpwLTJ1NHAtT2ZCM2JpZXJ0LWpKVGxNaU5Ucm5UN1hIVXY5R0dGcHFkQUsxYnZYQnZJZmY1X2dkWXAtU0p2aS1RRHNjMHRkYmNSSkd1TWc3QUdtbUR6WnQ0": 1793318445.8265395,
 "Reuters|CBMid0FVX3lxTE9iQjRVOGRvZEdRUVVXMHZkYVd5SVhqOVZmZThhODFJS2JwbFlINmJ2T1NRWXNfaXJSVlVQTl9LekRPWTlDTWtKd1o1djhGQzdUdWcxTWttdHBvSThFdEVLN1lDbXNTVE5OdXNDMW1YRmpWcGNSV1A0": 1793140231.6447988,
+"Reuters|CBMid0FVX3lxTE9zaFBGQTRvZ0J6OXdaMFNVSk12RlFvUHpGancwbzhMendiNk55dFJnU0c3LUF6OGZUNVhtbGd5aU52NkNMLTJ4V0xKdWNXMl85bjZucTlJN0p5b0hjTzZlQUNLazRkQTZVa3dwdnhzdGxxRnB2blNV": 1793522725.4187293,
 "Reuters|CBMid0FVX3lxTFBFNDFna3Y3eGt5dVk2cER0cG5uY0JFbmlzRmEtR0p5M1ZNTWtBQVZGOF9tVzBrTHV5bDIwU2o5U0lIcjd2LURBMkx5S0VmczV0Q2theS1uYVNUdVRLZmJSUlZCUUlHV3RIcEFwTTRia1MxbU1fS3ZJ": 1793023247.452176,
 "Reuters|CBMid0FVX3lxTFBfSTh0UVY1OTRUcTFDbmE5T1FkZEZWNUx6ZWsxeFUxVDNxTE1PMDk3cThycENyMWEzeWtmMWVjb3lMa19iVnBHWC1xMGVqUWFHeWljWEdQRGdmbUF6SG1wM3hBNlc1VnhUZUhmeWZfNG5faThiVVRF": 1793340040.7416325,
 "Reuters|CBMidEFVX3lxTE00WWt3aGlqRV96ODI4V3lCdnhJZW9zeEUxXzd0WXU5T1NGSDBna0RXaVpnNHJ2V0pBV1A0MFplRDFzQnFBLU5NalZtOGVNeERVVUpXMEh2TG82SUp2eTR1NmtDWG9GTWJMa0Foc3pqUTZKQ1Rs": 1793395840.0476148,
