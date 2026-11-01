@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnoxcEFmdjIwV0I0N2pLcV9PSnNwM3J4SHJiTHBxaFNrODNRQUpEWTBscy1xV2NiYllTb0Z5ZC1veHJURDY5LXpFZ2dERDBaQkNOWjFKdTJaMV9zT21pQ3FJdlFialh6dnVhRDNSX1kwTFFoR0dmNWxROEJQSzVpX2xKb3JaUW5aNExoSzBpM3NxS2VkY0E3X2NabzQ?oc=5",
-"src": "Reuters",
-"title": "Thousands gather in Paris suburb in tribute to victims of shooting",
-"ts": 1793390863.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html",
 "src": "Le Monde Politique",
@@ -104,13 +97,6 @@
 "src": "CNN",
 "title": "Pennsylvania’s Latino midterm test | CNN Politics",
 "ts": 1793396520.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw?oc=5",
-"src": "CNN",
-"title": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
-"ts": 1793390983.0
 },
 {
 "lang": "en",
@@ -209,13 +195,6 @@
 "src": "CNN",
 "title": "Dem Rep on reports Trump plans to restart Iran war: ‘What the heck would the goal be?’",
 "ts": 1793400542.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
-"src": "Reuters",
-"title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
-"ts": 1793390623.0
 },
 {
 "lang": "en",
@@ -2538,6 +2517,7 @@
 "CNN|CBMickFVX3lxTE1PemJUSDhuMjZhUFFZX0tKcHZSMko1R21qYzZOaXpIRU1la0VYRlllVFZVV3Fjbmw4UGVvSWowQ0VEOUlmbkJRdGppWU9abERNQTVKY1VlTWc4bzVaWWxXaVFoVU1BV0Q1MXYxY1l1N2VFdw": 1792925608.8006206,
 "CNN|CBMickFVX3lxTE1UNjQwWFY4WFdlVzVzQVY3NGNuMGJBamtPRDd4aGlLRkF0MEFuQnpmanI3dXRiQWhhbnNwQWVOb0p6OVMyRkticUV3bUxTUmVyV01BY2ktajQ4MzVJRDhCaGFPeU9rMl9JNUcySXV2OTRFQQ": 1793218527.4185884,
 "CNN|CBMickFVX3lxTE1kOXRzdDlGNXhDNGEzUWgwWHl0bEc4aXYyX1g1SXlONzBBczRCT19oTnFrV3NNSTl5bUJVd1FNQmxkaFRhUlFTMGdPbFhIVThJX3lCYVpacEEyQkhHQzk1ZE1BRFlYV0thMW1VQ0R5SFRJZw": 1793162726.344754,
+"CNN|CBMickFVX3lxTE1xRkRTa291akNtRHVGcGZwc3d1dzVrSWNLN0RnbUlvSVNrTWFDdVNIQUdIUGhPZUJOMDl2eG0yaTYtaU9HcHpsa2xNU0s5MkFLLWMtQWdvQjhTdVh3aTNYc3d1RlZBM0d3a3QtVFVIbUR4Zw": 1793520926.1727045,
 "CNN|CBMickFVX3lxTE5RTkd5TXdiWVpPZ19xN1ViY3Q2RGxBaWJZVm85RUJFWTlWQVN3WE9vOUk0aVVDN2swN1dmUkUzaS1VQnF6UFBJZ1BrY3FMQXA1RXVfd1JBTWYxRWo1aDBkbTZlcndhUlltcVdTU1FFbGFoQQ": 1793272529.3505046,
 "CNN|CBMickFVX3lxTE5mWG1PclVIc0dJMzdxNHVOZzJ4dlFxZEo3Z2xXX2pDNWFFb09wVzFybHktSHdmTXR0QlZydW11d1RBRXAyTTBNdUl4eFFyUjdJVFpIS0VYNXRfQ0t1THd2Rnd2TVE3MzY2S3VBaVJYc3pkQQ": 1793442634.445774,
 "CNN|CBMickFVX3lxTE9MdmZfY0dJaGZRSnQ1U0tPS01hak5vVzE4WWNoVkdfZ2VVMU5YOG8yeWQ0c0FaUk5VUEx1RGw1eTlVLW9Fc1pidVRwNzhvYi1pRGkxT3JZck1UWi10RmtBejBjQkNfZFdfdGZGSUxwMnZKdw": 1792925608.8006206,
