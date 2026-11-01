@@ -2162,6 +2162,13 @@
 "src": "Reuters",
 "title": "Thousands join Indian opposition protest demanding election chief resign",
 "ts": 1793539670.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/video/2026/11/01/je-suis-contre-le-service-militaire-obligatoire-retour-en-image-sur-les-mobilisations-de-la-gen-z-en-allemagne_6804340_823448.html",
+"src": "Le Monde Politique",
+"title": "« Je suis contre le service militaire obligatoire » : retour en image sur les mobilisations de la gen Z en Allemagne",
+"ts": 1793539634.0
 }
 ],
 "seen": {
@@ -2887,7 +2894,6 @@
 "CNN|CBMihAFBVV95cUxPdG0xTHR5MnhXWURibWJVUzBySU9MLVBNUzNXYjdITGFZRHl1eGNCYk5uVlluTkJxNzRLX25NRVRMVFFUcmRrTFZuNjNwOU04N1VPTmpPTWhnTVNRNGFJdE9jRFFldTBXcVhvMEp2b3doQ2tnTUtBcmwteTRaUWk4OEl0bks": 1793359835.3079414,
 "CNN|CBMihAFBVV95cUxQVEVUNnBtOEJZNkJ4TndmMktpUjRSaG05Nld0clJpMkl4Um11RzZHOTZ6UDF4U3V1b2MxN3JqOUphdnNzVzMxTFV6RVRLYjhlUXdmQ1BaUEk5bzJyUzdvMHNXNlIyektFdm1nQjhEcUstajQySE9vNXJNa080X3ZPT3lSNDc": 1793272529.3505046,
 "CNN|CBMihAFBVV95cUxQZGlHajdidFFLSW9YVmg5czA4c25ucEZuMlE2VHVHZm53dHBIVjB5WnB1S1ZpUWdwVlBCOE1pLXdRT01vekU4VEo4RkpKQldwZDB2c09wLVYtdlowZWxKOXY3WnRaTGpNaHlqVzhGd2pRRC1rMFZJMnJiUmRUYUdwRGY3UWs": 1793348128.623687,
-"CNN|CBMihAFBVV95cUxQcVpMQlNuWnNJS0JyQ0IxbElTUUxaa2NldEVWNDhaYVBiZ28yWURhcEl3aGd5NUpzVElwN1VDaF9KQUFTSTZkNldnSW1YTk5oVTM5X1ZCTUU3dXdEUnJuWUFidWg4WHJqRjlXRlV1M0pZNndUenc2TmJid1FvLTJSVm42RUI": 1792935924.8490515,
 "CNN|CBMihAFBVV95cUxQdkViVlgta0oyM2hBUk45Nl9GV0toRUFJemhxaG55YURGcTFMN29wXzBWZ3o0ckNxNnFNclBwM1hwVWNnX05paVpaMVloTS1jcUJmVFJFRDl2eFBvcVk1WnY1eXI2YXZRcWFCRS1GMU01cE5UdWtOSHdOSWkyaEJMTXZmVWI": 1793489435.4828932,
 "CNN|CBMihAFBVV95cUxQeG5BazFIalQwd2NXYVotaEI5X1NUVm9KajRVMFlEbFFHTVJjREF2NFlTQWZSOHpmZzNVYmRkRHZ0T0FoQzQ5VjR2Q2pxTWxCb3lUOWtMcUU2OVp4b0lWb2NGU19ydEJNaEFidHA3Mlk2VmkyQTVnUVFGdTRsMGlyR3I3dlo": 1793472184.8638265,
 "CNN|CBMihAJBVV95cUxQcGJfRHVEbDJpTDNaYlh5V012eWs2dFRseDhNcXNvcTdZMnVYNWFmUEtDNm03ZGtCVFRxT0lncm9IRWZDMG8wQlJsZTVtdTZ4ZUljUHNjWmpLQmlwNTVZUzBFcnh5bVVMUzNoOWRJV1Y2cGlFaVJoSUNGVlZWSkQzbTFyZ0g5YlNyX3UwdTRqLXFtQWliT1dJcmRFYnpBbjRRZDZaVzgzR1lrZ0VvRUFYOTBpS2ZyUGZOV0VsRVh4UnI1dEJBeDU2bExobTdvWE1OWmdTZUwwb0xlQlUzMERXaksyM2k4WTJjai1aWEpvS252dG1kOGp1MVQ5d0ZmanUzMFRqWg": 1793110530.5799909,
@@ -2912,7 +2918,6 @@
 "CNN|CBMihgFBVV95cUxPYmJUd2swUmFRSXhqaGVhOWt0clFheF9zam1ia3IzRmlMZU1reFR4VzFMeU1rOTdtSDlZRElYMk9FVXcyMFMzU0V1ZEhUMXZMamZ3LWZ4dUNONG1YejNveDdqRnp0aUJvMkJRTGNRRE5sVVFMSHVzOWlFMUdDa0UwNkhYTy1HZw": 1792988126.4511454,
 "CNN|CBMihgFBVV95cUxPbGNZaGx5bzFLOUpZSDNTTU12WDBiaVVGckdYVEkySWMzVDRIWG54OHk0Smc2ZV9DajNIdEp1bUZaSC1IOXB3LUlSSm9lVXp1VVlQWDNwQjhNV25IVjBFVEloR24zTkR4Z2psYkZQRng5SDF1X3RPRFJkelgtSWVDeGlhQmRQZw": 1793377837.2247715,
 "CNN|CBMihgFBVV95cUxPcVJteS1FbWpqdWdFWmlONk5QYnhfc2lmRGFvOGlWbWJNUFA2cmdCNU5VTVNHWkY1ZlAtQXVtNUVLRDFaYmNwZ2QwdTRsclhmQnNDcVZ2VV8xam5FcGZQS0pIVmEzVzhLb09VSWFqb1NLMFBpU0h4akJOTFJ1VlZxQ3dxcFNiZw": 1793428233.0818176,
-"CNN|CBMihgFBVV95cUxQM0M2NFB1SEJUSFFKM3gyTmlUYTE0MUY0SEV1a0Rqc0JqekdpVmxoQ3N0OXFlcmFYUHpLYmpzWFVodmJYRXFWNUxqdmVRUjZDS2RoYXF4T2hJQnNGVUJNWjlxLUExN1dhblY1SzBRTTNva0FuLThmcUdTX1ZWY0Q0ejNPOGRTUQ": 1792935924.8490515,
 "CNN|CBMihgFBVV95cUxQMHNIM2p1Zk41a2lCU0d3ZzVIaGdsZWhJTzRGSDhEcEdsZ3pUU3Ryb3VRQkEtd1Y0Z3gzMFoyYlNpN1l3WmZZdEgxeTBvZUUyek1YX1dOZmY5bXZJQlZmZjVFemJmZ3pLaEpqSzNhM2dXSFNtT2ZtZUg5aWZzZkM5R3dzQlJiQQ": 1793016042.671506,
 "CNN|CBMihgFBVV95cUxQOFR2dDAzMXhzMUU1VlFTUTJ0VXFubVJWTzNGQ3hzUnZxQWZhckNlOHRkUGtLR3UtMjRscVFraXlBNnJoVG1fbUVLdlJwUzY0YW5yd3dBOFY1RlMyLUFQWk5tRjVHdUxlbXF5T042RFhtU1IwWGxrcEhjZENOWXp2dEUzRE8tUQ": 1793038528.9639344,
 "CNN|CBMihgFBVV95cUxQRTl0WDUxSE9reUpXTXcxZ2lUTzltNUZMRjM1eWQ4eEdwT1pKcmd2d2lDY3JDLWhONmd1VF9wMGQ3a0hDd1dKSVVHNnZBTnZnWjBBVTh5SjVCazlUNnR3dmhvSUdVM1BhVUhSY3RVck9tM3o2T3lsc0s1WWYzajNPNTVjS2s5UQ": 1793136635.0121229,
@@ -4133,7 +4138,6 @@
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html": 1792941329.610085,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html": 1792935924.8490515,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html": 1792949433.1849196,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html": 1792955725.6519537,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/26/a-l-assemblee-nationale-la-commission-d-enquete-sur-le-17-octobre-en-crise-avant-meme-d-avoir-commence-ses-travaux_6800607_823448.html": 1793007925.80866,
@@ -4209,6 +4213,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-images-de-la-seance-houleuse-a-l-assemblee-nationale_6801333_823448.html": 1793124039.6769316,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/31/manifestations-du-31-octobre-les-corteges-defilent-dans-plusieurs-villes-de-france_6803723_823448.html": 1793466052.5647137,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/31/place-de-la-bastille-a-paris-les-forces-de-l-ordre-controlent-les-passants-et-rappellent-l-interdiction-de-manifester-par-le-biais-de-haut-parleurs_6803638_823448.html": 1793455236.8705266,
+"Le Monde Politique|https://www.lemonde.fr/politique/video/2026/11/01/je-suis-contre-le-service-militaire-obligatoire-retour-en-image-sur-les-mobilisations-de-la-gen-z-en-allemagne_6804340_823448.html": 1793540728.401172,
 "Le Monde Politique|https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html": 1792937725.1038725,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html": 1793043032.0944161,
