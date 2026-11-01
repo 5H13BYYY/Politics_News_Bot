@@ -8,32 +8,11 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSlhDM21JaG1KdHJwWTcxQTgyRWdlMEpFMVRKQ3F0YVc2ZTkzUzNsYUx3THpISTlkNjZjbXRfS2JPUlVLMTZXZ25ZN2J6Z0h4bHhxVXo2NWRMWjdyamNkdXlsQWpucFFwTm0wLU5KTF9hLUctRmNINjk2bkxaMktvX05MdWxaaDg0Y3AwY3VUcENIMlRsZ1FwbXduRm5USk9rVFphRUtBcWoxUFJHMEh1R2ZpbXd5VnEzdU1VVnZRZ3dMc094M2gwQlJ6cHJ1dktoMk1Cb0tnS2FQQ1Izd2c?oc=5",
-"src": "CNN",
-"title": "Dominion Voting’s new owner says federal cybersecurity support has been ‘disappointing’",
-"ts": 1793377837.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
-"ts": 1793378223.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-%C3%A9tats-unis-des-profits-financiers-sans-pr%C3%A9c%C3%A9dent-pour-donald-trump",
 "src": "France 24",
 "title": "États-Unis : des profits financiers sans précédent pour Donald Trump",
 "ts": 1793379139.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
-"ts": 1793378223.0
 },
 {
 "lang": "en",
@@ -104,13 +83,6 @@
 "src": "France 24",
 "title": "MAGA : pourquoi le camp de Trump se fracture",
 "ts": 1793381121.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Id2dqdTFtRHFsUTBWakI3X0J1NkZoaVBGUHFKcU9FZUYxaFAtMm1WVmVSSTdOTTZwWmtId0x4V1h2bVlIeGNfQ3puRUtQMHdvT0swMHljQzZsNmlz?oc=5",
-"src": "Reuters",
-"title": "Johnny Depp and Amber Heard arrive for final day of case",
-"ts": 1793378342.0
 },
 {
 "lang": "en",
@@ -2330,6 +2302,20 @@
 "src": "Le Monde Politique",
 "title": "Manifestations du 31 octobre : à Marseille, des échauffourées avec les forces de l’ordre à l’issue d’un parcours improvisé",
 "ts": 1793505628.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzk2b281blpYYXJaZ3k4VWhKTFJaR2wwaDlYTWppTE1TWXV2TGNDMW9uZF9ORUFYUUVKSFYtWV9COGtWX3ZSVUdqbDZPNFlaSXlTZ3VEMnAxdlRva0ZLdEN5T2lWSzBLWVIzQnlGRE1DVjdOdU1sTVNHMjZhUXN0X3VB?oc=5",
+"src": "CNN",
+"title": "Beyond Bali: Travel pros share their favorite Indonesia destinations",
+"ts": 1793507415.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html",
+"src": "Le Monde Politique",
+"title": "« Je manifeste pour qu’on puisse manifester » : la mobilisation du 31 octobre, des cortèges festifs et déterminés corsetés par les dispositifs de sécurité",
+"ts": 1793507823.0
 }
 ],
 "seen": {
@@ -3097,6 +3083,7 @@
 "CNN|CBMiggFBVV95cUxOckEzalZkQXJockFpZWRCU3hsMUZtOU1DMWlZX2RkX3BzU1M5S3lUYjlhbTc1UUdNejlxVzlFTVlIZmN6bjJIU1dSM3BGeHpnc3JJb1JodERoRWY3Z2hBRUFqalhoS2M5bVZ1b0ZQOURQQ3FZcEFYV2N3czRnZzZPV3Vn": 1793230231.2599976,
 "CNN|CBMiggFBVV95cUxPNWQ2a2p0ZnJlQTh2QUpFSTV0VHZwcW8zdVpnbE5IaEw2NUpxajhQUUpidjFISl9QTjQyaG1RZmpJS3JvNVo0VkRBRC1McHJHUWIzMjBnU0o3Njd5V2xpZTFMNVFScUhLdVRMMFpUV2JDYjB4OGVJVExOSi1OY3hid1Nn": 1793050238.2716792,
 "CNN|CBMiggFBVV95cUxPQVRxQV9qR184aWRqT1U4NzdmY3MzQUEwNTVobjYtZEE3YTNiMGhsb3BEX1dXSUotU25DOWNBMm0xU2tqV2FzTDZEbFlxcU8tV0tCaGFVUE16OUxDY25ZUnBPMDREUnN4dThQaWNEMmp0cENQaElpUHJVcmV3Y3pDaVpB": 1793029529.2200255,
+"CNN|CBMiggFBVV95cUxPUzk2b281blpYYXJaZ3k4VWhKTFJaR2wwaDlYTWppTE1TWXV2TGNDMW9uZF9ORUFYUUVKSFYtWV9COGtWX3ZSVUdqbDZPNFlaSXlTZ3VEMnAxdlRva0ZLdEN5T2lWSzBLWVIzQnlGRE1DVjdOdU1sTVNHMjZhUXN0X3VB": 1793508325.9799955,
 "CNN|CBMiggFBVV95cUxQLVpUVDk1RE5aSUtrbHdicVRjLWZUSUlhSWY4bjJwZVNLY1ZTZ2R4VHl3cEl3czVTZElONjlMdXFuWnk3d1BkN3lZeWk5dFJJbUJpSjdjZ283dkVQWW5KZUZpa09SZmp2X2RYd3dUaThFQU1oT2dUZWxSamNIYVZsVnZB": 1793450725.7078629,
 "CNN|CBMiggFBVV95cUxQNFRvNXd1Qk9MSHZHV2prR0cwRUcyRFNXeUF0RTkwMGxnZlBVRm1JMGhvWmF6d1VGM1hfNEhVMjBrOVUzN3YwLTVJblFQY29FZWJaR2xhSmdwT2hmQlpqUDFvaUpXZHgtaHNyYWlIT3RMRjkyQXl5SVBlVFdKem9kR2FR": 1793208635.382446,
 "CNN|CBMiggFBVV95cUxQR1JWYmpMU0lmSExXUVNRTXROa0d6c2w1UWlEdnh2VnVyMHRLR0E5Wml0bkdxQzdGTF9NdnlGYWhlYVhtaEE5a0F2LVRRWlRtUXdmRjBVdlZfbUtYWkNqcTI1RHFfNzBZeFNBdjNuZlJFUm1KUGduWGlwSHBoTG05YkZ3": 1793455236.8705266,
@@ -4564,6 +4551,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html": 1793480439.30746,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/derriere-la-coordination-nationale-des-gilets-jaunes-des-militants-aguerris-qui-cherchent-a-federer-les-coleres_6803466_3224.html": 1793427323.9638076,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/10/31/des-tags-remigration-decouverts-a-paris-emmanuel-gregoire-annonce-les-signaler-a-la-justice_6803712_3224.html": 1793459730.3652418,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html": 1793508325.9799955,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html": 1793506526.155259,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html": 1792912031.9234908,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html": 1793462438.8989837,
