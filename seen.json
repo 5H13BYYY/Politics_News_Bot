@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTJyMXNaUHdiUkhaNnM1dXFvNDBfRkU5SWdaSmR5MDdjSzVBVWZCZ0NGWVJnVmRyRTltS1A5aXRnalRIaTltckJEUXBZcHF6U2dOYnAxVEpjdmdrSVV6WlJwSzhBWUNhMU5MOEE2MTQ2UW4zV1RlaVNWdWZudmNZV2ZBWmRkaTM0enhWYTM1X0c0VFBJc3Y5QWIwU25oVDVWWkstZw?oc=5",
-"src": "CNN",
-"title": "Can Dominion’s new owner rebuild trust in voting machines?",
-"ts": 1793394540.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUU5b3FRamtYYWVDYXJxTlF5eGJzZGgwR0RqckY3RTFYc2lJc0V6YjQwVFVPNTA1aDhnZmVmQmI0bnlNWjFBRkF1UVp5T2U5Nlo3T2NSeFQtb25VMktfbE5aTWFubGZNaldTVDRWdERiQjhzVEI4eHRBU3d2ODRpQVI2X2pFeDdXankxV0xKbDVoZGlxVk1mYno4SHpZNmwzX0hrV1h6U0w?oc=5",
-"src": "CNN",
-"title": "Top Alaska prosecutor said he has not discussed the investigation into state’s Senate race",
-"ts": 1793394134.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3IwNjNxd0Z5NHJxV1ZVcDh5amtuMW9jbnZhcnNJdVZvaTdjWV9iZmpza21JQkZuVDlVRk1yWkJHdmU1cWZneFlCZmFITmVrMUxqakF3RTZCNlZLSUplMmh5XzVCMUkteXZmSjEyWTVXRWoyVXlpTFJUZXFfTGdSM3JjdndkTUEtNjNLTkJQaGRsX3c?oc=5",
 "src": "CNN",
 "title": "Alaska’s Senate Showdown Intensifies",
@@ -163,13 +149,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk05X2RzRWQ2Yk5TUnE2VDVOZE1zcmp6VTV1aWFGemZvSjZGTDVRaUh3WTVsUEtELThaUW0yZWhBbUJrRkg3RmJpWGJJeGtlb0hkVHF1WDk4ejkxcE5ubXZQUVp5WWRjU3RqcjJBcDNtQXc1aHRGZWxONGtLYlN4bXY2V0ZQM2pmcHFyTVkySjh5cXQ2LTZKN1g3YWtWNGZtYXJkUFE1WXkwV3REVWc?oc=5",
-"src": "CNN",
-"title": "Top Alaska prosecutor said he has not discussed the investigation into state’s Senate race | CNN Politics",
-"ts": 1793394134.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Why MPs keep talking about an early election despite Burnham's denials",
@@ -272,13 +251,6 @@
 "src": "Reuters",
 "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
 "ts": 1793404980.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFYzOFZoMENTRFM0dHNvZ29VWFpmdWZDSFlocjZqa0FXVUxHMWtpVHlrTFVKLVBUOFFyMTlBSEpJdWo4WlV5dFQtX1BQdlF2RzBLQ1M1cm9KbVV4ZzhCNnBYS1R2RmtSdWd1VFlwelMwYVFVNi1wZkxpMDZsYzlQYlp6VHNtRHdzZ0UtZVZ6MWVkZ2VWYWNKRGpVYU9wQWZzcEoxbkVRYU1ZWndVaE8zTDRMNnYxR1ktLXNJdA?oc=5",
-"src": "Reuters",
-"title": "US judge blocks Trump policies fast-tracking children's asylum cases",
-"ts": 1793394761.0
 },
 {
 "lang": "en",
@@ -1973,6 +1945,13 @@
 "src": "CNN",
 "title": "Tom Hanks gets spooky as Mr. Pumpkins on ‘SNL’",
 "ts": 1793523180.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CRGFjNHJjb2YwVkRSazhwTXFieHlPVFllU1A3ZDBJbXJlajluY3VydFBIdXNub2dTQ3l0M0V5QTlTSGQ5Y00yQi1ibDJBSnlUUTJHbkJnblUwX1V5?oc=5",
+"src": "Reuters",
+"title": "Hope Hicks arrives for Judiciary grilling",
+"ts": 1793514477.0
 }
 ],
 "seen": {
@@ -3849,6 +3828,7 @@
 "France 24|e9df5e62-d1a6-11f1-b1a2-a1c9218b1753": 1793065523.9823225,
 "France 24|e9edc5be-d210-11f1-9f0d-1d6001bee337": 1793115035.7537491,
 "France 24|ea6b183c-d203-11f1-857c-5d0aa9c11aa0": 1793109642.2235074,
+"France 24|eaf415f2-d58b-11f1-930f-753a0aa18f89": 1793524525.8516872,
 "France 24|eb58d85a-cc91-11f1-b115-11a79f3a0219": 1792932324.948729,
 "France 24|eb93914c-d453-11f1-9a70-a730ff01a1b6": 1793361641.3968227,
 "France 24|ec5eb492-d37e-11f1-8e4a-0575b2c8fa36": 1793381436.2808292,
@@ -3884,6 +3864,7 @@
 "France 24|fa131df8-d135-11f1-8dd2-75accb8f7594": 1793017836.5340102,
 "France 24|fa4f8026-d2c6-11f1-a31b-093910d4e979": 1793190635.6630328,
 "France 24|fa5b390a-d223-11f1-b8a4-8ba53fb44a3c": 1793120441.5226345,
+"France 24|fa66aaac-d5ce-11f1-8481-33feafab42c2": 1793524525.8516872,
 "France 24|fa67c440-d11f-11f1-b0b9-65cac493857a": 1793008843.1617062,
 "France 24|faba2552-d15e-11f1-bd77-1b2b6540b405": 1793045725.385302,
 "France 24|fbabd72a-d38a-11f1-84c4-4980be19a843": 1793277035.900759,
@@ -4162,6 +4143,7 @@
 "Reuters|CBMiXEFVX3lxTE80aDROMVVTaUY0SS12eHJyaUQ0UUk1M1M2THpnYVBOUHRyZW9ZTy1HRUk0djU0TnRDLVMtZ2Qyc242XzlSQWJyVk5hQVA1VDIzcDVkYXJaWW9mdUJn": 1793430926.2378938,
 "Reuters|CBMiXEFVX3lxTE8wdU42eENHb212T0ZFSjRjR1VGM0JFNkNsb3d4NUJvSThITW1iRFBHZVIzUzFNOWV4bHlJMDFXTGJOUERMbHh0cTdwWW5Ta1R6M3ZIZ3phWTJCT3pB": 1793419240.244225,
 "Reuters|CBMiXEFVX3lxTE8zaEZKbWlOMDYyZEM3S01VOVFlTUxrTVkyaHhLVmtuMEdFWnpIcldGdXQteTVvU3V1c1NLXzdteF9tR1BtVjY1Zk9xN09lSXUydVJVdWZBeFEtZ1RX": 1793383241.2383296,
+"Reuters|CBMiXEFVX3lxTE9CRGFjNHJjb2YwVkRSazhwTXFieHlPVFllU1A3ZDBJbXJlajluY3VydFBIdXNub2dTQ3l0M0V5QTlTSGQ5Y00yQi1ibDJBSnlUUTJHbkJnblUwX1V5": 1793524525.8516872,
 "Reuters|CBMiXEFVX3lxTE9MX25UNXJJczRBZlVaNlhQOUtkd2F3ZnBlNFdyczZwZWJ2MXc4b1dYdnJTS1lKM2t0MmpGZ2VmaWlpZEJFVl9MdWJjVDhyTjlvano2eWc1WmlrQ2lS": 1793511924.776227,
 "Reuters|CBMiXEFVX3lxTE9MZFhOM2picWxsZkx5Q3hIdmdiTXp6NzhtVXpmVHg1WjFYc2RiZUlNN3BOdXQ1VDRCOVVDajl0UnRnZjRHUmd4aGRhOGNlakI0eGZ3SjgtcUpsQW8y": 1793421033.0693376,
 "Reuters|CBMiXEFVX3lxTE9QREdqUzJLMHFBYURVdVN0amhjUzRsVThNZU9DMW1PWVFBWFBKYTRnWGQtb1Ric1hjZWE1T3MySUJ0anozSjdyZmt4bG8tZ0JZMjVfQVBhMlMzYzcz": 1793034009.146361,
