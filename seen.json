@@ -9,24 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BMUluWlEzUHhZWEFYTDloRnlHTmxHSFhmWTNkdG1WZ1V5R2Z3S3BQQXJSdW5ET3NLdXJvcU0wc3lkYTE0TmU0eFlmMTFRdjRieldvdXNKR0NFdkU5LTJlZlFoYXRPSVk?oc=5",
-"src": "Reuters",
-"title": "Intel's nosedive is no warning sign for chip stocks, says CIO",
-"ts": 1793396890.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzhvRV85QnhZYkRNajUzVFd2d0g3eGpkVXdsSzhETmpOR1ZTMWtJS1N6Tk1ZTDFYaXdBbTdFYjJRYnNUYTZ6RFExNUc5c29UUEN1dDJzUnZDQms1TjlDTWZ5OTlmTmpZejM3ek5idUpXLWVWVTNLMFY2dmg1VUcxY253eGI?oc=5",
 "src": "CNN",
 "title": "Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’",
 "ts": 1793397648.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmtObmk5S3pfczktNHEtV2ZIaE5CV0VtMHdnOGNNWGR2WkRqZGI4YzJNclF1a2Z3Q2dDNUYyRFBPQzN4RG5aWF9LZmJfZmhSZ0NXbGlCMFNBLTUxU2RlNW01SWtjMDVkMFNDQnhQLWdVVkk3Q3pwdGxIWHJTbmxmUEg1OVlVUW9TRmJlRHVKZzVtS011bzg4cjIzM2dIM2k0UjIwTE1vNGJDbWdBMGNnS0Vqc2psNUV4aXkySg?oc=5",
-"src": "CNN",
-"title": "Binance hack raises security questions",
-"ts": 1793397103.0
 },
 {
 "lang": "en",
@@ -62,13 +48,6 @@
 "src": "CNN",
 "title": "Dem Rep on reports Trump plans to restart Iran war: ‘What the heck would the goal be?’",
 "ts": 1793400542.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWVPbmpud0FZZklreUFJalEtSGY1UWV3cU1Pem90YjljN0FXVXVNUW43OXhMUXFET1VnNUpLUWV6LWtpbHluaFgxVndrMVBaNUUyS0txeHFfa2NiekxvamVudnAxRlVMNV9DLWw2a1gxLUJoNmQ2S09lVFo5SjVzb05DN0hMRUlDaHcxSkptOGRrQUdfRnd3LWRKZjhRV1VqWHN4cHBydktLblZWanNSSg?oc=5",
-"src": "CNN",
-"title": "Former NATO chief discusses Putin and Ukraine",
-"ts": 1793396979.0
 },
 {
 "lang": "en",
@@ -1931,6 +1910,13 @@
 "src": "CNN",
 "title": "Is MAHA Due for a Makeover?",
 "ts": 1793525810.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yM0lVMGpJUHZLWjlybWlzenVXR3dXT2dXTXVkVzgzUTVHOUdKWGZJbXhLMk8ySE1Mc0ZCMV9Vang0QjlEaFhmcnk3aThpNjFrTVF2d0tKV1IwUmdj?oc=5",
+"src": "Reuters",
+"title": "McConnell proposes rules for Trump trial",
+"ts": 1793519641.0
 }
 ],
 "seen": {
@@ -4134,6 +4120,7 @@
 "Reuters|CBMiXEFVX3lxTE9qZEh3dVFyd3ZaZlRlMzhtU2cyQlRiZDZMOXpkV3JmekxCd2NwaEpYVDVpNFZhcEFTOTJGa0VwLVZzb1Z4Vmw5c2RiUVRPcWFsM1E3Z3FHcmZPZmF4": 1793491240.2401252,
 "Reuters|CBMiXEFVX3lxTE9rWjBoTW1qSmpRSk1KdXh3VkttY1EzTlZWbHNFTk1iVnBmd1laM25rVjFwT2FNdDhMYlhmNDBBSFgwT0FEOWhPZTRyZnlESmp5MXZyRTZQajQtUGZR": 1793353525.5542397,
 "Reuters|CBMiXEFVX3lxTE9rZmRILW9SRUhLYXVVZXBCSm9nVGJRX0cxMm9wYldyUXp4MG9sZW1hYnFuZzVXb1ZabGliVmQ0MjY2aEU1Qm50LUdYZHpRY2E2NUo5OGdKRGpRZ3Fk": 1793341831.5381763,
+"Reuters|CBMiXEFVX3lxTE9yM0lVMGpJUHZLWjlybWlzenVXR3dXT2dXTXVkVzgzUTVHOUdKWGZJbXhLMk8ySE1Mc0ZCMV9Vang0QjlEaFhmcnk3aThpNjFrTVF2d0tKV1IwUmdj": 1793527238.6121743,
 "Reuters|CBMiXEFVX3lxTFA3WF9wY01WalFsN05nSGItTnhERmdfemRyMm51N0I1MHRZaTR6bjg5RW9CbnZXY0d1ajN0cVhRTTVGbmhPTGNJM1NlV2kxaENPRzJaRnhqdVVYVjRM": 1793419240.244225,
 "Reuters|CBMiXEFVX3lxTFAtS1g3ZUttRl80dFRFaWFBQ2phQjRLck1uOXBvUHJqdWpJVGN2bkZ4UHBzSEFVQ1VlXzZaTFY4aGtkY2JRbTFWQmdsT0ZsQnBWRm9acFg4WUxsZHFy": 1793341831.5381763,
 "Reuters|CBMiXEFVX3lxTFAxTXJ1emM3dmxYNW9tc3NXcFI4WUhDS2M3YnA5bTgtR2pXenIxWXN5OTF4ZEFkZEpfUllhV1FySF96OWUwdjN2QlpES1B6VkxOck0yV2puVU1EU3Ux": 1793421033.0693376,
