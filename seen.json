@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTJYWktQTWp4S2wxa3NJMnpmQkI0RmNQS3RtZFR6dEFpMEhZYWtGZUNfNG5JczNhbk9GV1dydE9BTG5oNkN3YXpLdG9PSXIzSk9FaUxiaFRZaURkR3hJMkU4WHZRNnJXUThMZkxRb2NiVlhXeUxDa3g1ZWNuSm1IX3FBSUY4QlJuZ0RxTFVB?oc=5",
-"src": "CNN",
-"title": "‘They killed us’: Russia’s last independent newspaper falls silent amid pressure from Kremlin",
-"ts": 1793370759.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261030-elections-mi-mandat-bataille-droits-femmes-etats-unis-avortement",
-"src": "France 24",
-"title": "Midterms : une bataille pour le vote des femmes",
-"ts": 1793370773.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-afrique-du-sud-%C3%A0-durban-les-%C3%A9trangers-toujours-sous-la-menace-des-violence-x%C3%A9nophobes",
-"src": "France 24",
-"title": "Afrique du sud : À Durban, les étrangers toujours sous la menace des violence xénophobes",
-"ts": 1793371265.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-guerre-en-ukraine-des-op%C3%A9rations-d-%C3%A9vacuation-humanitaires-%C3%A0-olechky-en-pleine-tr%C3%AAve",
 "src": "France 24",
@@ -181,13 +160,6 @@
 "src": "CNN",
 "title": "Dominion Voting’s new owner says machines are ‘tested and proven’ to be secure",
 "ts": 1793376886.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2tWX2g1Yl80Y2FSLXVjSFVjNlBuYVJYVjBQTEJZQzhvODlGZlhYVVhFWl9UMGFiWGtfcnVzOTE5MEd5OXhJeVBKVmxaRXcyQ3ZQTG9oRmlqZlh5elc0dFBzT1p0eFpIVEZ0VXQ1aV9ReURLZXZ1aXE3X1pyakdDNHB5N1FJcHNDaGxaYU1OU2ptanlDRHdiX2ZWRTEzcXZZUnZSU3FVcjZPcHZqUlE?oc=5",
-"src": "Reuters",
-"title": "Spanish police arrest suspected founder of 'Blocus' group linked to looting",
-"ts": 1793371423.0
 },
 {
 "lang": "en",
@@ -2540,6 +2512,13 @@
 "src": "CNN",
 "title": "Golden State Valkyries make history with first WNBA title in the team’s second year of existence",
 "ts": 1793499963.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5",
+"src": "Reuters",
+"title": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable'",
+"ts": 1793499720.0
 }
 ],
 "seen": {
@@ -6039,6 +6018,7 @@
 "Reuters|CBMivwFBVV95cUxOTlNXWUdBLVdhb1R6TFF1U09KeVhFc0psSEJNM3E1TXZpanhkbDNDV3FXSzljVDJrNm5aWGhIeUROQzBfZFYweEZQWEdYa2cxSXBIY3ZOQktGSHJ4NlhieW1tUEVtUXlWc1N5VXEwVWFITE9EbE50NDg1djRYeG16dy10UkVZSXBnSGxxZThzLUxTd1BXWlhzdnptRlBUcFBoSVpUNUc5Yk1JaHVWSlhoVkZzcWE3QnJTaXhfaVRLcw": 1793365244.4652832,
 "Reuters|CBMivwFBVV95cUxPNHNOY0FUMC13dm8yaFFmRldOSzhIUkZnZGxNT1RidTVlSEN2dUZOODk0QmQ4dGY0cjBObExKUHRsTjFTbTV5dDdIcS1MN1IzRHB5R1d3c0RlR1pqMHJGLW14b1NFMXVjLUI4MnMyY2RJa2U3dTk1Mll4TGNlMGlTeF9GYUxZMVZXVUZCTFd5bVZtUGc0WmZqV1M3NEYtTkY5YmJPMFFUam0yLTN4NjZlUHJxS0ZaTHRhQ045UjR1UQ": 1793268925.8536756,
 "Reuters|CBMivwFBVV95cUxPQlpoQ2lWbHFpTkRvZUpZV1ZOVFlJNjY3RDY4UHBmS01keXdDNndROG1PY2lRRjJGWG5zVjRadmRua1hJNU1kUHZ1RUxyVHA4Z213eWN4Z3VjMnc0bVM3aW41eG9ucUpyZXFpQmtRNzJHM012TXBIa2tnZU5teFhpTnNwMWljQ01JMHZSdHNPUHFzUk5abDJBWXJWcEZ1UTdDbThaUE9PWTlGc3dWVmdDS3FrbVE2UGdiSGY0OURUWQ": 1792943124.2310648,
+"Reuters|CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ": 1793501124.3596752,
 "Reuters|CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw": 1792972841.7553523,
 "Reuters|CBMivwFBVV95cUxPUkItMXV2V0M0QXFZS3JWalRHS2JWTDBVWGhnWFlFdTdhelZENE9PVFBPN3QzVUpfZkxZUXNnSlVGYWF2UnViZTVDQkhXdFEyeUNwOFBKaU5leHNlTm9XNXdSVm9vZHl3a2tEX2Q3ZEZIQUZZUmlUNTUwbVRkbldwcGxGY0JvMkVoODlnZldCcEU5dHVlSFFVMGdiYVp2OHhIa1NrbHJBTDhReU9ZQm1FSWtqdUk4LTZaMmhpckxXUQ": 1793302235.3695743,
 "Reuters|CBMivwFBVV95cUxPWmQ0c2FUVWhaMXlBcU94NERDUlp0YzhfdFpLUUpsaDhLeU5RRTVEU25GbXp0c2xtdDFlRmY3QU45TkRWdjFiR1djWXZGT05QbHY3ZkVDTVh1b2N1c2hRT3djc2gzOGh2d1B1M3ZqTjFhNTloOXN1ODBXM1VvTk50ck14VG9qLTJaeHoxRGU5VW1XSlBEdG5PMS1KbVVFcWx1QVp1UGg3X2YwYk1idFRmWVF0Z2xqMnNYZ2dqaHhjNA": 1793232927.3653555,
