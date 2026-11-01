@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cqm24pdylmm2o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
-"ts": 1793375863.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-dans-les-yvelines-les-partis-de-gauche-pr%C3%A9sents-pour-l-hommage-pr%C3%A9vu-%C3%A0-trappes",
-"src": "France 24",
-"title": "Attentat raciste dans les Yvelines : les partis de gauche présents pour l'hommage prévu à Trappes",
-"ts": 1793375982.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html",
-"src": "Le Monde Politique",
-"title": "Après le Brésil, la France ? Comment les « insoumis » tentent de s’inspirer du « janonisme » en ligne",
-"ts": 1793376002.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-des-drones-ukrainiens-frappent-des-raffineries-selon-un-responsable-russe",
 "src": "France 24",
@@ -127,13 +106,6 @@
 "ts": 1793379441.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWV92UWV0NThYNlVKbXdBcWhIbmRvRDVhcTRYc2U5ZkhkUVgzb0dkNW1OX0pEX3kwQWlBZjNQV0s3RjRiNlBnVkJLLWdIMTFRUmRYTkNjQUdvZ2xHMk1RaENlN2ExUnVhdXJyRTVBUDR3X1hILTBpdXhzZmM0UVFUU3ZBbEk3WFpkZm8wNVV5SF94TUJk?oc=5",
-"src": "CNN",
-"title": "Egyptian highway billboard hacked to show porn",
-"ts": 1793375417.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20261030-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-%C3%A0-quitte-ou-double",
 "src": "France 24",
@@ -188,13 +160,6 @@
 "src": "France 24",
 "title": "MAGA : pourquoi le camp de Trump se fracture",
 "ts": 1793381121.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTZ0Q2t4V1c1SG5UYXREUFktejZ1TVBmV214MVNqYlM1VkZDUUc0VHBPUnlpTktHRW43N3lYc3Nua2V2SDF3MTdmVEV6alVoS1hlcGZZQTZid0hIbjRsdjlsd3p0SkdGeGRJZWxaYzhzZ1dlUE1YZGVJMUhScGFVWGNB?oc=5",
-"src": "CNN",
-"title": "Pregnant women in Yemen forced to give birth with no medical help",
-"ts": 1793375400.0
 },
 {
 "lang": "en",
@@ -2421,6 +2386,13 @@
 "src": "CNN",
 "title": "Trump takes El-Sayed question at Mar-a-Lago Halloween party",
 "ts": 1793504280.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQ0RFVnhITFNSa0V2SjY5WnFzaHJERnlqVUxvZ2M3dWk1V3NIMUtMSzVZX0FzaVo3N3JFc1ZHeGpJdnItaFdYR18yd09KS21rQUVxbk4ydHlSaHN5TTkydEFNQkhxMEU?oc=5",
+"src": "Reuters",
+"title": "Russian cosmonaut sets record for total time in space",
+"ts": 1793489228.0
 }
 ],
 "seen": {
@@ -4782,6 +4754,7 @@
 "Reuters|CBMiZ0FVX3lxTE1BOTEzTlhac0ZpSk0wVzlCYW05bTlUMGx1dWV2T1Z0UUhqXzFBVDdaTEtRaE8wS1ZmdFRua0tndU1tWkM4ZGNGYzhJSjVUV2R0WWhsTklwZjdzY1lpRUs5UXR3VWpucDQ": 1793306727.6227753,
 "Reuters|CBMiZ0FVX3lxTE1FQkRmLXhMc2Q3NjdiNEpReEpEX0ZCb1VaNHVFVnN4S3BXX2R6TEwyLTdlaGdncGVyd1JXdjVhLTYxbG1lWDh5Mm41eWw1M1l2c2pWOWJPaU9RZ0N6TnhGVk9VQVRpQkU": 1793179834.431065,
 "Reuters|CBMiZ0FVX3lxTE1INnpYRm5iVDhkYkxmM3dUYVp5eXBYT1o5bFhQUDhqSjRfX1pWSlFINXFlQ1N1Q0JIa2VucnlXMG5MTzNJR3dzMm5hdWVoRC1yWks2UG1uY21aTUhEQ0tZSmF4Ri1PMkE": 1793146527.9270666,
+"Reuters|CBMiZ0FVX3lxTE1IQ0RFVnhITFNSa0V2SjY5WnFzaHJERnlqVUxvZ2M3dWk1V3NIMUtMSzVZX0FzaVo3N3JFc1ZHeGpJdnItaFdYR18yd09KS21rQUVxbk4ydHlSaHN5TTkydEFNQkhxMEU": 1793505639.7040048,
 "Reuters|CBMiZ0FVX3lxTE1IUEVpTXJXYU5SS0E5YVZXdlQ5TFMzQXZIcGdpQkxySGRTbHVTNWFwT0FvT3ptZDJ4bWRra0pOdlFMUjBqYlBRanFtNmZIMHlyYnc1QlhlR3BXaFNXOURZeFZvUmp4b00": 1793315724.092072,
 "Reuters|CBMiZ0FVX3lxTE1JdmVJMEVxNmJlWkRrVDJBcVNMSkV0U1BROHRYeTl2eGdLclJoOU1NLUJLdXpZSjA1SGFPbXh0Y0lJRFhjbmpCMmlmRGpCcFUwWDU0TjZjWmVPNmhJWE1wU1BoQTBpdVE": 1793103332.2267172,
 "Reuters|CBMiZ0FVX3lxTE1LRkl0OFZiTTNDcjJic1hFM1NFOUVDZG9laWVjRjE4aVRRMzIzUGtrekdvMXBjY2lrVzQ1TFdRbG50LW5WcUhJOFVqa0tVRktsNWtFOVpEMDA1R19haURYOHc1SGtaYUU": 1793054725.2944863,
