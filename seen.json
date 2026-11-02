@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY214OVkwemQ1dzRkS1hKeFpZaUZ4RjU0bUloVlc3QTVad1dsZW0wa1VHV0pVSVlrOV9BUmZnTzUwRU1URDdRLU9pQ3g4eF9sVEhtQnp6VTRsMGZOQ1lUR0x0eXdYcFMtc0hfMUVQT0RReDBXTEtoQmRSTUNzUWxSQkNpZEdqM3lRNnM4RVJJcnVFTWYwWm9hcDFuNkFILVE?oc=5",
-"src": "CNN",
-"title": "Decoding Election Dynamics: From Blue Waves to Political Strategy",
-"ts": 1793467160.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5",
-"src": "CNN",
-"title": "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
-"ts": 1793467349.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXF1S3pMa3hrR1hEVGEtTm1hbTR1SzBMZUtSLUlGcTBaT0ktenRqYXQ0Y0JrbXBRWVQ0SFlZZXBQT2g5Rk1hbEpWRlRzb0hkTzR2MjJDWG04alpiV3hzR1ZFQ1JjUTRHZUhfWEpsVThvQWtpcDJ4cHl2MzU3QjZMTV9YVQ?oc=5",
-"src": "CNN",
-"title": "Kim Jong Un’s new drone war machine",
-"ts": 1793467500.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNTYzJyTjBHNm1GMUF5djR5MDVJc0ctUG9JUG1RSndQZDJ1ZFFCeEZKd0FRRW9leFcwMDA5N2pTaksyYUlOUXpHQk16aVZHZWRfZDVDNGJreGl0NmxhazRmazl0M1hKbWVxd0Y3SlBYb0hrQ3FfYkN5eGVxWEp3Tjd2Y0JHR3JSOTZIY3dUOUcyNXlydXREVXVURU9uaUdsSHc?oc=5",
-"src": "CNN",
-"title": "Texas is not used to being a battleground state",
-"ts": 1793467740.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2JIVVB6TndsbFNkS2Vma2ZRT2NBOHRyQTRkcEc2ZnNnRFc5R0JoT0hpem96RFMwalJGZFozdncxNmRBaE05ZU1hQXRsU0sxUDIyVHRWZzhlQXVfLW5GSGxBcHhscVRrLTlLSnFsOEZ0SnliUzhuQVhLeGc3VFBEWTI3ZjRfQU1uS2NWYjk2QVBEVldRVHZOUnZn?oc=5",
 "src": "Reuters",
 "title": "US sees growing interest in limited ceasefire in Black Sea",
@@ -48,13 +20,6 @@
 "src": "Reuters",
 "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
 "ts": 1793468863.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcU5iMUR2VndoSi1FSGxJWHZfNmJIckNCYnZBWkkwMHVvdVg3S194NXF0OGVxTTREekNRSTNGdVJzcElwYUFxZ0tNQ1Y4VXltY2ZBektKX3l0elpmQUtkWjN6WWNXWkNWZFExTFp4TU5lNTJOYkprM0JlV2g1SE0?oc=5",
-"src": "CNN",
-"title": "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
-"ts": 1793467349.0
 },
 {
 "lang": "en",
@@ -2694,6 +2659,20 @@
 "src": "CNN",
 "title": "Brazil’s left reinvented the right’s online playbook. It helped Lula win",
 "ts": 1793595675.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PYTdSRG0tRXNsbVhhZENodVBVcnRyOFlrMG1jUlZJWW1xZzJENlZOSFowY0dQbUgxZmVwNUhQdWk4SHVNTktjT0ZNYS1aYVNaNEdTMHdDbkxSdWJwZi1SRWlLOG9GTXc?oc=5",
+"src": "Reuters",
+"title": "'My heart dropped: Relative of China's plane crash victim",
+"ts": 1793589428.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/02/les-limites-du-modele-espagnol-ou-la-croissance-economique-ne-beneficie-pas-a-tous_6804950_823448.html",
+"src": "Le Monde Politique",
+"title": "Les limites du modèle espagnol, où la croissance économique ne bénéficie pas à tous",
+"ts": 1793597111.0
 }
 ],
 "seen": {
@@ -3122,7 +3101,6 @@
 "CNN|CBMicEFVX3lxTE94Q0ZwTG42NUVlRHhyVVRTY1NLbUN1cURNdTlvYVpUdk9KV1dYeWFobU5FamxWV2dlOFlPTUpyeVpwMHJTSmZWeWFNYkM1Mmp0aTZndE9sU1Bqa1h0VUJxbHNFUDVHSFktU19lRVhCYXk": 1793534438.7941263,
 "CNN|CBMicEFVX3lxTE94TS1tRUtBZmFHX2Y4am5uMDFhcklNZ1NjWDdhVHU5YnpweVJyeGZZT1RDUHd0U2Z6NXlvaFdMbHlhVTBmQ2JJd0dzZ0o2MXBlOFdwajB0TFMxSkV1cG12bnJCRlBmU0NVVVBXb3Q5T2c": 1793050567.5286875,
 "CNN|CBMicEFVX3lxTE94YjhqRU1DbXJHNWV6a3NYTVN0MHk0OFllTHhURjJycjJkdklTZnFVd1JONGpXQ3phR3JqeXlFYnVOM0F3NjkycmpNakZwS2NXWkRoYkdCZFFqeWZ0UVdRdjJJQ3VHU05yVk1UTnZsSkw": 1793206843.939874,
-"CNN|CBMicEFVX3lxTE9EUXNERFlYbnRqNjBPZXBVUTg3Tk0tVUlPTVVCelBjN0d3RXBNeDhVaGRqOV9QYjkxNEdPZzdraGtqOEx2R3o3NUR2MU1vYlVRUS1uTlBpa2pFeExRTVJ3U1A1VUptRl9RVmlmOFJ3QUM": 1792992634.2696579,
 "CNN|CBMicEFVX3lxTE9PN2FEa0huVms1U3FadHhqVlRZT2IzOHZYT3pJeFE5MDRsMzBkcms2enBQOUlWS0hRTng1UEtVTUZnZmdFYS1Nalp6RS1TWUp5RHlvUVJiMG05VzlLWDJiVWE3OGZBMXZ5UUlzREJISDg": 1793542524.4567535,
 "CNN|CBMicEFVX3lxTE9PZWZwQTJ5ejBOX1Bva3ZvSDRCbDFjalM1ck5jT2kyeTJvNVJKT3Z2Q21DMjlZSFBUMUxzbDdEeFpKWHdiQlVrUTE5SURZdHFKNUhldjQ4VTYxc25jcUtOUFprQldvdTVSaXZrTDdpYTI": 1793049327.1593454,
 "CNN|CBMicEFVX3lxTE9WMjZfbm5VaDhzWmxxeG16ZnRMd0RHSFNDQmdhNmVWb1JqZ3NZNC1uS3JWWlVrdVB4M0xVeEY2Z0RTLUVPQ1NtWVBKRmxGZzFxem9aTjdRMkFZN2laNnBfWl9mcHVMZjhOUkpzb2Z5TTA": 1793232927.3653555,
@@ -4758,6 +4736,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/01/de-l-archive-au-theatre-quand-l-administration-francaise-se-confronte-a-son-passe-antisemite_6804517_823448.html": 1793549726.7061281,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html": 1793506526.155259,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/01/presidentielle-2027-remy-goubert-fondateur-des-jeunes-avec-hollande-veut-se-tenir-pret-a-un-retour_6804375_823448.html": 1793542524.4567535,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/02/les-limites-du-modele-espagnol-ou-la-croissance-economique-ne-beneficie-pas-a-tous_6804950_823448.html": 1793597434.9575198,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html": 1793007037.3187764,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-le-gouvernement-envisage-un-remplacement-de-parcoursup-d-ici-a-2028_6800604_823448.html": 1793027622.2548203,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html": 1793042126.6168418,
@@ -5091,6 +5070,7 @@
 "Reuters|CBMiZ0FVX3lxTE5MVzNiSzZEU002XzJjSVZmX0k5RU1ZQVFOX2FPMFFtSGRsSExMNWhUemVTUi1Cck9OeVhUVGdkVG82SGV2ck1SMG5RZmFoNUZWZXJPbi1EVE1ja2o0c2Jodmk4akpzQnM": 1793051125.8484197,
 "Reuters|CBMiZ0FVX3lxTE5NU2dyLUU2U3F0cGxOSVZPd0d1MWYzUHliV3pIRDgwT0xlb0lLV2hIUWdwczJKYXJ1Rk45YTRRNjdESldsVmktTEltLXBrOG1GWWZEaUtfLWhLcHhZVHhyUmpWNlJKbkU": 1793197835.728742,
 "Reuters|CBMiZ0FVX3lxTE5PQk5HZFpKeWFfNC03ZEtDSDN6OFVGQV9xUTluOENoR1NGcEJPQW5fQkFNcGRrODRFT1o0cmZiUXQwbkJwa3lMaW94UzBhbmRuMzZPcUJUbUJjR0xmV3JNdnFaUkFNVTg": 1793289645.0997171,
+"Reuters|CBMiZ0FVX3lxTE5PYTdSRG0tRXNsbVhhZENodVBVcnRyOFlrMG1jUlZJWW1xZzJENlZOSFowY0dQbUgxZmVwNUhQdWk4SHVNTktjT0ZNYS1aYVNaNEdTMHdDbkxSdWJwZi1SRWlLOG9GTXc": 1793597434.9575198,
 "Reuters|CBMiZ0FVX3lxTE5USVFaQklqVHVLSFh5emtOTXhQVzkybE5mNUtKZ0Fnb0c3a1pUMko3Z2ZjbGZwekF5TkNEMElVblJVamF2NEtBMGI4cjZJcXZRYzFyRlBBZGJYZndMWVJqWU1TRklodTg": 1793041244.0144668,
 "Reuters|CBMiZ0FVX3lxTE5UaGFmU0xqWEVRRU5uc3dUSjBuS1Z3WFdEc0FkWUxUSFJoVTJzVUtwSUdEUTNMd2RVTjdQa09UYXBOYlRmN1ZfTEFhOVl3ZzE1ZDRDRF9SUkVsRG41b2w5OXRpNXZoeE0": 1793460638.0693126,
 "Reuters|CBMiZ0FVX3lxTE5VNzMySW9FeW5oSF9YdDR5QVI1Y3VYeDBXZW11REZxVHk2eTlHSXU4OGd5OXhSMmx0MXAwbnFVQ1BtelVrOU9FS3F3d1dRYVlLVklEYWVWNl8xcHlXbGpXNjZrWFlSUG8": 1793115035.7537491,
@@ -5494,7 +5474,6 @@
 "Reuters|CBMilgFBVV95cUxNbXF4WUotbDExQ2NtSmFYbGpIdGFjbE9NbXp1OFhXYXlmTVF2b1R1RlEwWENxUUItbEJ0aTFTN2o0VGJpaGloMVVOR2tUV1JOZnhUOTFSSVZSZVlnOHpNczJJLVo1SEdZZlJpS3BMcVFvU0JjTkdyR3BRSGhjeGVIeGxuZ0d2V3B3eGNfdVhoa3ozSEEtY1E": 1793151031.1450777,
 "Reuters|CBMilgFBVV95cUxOMjBtdVRpS0xYUmdvemIyandlaUFreF9NbHF6aTV4ZktGTXdlaW93QXZPN1ZzS1hPWEFvMl9Ha1llM2tVNXZxeUhmQ0NTOFFzdkNOOHZnLUxoQjVfVDBvSWtDcEhsb21PbWxkQkE5T082UGNFdE1sR0hJSng1ajhROWtUa2ZRVV9YZnluSHVIdHE0Qllvd2c": 1793213543.261704,
 "Reuters|CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc": 1793269836.5959818,
-"Reuters|CBMilgFBVV95cUxOc2dXNDVrMUktNjNXZ3Jac0pnN2EtQjNhLUlxZWtRZlNMelpPc2FjaDFveTJWdnB0VUJhMk13WjMwTnd1dV9PQWhrbzdCa2hxWGVnRUE2NDdESk5vSzhHN29aUzBmb0hTMDVLcC1lSFVJcFZlcWlOV013djd3N2RJQ0g4WVJ2OWlXYXhHcXphdWJ3a0loS3c": 1792992634.2696579,
 "Reuters|CBMilgFBVV95cUxPQ0xKN3NiZXBfNy0zVk1OU3RLVmdydXhXVERkQ0JZMEpEMUxTWVJXY2lqaUo3MmJXblNqYXBmY2xGUTFmaDdEb0VGeGwxbG1RS3FRSFhaeHRTeVkzOEhWWE94cEhVLWhKQXdZeFVxdHUxTnRZa09rLVJBYTA2TFlqQWphZ2ZzU1N4Y1gyOXZZeVZfTXlRcXc": 1793019644.3332078,
 "Reuters|CBMilgFBVV95cUxPTnhCY1VMRkprd0RrbnBhOHdEX0VUa3A3SmoteHFpa3NmbjM3RWczY28xV0xxbWJKeHpLd2ZwU05GUVdINmFUd1UtdWNIeTlPR2M5LUY5NkpoYU9fOVYxNG9xSUkwemJwMWM3ZUVUQXJLSjl3NXJfVkYtQlBVdWdvclNnOEdMZThtU1Q4VFdyc3ltMUV0MUE": 1793157328.411098,
 "Reuters|CBMilgFBVV95cUxPVTBpLUY1alI4NkxKa0dJeFhnZnNfa0Nka20zb09BaGJlVzNHb3VnZzc1cE9wNUQ4amd2cWlvZGRxaDFkenRkM1lVZW5saTdOTlp4THdEX1RMaTRsYWNzM3N2anNETzB0SDA2Y0F1SDFpbVRXWC1FeUl3MEVuWGxpbl8xS19wa3REZno5a2hDT1IwbDNJdmc": 1793485834.7933428,
@@ -6055,7 +6034,6 @@
 "Reuters|CBMiuwFBVV95cUxQRGJjWTFGMk9ycWp1UHQwZWwtZWVkU25QRmg2NzVIVkpUdXhvR3dtTjNtY3FCSkJacUtkbE9vOGItMlRtaGduTm83Y1lkOUtOT09SanAxOWhQd2IzTGRpYmpIUVhhcmV4YmtvR3A4VFJ1dEJscVVHYVl1QzJRYkVzLTBXRXI0WkFyaHlKUVhEbDZIdFhLT1VaUzhiNEJsX1B2bU85MHVtdkhhWmUzbTZOMWFMRnJuNVBnUnRv": 1793061926.1457267,
 "Reuters|CBMiuwFBVV95cUxQRHVxXzA4M2wxVFRneXd5WXJzbngzUEI4Nl91SEYwQ2oyRENxZi1nYl9nZWM5Q2d3aTJjckpuNjRPZlV5ejFsV051VDRsc204WTBDbHRxZWgzY3FWeGpDeHdRTUM4N29pUHJGSjFSQWlpV3FmSllMOVY0S3VxbzItRWc0VUItdUUzcEpiQk5ROC1zOFo1eW9tZ1Q4QkktRmlrX3FDRzMxek1MVFFIX3Qxby1yQnBnR054MnVN": 1793310325.5193777,
 "Reuters|CBMiuwFBVV95cUxQTEtuNmVtOHJMcjZLQm9QNkx0TFhmQXU2MFk4b0pnRFpyczR1TkNrWjFEcmRtV3o4bUVNazluakVCNEJhN3dxNXFBLWZ6dHBzTl9mUTRxR0tBR1h3ZS1DTElSZDR6OWJYTzdveFRLM0F3NHU3UUtPa2Q1Y2N2VlJDZ2ptVGFjQ0hURDkzTW1aU1NVdW5PQUZSdDQ3bW01RWQ1dWFwQ2JmazN2Y0lzVUZyLVZEamZPQnI2QVJN": 1793133927.9900343,
-"Reuters|CBMiuwFBVV95cUxQVXpULV9fUktZbnM0SlNnU1prS1RjMmp2b1FfakpycmpYU2pwelRVOWxsZTFVY1I5bUE3Wm82S1I4WG1kZHBIcExkeWhlRlV5Yjc2OWJnMDZDbnFSNnhLV3FlNUFBUnhxaDJ5b1ZjRVgwUHE1ZUVIYWwyNWdNR3J2ajMwWGlsTGRaX0tGOGFnOVE4ZVd3VGU3cEFmTGRGQWpyaDZjQ0hySnpaN2Nlc2hOR1VUT1VJYXBJSW4w": 1792992634.2696579,
 "Reuters|CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ": 1793054725.2944863,
 "Reuters|CBMiuwFBVV95cUxQcHBRckFsU2Y0QkxqVW8zMXlNcXNpQkVNbkE3Um1jQ0puZWxTNGJWbkMxUDcyVjM0OEtxdFpqY3c1ZEk0dC1iYTFzS1dpQ2RtQVUxa0VqdEFSYnYtMVZud1A0enZ0Rmttd29DR0oxZXN5WnJaWk5jSWpKWmJldGVIYnQ2TjJnSjVGLWR3YmlZajR0bFhmMVFaVnYxU0p3WjRXT1JoUk9yN05aYjFvTFk1Y0phOUZ6X2pILXdR": 1793037644.512973,
 "Reuters|CBMivAFBVV95cUxNQkp4Nmp2NmJtYm90dmZfX0FUQTczcUZQNzVsa2pva1BMRjhocG50X2ktZVBjMTJUbTNJNEc5cTlYZUhLaWV3NXdJWUR6RFowR0pPR3FTdzZwSHcwT1k0bVhLa2dMSm11T3JVbEw4TXFNQkFOMEwtaHNPMnl1RDJCS19WaFpBMUxZVTlqUWhCc293YjFfY1dDU2ZfLXBqNmlRVk0wYkladjR4Ty16LXo5R2tsb21BSkltUzF1eQ": 1793229326.9620984,
