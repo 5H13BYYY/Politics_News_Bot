@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/02/les-limites-du-modele-espagnol-ou-la-croissance-economique-ne-beneficie-pas-a-tous_6804950_823448.html",
-"src": "Le Monde Politique",
-"title": "Les limites du modèle espagnol, où la croissance économique ne bénéficie pas à tous",
-"ts": 1793597111.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUJSbjhDcnRlUlZIU3M3clBpWnNTWGFWSzJaZFhUVnprRWtfU0RTSml4RWNTeGo4U2wtZHp3ZWRmNGpRQWVhekF4RTUwZW0xREsxTy1BZVBSVWZGY0hqelpsTFFoQWh1cWZvRnhfZ0RoVjlrQnZrcC1rWkQ1SENiajBBRzJ1LTE3S2stLWM2WktoU2c?oc=5",
 "src": "Reuters",
@@ -41,13 +34,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2026 : l’exécutif, acteur en première ligne de la campagne",
 "ts": 1793598496.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MDgxSkFiX0pES1NKdmxDTXdlcno2SDJBOGR0LVNVSWtDR01MLUhjRE0zZ0ZtY2QwYnpxUUI3eGFmV0R2UWF2bS1UNmdPRDFmMS1QMjJXTnlyOHBN?oc=5",
-"src": "Reuters",
-"title": "BTS 'emotional beyond words' for live concerts in LA",
-"ts": 1793596688.0
 },
 {
 "lang": "en",
@@ -5270,6 +5256,69 @@
 "src": "CNN",
 "title": "Acton says controversial ad featuring her estranged mother ‘crossed the line’",
 "ts": 1793724900.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-%C3%A9tats-unis-le-pr%C3%A9sident-trump-coupe-l-aide-annuelle-pour-la-s%C3%A9curit%C3%A9-d-isra%C3%ABl",
+"src": "France 24",
+"title": "États-Unis : le président Trump coupe l'aide annuelle pour la sécurité d'Israël",
+"ts": 1793725330.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+"ts": 1793725442.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-pologne-le-premier-ministre-donald-tusk-affirme-avoir-d%C3%A9jou%C3%A9-une-possible-provocation",
+"src": "France 24",
+"title": "Pologne : le Premier ministre Donald Tusk affirme avoir déjoué une possible provocation",
+"ts": 1793725467.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-le-d%C3%A9mocrate-james-talarico-remet-en-p%C3%A9ril-33-ann%C3%A9es-d-h%C3%A9g%C3%A9monie-r%C3%A9publicaine-au-texas",
+"src": "France 24",
+"title": "Midterms : le démocrate James Talarico remet en péril 33 années d'hégémonie républicaine au Texas",
+"ts": 1793725614.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-france-des-lyc%C3%A9es-continuent-de-se-mobiliser-avant-le-rassemblement-du-5-novembre",
+"src": "France 24",
+"title": "France : des lycées continuent de se mobiliser avant le rassemblement du 5 novembre",
+"ts": 1793725819.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-les-votants-continuent-de-d%C3%A9filer-au-michigan-un-%C3%A9tat-cl%C3%A9-de-ces-%C3%A9lections",
+"src": "France 24",
+"title": "Midterms : les votants continuent de défiler au Michigan, un État clé de ces élections",
+"ts": 1793726037.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-guerre-en-ukraine-l-un-des-plus-grands-massacres-perp%C3%A9tr%C3%A9s-par-les-russes",
+"src": "France 24",
+"title": "Guerre en Ukraine : \"l'un des plus grands massacres perpétrés par les Russes\"",
+"ts": 1793726171.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261103-midterms-la-politique-climaticide-de-donald-trump",
+"src": "France 24",
+"title": "Midterms: La politique climaticide de Donald Trump",
+"ts": 1793726296.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/asie-pacifique/20261103-indon%C3%A9sie-incendies-for%C3%AAt-attisent-col%C3%A8re-%C3%A9tudiants",
+"src": "France 24",
+"title": "En Indonésie, les incendies de forêt attisent la colère des étudiants",
+"ts": 1793726898.0
 }
 ],
 "seen": {
@@ -5371,6 +5420,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo#1": 1793293248.1022131,
 "BBC|https://www.bbc.co.uk/news/articles/cr86zn9lj8p1o#0": 1793617241.5648005,
 "BBC|https://www.bbc.co.uk/news/articles/cr86zn9lj8p1o#1": 1793643328.428524,
+"BBC|https://www.bbc.co.uk/news/articles/cr89znnnn7dno#0": 1793727041.1358614,
 "BBC|https://www.bbc.co.uk/news/articles/cred3xnj0j0qo#2": 1793517326.0999315,
 "BBC|https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o#2": 1793517326.0999315,
 "BBC|https://www.bbc.co.uk/news/articles/cv369266644lo#0": 1793502924.544295,
@@ -5792,7 +5842,6 @@
 "CNN|CBMid0FVX3lxTE9majVUUG80X1R1WWhoZE53ck55NHdwVFlQQmlHM2tmOEZPaE44bW5MUnlIRlQ5cm44czhnMnlZelBRVUtTWE1XeUwtNkNERXdsdUdrN3JSZVR6SmJwS29sR1FhRFpnS1hhWm9pNGYzNjNlVTI5Uno0": 1793723443.2535517,
 "CNN|CBMid0FVX3lxTE9nM0NfOVBNcHJEQ2F0SWhxSEtnSE9nc1JrVHZpLWdRRzNhdWxSNGo3V2MzcXBkSmhhX3JoNEcxd1hUbjJxZ25BVXhiSWFTTnd1ai1nM1VuQk42YnZqQzY3T05yaVpQcjI1MFhib20ydEtuLXB0OXE0": 1793159127.8097918,
 "CNN|CBMid0FVX3lxTFBHdlQ1MnNlUFlhSHdDZDEwckJxTlhRTjNhS0tkOGFWSFhIMzNoR2JSa2o3S0NVUXlYbDJpaGN5cXJpQldRakllYUVJRUppR04takRiSkhlRWN2UzF2Zk1PcTB0b05Ndm1jenNURkRwbU8welNOUTJ3": 1793434525.861017,
-"CNN|CBMid0FVX3lxTFBjaHNLckswSmxNTnh5Mms4a0hSSm95aFd3Yld1d1hwd2RwS3ZPdEpoSE5hQ21PWWhZYzNveVhuQVd2cF9rcHVFa0xXQ3R4blJWMUEzZzFlSVl3ZjFLSTY0V0w5U0M3dWZJODk4VkVOM3BwdGEybWRj": 1793122233.7589803,
 "CNN|CBMidEFVX3lxTE12MnlxZ3pURmlnVVI2V0tqMHdrdVFCdkxOaENRaVBOOUJhUlZOcjRDQVZFMUE3M1o1NWEwa0VoQndadi1wSGVRQWhMYU1tb3BRYkhGZERGbElKckNfNVdhY0VLeExUSkNESnpMWTRjSWhPMnNa": 1793686526.0952282,
 "CNN|CBMidEFVX3lxTE1EQ2YyUU1uNFloUHM2VEZlSjRSOUZfRVVUVjRFMU9PZ3ZlZzVmWHg4OG9TZG1BZXZ1N3VXYjlXaDlFLXlWQ2I4cS1BS1M1UWJKTkpCcUhHNVY3X2ZJNTVySHdxdG00U18xVXQ5eXNwdDhieFlW": 1793582127.0193841,
 "CNN|CBMidEFVX3lxTE1RczdGUDBXbEl2OFoycEdoRkxzUEg3Q3J6ZmZlMUtBSlhoTEFYREN0dXpRYnhLX1pweklDZXB3elhTd1pxaFFOUFNsNVQxZXhkeFhPTVB4eVVvVzRuSUFULTRDRnlxMXZBd2NBb3pQenN3ellO": 1793291433.3120944,
@@ -6934,6 +6983,7 @@
 "France 24|3caca204-d782-11f1-a2e2-9523b59e1c4d": 1793709929.9023352,
 "France 24|3d6a6514-d791-11f1-ac26-ab3e073f6115": 1793717127.3495593,
 "France 24|3f370e40-d2e3-11f1-abd7-c9602b7410e5": 1793202327.6191547,
+"France 24|3f4af714-d7a4-11f1-b825-a5e4708eead9": 1793727041.1358614,
 "France 24|3f6470ec-d446-11f1-abab-7b2056467743": 1793357129.6771312,
 "France 24|408006e0-d517-11f1-b975-fb834c8cec9a": 1793443524.5915592,
 "France 24|40c1ba88-d6cd-11f1-a07c-378459da7393": 1793636127.2263277,
@@ -6967,9 +7017,9 @@
 "France 24|53ad7784-d247-11f1-8ada-1742c69f8238": 1793134884.6105387,
 "France 24|53ed0fb4-d6a9-11f1-9d5d-5b156c96edd5": 1793618125.0615885,
 "France 24|53feb56e-d76e-11f1-ac75-c51d2d52e94e": 1793702730.0036893,
-"France 24|546dc978-d222-11f1-9217-9555626c88b7": 1793122233.7589803,
 "France 24|54c370fe-d799-11f1-b339-75ee7c97a0de": 1793720728.3320498,
 "France 24|5572708a-d2e0-11f1-a052-4bbbb9e73899": 1793207729.6428788,
+"France 24|56328546-d6dc-11f1-91e4-df2afd842f19": 1793727041.1358614,
 "France 24|5810c3ec-d3b1-11f1-97b9-11e2cd01751e": 1793293248.1022131,
 "France 24|58884b92-d6e5-11f1-a8f0-3b1c331fe6a2": 1793642444.313418,
 "France 24|58cfdf8e-d3a2-11f1-a422-9b10cc43e95d": 1793285131.2230716,
@@ -7004,9 +7054,11 @@
 "France 24|64291f7c-cd34-11f1-99d7-21e9f5fe4df1": 1793529926.4942899,
 "France 24|642f28d2-d2bf-11f1-8ca0-fb99d0453ab6": 1793188844.5736964,
 "France 24|6431cf10-d607-11f1-8bb1-b5c4ee0aeeda": 1793549726.7061281,
+"France 24|64d9367c-d7a3-11f1-92c2-4307ec9c2d2e": 1793727041.1358614,
 "France 24|6648e0ec-d6e6-11f1-a948-63c2d5179574": 1793644244.597184,
 "France 24|6675c112-d6b3-11f1-b51f-4f82dafd661b": 1793624442.8175824,
 "France 24|694f9b6a-d244-11f1-be94-bfe700c86e88": 1793139326.6185064,
+"France 24|6a7005f6-d7a4-11f1-bb4c-736a56f79a0f": 1793727041.1358614,
 "France 24|6a7e2652-d6d9-11f1-b130-83ddb919b0cb": 1793638851.5526173,
 "France 24|6b0ec704-d3b2-11f1-86ca-2d091cb87c56": 1793451640.7227004,
 "France 24|6bfc5630-d697-11f1-9306-e71028b6d5b0": 1793610929.9512153,
@@ -7067,6 +7119,7 @@
 "France 24|8cb52c5a-d3b6-11f1-9f6d-479bd288eb13": 1793293248.1022131,
 "France 24|8df7a566-d6cc-11f1-9497-59822487f123": 1793634326.1730483,
 "France 24|8e26b9ec-d766-11f1-a38f-c97bdab55723": 1793700041.3510172,
+"France 24|8f140b04-d7aa-11f1-950f-2d5dc2d65c51": 1793727041.1358614,
 "France 24|8f3590fc-d30f-11f1-9209-61f0cc0d8232": 1793227530.4269037,
 "France 24|8f41129c-d78d-11f1-bb87-111b0f4613fb": 1793717127.3495593,
 "France 24|8fa1397a-d2af-11f1-83ab-61dacfb7af29": 1793184327.9725888,
@@ -7162,6 +7215,7 @@
 "France 24|c3fbb900-d6fd-11f1-9b8c-379ae1aa5cd7": 1793655039.841677,
 "France 24|c3ff28e2-d6ee-11f1-8f0b-c9ca1f646c27": 1793653240.2670069,
 "France 24|c47f475c-d617-11f1-a331-d72ec57f61a2": 1793554235.4032507,
+"France 24|c5139b24-d7a6-11f1-bd69-ed9ae84b2863": 1793727041.1358614,
 "France 24|c5821de4-d2ea-11f1-9f84-0dbf87b25445": 1793206843.939874,
 "France 24|c7179374-d384-11f1-b020-0f5f1d9200e2": 1793272529.3505046,
 "France 24|c81674a6-d380-11f1-8399-bdabbba598e7": 1793269836.5959818,
@@ -7198,6 +7252,7 @@
 "France 24|daec686e-d5ed-11f1-a270-3dd283bcaea7": 1793537125.055282,
 "France 24|dc1e72c6-d5ee-11f1-9571-99499b9e3e32": 1793537125.055282,
 "France 24|ddc9f536-d603-11f1-92e3-a34993a3d519": 1793553327.12138,
+"France 24|dddbe15e-d7a4-11f1-8d26-a991114c00a6": 1793727041.1358614,
 "France 24|de578acc-d478-11f1-8a6a-112e65bfcfcb": 1793376925.3028862,
 "France 24|debe0eaa-d58b-11f1-b839-65d940ebeffa": 1793495726.8258317,
 "France 24|e056a546-d78f-11f1-8793-0b2a47a6dd19": 1793717127.3495593,
@@ -7245,6 +7300,7 @@
 "France 24|f4376bc8-d77a-11f1-a795-4d6905bc8964": 1793709036.18167,
 "France 24|f489cb9c-d799-11f1-91e4-232d898edff6": 1793720728.3320498,
 "France 24|f4bcdad2-d3bb-11f1-b86b-f16126079592": 1793298636.3125336,
+"France 24|f4d7351a-d7a5-11f1-8e06-1972af607453": 1793727041.1358614,
 "France 24|f51b569c-d3f3-11f1-88ed-ede80464d17f": 1793319327.9753833,
 "France 24|f6154dc2-d5e8-11f1-954e-ab3dc4a179d8": 1793538926.5091648,
 "France 24|f6434316-d562-11f1-a0a9-853b94749f70": 1793495726.8258317,
@@ -7253,6 +7309,7 @@
 "France 24|f8bd5948-d6d8-11f1-aada-0b28fff0942f": 1793638851.5526173,
 "France 24|f8e60c70-d788-11f1-bf4b-359d460adb9f": 1793715332.5803595,
 "France 24|f97415f6-d760-11f1-85fa-4971318d553f": 1793695200.8544173,
+"France 24|fa2e3ab0-d79e-11f1-92db-b16583d47fb6": 1793727041.1358614,
 "France 24|fa4f8026-d2c6-11f1-a31b-093910d4e979": 1793190635.6630328,
 "France 24|fa5d0fea-d6a7-11f1-91da-2f9b67ba4c1e": 1793618125.0615885,
 "France 24|fa66aaac-d5ce-11f1-8481-33feafab42c2": 1793524525.8516872,
@@ -7316,7 +7373,6 @@
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html": 1793131238.1148856,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html": 1793122233.7589803,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html": 1793129432.5301433,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html": 1793131238.1148856,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html": 1793126729.8237443,
@@ -7468,6 +7524,7 @@
 "Reuters|CBMiREFVX3lxTFA1aWlfTHBOUUVBVXg1Y2RNZXRGMHA1Z2kybE9wSHlsc244YUFYcEdYNG91bkVCWWpXbV9RWVAwZl94ODhy": 1793123126.183316,
 "Reuters|CBMiTkFVX3lxTE56SkRhOTZreU9LRHdvbGdqaFdTZUlBRjJxeFdxSnMybThCaG1SODRyTVVpYjJZQ1ZXNkZmYXVzbFhXOGNacjlsc014ZlRIdw": 1793696442.946826,
 "Reuters|CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs": 1793250042.4369838,
+"Reuters|CBMiUEFVX3lxTE9VRjEyQlBqSzFybXpKR3pNQU16TXhZMFFrR1I3clpjYUxlLXFkcFVXM1dpamtVNUZEZ09Sd0c4NDNFcTgtd19VTWNOdzltV3RV": 1793727041.1358614,
 "Reuters|CBMiV0FVX3lxTE5aWHI0UDdlbjJXR2NTLUVzSkFLVFJoWVFxRE5aSUpzSjVfOVRMa2xzajk1b1Y1LXd1ODRFUXlOdG5iVmFkdVFyMzhUUHdRMDRDNmVEa3R2dw": 1793169924.5693123,
 "Reuters|CBMiVkFVX3lxTE1uU09fUFA4bmRIUVNkSzVMcDJwbU1SRzlfS1FVa3JaRWpsck45eTBiM2EzaVl2STc0NTdQdk9RMlE4X29FMXVFSTk1OGJoSW9CMkpSZkhR": 1793502039.031816,
 "Reuters|CBMiW0FVX3lxTE9GeV8zdG1pbEg2STM3eTlnZ3dkeklwYlVPd0M4SlY5TXVXTElDYmozbmNhZHBfUnktZERyUDZ2c2lxOTBMbjQ0ck1mLUpRenFlNmhtVko0aXVpYW8": 1793592926.6184332,
@@ -7873,7 +7930,6 @@
 "Reuters|CBMiZ0FVX3lxTE5mZi1ZMi1rcS1vcTJuMEFhN1J5a2tHRy1qMXhDMTltcTdKUFdSazZNalFmNmZGMFBPbklVXzVMc2ZEV3RFVm1TNG1xOHZVQnJtbVU2Xy1WUG9SdlBSVXB0Q1RIeGt5M2s": 1793345432.5096297,
 "Reuters|CBMiZ0FVX3lxTE5nV0ZzUGY5MGRkamxMZEt4bzQ5dzd1aVpLazFkd2dLMGE0MHBUUmU5ZkhFcTRneG5pSVdKVE9XbnlGbXExYUFQOUF0QzFSS0tFMWpHVFdNTUtjMmplbnk4WmJIcktwZ0E": 1793595640.5525115,
 "Reuters|CBMiZ0FVX3lxTE5neVJ6MU53Q2JZMm44MWJsaVF3TFY1TWNoVUlHSzVMdTlDUkZmQnNYbGZoWmJnQWo2cTA1TlhSRVRCZ1JTdlljZ0wyMFY4NGJ1bXlXaHZZU2ljVXM5TmNocEVhWXRsOWM": 1793310325.5193777,
-"Reuters|CBMiZ0FVX3lxTE5rek1xSThQYkp5N2ZqY0VDRkY1WHE4NzNESF9lZXQyVzA5U3pmdGNpZlM0a25JTVRlOWdBN0ktUXN5Q2xZa0NqRnRIVm1LV3NhR1VyVXZ0b2x6TnVfTkc3NGRwNng2cFU": 1793122233.7589803,
 "Reuters|CBMiZ0FVX3lxTE5sMG1PbG5xRkpNcEpBNkl2dnVkU1RRT1NudWh3b0loZHJNWmhxZ3RfSTNxYVVKLXRydGxUSG9ITkJad1ZjYWltNW5rZ1k5MzlPRXgzQnJ2VUZVSjRpTzd2MVpYQ2Ffdzg": 1793171726.2240021,
 "Reuters|CBMiZ0FVX3lxTE5uaUIyUW9HSmFxTnp1a3FMdi1BUXdkeUtlYThwaVVmd3FaUFpDNzFZbzF6MjNfSll2eTdzRlluOEwyZzBEcHkwQnEwMzdycTJBZF9LY1dFWHdBa0xRZnpyWE83MGlwYUk": 1793245524.986033,
 "Reuters|CBMiZ0FVX3lxTE5vQXk4RXhDSkJlLXhhR3BpUEl3QkVBQmk1Tjg0M2t2b0E5dHFnOWEwTjdncHRBUHJGMmd5cnlUVmdWWmUwMUtJY0FOdXhiTzdTYU5GWkFzWl9maXl4dVk2T1JndlRNRkk": 1793220336.2652586,
