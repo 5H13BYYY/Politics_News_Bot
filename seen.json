@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTcWQ5OXN3NllJNlVibFNZdm95OURiTUxLVThOdHhwQ2RfdmlSRHRYV1F1QlpXZVFTSjVGaTNaZFFUVlcwd1hWVmVQU2NhcXFLS2ZTd0R4aDJqbVZtRklidXR2X1J3V1FlWDNr?oc=5",
-"src": "CNN",
-"title": "Authorities investigating after plane crashes in Palm Beach County, Florida",
-"ts": 1793565068.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
-"src": "France 24",
-"title": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
-"ts": 1793565314.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pM0ZaY1ktVkp6M1VMSXpsY1otczVFeDU5SW9OX0FGR3JHMWxKbVpJMjRyNUM2djJoY0JrZEt2Vlk4bnRWTzBwS3dlU2NkVENNaFFBcGNMblBIekpIbU0yNzZnV2s0UHowa011VDEzVHU?oc=5",
-"src": "CNN",
-"title": "Authorities investigating after plane crashes in Palm Beach County, Florida",
-"ts": 1793565068.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWk45dTNpblBnd0dqeDdndHViaXlOdDE4TERWaW9zdVdYNUFzX19tVGc4R05UUTB1WDR5S3ZzaHd1R0dVVmZENmt1VjVNWHE4OWhNZGxxM0ZSMUVadjdNSE5oTjU1Y2c?oc=5",
 "src": "Reuters",
 "title": "Man crashes car near U.S. Capitol before suicide",
@@ -174,13 +153,6 @@
 "src": "Reuters",
 "title": "COMMENTARY: India's booming growth has an earnings problem",
 "ts": 1793574755.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qYURRN0tIX0xtRnRpN2pZRnZIS0RnMVdOZTFGdm1HcTZ0b1pXcVo2XzF0TmFDM2ExSGItaTJUVU5uTHUwWEZyNVkzajl3cTUtSkozRXRFWGd5NEdVN0VJVzRzbm9TS0dXV1E?oc=5",
-"src": "CNN",
-"title": "Authorities investigating after plane crashes in Palm Beach County, Florida",
-"ts": 1793565068.0
 },
 {
 "lang": "en",
@@ -335,13 +307,6 @@
 "src": "CNN",
 "title": "Maine Democrats attempt to unseat Susan Collins",
 "ts": 1793581860.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GemN5RV8xVVBTekNoR1J2eWVSb0R2ZjVkeDdXWW5WVENuaEVVbFZlZGpRaG13TFp3UUdHWEYyODRCWXhpMlc3VnloUklmUHpJS0N3VzM2R1lIaGptTWxRX0N1ZGFEV29rZXBZRWhpM3h0dw?oc=5",
-"src": "CNN",
-"title": "9 killed after a Learjet crashes and erupts into flames in Pam Beach County, Florida",
-"ts": 1793565068.0
 },
 {
 "lang": "en",
@@ -4514,6 +4479,13 @@
 "src": "CNN",
 "title": "Voter polls",
 "ts": 1793691364.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqTEdrc09MUzJlSlZFWU1oaWhxRGx0VVktNTJ5cHl5UG9JbnMzSjY5ZmV0MWpjUy1hLXJJaUJRZE5kRmZudnFIUWZTTHRna1Y0ajVnOGx3MjdHRVVjVjFOTEJoazhhenM?oc=5",
+"src": "Reuters",
+"title": "Netflix's 'Black Doves' returns with humor, heart and moral chaos",
+"ts": 1793689349.0
 }
 ],
 "seen": {
@@ -6447,6 +6419,7 @@
 "France 24|f78476ee-d474-11f1-9a92-797251aabbcc": 1793375126.1995485,
 "France 24|f802828a-d368-11f1-8645-2186fd7ead04": 1793264439.3501782,
 "France 24|f8bd5948-d6d8-11f1-aada-0b28fff0942f": 1793638851.5526173,
+"France 24|f97415f6-d760-11f1-85fa-4971318d553f": 1793695200.8544173,
 "France 24|fa4f8026-d2c6-11f1-a31b-093910d4e979": 1793190635.6630328,
 "France 24|fa5b390a-d223-11f1-b8a4-8ba53fb44a3c": 1793120441.5226345,
 "France 24|fa5d0fea-d6a7-11f1-91da-2f9b67ba4c1e": 1793618125.0615885,
@@ -7181,6 +7154,7 @@
 "Reuters|CBMiZ0FVX3lxTFBka3JBcG5IWXFCbFlYX01jTmsweF96d09sZWd1WXRPM1NSVjFXV2p4dEk4V29EejQyWW5kNG9oSkJWcGhUVURWT0t2UEdkN1N6TWdvWjBMNGxQQ1F2VGdMeUhFTm5uU2c": 1793342727.4364471,
 "Reuters|CBMiZ0FVX3lxTFBoOFNqSzZubTZFWXVkS1k1N2cxTVNrRmxTUXh0S0FGMXo2enFmOGgyeVpBR05iMU0yd194d3NlSDBBbUFpSXFlUnVrVzZRNEt6NjRaWjlPMTJ0YkhfM3Ffd2lzR0FxSVU": 1793615435.0154443,
 "Reuters|CBMiZ0FVX3lxTFBpZk1PV29xak1fQi1uRkgtYlFuN2VtSFBrRDRiUTFVVUZtN3JRQ1Mxa291Mnpick1IRkNrQk1GMlRpdGZIbEJhbVZCMGVsZnpjbmhabUVjNDViYkV6TlhURWJYaVd2NjA": 1793180726.180431,
+"Reuters|CBMiZ0FVX3lxTFBqTEdrc09MUzJlSlZFWU1oaWhxRGx0VVktNTJ5cHl5UG9JbnMzSjY5ZmV0MWpjUy1hLXJJaUJRZE5kRmZudnFIUWZTTHRna1Y0ajVnOGx3MjdHRVVjVjFOTEJoazhhenM": 1793695200.8544173,
 "Reuters|CBMiZ0FVX3lxTFBsRHNNVDZDNTQ0dG9BS080ZE9ycFRNVHZMbHJwZDZkZlFIbG1FQmtFbFJ6bWlZN1pBU0RlMzlod29HVWVDRmRxdG5NMUxxZDN4RUpLNHJCN2NqZjM4NDI5M3hIRng1OXM": 1793577640.0725448,
 "Reuters|CBMiZ0FVX3lxTFBtWk45dTNpblBnd0dqeDdndHViaXlOdDE4TERWaW9zdVdYNUFzX19tVGc4R05UUTB1WDR5S3ZzaHd1R0dVVmZENmt1VjVNWHE4OWhNZGxxM0ZSMUVadjdNSE5oTjU1Y2c": 1793567727.2672374,
 "Reuters|CBMiZ0FVX3lxTFBuVnNQbk41WWppbVRhUnBVdzhkajV3clVLdFNSUjROd1A4RmR3MFNjejJjbEdkTTVtZVYta0VsUFh6MXRTT3RJa2lUaC1taTdiazdLYmtHaUtFZjJEQXZTcHV5TmZhRjQ": 1793201438.0148408,
