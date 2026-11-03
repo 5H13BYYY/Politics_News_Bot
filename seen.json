@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261101-midterms-aux-%C3%A9tats-unis-le-co%C3%BBt-de-la-vie-au-c%C5%93ur-du-d%C3%A9bat",
-"src": "France 24",
-"title": "Midterms aux États-Unis : le coût de la vie au cœur du débat",
-"ts": 1793549049.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
-"ts": 1793549299.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-midterms-aux-%C3%A9tats-unis-trump-a-d%C3%A9cid%C3%A9-d-en-faire-un-r%C3%A9f%C3%A9rendum",
 "src": "France 24",
 "title": "Midterms aux États-Unis : \"Trump a décidé d'en faire un référendum\"",
@@ -4605,6 +4591,27 @@
 "src": "CNN",
 "title": "A real-time read on key races",
 "ts": 1793677608.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
+"src": "Le Monde Politique",
+"title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
+"ts": 1793678424.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html",
+"src": "Le Monde Politique",
+"title": "ENQUETE Maintien de l’ordre : un mois de blessures graves en manifestation",
+"ts": 1793678449.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html",
+"src": "Le Monde Politique",
+"title": "A Paris, les « trottoirs Vuitton » électrisent le débat sur le financement de l’espace public",
+"ts": 1793678453.0
 }
 ],
 "seen": {
@@ -5105,7 +5112,6 @@
 "CNN|CBMie0FVX3lxTE1DeGliZ2Nla20yVjM2aEVJcHlsWWJjWW5ja2o2SHpCV0habTFnUUJOYzh1WHktbll6UHY2UVpmZHlhelpQTFp0dENZN1VUSmQ3emdpUU1sTjVCaElob3hwT3A1NjQ1cFBMU1AtQzFVSklGOU9QcGxqQi1pYw": 1793618125.0615885,
 "CNN|CBMie0FVX3lxTE1GQThlb01rUW0zRmR5Q052Z2FXZkh3QlNucnFJTXhESFFYWGpyTWNvWGZ5ZUxpYjl4MXdXemtHNzA5VENfVWxGc3FHZ0ttdFNOMEJZRUF6WU8wQTlycEtqLUZoZE9JRFZ6a1Q0VHNYcFh6Qy1jTTYzYjgxOA": 1793338233.5984216,
 "CNN|CBMie0FVX3lxTE1PdUZRaUs0dmxXQVF0LXhUVm9GeXpZWXFuTXR0WHlQMDA4SThWVXQzZ2ZtZEdPS3ZJSmhBNklPc29SV0lRalVIT0RZdFVZRGhna091dFJ4Y3J6QWN1M1Zpelp5QlZyQ0N5S21SR25yaG93dWMwa29RNzlucw": 1793090729.0474913,
-"CNN|CBMie0FVX3lxTE1sUExMRGdXZTBpdEdEa08xZ2pfQU81TDJOa18xVUpiR2VyWkEyTGZXcUJDcmVVbHNPNjQtZW9RODVXQkxsQ1Zxekl1RjhGSnVpS1hEdk4tM01oNEEyTEZjLVVKb3VmalpWMnA4N1I0anhiTnpMdVloWU0tWQ": 1793074528.1118133,
 "CNN|CBMie0FVX3lxTE45OUN6ZDdmUW5mWm8tNGpnYWtYM2lGV283R1VXQVY3Z1VwMlNYWW5rcUMwY01UWmNwdnc4T0NSZkdwQWdCSUFJemRtNmRlOFBrSDRibV9KcjRZck81b3B6M1hUcGl0c3BXUVZvOGNBNnJGOUkxU1lBTDQwbw": 1793203249.0614064,
 "CNN|CBMie0FVX3lxTE5jLXJTOC1CZVRoc3FWWVRXVmJ6ZVVfd0pUM2x5bUlBOGNDQ3FwekIxUE43MjBMdHNzQ2JDRlJmWmw4SmxPc0tPVnpJaDdfbURHM1JmZUltS3ZUV1JjUTdGdlVXZmdYZUs3MzE1dFMzaGFPajJjUnROVldySQ": 1793562327.084772,
 "CNN|CBMie0FVX3lxTE5jYVE1T3A5aDdnXzNOWUhrRXoyZEhiX3dLRXlfTXhoNkFaUkh5c1U4TUw3eTZHY1NCSlhtVno2d0dDNUttSDBvYVY1NUl2LUNBYVRObmt3UVlueHY5TDU3YkI3WUhCQ0x4aHRJMXFLZmFfWmJqWGdZaE56NA": 1793500233.695263,
@@ -5234,7 +5240,6 @@
 "CNN|CBMifkFVX3lxTE5YN0FMQWZfeTBlcGtYb1NYalFLeUpfazdKRllBX3RNMDBGMnVZOWVxRU5OZktuaHdhaTdrSU9sUXdWaV9jbTZjcmN5QWlkdFlzeTQxS2ctRzAxSVYxRjFleGJkTkxiSl9rOHc5VFozcEhqdEFXUFVsQVFFNkpqdw": 1793466926.527723,
 "CNN|CBMifkFVX3lxTE83bEYtZWtlSHJyUVptd1BxTzJubG5HMFZfMXI0RWdTLVhETlNtc2FESUVDUlFqaXd1ajRPU3pQd1c4SmFaVnZNSmFXVEdYV0V3U056ZDV6cTdmanVpYzVsUW10aTdpVzE2MHJYX3ItTVNkYXVNMllMc1ZsZUJvQQ": 1793593835.7334867,
 "CNN|CBMifkFVX3lxTE91Z1NqVmc1ckI3NHlneDNDdmZLZXJYa0NXVW4zcVRuVXR5aDdWWjB5Zk5PdmxqVjZPWGdwd1ZPN1k1aWMwQm9UNEt4Y0ttWmRyeDlPNzNfQmxIaE1QaktRNjUxZ0FJYTFQd096QklzVHlGaXRTOWpja21lN2hqdw": 1793383241.2383296,
-"CNN|CBMifkFVX3lxTFA2OFVXeFpOMGRXdFFwZmVzVF94VXZwU2NaVkptbkU1N1o3NzFWT1NhWWhJTE5ibnYxcThOWlJMZnFnQjZfM1M3aEU4V0REQlJ6VktjYTBBSmpVMXBUYVdYV2pSQmh1S3lSN3ZQQmdQcng3S0xiYVhIMEowQ2R1QQ": 1793074528.1118133,
 "CNN|CBMifkFVX3lxTFA4c1ZsbUZ3QlhJcXJocFFUWkZiTnkxVnRRREVyX2hKVTNPelB1MXNUZ05ucVhJNmdlMW1aMEV4Qk9JRzF2TGJRNnpBaDFQZ3c5X09DdnBQdzQzVUxaSkdiSFpVbVdubFRPRnR5ZklmWXQwZF9ITS1hbE5wMkN0QQ": 1793435433.810411,
 "CNN|CBMifkFVX3lxTFB3T3VWQ2NoVklNMzROMTNjRGFvbjdaa1c0OXNIbUF0ekRBaElmLU1LZUFKaEtVMUV4eVhQUjcwS21QZDJGSWVjMjdsNmd3WEJCU08wUWV5VE96a3N1QnlSZ1BmZGV0U3Zra2pXOUFmUXNRRGFWSUlFZ2dadGwtUQ": 1793627138.9532075,
 "CNN|CBMifkFVX3lxTFB4cFh2UUtFMm80LWNfVkhGVjM0d1RHV01zTXlONGt0TXhJenhzV2VhZWdweU1rMkluWTJZTUN2bFhteVdLdmp6Y2hCa2RCdmlMUHVjeGRQMVdaeEd4WFloU0gtM0MzYUdKc1l5NGFPdFUyd2RTZmd2OUlyc3JLUQ": 1793276125.8577242,
@@ -6025,7 +6030,6 @@
 "CNN|CBMiuAFBVV95cUxQUGFqTWpLd1VGWDRlZFFuRktMaUo5QVNMMW5LWEdtbVF3ZEw4WXoydTRydVpLLUVCTFQ0dEVXUTUzTGhEUVltSU9TRWRxU1p6UnhOTDFuWFJiem9qYTQtakdyWmt3T1IzdUlOWjR6WTIzaXR0MFJSR0dYRFYzdWZQaWJyZVc1azc3QmJuTTdRQkZoOWplZ1g3WUxZeW9OZWdYMjdyS1BwaTQ4ZzN5a3JPLTJuZ1lNOV82": 1793340040.7416325,
 "CNN|CBMiuAFBVV95cUxQbU9pWXBKNGZmbzR4TW5XWXpQZWtYcUNWaGdzcFhJX1Y0anpqcWdDNWZxelhIQnROZGZCdzQyTVRZdjFqTFNQVUVwcnE5U2c2ekFwT2Q3bXZ2YXVzVWVsQmJReXNKRWF2TG5DeFBaYmpjeWtBVE5kUE54SnVfUlBnaVc5WTRQb3h6NEwzLWROMDlHbFpjbjBpUDFibDNjdjBGWDVYbmFpUzR1VFl4VEhsb0dlb3dydmgx": 1793234725.997194,
 "CNN|CBMiuAFBVV95cUxQcjNxWjYxVmZLaGVjWU9SUmpLLThLU2x0QTJiNnJMM3dxa0x2a0JHMm9hOXE0cUtoWVk1cUJWemlkMlFfdWxEbDdUQlhFR1JUQlJYcU9VeGlhYkZZM0t4VzFpdkg5RDNlVWdhdmNOLV9Td3o2dzRaRmxkWU9BQ2NwVnFQSHprSmh6Xy10ZUtZcHo1NVBqeFJmSndncXd0cE54WktCNmFERGJhQjZZNDlHLWo2VmhBQ1Y3": 1793447125.6727414,
-"CNN|CBMiuAFBVV95cUxQeFRHMWw0QllPSk9HVDljWnVWa3VLcks2ZUszRC1qYmVUU21vM3NSc01JMUo1X3h5b0oxVzNPaHZtME1JZ3k4Y3dHTnB6UGtaSTlWRzE0S1B4RldyTWNYSmM2aGpjNEdsOGRyOF9VcHRzYXpIWG9zRy1DZF9pNXdnc2d3cDh6RVRFSVZJVWRGT05uZlE4ZzF5UHBwbF9EMVJpZTAzVHR4N2JxX3lubjZkRGd1MF94WDJx": 1793074528.1118133,
 "CNN|CBMiugFBVV95cUxOa0Q1ZGtJeC1BMWtnRVc2YnJ3VTJpVWh1dmVhU2pmNFBYNF81Y1lGcXNQbVEwejdENFBSeDAzZ3pNN0dscFBqcDJ4dDEtNHFBWnp1R2p3bVY2UGJ1TXYwQ0NSTmtCbmJCcHltdklfcTNPSFJrcmwxSV90VFg2Vl9YdnExcWNpeGFLRVBwN3RBVnhhRTdZLXBZZkZhRXExVEhnQTlWUGdTSXdndlFfQ3o5OXdWc09tdFg0Zmc": 1793466052.5647137,
 "CNN|CBMiugFBVV95cUxPM3Y1SE5Ub3U3cTU0WXVtdDd3N0h1T0NMU1ZZS2M1eTB6V3kyVkRhVEYxR2pWQTRDTEZveGRiSk5xTjZEOUxZbFhQZU5HQ014VUtYNTdYSXd1NkRYWFJ6MnJ3c2Z1LVRIRC15QTNkU0ZYVklWbTJvcEI1ZnRxMkY2TGF2YzdpSTg2ZnpwY3NMajdtWTh0Q0JPRFRROUVUVkR5aU1SbU95UjQwMElrRmgxU2NDdWtZU09sUFE": 1793330123.9385524,
 "CNN|CBMiugFBVV95cUxPMlJqSF9mNnBGM3VTTXJGT3VvSlRVQzg4bE9YVkZwekQzQ1RUZWk3amg2dzI2a2xQN2FZcTZyRzlhRFM5bS1ucFhvX3docFUtVDl0WmVnS3o5YkpkT2pfZVBYRmlPdFVLLXJISE16Q0N0QllmWDRxN2t1RWJQSmdhSFppSmpPcFNPZTB6M1ZIRFVtaHdVRi1MeU9ZcUVoVmYxUmtEdGdlQWk4NXAxMEdfcG1DTFhFLVpLeXc": 1793133032.981041,
@@ -6565,11 +6569,11 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html": 1793349924.5690713,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html": 1793403033.9221654,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/02/en-reponse-aux-commercants-eprouves-par-les-violences-du-17-octobre-le-gouvernement-demande-aux-prefets-de-faciliter-l-ouverture-des-commerces-le-dimanche_6805243_3234.html": 1793620841.1183317,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html": 1793679328.0200078,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html": 1793267125.7120302,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html": 1793564126.5078118,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/31/manifestations-du-31-octobre-les-mobilisations-en-images-et-en-videos-partout-en-france_6803733_6717263.html": 1793478631.9334962,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/a-six-mois-de-la-presidentielle-le-grand-risque-est-que-la-campagne-soit-deja-jouee-sur-fond-de-peur-d-exasperation-et-de-demande-d-autorite_6801275_3232.html": 1793106925.8356864,
-"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/l-extreme-droite-se-saisit-de-revendications-a-priori-eloignees-de-ses-sujets-de-predilection-pour-reaffirmer-sa-capacite-a-dicter-les-termes-du-debat_6801262_3232.html": 1793099725.458703,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/la-dimension-prise-par-les-emeutes-du-17-octobre-peut-difficilement-etre-attribuee-a-l-ultragauche_6801327_3232.html": 1793120441.5226345,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/10/27/mobilisations-sociales-alors-que-les-tensions-restent-vives-en-france-comment-eviter-le-glissement-vers-un-scenario-de-dechirement_6801276_3232.html": 1793106925.8356864,
@@ -6604,13 +6608,11 @@
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/15-ans-de-portraits-de-m-les-chirac-l-histoire-secrete_1805825_823449.html": 1793118633.9665923,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html": 1793131238.1148856,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/attentat-raciste-de-trappes-sebastien-lecornu-denonce-des-gens-qui-portent-des-discours-qui-finissent-par-armer-d-autres-qui-eux-passent-a-l-acte_6801291_823448.html": 1793113242.844439,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/injures-racistes-contre-un-journaliste-de-ouest-france-trois-hommes-condamnes-dont-une-figure-de-l-extreme-droite_6801269_823448.html": 1793105126.5123024,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/jose-beaurain-depute-rn-de-l-aisne-vise-par-une-enquete-pour-detournement-de-fonds-publics_6801318_823448.html": 1793119526.9033377,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html": 1793102444.1008482,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisation-lyceenne-et-etudiante-il-faut-reprendre-le-travail-exhorte-le-ministre-de-l-enseignement-superieur_6801224_823448.html": 1793097929.898054,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html": 1793074528.1118133,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html": 1793122233.7589803,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html": 1793129432.5301433,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html": 1793131238.1148856,
@@ -6676,6 +6678,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html": 1793654127.4543495,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-raphael-glucksmann-estime-qu-il-serait-intelligent-de-modifier-la-date-du-second-tour_6805240_823448.html": 1793619048.0664725,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/02/sebastien-lecornu-se-dit-pret-a-recevoir-de-nouveau-les-representants-lyceens-la-semaine-prochaine-41-lycees-bloques-lundi-dont-plusieurs-a-paris-marseille-et-toulouse_6805152_823449.html": 1793618125.0615885,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html": 1793679328.0200078,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html": 1793664045.4470515,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-deputes-ont-observe-une-minute-de-silence_6801315_823448.html": 1793118633.9665923,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/27/attentat-raciste-de-trappes-les-images-de-la-seance-houleuse-a-l-assemblee-nationale_6801333_823448.html": 1793124039.6769316,
@@ -6715,6 +6718,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html": 1793545240.5166764,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html": 1793556037.298126,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/02/manifestation-du-5-novembre-a-paris-la-cgt-exige-un-parcours-dans-le-centre-ville-de-bastille-a-concorde_6805220_3224.html": 1793610038.9047792,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html": 1793679328.0200078,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html": 1793462438.8989837,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html": 1793452525.7107594,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-laurent-nunez-declare-que-les-corteges-se-sont-bien-deroules-40-000-controles-realises-dans-toute-la-france_6803391_3224.html": 1793474130.9776192,
@@ -7108,7 +7112,6 @@
 "Reuters|CBMiZ0FVX3lxTE4zSjBBemFEaVJ0bG1UUjJ3cWlnVWFvTGtoTndWNWJkSVA3QUNSSVE0MElUN3RnNG94TDJKaUVMZ0FNT0NXNURBREl2UzFfckpKek5PU2NtVmJKeTNQNFJucHd0NG5UeDA": 1793092525.5795987,
 "Reuters|CBMiZ0FVX3lxTE4zSlEwZWNQUk90Q1JHQVMydXZScFNLQkk0UFFWQ1h4bDh1S19qU1VJT2VKdVo4a21HRUFnbnFSSGMxLVNzSUg2bWJaY0V1VkM2a0s1YnZPazVlMVpfZFRnMjBRU2sxWTA": 1793196040.685963,
 "Reuters|CBMiZ0FVX3lxTE4zaXUydDM0YkFNMzhQbmZlbng3UXF5QnJibWNoVVJIcjhka09BeENfOG9MQ2ZTcFhycTlmYU41VHFIZldyVGhjdXdzaFZyXzgtM2lLOFViZG9VTUN5NGN1R0MxMjBUSDg": 1793134845.1371863,
-"Reuters|CBMiZ0FVX3lxTE50TEl6clBtNTVzMmZaNUJya2hSVDVUQUNUZ0gxaEhGOC1UNGtjTnF3MDctLTZpdFByWmJqTlVZUDNCX3JnSmVHMmpRRzZiZHczUjRzUEZTcUpZNTRWV0d4cnRCcFR6aHc": 1793074528.1118133,
 "Reuters|CBMiZ0FVX3lxTE51OHkyeFNvMlp1OEdnZHIwTkxBVTliSWRDM1RoUXVPY2hLUXBWUVFzV2R5aFFCRFN2c1Q5U0tnaTVkTmZTRFo4a1NBS0hXbGRGemFqdnM2MXlYRDlYSDlLYUJianVQSjg": 1793648728.4907944,
 "Reuters|CBMiZ0FVX3lxTE51aHpqZ0UxYW12UVhIRENraDhBak9TUV9nT3h2bmY4UkZ6YW1aSHFOZDVONDJBZWl5dUdndzJEQWw1VkNOLW1kNlRHS0k2SGdRR194T0dyVjBmem14V3pHSF95WHpmWmM": 1793542524.4567535,
 "Reuters|CBMiZ0FVX3lxTE53SEo3bVZnbml4cVNIX2xwWTZnOHE3U2drUFVPdW1rOXdMZWF6NnZRWEdjRlI1M2txcjlXd1hjdWRuRFpUb3pjakN4WlZSUmFsU2pEZTFOU3hTbTR0X0JsUWdTdWxZWE0": 1793397637.139876,
