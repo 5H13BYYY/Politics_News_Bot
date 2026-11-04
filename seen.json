@@ -15,25 +15,11 @@
 "ts": 1793686204.0
 },
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/europe/20261103-torpiller-tout-progr%C3%A8s-vers-la-paix-kiev-accuse-moscou-apr%C3%A8s-de-nouvelles-frappes-meurtri%C3%A8res",
-"src": "France 24",
-"title": "\"Torpiller tout \"progrès vers la paix\" :  Kiev accuse Moscou après de nouvelles frappes meurtrières",
-"ts": 1793685115.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDB1dTZqNnNFMEVTVXdSakNoMWVxcVROQjdqUTN3ZnJFdk9CWThaQW9UMWZzbWx1ZGltd2NKaXlGcE9oOTdtXzhqZTBzbmZKWTUyN05HNk8ySWpPMGpJUkJMN1c0Yjh0VnVFRl9uOHp6NTBTdHNXQTFKc2oyM2Z4WTVDbUY5bVp3SFNMRFd5NHNFVzI2MzNBbXdqdFVRS0pCUEE?oc=5",
 "src": "Reuters",
 "title": "Trump faces midterm verdict with control of Congress at stake",
 "ts": 1793685840.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wRGprY1FXZnZPMDdzQVpGVDI2SGdtT1I0V19yUXRPWGw3Qk5yZFZ3T2hJNU5pdHd5a2hDWEkteWRsVmFUWm43Qy04ekxlQ2hhR040aTAtX1pxMzFheW1pWWo3SnRWb1FQc2RXM1l2cXdQN2RUTFE?oc=5",
-"src": "CNN",
-"title": "District of Columbia 2026 election results | CNN Politics",
-"ts": 1793685423.0
 },
 {
 "lang": "en",
@@ -90,13 +76,6 @@
 "src": "Reuters",
 "title": "Netflix's 'Black Doves' returns with humor, heart and moral chaos",
 "ts": 1793689349.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2RnaXdUMHd2ZExpQ1dLaDdPUVB5UXRZUWlqMVF3VTFqaGhlaFVUMmNpa1QwTC1kMFk3MDBORXBMcUFTRmViLTVTVnRiU2JnRFpoQlJrQWJVWWNFT2pURTZ3TWNfUmdTTHhhT0ZFOWdMRzFrdV9TNXV1TDlfQU93cnJVVjFqaHlkWU8yN1Vfd2kwRUk5bEpzQldlRExlVHA2Ul9sSGMtNVNscEU?oc=5",
-"src": "CNN",
-"title": "Cyberattacks spread across European supermarkets",
-"ts": 1793685600.0
 },
 {
 "lang": "fr",
@@ -4661,6 +4640,20 @@
 "src": "Le Monde Politique",
 "title": "En Occitanie, Jean-Michel Baylet entend toujours peser sur la scène régionale",
 "ts": 1793813417.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjNiTDV1RGJXeTYtWWc2NnRMLU1kOFFvYjFtWTZ3aXJMZWh6NDJ4Z2NHbHBiZnNTMDBVY2NPdWMydGxtQlVjNzBxa3A1Z0wtRHBKSV94elZBbHNKNlFGaFVPdEVCTkI4THd3RUxlRUcydks1UmVBbnduVkN2V1B5TlZ3em1uVERjdWgydVZKSGZqSGl4MWR5b0pqalNGdw?oc=5",
+"src": "Reuters",
+"title": "Seven numbers that explain Democrats' US midterm triumph",
+"ts": 1793812776.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html",
+"src": "Le Monde Politique",
+"title": "Budget 2026 : le gouvernement tente un ultime tour de vis pour éviter un dérapage XXL",
+"ts": 1793814238.0
 }
 ],
 "seen": {
@@ -4789,7 +4782,6 @@
 "BBC|https://www.bbc.co.uk/news/videos/cm4g1vl0keljo#0": 1793812529.5073483,
 "BBC|https://www.bbc.co.uk/news/videos/cm4g1vl0keljo#5": 1793811643.1557276,
 "BBC|https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#3": 1793807130.7258599,
-"BBC|https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o#5": 1793210447.3083067,
 "BBC|https://www.bbc.co.uk/news/videos/cqd09rdxd78go#5": 1793223034.3977413,
 "BBC|https://www.bbc.co.uk/news/videos/cqj346nndl0yo#5": 1793703643.7278702,
 "BBC|https://www.bbc.co.uk/news/videos/cr5ynex46j75o#5": 1793768440.935932,
@@ -5954,7 +5946,6 @@
 "CNN|CBMiowFBVV95cUxOdEkzcklMbjRubkZoN0lZZGx4TFQ0ZUhFSVE2QThzQndkZ0E1elVzdjdhRFFtOGZnanMweW1QaFdqdE8xakRMcWNNMHFWZG56eE1hQmlzNzJWU3FuYnlvZnJpbDcwNGlZZjVGZFNYTUpwc2dUN01SRXRlbEt0NHl6OWRYVGVNVHdvYUZjbVBIUzFwbG5xVm5haC1kcGdMVDlURlE4": 1793723881.229113,
 "CNN|CBMiowFBVV95cUxPN0ZDOENMNzFHUHJWaG5hRjBsbElFVzl4VWFSSldaTUNlQmkxS2ZXUEx2LUljRTBjVGIzNFNyMEE1TEZQSHhHMVJlRE9iV2lfeGQydUNwXzkyMEpfZ21DR3VkUTcxV2RDTlh6N29qWUFsTE05ZWtLeVpCQWZlYzkxNGhpZFV2dG5LT1pJWFVheWhwT0tPdDZXaGNzRjJGcUlvMlRz": 1793493037.4805093,
 "CNN|CBMiowFBVV95cUxPNUozNjBZS1VoZVc2WEJyRXdvYWZ3aUZIT3JnUjVpUUhPdWlVYU9nTHRVV1J0WnJrTm5OT3JLdEY5dWdxem9hS2lUOC1vbWZiVTMwZk5ZZ09fdUhFTE1YZ18yMUc5YXBZb21yTk04a0NQSXlmaXR1azYwVGVia010Qkstcml3Z0dTWFZfOGJ1UklLcTl6LXZFWmx3cWFlX09nZ0dB": 1793723443.2535517,
-"CNN|CBMiowFBVV95cUxPQ0tjUFdvWEx3WHVET0J1Qkd6LVo4bXFTZEx3MGlqbjVIcEktU2lhUW5iRk1hQUZ4Qjk1X0VnOTJiV3lUeldzbjdRb3B3VzRjNVE3TWZPWkg5RzdaS25mR2xVMTZMYy01NW9LcHVZWGdrTHZvWHlYckRjbmZGUTV2VVdFbkZZd1NRUWpKVzV0UGR0d2dFbTByWlVuNkNuOWV0NDYw": 1793210447.3083067,
 "CNN|CBMiowFBVV95cUxPZFNGREZxTjFVcjJ1MDZSN1JGNTUzQi12RTNLOWNUbHNIanhyblItalBVa0tRNURKRnFVQW9MbE1uUUE5XzhtdWViTkE3Q0lKcm56Qkhqc0NFS3kwTU9wTFpoYnVXUlhTaDI4MUNmSXBJckFMWE9mMVZ0cmk4Q1B2TE1NZzRGaTF1TDlteEkxZFQwZlVNcE1mZGdIdFh6X05RN3Rv": 1793781927.2988334,
 "CNN|CBMiowFBVV95cUxPb1lLMEhSX0FDZkdfSC1SazZLeUpyZ0NMWG1sS3dsd0VNQnhTdF9uN3Rhdk5VZVhXX0IxTGZKV3lraVExN0ZqMDJXak5LQzIzTjg2WVluSGZGRE5Xb3VldDFtbGlwU0V6RUtFWndfLUV2QlhwMjFVNUlaLWRnRmF1TFFtUS10dVpiWG9qb20weF9MdUpUMlF5dngtX2hBdFhWZjBz": 1793218527.4185884,
 "CNN|CBMiowFBVV95cUxPcGFIb1J0Q2VtdjBWWDVzalozdUozN0REYmtMQktVSDlzSlR5X1J3ZHpLVlhuN29lNm9JcW9YNTVKWWNNNTFPRE9CVzNFYmVQZERlN0pQTG9wWHY1QXNFcWhrOFVlOTNwbl9xVGhwZ2ZZTFpVRHF0SGJHT05yVjlRdk9lM21kMURKV3JBNGV0SEFDZjRwQUtwRHh5NE00eUZ0cEIw": 1793777435.3662863,
@@ -6108,7 +6099,6 @@
 "CNN|CBMisgFBVV95cUxQQ3J4dVlGR1E3LURSUWpybWdwNVJGNG44S05YU1JZZ0xGZzJRRW5jcWkzSWd5Z2l2aHpYMXZTSmpIbVMyb0ZHaXF2M2VvdG51SjBSU0c1NmRCLThVcS1ObmEzZTBRNWN2VjFEajBCcGJQWkV4WnpUTlJlUUFvRk1FSG9MbE9BRFdKVkFpYVlRSS1TUEQwNHdGRVNiRDZuT1phMjFzRFQ5TVZoMF9URVFwal93": 1793592039.7041438,
 "CNN|CBMisgFBVV95cUxQdEk5X1Q5U28zbUludWxWcE5pNXhjT1liOVdHX3JubWRQWllWVW80Wkx1dFpIYlMtMHl5QVhpSkI2SjVWcnlzQkIwQU1EaEtEMWRlVzVZMHdKVktQYXljNHBPQ1JxSmhidVBGV01sOVFUemxWQmNpUkJ3Qld5cDZXWkVULUFxUEtBZTdHWURTV1NfT05IdmsySmdIcm84ZWNSZF9LVG5tSENOa01NZWhzQ1B3": 1793463324.8252583,
 "CNN|CBMisgFBVV95cUxQeTFHMmdkSm9lLUN0RlBCck8tM2FSNzZJUFVXWDJtS3AzTlgybjAyMC02YUFWaGFPZkRrc1UzZF9sWmtNZHFDUVdSVllfNl9tMmlJTzV1ODY1T25mNEJCcE1JTE9xNnNkV1NXODNPLVNtYWExM080czYtakNyQ3BmVDNnc0tZUDRpNUM4QmszN2R5T3Y3aDV0WlFOS3FyY0ZCWEY5ZlRmRE05UE1HZE1uWGRn": 1793638851.5526173,
-"CNN|CBMiswFBVV95cUxNQjRzbXZKajJfMXJwUHB4Zkl2amJKREtEODJEb1QyRDhiVUdlRUd4SEp3dzZsaktUcklxaTNxZTlBU3RTTlZTVy15TnVrLTZMUzBnbHlyNWQ1c1haZDVLQ2dIZThvNVoxMXZxN2RNdk9YREpKTkdHR3FxdFZZcG1UZWxxRnlyNXZpM3BQVTdkT1JKUE5INXNxaGpkWTJZY1p2WDVyMkFxaVVuaGdyYnN3VU44TQ": 1793210447.3083067,
 "CNN|CBMiswFBVV95cUxNbTFZSk1MV0NpbkhOdzduemZMbTlPM2xoN0YxQm50Q3dvUGVQTWZQYUZMUXJBcTFRS05tckFRaTY4a0RqNE15d05mNm1qeXVhRWxJYzZYMTBkZHI4NGRGbEtmQkZ3Qi1XZ0ZzX3VmbjFyamF6czlHZEJJbjRvbWttdXl1RXdNSUR3cm0xYXVkSVlXYjR3S21ycm5zc2xtdk52Nl8wNkJoT1BYck9Cb3h0U0N2bw": 1793800847.7608814,
 "CNN|CBMiswFBVV95cUxNcHR0dWthZkFpR0poMEhqOGQ1M0szaDNXWVR4dnJndDZqOW5YLXJvOHl5djd5TV95cTdUaHNWZFN5N0wzUjVuUm15bE13b1lfSVJjVVpvclB0WU9paFN5ZDl6blJnY1FBZ1RoMzlrZzg5RHF2dlFndkJoQVc0dF8xenRXWW5CaVJEYlFwejVHb2Q4ekQzSGVSYzhzeFQ3dFd4NFpWVTNLVmxXNTNvSXl4N0tBQQ": 1793638851.5526173,
 "CNN|CBMiswFBVV95cUxOMzlUeWkyQnVTM183UHNrSlhOMjc2U1I3WVNiYVhUbzlnT19DZ3VIXy1jVlhtdnh5TGRQXzNzdW9XZDF5VElpSDNyNWN3OEJDVnUtUUh5X3Vya1cweDFLcTJnVHdJakloeW8ycDdaRzRyVUxlT3kySXRudlJUTlowY1l2WWw5elNudXYyOE1ydUZLeUJtTDdGYUdNaVg2VXhjWHE5MzNTSmgwaTJQZzFPbVNhdw": 1793715332.5803595,
@@ -6651,7 +6641,6 @@
 "France 24|d4afd5fa-d30c-11f1-ab83-db16c5b291ff": 1793220336.2652586,
 "France 24|d6b5c22c-d6ab-11f1-81be-453439804152": 1793619925.4618921,
 "France 24|d76dd5b2-d83e-11f1-a623-81d43ce0b328": 1793794526.105261,
-"France 24|d7b156bc-d2e8-11f1-90b2-4be8deeb09cc": 1793210447.3083067,
 "France 24|d84f9d74-d3ae-11f1-b64b-87c16149f105": 1793290525.2920587,
 "France 24|d8bd30e8-d5d7-11f1-9f29-fd1c2e460860": 1793528128.0768423,
 "France 24|d905fb8a-d56d-11f1-83d8-7d25225ed608": 1793481323.2553124,
@@ -6792,7 +6781,6 @@
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/29/baisse-de-la-natalite-comment-les-politiques-comptent-ils-y-repondre_6801942_5463015.html": 1793247326.4928353,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html": 1793420126.9286642,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/dominique-de-villepin-accuse-edouard-philippe-de-ceder-a-la-dictature-de-l-evidence-apres-ses-propos-sur-l-echec-de-l-integration_6801634_823448.html": 1793213543.261704,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html": 1793210447.3083067,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html": 1793218527.4185884,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/28/remplacement-de-parcoursup-sebastien-lecornu-dit-attendre-des-propositions-et-des-engagements-precis-de-la-part-des-differents-partis-politiques_6801626_823448.html": 1793211332.0526388,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html": 1793265325.4624467,
@@ -6855,6 +6843,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html": 1793733328.7700698,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/03/violences-commises-le-17-octobre-laurent-nunez-ministre-de-l-interieur-est-auditionne-a-l-assemblee-nationale-ce-mardi_6805560_823448.html": 1793700041.3510172,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html": 1793782839.8406355,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html": 1793815246.8665118,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html": 1793767526.786452,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/budget-de-la-secu-2027-le-texte-arrive-au-senat-apres-avoir-ete-rejete-par-les-deputes_6806130_823448.html": 1793782839.8406355,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html": 1793776528.0329738,
@@ -7766,6 +7755,7 @@
 "Reuters|CBMinAFBVV95cUxQUk0taEd5eWdWVWtONWpOWjNLNXcxN0VJNHZKQnUtQ0VlZnJYNFQxekUwbDZhY05FSkwwdzlXSzFJX0Z1Mmc3ODgtaVJtbFVReWRBUHdWQlZKTDZKTlBKdWt2b3M1SG4tQXA1TlAtS2N0YXVITUJ6cVlnUE5Nb0hZMWlUcGFaanB4QmhSQ2xKeDVpVFRuR25UX1NuNWI": 1793357129.6771312,
 "Reuters|CBMinAFBVV95cUxQdFhMRmxxVnl3am92bzBsNnFUQUloLWFpZ1g1QWZKTXVfX3dwVVFJVlprOWRXX1RuRkhRWTNDVXZfRzNsLWFyQ0w2RkRUS1BOWWIxa183ZEYwSEhoYTFiWVR4YXNLcWJFZ3BLT1VZN0VpdGhwWnYwVEptTHRMRmctakJEdlZhSlhCOHBVcDBVRFVyOVVzZTdKVThsMkc": 1793403932.1670635,
 "Reuters|CBMingFBVV95cUxOOEVzVXNPMDJtUDhvMjFwRElTcndxMmt1T0t0Mjd5NG9zTGs0TF9QdXh1LTY2YXVOdHVzbjFrSG9zNlhzaTZpUW5ka2lCUXpCUExfTjlnaVpNd0JzZ0dSWEhLSnYtUG1JQlZ0SnNWaktzVnpyTzhZOEpuTjh5N2FCeWNKOWctNDZpVm5xd1o1ZXdWcTFSeUVvaHVyRndqdw": 1793214930.006022,
+"Reuters|CBMingFBVV95cUxOQjNiTDV1RGJXeTYtWWc2NnRMLU1kOFFvYjFtWTZ3aXJMZWh6NDJ4Z2NHbHBiZnNTMDBVY2NPdWMydGxtQlVjNzBxa3A1Z0wtRHBKSV94elZBbHNKNlFGaFVPdEVCTkI4THd3RUxlRUcydks1UmVBbnduVkN2V1B5TlZ3em1uVERjdWgydVZKSGZqSGl4MWR5b0pqalNGdw": 1793815246.8665118,
 "Reuters|CBMingFBVV95cUxOWnVHclJoU0xGWExjOEtCUTlJU1c4VkJXaUQwYmo0dGg4LVhTd3B6a19vUGFFMUNIbktfYlQ1a2t2V2FiT3FNaUt4ZUh6ZDhBZmhEZFZqckVnbUZlamtiWGdsSTBPSEtGaU90WVViYkhaR3VfS1hMOERsYzgzVGJVZ1ZpdHdrY094c0VZZzBXRnJvVVBadm9MM1QtdE5NZw": 1793745927.5019722,
 "Reuters|CBMingFBVV95cUxOZDYweFJRQjhZUmlleFZhaTRUbVB4VXdfclE4THR3emx6Y1RRdXIzSkVJc1lxRmZVZERmU0Naa191R0doYUxickotQm9xNy04WHRiUGRWTFR1S0VEYjJjd3Jvb210UVhDQnQ1dEpNcTJualBIbGthQS01dVE1Q3RzUm9lLVRaX3pDS1I2SmJ4UTY1TnlWbU5FZndlOVM3UQ": 1793394039.4391325,
 "Reuters|CBMingFBVV95cUxPMnZIZ3dNNWpLaHFlZEozOV9PNEFIejlUQ2U4YTZiTnE0SFRwbGdzbTdITmllTEpEbzZSMmNNckZ2UC0xNmJoa1c5WW5KVHBTcnp6QUdSWk1yd0VhSHU0R3FxUlJjdml0a0d0bmRsMWZ2VW9BOC1uTFFfa2pqZTBfOGVJNzhwazJ4aTZtWVhuRktXYXdlYWl3c0JBUGRXUQ": 1793698236.1532636,
