@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261102-midterms-2026-un-vote-anti-trump",
-"src": "France 24",
-"title": "Midterms 2026 : un vote anti-Trump ?",
-"ts": 1793648424.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzlLNnBXT2tHaV8zeUZtZTBXQThTaHJNa3lWcjZpZ1NYWTZiOGhqOFRNbG9STWZEcDlBZHhfWnRIRWVJbUZackRFSGVRZU1ISzNacml0UXdRekJOZkp5NFdoMUVGSjY4TWpROU5Bb2VrUEFjbUZaMWdxSWlLWFBhUmVqMThKdkU?oc=5",
-"src": "CNN",
-"title": "One day more! CNN's Political Director on what's changed and what hasn't after months of midterm campaigning",
-"ts": 1793648110.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRHBjUHh6WWN2QkpVTE9qY003MTJZVWVQTDYwcXhJUXQyNWR5eVdNUXR3OWFvcmUyZm5pWldYQkJEQTA3Tm84b2tuVlNJRDVjb2JGWHgtY0NQVHZyN3VDUlhtS1NiZ3ZubmF2Xzg3UkJCV0JPYmZTNEJGbnBpTWM?oc=5",
 "src": "CNN",
@@ -34,13 +20,6 @@
 "src": "CNN",
 "title": "Stump speeches or auditions? Possible 2028 candidates flood midterm battlegrounds as Election Day looms",
 "ts": 1793649003.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11eldxWG5HVG5sVm9PMGthdjlwd1hEUXh0SUtpZkVxMlBJMVVKaG9WZ3RhTWhyRnhwZ2RYal9Ec0U1YWgxZDFxamZUNDFOUGwzZDhLSkJIM1FYdmlHVWg5WkNvb2NVZGc?oc=5",
-"src": "Reuters",
-"title": "Inside the US Postal Service sprint to deliver millions of ballots",
-"ts": 1793648608.0
 },
 {
 "lang": "en",
@@ -72,13 +51,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0s1Wm1VWUZQbk40VHRJVWo0MGxIRmhRbWF5d2oxQzl6ZzFiVi1SVkpWRWlmbDhVMFhWTzBqYkVEU0xxLWJWTlBzdnhVSTR4cnR2MllZTlpES1Zscy1ITEFhWER1RUQwdkFENTdkUGJMR3VlM3dZeFRfZS1xT2ZwN3l5bmc2bmF2YVRPcQ?oc=5",
-"src": "CNN",
-"title": "One day more! CNN's Political Director on what's changed and what hasn't after months of midterm campaigning",
-"ts": 1793648110.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45VHhOXzlHU0l4ZmtKSmdWTEtnVmhaVXczWkgxbGtvVEd4LWREbzBQQjlXQTYwd2p2bE0wSnUxWjlhMV80Tk81XzRkckxPU21EU3BrM3IydUw2NlZUeUxWMkNvYkxuRGxFcXphNGpnTWZsNjBrX2h0Rl9KWmw?oc=5",
 "src": "CNN",
 "title": "Trump details Reflecting Pool renovations in speech the day before midterm votes are counted",
@@ -104,13 +76,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : la gauche fustige le camp d’Edouard Philippe pour ses propos sur l’immigration",
 "ts": 1793653762.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjRSWjZ6VE8ybHZsRHdGYmF5d1F4OTNHSW5NbXMwN3I0OGNLUVZsa3ZRbGNzSHVINGdGSHhfVkFCeHltRVc3Nk9FdFN5dHNraEUza1dVYW9YWDE2cGFWUUNlNFpENjBoSUt2N2lRSVJuX0Vnc2NUS0dwOUxuTmtSckVPOA?oc=5",
-"src": "Reuters",
-"title": "'Fuel is double': Alaska fishing town squeezed by high costs before midterms",
-"ts": 1793647863.0
 },
 {
 "lang": "fr",
@@ -4745,6 +4710,20 @@
 "src": "CNN",
 "title": "A historic blue wave, a stunning rejection of Trump and other takeaways from the midterms",
 "ts": 1793777155.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRm1yZjVPaW1lTjdpUXFxeGdnNUVNem9lUzlpbkVkd1NGdzlXc1FqbjU4WTVWTmpBQkkwMkFXYTNiWVdJbW9rM1dpSmVBbFlTV0lYUFhHbHI5YnlESXlwVlBNM3lVOVRJMDVtbDlHV194b1NhekJaT2FaM1NRZ2c4RjFlcXJ3MjcxZ2k1eVpQMlRKbGhsVDctUFQxSmZZZEZCY01tdW5UcmxYZVlSdlI0cHJTNFp0WE1IQWstR2RIaWJDNzZXd2xpS1VlaVA?oc=5",
+"src": "Reuters",
+"title": "Australia social media teen ban a 'modest' step, says government in top court challenge",
+"ts": 1793767200.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjhOSTBUU1FlSlhCbTRnMDVVSEhGRElwZEtrS2RISU9NY2xmZGh0eWVhSWNNRTJDbWFWZ1FNQVAxOHFIU21wYUtRTHlxTHJvWmk4cE9yejJ1dzI5bnlXc1NXZl90UGpXZGtiZG5VLUlsd2VHd2k5d3Z5c3Fua0VBVnY2VmxhcWRGellxVHh2RDhtM2NxSjlwLWdDY1FfRHpyNjZMYjFhdWdOVFZiMmVEODFMdmNGMFFLVjVvaEtpNDExc0J6N0h5bHFPR04?oc=5",
+"src": "CNN",
+"title": "Adam Hamilton flips Kansas Senate seat blue for first time in 94 years",
+"ts": 1793777820.0
 }
 ],
 "seen": {
@@ -4882,7 +4861,6 @@
 "BBC|https://www.bbc.co.uk/news/videos/cm1j31301n20o#5": 1793734237.9507725,
 "BBC|https://www.bbc.co.uk/news/videos/cm3wv3njppweo#5": 1793271640.6704144,
 "BBC|https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#3": 1793200525.9119065,
-"BBC|https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo#5": 1793173527.2425468,
 "BBC|https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o#5": 1793210447.3083067,
 "BBC|https://www.bbc.co.uk/news/videos/cqd09rdxd78go#5": 1793223034.3977413,
 "BBC|https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o#5": 1793177126.9660783,
@@ -6336,6 +6314,7 @@
 "CNN|CBMiywFBVV95cUxOdWtLTWNCR1dKcG8tM0Y1MmlWTTZhZWstUkFXYlh2WjI3ZzN0ZGtyQzU5OXplZlI0amc2XzhKY2Q1TE83ei1RSXNwUTVwY2FuaWZoNDZLR21kaDNtaVFycmZxN3VxY2xFb3lJRXIzY2tOemp5Sks3amh6ZjFLMU9GZzY1QUN3bkNBc2pGLUFrdzA1RlhscU9vNnJScVF5TGhnRlRqUHhpNzByTzlpVk04SlBLV1FKUURtOFp6eEpNZ294WEJ2V0JzNWFmbw": 1793570439.9066627,
 "CNN|CBMiywFBVV95cUxQY1FWZTNsRmNPemJFYVp3c2RKdGMyY0kxanVHTE1CaXBRSVQya24xZ0V6ZFIySVpkWFhaWjNRa1VJQUgwdmdPNVlSeVFmZmtGeDUtWXpueUpORlZsMUNVckhrZ3RWNVBJZXpicnZCVGg0bUxZdFdNaHg1NkpFNW9LS3RDU0xzQmVob2FsNXFnQUUtUE5XdmFoRW0zdlotX1ZCWG9XUXpTa2FNcUhObW1EN1hPTVh5Z0ZVSXpKNGJfdjY0TkxWa0lyWGpXUQ": 1793364327.6014204,
 "CNN|CBMiywFBVV95cUxQdWpMeDdRcjNYTzdnM3pCcFMwakswTE5BbTRHcjFQelN5SGRudEsyUGd1OTRkZFZKUGIwVVBxZm9fZ2psY1dVTDdranhoUkpGYUNvUXY1SDR3aVNWODgxVDhTaU5fYWdUaEN5Tk01blVjX3k5eUNOc190ajFKclY2NWtnd0pQRVVfYzZobU9sZzdFaDJpWmJDV19LTG5kZHU5ZTF5OEgtcS14aGFYQ2oyNUMweTc2MVBnYjZKQnZFQkhTRVJxOUVfTkIzQQ": 1793333726.6988363,
+"CNN|CBMizAFBVV95cUxNNjhOSTBUU1FlSlhCbTRnMDVVSEhGRElwZEtrS2RISU9NY2xmZGh0eWVhSWNNRTJDbWFWZ1FNQVAxOHFIU21wYUtRTHlxTHJvWmk4cE9yejJ1dzI5bnlXc1NXZl90UGpXZGtiZG5VLUlsd2VHd2k5d3Z5c3Fua0VBVnY2VmxhcWRGellxVHh2RDhtM2NxSjlwLWdDY1FfRHpyNjZMYjFhdWdOVFZiMmVEODFMdmNGMFFLVjVvaEtpNDExc0J6N0h5bHFPR04": 1793778327.4683678,
 "CNN|CBMizAFBVV95cUxNTi1PUDExci0xU1RjdHRQTDBQaFRmb3gycTFFczhuUkw0OEY3UmlkMmw1SkFrUDBQcVA2MHNmcGxVRXgxOElFcnF3Y2U0dkRBU3NFR2FscWRkZXVFeHlFdUJ4VmY1N0FPWjBVaG9aaG5xWDg4SGNnQzlITFFITlQtVUZERlJTX2IwQWEzT3BWVXJtUFJmTVBidGZXQXlNYzdMLU1XVnpEa0N5eXJrLWtCbnRDdGROdUxORXJTYm91X2JxLUotYkh4ZlVJSmQ": 1793682935.9716332,
 "CNN|CBMizAFBVV95cUxNZXpzYTBKdW4yZWFmMnJ6N0hJU1h0YUlWZ1I5dUZZUEdfYktUdEppSmdNUWRBbExjLXFnWlI2NzFJd3JXNUdfZlIwd0l6NDBWZ2VJenJBYzFpZWxHeVBIa1hndGZhVDJUMVFDVV93VGtLV0NvNTVfakhkRHlnYklmakZPSDB0WFMwQk1XSFQ5RlJSenBSeHdENzBpeVV4NkhuZEtqSnZvMGxlTk5oRXd6d2xzNy1OVTg2c0pIRDFOaTdGRW8xaGptVmMxc0c": 1793424634.9837863,
 "CNN|CBMizAFBVV95cUxOa0NpakRyWVVSZERxVElIeXdNNE40bHBzZmRZWHNBdUZ3OEp2ZlVHNHZ6UXVfdkNMUEZ5X0JmTXh5LUdsSHV2SjBnZHdub0QtYmdQTlBweVdJTlhYUUZHMVFsY1MtVWs2TDJZVWhZRWkxOGwzXzBSMzVQRFRSSUxsZF95clVlMXNjMzE5MmhwdVRUZmEyZjduQUdfMDRTUW5SUkZqbmREcW1POGpXYkJpamN6QU5HRk5PdnlSM1RTb2NBb2h1VWNQNUFsSmQ": 1793656840.6920621,
@@ -6356,7 +6335,6 @@
 "France 24|02fe28c2-d460-11f1-a352-ff1556255365": 1793371528.8495183,
 "France 24|0305e8f0-d4b5-11f1-9412-9b20d82ebf29": 1793411126.5050774,
 "France 24|04cfdf18-d5ed-11f1-91ba-4597946f6899": 1793537125.055282,
-"France 24|053d3d44-d271-11f1-91f0-ddef7e1669fc": 1793173527.2425468,
 "France 24|05b750ca-d7cb-11f1-ac0e-ff4289e55fe3": 1793742332.818682,
 "France 24|06e696d4-d72d-11f1-99d0-8fb330497cd9": 1793693729.498949,
 "France 24|0706d4a6-d2c0-11f1-be72-37b64aeebdfd": 1793187033.4741743,
@@ -8716,6 +8694,7 @@
 "Reuters|CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk": 1793776528.0329738,
 "Reuters|CBMizAFBVV95cUxOcUFXZWt4dU44LWtRQVV1eXFUSWtQSTdWcXVEN3dHN2N3bnhxdzBocDUwVHRQdHRoQnhqZ2xHOVFDRnNMM1NYRjVFRUtJc2NHTTFpMWR0ZjhpNUQ3Z1EwOExlT21tenNoUmg5N0pCdlZtUF8wZllCam5CQWcwQ0hUTHdXOVgyWGdHVzB3N3VUX3VRZThHVm9LOXhKbVVzU24xYkhLRDgydk5WZ1RMM1J4cmdJS3lxRGh0LVU4d2dqS2dmNllfN0s5MEx6SWo": 1793283328.5871534,
 "Reuters|CBMizAFBVV95cUxPOFY3QXRjLUNOZXdmOFNWRl9kMXVaMzJiX1pFQ05qSkxlX1V5b3VfQUYzb0E4LXI3RWktUUVnSlJhNmgzMjJzVVVQeWtyazhueFB0cnBSLTVOb0NXbnRvdU5fbXd6LUhiRUUtOC1CZ1NRTjJ2d2NRRERmc05FSmRnWVZQU0NUazF1Q3lzRGVHWnVqdjkyQ2REb0pYak1fc2o0bE5fc3ozVWo4ZTB4NmhJVFUyOXlQREp6YVdkVUw0ZmlCUlNXb1hLZ0dtTjU": 1793308529.9586213,
+"Reuters|CBMizAFBVV95cUxPRm1yZjVPaW1lTjdpUXFxeGdnNUVNem9lUzlpbkVkd1NGdzlXc1FqbjU4WTVWTmpBQkkwMkFXYTNiWVdJbW9rM1dpSmVBbFlTV0lYUFhHbHI5YnlESXlwVlBNM3lVOVRJMDVtbDlHV194b1NhekJaT2FaM1NRZ2c4RjFlcXJ3MjcxZ2k1eVpQMlRKbGhsVDctUFQxSmZZZEZCY01tdW5UcmxYZVlSdlI0cHJTNFp0WE1IQWstR2RIaWJDNzZXd2xpS1VlaVA": 1793778327.4683678,
 "Reuters|CBMizAFBVV95cUxPZjNORS1HV3hYZE1pRjRUR2FyY1FkTDN4OG42WFc5R2laMkI5b1p1TXFQamEyNW95c3YtaDY2MVVfZWxaRTVnclA1UnFxOWpMQUhEaXhNSGw5ZGxGMF9seWhPWlhqTmFSLWprZk5BYmd3QjZ0V3Q5bDFZcHNOQ3B6UGxLNElFXzR1SkhTbUE4bjBRektfMFNlTVk2WGtsRWd6RmhudFhCald0SFNpTGttdXFKUHNhekNiRWRZNGJNVTJERW42ajBoVU5paDg": 1793472184.8638265,
 "Reuters|CBMizAFBVV95cUxPalRYN3p3UkoxcmdQWFZuQ2xvU1FaZG0yX25XcTJreldvQmIyeDRCdWVKNVliZ1hHaTNweHpmRXpOWUZSVHRLMVdDVmJTOFdOTHRhOGFFS29HYlU1akVQdTFIdGNydjF2WWM3LXZVLUpOam5WeWxFaW0xMWUtRWhhMXdROWlXVFFuZnExdU5RVjlsRE0yMTBxUDh2bkVkeEk0QkwwU1Jxem50WU9yU3hmUHhvSEJyZ251OWM0cEM3dmJ0TzhaNzZrb1FHc3g": 1793701840.2700748,
 "Reuters|CBMizAFBVV95cUxPanlQaWczZ25iem9Yem9mcmYzRGxNbU1pcmZXVkpFUU5YYk5tWUJMNm1MdWdmUkxaMXQzdHJ3RHY2c1pWMVU4eXhfT3VMcUgzNUpHTUhSUWJvUXdQeDl3UklYUzFLSnNrcHRkd01ldEZSNDBuVjViSUtDTFJVcElQVFl2OGltV1FnX1hZMTFNRkxTTG9NZU9QaVJlZ0tWMXU1Vk1wS3E5TEtvVXF4OGotNWZRVjVwUWtqYjdrbVNsQVlxMTg3NkR4Y1ZqWEM": 1793368841.1330423,
