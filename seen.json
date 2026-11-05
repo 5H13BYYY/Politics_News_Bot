@@ -9,48 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-%C3%A9tats-unis-le-pr%C3%A9sident-trump-coupe-l-aide-annuelle-pour-la-s%C3%A9curit%C3%A9-d-isra%C3%ABl",
-"src": "France 24",
-"title": "États-Unis : le président Trump coupe l'aide annuelle pour la sécurité d'Israël",
-"ts": 1793725330.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-"ts": 1793725442.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-pologne-le-premier-ministre-donald-tusk-affirme-avoir-d%C3%A9jou%C3%A9-une-possible-provocation",
-"src": "France 24",
-"title": "Pologne : le Premier ministre Donald Tusk affirme avoir déjoué une possible provocation",
-"ts": 1793725467.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-le-d%C3%A9mocrate-james-talarico-remet-en-p%C3%A9ril-33-ann%C3%A9es-d-h%C3%A9g%C3%A9monie-r%C3%A9publicaine-au-texas",
-"src": "France 24",
-"title": "Midterms : le démocrate James Talarico remet en péril 33 années d'hégémonie républicaine au Texas",
-"ts": 1793725614.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-france-des-lyc%C3%A9es-continuent-de-se-mobiliser-avant-le-rassemblement-du-5-novembre",
-"src": "France 24",
-"title": "France : des lycées continuent de se mobiliser avant le rassemblement du 5 novembre",
-"ts": 1793725819.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-les-votants-continuent-de-d%C3%A9filer-au-michigan-un-%C3%A9tat-cl%C3%A9-de-ces-%C3%A9lections",
-"src": "France 24",
-"title": "Midterms : les votants continuent de défiler au Michigan, un État clé de ces élections",
-"ts": 1793726037.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261103-guerre-en-ukraine-l-un-des-plus-grands-massacres-perp%C3%A9tr%C3%A9s-par-les-russes",
 "src": "France 24",
 "title": "Guerre en Ukraine : \"l'un des plus grands massacres perpétrés par les Russes\"",
@@ -482,13 +440,6 @@
 "src": "CNN",
 "title": "Tennessee 2026 election results | CNN Politics",
 "ts": 1793739876.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnVHclJoU0xGWExjOEtCUTlJU1c4VkJXaUQwYmo0dGg4LVhTd3B6a19vUGFFMUNIbktfYlQ1a2t2V2FiT3FNaUt4ZUh6ZDhBZmhEZFZqckVnbUZlamtiWGdsSTBPSEtGaU90WVViYkhaR3VfS1hMOERsYzgzVGJVZ1ZpdHdrY094c0VZZzBXRnJvVVBadm9MM1QtdE5NZw?oc=5",
-"src": "Reuters",
-"title": "Thomson Reuters revenue rises, shares drop on investment costs",
-"ts": 1793725838.0
 },
 {
 "lang": "en",
@@ -3772,6 +3723,55 @@
 "src": "Reuters",
 "title": "Australia data centre inquiry finds inadequate checks, stops short of moratorium",
 "ts": 1793838000.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQi1HVVl0RnhJcGhVaDA3R3h3akdjRk95dl91WGhhX253WTNBcEFlemNEWUU3YlMtMG5GM1VidmcwRWZNaUxlTTZnck5heGRqajZJWVVraVNuZ0NRclRTdFpNOU0tOTdXaXRWUFlIMk40WEhId3ZyWGZqRzJkRHc?oc=5",
+"src": "CNN",
+"title": "Dispatch from Mississippi (vv)",
+"ts": 1793836080.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnRqY2tzSXM2R3RYeFlPS29RblpsMlZUX1VtaWI5Tlhkc3p5RTFET2twNlRQZFY2elN1eUhxeHpnaXRtSXd4dEJmNnhDcU4zdDdiMjV3bGJPd0RlWWYwNmFHTU1FcExtM0IwSE1JSEhFSEN1c2I2U2huYUxXekljSmhRWU9zRWEyZmkxQUJuNWxaQ21zUnZCRmpqQlMxRnJ5Zy1pbXZ4ZnUzbjlwYTNUUlAtMV9tekhrQ0E4NHFaOGRkY1hRcFg0?oc=5",
+"src": "CNN",
+"title": "Maryland Gov. Wes Moore reflects on Democrat Keisha Lance Bottoms historic governor election",
+"ts": 1793839300.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFZYX0lneUd4eWFzdXNSdVEyQUx3S05PQXpYNjF5STV6VE1HMHpFNXlHZmZhUUdDZERHOURkRnhubkxreGlieGtWbmxZb0VNQ0dRdG1Odkp5M0xGYl95ZEtGZ2d3bC1pc3lNQTVIejFyRDRJbWNES1M4LTBaNG55U0NKdzN2bnFkYl9oNWxyZkZBRmNqdlc1VndESFVMOThDbi1rV2swbm9Jc2RwTUJSOUJCUFdaNzJ0WGRtcUdB?oc=5",
+"src": "CNN",
+"title": "‘People are tired’: Sen.-elect Annie Andrews joins CNN after big win",
+"ts": 1793852881.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-suivez-la-journee-de-mobilisation-a-l-appel-des-syndicats-de-salaries-avec-nos-journalistes_6806775_823448.html",
+"src": "Le Monde Politique",
+"title": "EN DIRECT, grève du 5 novembre : suivez la journée de mobilisation à l’appel des syndicats de salariés avec nos journalistes",
+"ts": 1793854781.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html",
+"src": "Le Monde Politique",
+"title": "François Sureau, écrivain et avocat : « La crise actuelle est alimentée par la propension du personnel politique à ruser avec la volonté populaire »",
+"ts": 1793854808.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html",
+"src": "Le Monde Politique",
+"title": "« On assiste à des phénomènes d’emballement, voire de harcèlement contre des journalistes » : les médias alertent sur les violences à leur encontre à l’approche de la présidentielle",
+"ts": 1793854811.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0tJa0RKODZZdGpueXVub2lsT055VkdBWWRCOXp6RG4xV2hPWjNuSDJ6cWEtbVVDVU9fYzc1a28wcmEwck1xZTVBNW9MSXlhSjR3SDk1cGpzc1V5X1dtVE92SGFtWWpMc1FwWmZwTGdjVFZXY1gtd2dpeUpleV9Gb1Rvd1JISFBXSG9mdFJuSUFxZDA4dWNzR2V5b3hMZGZjTEtDNmtJbVFoa09uRGRGTlVreXUzTXZqd2VueVo3OA?oc=5",
+"src": "CNN",
+"title": "Florida Governor-elect says GOP must focus on lowering costs",
+"ts": 1793855400.0
 }
 ],
 "seen": {
@@ -3922,7 +3922,6 @@
 "CNN|CBMi-gFBVV95cUxPbzZKN3JxQmRGdV9kNEQwbVhidGtXRGlLbFZ2VS1IbjVOWnB1MzJKM0Jyc0tBZ1FCenFfdXhzbVdrcEcweFlKbHpncm94blBaaW1tajJ0T2k3dE1ac01OdGhINDc3YWUzUkRpV0VOanVPQ3ZRYkM0Vm91WUROQ3pIYVpabmhwYXdVTlpiUU5VS29SZ09feS1xM1NMci1wNDFjd0JrQmhPVVpQbUJQXzlYOFpFeTlDOWdFYl9QNFFlekFiaVFYdUVpcE5PTjBqQ0NpMVBhUGJia0lpT3F0TXlFc1RISTlxRDVQMkRFbGE4U29VZGV6SlZxVnRB": 1793609131.5908403,
 "CNN|CBMi-wFBVV95cUxNUmg1a3FLQUI2Z1pLVm1NV2l2cERCZGRWTGdaX0pyUTBYMkNMcmlRTHMwdTZWVkJRQ1BGalItdE5ZbTNuZkVOQVNURmhISEJoODU1Q2I0VzFUTnpxQXA0dVdEdWowdnBRVDNkSkRYaXl0eE1jNlRFZm53OE9ib3lHUlZ3QmpmbEJnbWlEcXJMZGNnTm9zTWlnell3UDIzLVM1d1VSTjdpNlJIT3Q0N2NzQy1meTZJeUQ5WWJ5R3k2bWFibUVjQzZXakN6eHlQU2FYZFNhY0JTVk9Ia19ObmpKTEZtSm5MNVlncmFfcXhrYk1TUlVVTnVFOVRQUQ": 1793516438.533069,
 "CNN|CBMi0AFBVV95cUxPOWhhTGJtdDk4ZDJFTFUyelI5eVVISkFQZjFDNm9WQXNNcXlSWDdDTFpncDc5enRKLW1YVjdxM21PbUpYd05icTlWelNZMlNFZzdoWERueUtkYkFkRVkwVnRJU2kxTU9UVWd0Rzh3ZUVhY0xTRkxESWZ2UlNTTUpjNUVqSGJXSjB0R1dqcUlOaFQydUhmSG5OMDdiZHhNcll0QjNBUXJFRUkzVFo1d3h4SkhSUGJUNTBqZ1hDQXpPOWhXbXRwcXVyOWFOeVFzRFI4": 1793403932.1670635,
-"CNN|CBMi0AFBVV95cUxQSEN4S1lISnlxeVJSZ2VFV3lXcmZNelVHUnNpZmpYWDF3c1VTTkFVbTROSHFXd1RnYkc2VUhxeUdtczF0X1F3VjBaWXFTSEV6NUh2Rjlrc0NVYjBjRllGQXZCU2NvdDBrbHZvUGk2X3lzekY1XzJPbXQzX1N4eVRmaHpKOE5pZ3JKZFdobmFLYjNRT3VsUXdnUUdKZFpFaWpQcVZnWUcweGxrZ042TDN3TzJRdWNoc2hhTWdHSGt5Wi1WazF3aUt5eVRRX2kyc3ZS": 1793250926.0898464,
 "CNN|CBMi0gFBVV95cUxNMmdrVDlkRjdMeGFKM3JOVXUyQlE1MXY0VXlSbm5VMGotUVh2eDFhTHNrTHBwb0pxcGdwZ3ptQmpwZzhTcmVVazJKNmxGRVVqUC1UalRkRjJUbDhEbXd3TVNuMS1zelJGcVQ5STEwWXBrWkZ6OWdqQU1kWnBPUHh1SXhsTmFTaGxqZ0lUWWpuQUdKY2wtMWpSN1RXQy1XZXBxYVhDZXlWbFlxY3p1cFJQazlOSjdFbXBCZ0Q1Ri0yMmNLVk8zN1pLRnRPdmVvcHowbUE": 1793580324.847993,
 "CNN|CBMi0gFBVV95cUxNNXVHTzRBT2dpemxTZ3RXUVg1R3kybTFid3FCU3hMVTRxUWlDRi1PS2dyZF9saExCYW52b3dUcHdXRDhacVdxSFlzQVVuWDBkQWpKQ2poeE9HZ2doZF9HNmNBYmtVX2dacDhJVnBadDNuVndSNTlOc1RxdHJkcFpZS2ZmeDV5ZklGVUFTWjV5SV83X0FVSktDZTZrYTl1SGlZVXEzcFpWb3RfWVNSbm9rQ3pCbGFybnFINUtzelhhU0xUUzh0NExFbEZacS1xcHJXVUE": 1793608234.3447216,
 "CNN|CBMi0gFBVV95cUxNRk8waXNHVm5oYWkyRDlrRVpMZ0F5TlplRlJUc3FhNGtWWEJOSjE5NzhjaV9qT1JPQ3l3OHRWSnBKM1JjUVFFRWd5OXlLYXlnUDAxeERMeElDTWkxU1puV28zb21NaWdROFpBQjlUYjhvTllvRDk1RlpRSkFLTkVRZFFPOG9scjJMaHVlWF85UFJCd0YxdnFmSEVMTkREb1lRZG1ZOHRMcFlGTU9oTlRGS0V0TXUxSC01YlJxTUdfZW9xZHIzSXpIZ3VVRHNJTDk4T1E": 1793661338.2976787,
@@ -4309,7 +4308,6 @@
 "CNN|CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw": 1793397637.139876,
 "CNN|CBMieEFVX3lxTE1WRUk3WjMxNURDcmF1bHcwdnZaNmdjQUdQQWV5TVJweTlEd0dXZktmOTM0bG9sbng0VWdTWHJ6cUU1UDhuaUh0T2NHUlNNMWtHZzA3cHdYUURmTzdBcXYwS3BZZGxyTVprVjBRSTl0cE8tOUZYQmNfdA": 1793533529.2326972,
 "CNN|CBMieEFVX3lxTE1qaHFILVFTNmVTRVhwYVhvN0N3ZGp5VWVSUS10QmVDczRFdzF4QWVtSHpYZ1Fxb2szMkR3ckpJVWNDdHI1aHdmMzJuMkdGdUFEWVI1eWRyUUVJcHQ3ZWVzcllZRWhOZ3Z6eVFuSmZFT1RsM3VlQXVWMg": 1793565927.0389235,
-"CNN|CBMieEFVX3lxTE45d1R0LWVSam8yMFVkS05sSXp2VW11M1NaR0ZuNFBlVFFmeXRBN0lhMllmbmtseUlaR1VkUElyODlnQ1VRWUtnVVBJc2gyNEM0ZDR1TklUT1F4cjBsaG9JMnBZQnlrRjY3QWpSZXRGTnpLcTlla3o0OA": 1793250926.0898464,
 "CNN|CBMieEFVX3lxTE52RHdueGc0eVIzd0FkSDNHaXRxa3RtYU8xUldWTWJsYWVWYjh2WldlV1hUcGZhRk5sdFVEYTBtQmNLSlluRkc3N3NQTXluMG43OXRRZ3RFMGoyQm40enBVMVU2TzlpTU9pSW5WWmZTUUZYdWJEMG54dw": 1793772928.2028146,
 "CNN|CBMieEFVX3lxTE5lUFN3VVhmRVlEZTRVejlTS1d4bE52WHVDcm8xMXkxRjJkeDdYRVQ4WmthVENEa1JlMTlUSGdQb2NEdmNDalJ5bGRVMzBOYjFDeHlhQ2pIbTN5TV8xMXV3Uk9jSXFiLU1EdVF3OHRwYlU3RVZYVktCVQ": 1793292325.4882994,
 "CNN|CBMieEFVX3lxTE5vQVR4WDhsdUVseFU4eUgwa2c4aDRnWFFYV2p3X2o0OEJNbnEwUzl4dXdxd05rZHFXckg5TXB3X3YtX3pLbkxSUWJYdUlpb1NRSlhoRmMyMXd0WUJnNTN0c0hfS3M3SUI3dDJjT2N3VGpxXzdMdGctaQ": 1793804443.416912,
@@ -4372,6 +4370,7 @@
 "CNN|CBMif0FVX3lxTFA2U1JDYjBVV2RhY0lPMDNDdXVObVZhRG5nX004MzF5eURwbTNGejZpVUlIcFZPOHJLbEU5ajdMa1dVaEtZbVloQXJ6bXAtTlJ1S2laVjVwZTRHSC1lVURFaDJoOVplTkxZX2k1a0Z0Y2xjZklacDdmc3dmT2xFU2M": 1793334633.2997715,
 "CNN|CBMif0FVX3lxTFBDNU1NNjRYTWdYMW5RbFpoZ0NnME5tWHRiZE1xT1R5VVQ5TmFnalRubUF0bjZlSjlyZ280ZWdfd1hncTZwYXg1YTdUa0s2NUZNdnZabDNBdWRYa0pUOGZhN0l3VkFtSDVJOUhPYWY5blRFU0FHU2IyVVM2R29CQkk": 1793553327.12138,
 "CNN|CBMif0FVX3lxTFBQbUFoamVmVzZmU2FjNHV3RVMxVkRiTWNFVHlmLWlRa3hETUlfYWx5WUIteEhldmlUUVQ5T0s1RjF2Vlg3Nk5zUFpXclpFQzg4b2gxUDJWeG5GODByZzJOX25ON01yOFBoSjR1Q0l5c0NERjFvemlwM2NxbWtKYlU": 1793697339.9177165,
+"CNN|CBMif0FVX3lxTFBTQi1HVVl0RnhJcGhVaDA3R3h3akdjRk95dl91WGhhX253WTNBcEFlemNEWUU3YlMtMG5GM1VidmcwRWZNaUxlTTZnck5heGRqajZJWVVraVNuZ0NRclRTdFpNOU0tOTdXaXRWUFlIMk40WEhId3ZyWGZqRzJkRHc": 1793855727.6042163,
 "CNN|CBMif0FVX3lxTFBTRHBjUHh6WWN2QkpVTE9qY003MTJZVWVQTDYwcXhJUXQyNWR5eVdNUXR3OWFvcmUyZm5pWldYQkJEQTA3Tm84b2tuVlNJRDVjb2JGWHgtY0NQVHZyN3VDUlhtS1NiZ3ZubmF2Xzg3UkJCV0JPYmZTNEJGbnBpTWM": 1793649641.337044,
 "CNN|CBMif0FVX3lxTFBTeUxLSklZQ3BFZ1pFOHFwTlZGbDYzZ2llUFlYdEJzMzQxRWwyN2RWWEtHVE9pSmxWME5LOUJPS2pXOU80ZDRUandYaFVZbzQ5WGhRYW4tSTNOdUR3TmhDWTlRSG9iSkFjMlh4WjBrVkoyZXNHR053eGxmdUpfejg": 1793556924.879115,
 "CNN|CBMif0FVX3lxTFBVWlQzcXVDdGhlRjRYR3lCVjhjV1ZrLVl3TVZWNGZtQXNmSnhJNVVmZjFGU1V1c25lR2ZNSktXS2NCZXZzN3kyUGFSRFk4dWE2X0V4bl9KU3QyRW9tUG91Qi1TZjdobzFrVXNFajJMb01TOE5YbkhDcklfMkFaWWc": 1793358040.6947284,
@@ -4439,7 +4438,6 @@
 "CNN|CBMigAFBVV95cUxPQmlTRlFRRjB6VjJHNkxaMTZUbFkydkthZ09VdkJEVDFseG9sRzE3TUljd1RVN2FGWVhDYkVha1lra0xfamJVRFV6SG1MMVppU0dfbnZuRUpwdUxYZUlweVc1d2N3SU12U3FWQUhfdjJHdHRrNmIyeFRhZ1k1dU9SZQ": 1793733328.7700698,
 "CNN|CBMigAFBVV95cUxPRU5ObEtwVHFXNnpsUzlpbWllRUE1b0wzZkxDRldxTzRpYkRvem1UMnkwa19nZzFfcjVtS28tS3NBN1F0bkprbWdUZ1Q3RlcydmVwMS1jOUhqVkFOMzVCNGFWcWtsSkg0aG54S0Y3Y0twTUhNOTdjVjI4SGRNVnBfaA": 1793820636.6389441,
 "CNN|CBMigAFBVV95cUxPTk5VNVlHdmZpanJYNjlqRjFOT0s3bk01NldWYlR0N25oTXNkUlpkc0VJd3pmZW9JczF0TU5QRmdtU3VSNV9mV0VRMG9JZlEtUXFScktfYWYyQXhIZHVyMEllZjd6U3hsWDlLQnA3X2FSV2dZLXlrbVNDSWcxNFZBMg": 1793811643.1557276,
-"CNN|CBMigAFBVV95cUxPdVZTU3ltMkNMNXM3a3NoOFI2eWtuWFVQbDVJb2FUVU95eXBqLVFUUEFMNXZsbkowV0dVVGlkMVlmLWc0TFhfNldfdHFpSHFSTzA3UUpnNnBZWDR0eXhiaGhfYTZTcTJCSUxjUmFMclVhVzk2WjNSdTd1aGF2ck1DMQ": 1793250926.0898464,
 "CNN|CBMigAFBVV95cUxQME9oblJtdEs3ekRNanlZVEdueHMtRzNTcVYzMVdtaEJzbHhHeTNwMzN5b3JOdEhtUWtEMWJTU1BYUXI3ZHhtYWlnSXdPUkU1dFM5cDA0ckFtcTVkS2lRRDlxV2NsMHJRZmlVMkFLZldqekU5eWFhaEpDdmhHVmszWQ": 1793533529.2326972,
 "CNN|CBMigAFBVV95cUxQQmZFVTk5dmpvX1d0SXBaYkJNYklxcmpSYVZKeEVfRXJUVWRMakxybHVMaEdTTElMNW5uNXAzWGhoSHYybkFHSHk3U0h1bWI2SGlNb2tLcy01a2pjd3lTZWNZVmpOYWdSaE1SUFlTdUpNT0JSdlB3UGdyWGJ5OC1CTw": 1793755839.274925,
 "CNN|CBMigAFBVV95cUxQT1JNZkxENzk2T0dQSUU1ZGdBM1YyYUxQSDZXN3U1ZWNLcDB3NnlkSjZsZF8wczFtdWdvUk83UXhQYWNVU0U4WHlaU014bkNCS3BObDNjeDFPTDJ2V0l4ZGg1LVJUYWpjYU5aUVZJWF9DeGRtRkFtWUJ4STk5dDdiTQ": 1793819726.7040253,
@@ -4829,6 +4827,7 @@
 "CNN|CBMikwFBVV95cUxOYk5GODdFNTF0ZjdxMG9FVjVpNW1VVUpTTFhiTlJ3cm9xWjN4ODNPS3ZzUURuN1RqVFNqbTkwRTlReGN1Z2E4akNhT1k5cXZoSEhpRjdCQktPeld6cVRrZVdfMlFVdG40c3ZZWjJfSFR2Tm9hTzlqaXpHbXdRYXlwd3NLaW1HNzNTVVdZYzZXQ0xXVUE": 1793478631.9334962,
 "CNN|CBMikwFBVV95cUxPS1hucTFMQklDenh6T0RIclRfWk5EZmpPdGIxZGlna1JfRW1scS1NdWtfWVNMd1M4c2pDSjFRWjhkS2V5V2FSbEF0NEJzbjhhQjN4SlE5TXhYM2hBdmtUWFZibEFoMjB4SWlXM25MRTdGYnN1b3ZBQ2JBT0dMdzFKcjN1eGo1YVpLczREa0VuQ05VdHc": 1793309433.8713744,
 "CNN|CBMikwFBVV95cUxPWlBTRTdqb1NLTXdfdnRJd3U5akhnd2swSG9COXpXN19GLXZOUjdUdk9vOWdBQkxDM2Fmc2w0UzJqMTVQaWpmRk1BTzhvMmRUNTZRTFhxMi1kUHBVdVFjTWFIU2UxUFdGUGtyNDFkdDAtTkp6TllnTzNwaTVHelh4ZzVmZ25wX1dnWlF1a3cxT3h6X2M": 1793389526.9480836,
+"CNN|CBMikwFBVV95cUxPbWpaT2g2eGJVSXAwWVVRQ0FIeDJ6RjV4WFR1bzJNakpKeGdqXzlkeUEtQjRmaGk5UWp2LTV4UmU0QXotMnFHc1dKanVYTTZ5OVJaMDlUalhNX0trYnVvUE84bWg4QWNhX3ItRkoyUlRLVDBuTWRWTnBnOHBFc25WUndoN2htaFdWNVFhQTNwMUxmdnM": 1793855727.6042163,
 "CNN|CBMikwFBVV95cUxPbk5ZMVdMeUkwY0tLa3hfTUdPZEhtQzFuU3hvaUxQdGhlLVVnTWdaMGEycFhXdnVBandrTnAwRHhvMlRaMEJxdmx6SjlUWEdIX2J3MzZkNm5DQnlNRWpmZFE5UXBYVnJCbmVlbW9Jc2ctVzd3YVpOTk13a3FFM2w2U3doZmV0NmhsTWpVRjJpc2NHM00": 1793305832.1628714,
 "CNN|CBMikwFBVV95cUxPeTdPWFM3TG9wREV5VHd5UXBkcEE0cWdkVmNIdmNpUXh6bGV3TnJHVDdvbDlXZnFQZWVMQy1TVGhrbUNqVWlfMlNoMzZtYlRldVVFS2pJVEhaOE0zdms5VFhLcXpUYTVOUmtwQnhmYUNkZGRfMUJvZ0NPazhqbWVzYXN1a09LTjhIV3NwVk1TZkQwQ00": 1793282442.0658689,
 "CNN|CBMikwFBVV95cUxQMXljQXl3b0pic1ZzWnBERVBjNUJMZVl2MnAxUWtDa3BSOVNSOW12NDVvbkJiM2ZFNXNJZWxqVnRfalhsVmljOVlxMXlfX0FXX2tmOTNxQzhOZF9EVV9LY20wR0xUbG5RNS1Mamp1X2l4VzQ3YXNrQndwOTJ6MDJsV3VnT3FyUG9Cc1lkQTJ3eGVyQnc": 1793638851.5526173,
@@ -4861,6 +4860,7 @@
 "CNN|CBMilgFBVV95cUxPMkxWamlZcmF3TnNCcmY3N0RteFFWMTNaN2xkUFlya3V3V193enUtUjF2Y3hiSDVlWjRsTEZOTlpIV3EzNjludW9xSjlwQVFtV05VcDNQQmduVmlSbVVFNkIxdU1OSVBaZ2IzYXZBT1NHYWhTckoyYW01NTdFSk9GNi1wc0gwRTllUlhnbG9WRENzMWo5bUE": 1793797240.8785849,
 "CNN|CBMilgFBVV95cUxPQzF2SngtNmtpaURIV0p0bG94ZU9tVWstNWw0V2liZXBBalV0Y0FkbGtLdkJfb2w1bldaUlRPSWpnTm1jVmlhb25TZTV4QTg5N09sZGNzQW1ydTFBVVptSnpyY3psUWVOUVZGaThjbE9MUzJCTFJraEpFRFcwNHpzcEdERm5yTDJheHNpZmQ3ZXRYTFJBRnc": 1793265325.4624467,
 "CNN|CBMilgFBVV95cUxPU0xPUG54WFFGUkpfMEdwdG1XV0N6VE0wbVlCZmNfdHVRVWF0cHhpdVVKaG1TWkxyWkx4azRhcEs4Sm1BMVhvaWItMkNjWWJVYTYteVNna244OGswX0tTeC1sXzNjeFJmWUVCX1N0WEtSWXExTEtBRFlxREZTaHFlZTA4MzBrSjd4b1p4RnVPVjFpRU5fLWc": 1793832327.643866,
+"CNN|CBMilgFBVV95cUxPV0t3c0NzcVVZcWw5UFVnRHVDZGZxb3E0YVRqazIzeFNGdWo5dHltMUQtMEExQS1YakJVR2VuRW5BVnU1MWZYWW5KRURVSzc2bXI5VWZ4TXhLc3JvQUo4YTIzZS12LURVdmZ0ekVSb3hBc3ltT3FlNUwxOWNkc2IxcWRmV1R6WWhTWDhxWjNKVVQ1TTZMS1E": 1793855727.6042163,
 "CNN|CBMilgFBVV95cUxPWWU2Y3BZdVFKNldvMXRMUjBiZTBPcFNBN3pIY1FlYUJEWkpoYktESlBzT1NjTGh0T0xkTHh0QlJaODktbGdrSHlhb3UybjRHeVhURGc2emU2TlJIM2ZrLUZiMVRVcW9OUnRMMU41UHVickFMaDBUbXBPQ3djRVUxZWl6dHFUUTY5c0F5SWUxcTVYNV9QaVE": 1793321129.663344,
 "CNN|CBMilgFBVV95cUxPZkhFQk9qT0o5dDFXVFZNRDJvbmRab3pfTjU5VENEeGV6T2x4LWM2RG1HWGlRbWlmblNwNG5NbkpkbnlPMUI1RF80aHpwck16QVI0QWZ6V3VYQ1NjbUhpUG1XamtUV3U1Vy0wUm92Yk11ZUtaOE1jMzM0N2RTR0xJXzduQUZ5cGV0V2R0QVZnY1U0QWhfdEE": 1793777435.3662863,
 "CNN|CBMilgFBVV95cUxPcmQ2VjZTakI5cHFRdmhDX0xCbkRzeXUxb2d0eXB4U25GLXM5TGRMMUZlRUs1dEVodGRBNlpMeWoxTzg1RlV0SHdBTWZsZGhZM3NkN1J5TUJYSnJ5Q2N1aHBLTDQzeFF2QVJRb0xrRXYxdDNsUHB3RllxUVpHVkxhSVZtNlAxVXBMQXAyX29GLXN3LVJJeGc": 1793351725.7774043,
@@ -5143,6 +5143,7 @@
 "CNN|CBMirgFBVV95cUxOTllsX0U1ZmliTU9xZVdUV2lqQXdjVDRxRjh0QXJxb3BRUDNEakxINFJMNkNWTkRtdEZhd3NpX2QzN1RjaUUwYTZtaW0zMXVtd04xZlF4UndnYVhOYjlXWWxibjJUdTVtSVE2LXp0OFVMb191Q0gxRjNTRGxiQmxxa3JyWm03Zm94STJlSm0yWnQtc19sX0hqaUxrcDdkS3VIa09FQkgwdmlPeTU1LXc": 1793363436.891757,
 "CNN|CBMirgFBVV95cUxOVk05X2RzRWQ2Yk5TUnE2VDVOZE1zcmp6VTV1aWFGemZvSjZGTDVRaUh3WTVsUEtELThaUW0yZWhBbUJrRkg3RmJpWGJJeGtlb0hkVHF1WDk4ejkxcE5ubXZQUVp5WWRjU3RqcjJBcDNtQXc1aHRGZWxONGtLYlN4bXY2V0ZQM2pmcHFyTVkySjh5cXQ2LTZKN1g3YWtWNGZtYXJkUFE1WXkwV3REVWc": 1793404840.909326,
 "CNN|CBMirgFBVV95cUxOY2ZuUWNLalhaTXk0SUNnTlpvVjNsd1FMM1pNMmV3WVFGZXJPb01XbF9RLVJVcDNHMHFGX1V0N2lqUm51UUI2TGZZc05WT0VCcWUyeV9fUkhFS0tCelJJZEpHOXVSWUgta0lNU1VlSXd1TzhESFRZSFgxc3BaaEFLbFdIYlVmWnJQWGJaM3Z3ZktSRVd1NVpZdUM1SFFveUh2bUhwZGJtY1V1eFNhd3c": 1793731548.4759955,
+"CNN|CBMirgFBVV95cUxObzRMbExLSGhjNVJsNlB6dU5pM3FHaEhIQ2piR3lzY3JuUEI2XzRFTWs1RnlzX1pwcWlXMFo0TEI0Skw1MmdKMHRlY3BWbW0ySjRZUURmd2VQU3J0VF9ZUVh3QUtlX1F4aWU5c0IwOS1QOWJXc2pKOVZEajJ4N2pZZ0JDWHZlWHlGUUJZRk5heS1EOUhpUGxsYjRPdkFfSXNwdW5SckJiei00M3YyTHc": 1793855727.6042163,
 "CNN|CBMirgFBVV95cUxPM1dxM1psdWZObTgzbmg4cGJ2S19TbEdnam1URnI1QWdrZjhBZ2JVUWhUREVNaHY1YjlUXzQycEdJQlUyRmx0amNoemhhNHJxTzZCNTVYeklTb0drcjJkNFpVMFBvSS1xOXlEMFBCSUtUTzR2a2lrdjNNUE8wNjVmX1NrRExzdWRwblJQckMwWXA0X2VlbWxzcWgwQ3pxQTZTMWNPWmY4T04wb3psRGc": 1793761242.251662,
 "CNN|CBMirgFBVV95cUxPOUxleWR2RmJBdTFMWEZacHBDc21MN2w4MldZbXJkWXlVV0JCRjBHUTJ6QzIzNFhCcmtBRGx5ZGxUZTh3VDZtYko1X3BHVmU2Nm0xWHhWY0NIWWxpU05na0hxVHlJZDZubF95NE5pbFZsS0tQbUt3NEdsT1lpZ0V3T0RoRlQ2THg5N2JycmFmUWU4QTdVX0F2R3pXTVJqWVp1REZuWGhsb3lNcHlXVEE": 1793700041.3510172,
 "CNN|CBMirgFBVV95cUxPOXJDcG5uZnYtVTYyNmdhVlRRUXRoUTRoQ0JWLWV3dUtzX2RqM19aX1h5eGJpTVZvTnpwVmwzdmJZZVgyTVpER0t5T0pHTmhpd1NUWGxkcEF0dXBkTzU4NXZPMUE3MDk2dDRpNkU3amQ0REVvTVA4cUJ1ajB1Rk5PN2oyak12WjdIR2JKTjcxemZiTW81V0FGT0kwNUh2WDRGVVZ2dGpDZnFRWGhKZnc": 1793592926.6184332,
@@ -5251,6 +5252,7 @@
 "CNN|CBMivAFBVV95cUxQNXdLb09tX0lvRFdXMkRvb1J3Q1RZNWhVYUk4RE1zVHZUZ1F2M0xKbUJtWmlZTVpVLWF4SWRWR0xOYUg5NHNMTnBYS3hmYmhHNUtRWXEyanJkTkd3RGxldjBXa2ZKZVU3bzhIcGJHUnV0dFNvVFdzRFlfOXcwdVdWUklxcUVkdDNsQkViWG9HajdqS2lQczVTa25NR0ZRS3NQdWJrbzFXclhfcmd3Vkk0RjhyUTdfS0RLT3BtMA": 1793759436.835882,
 "CNN|CBMivAFBVV95cUxQSi1pb0l4SnctYUZrTXFraXRQOUxvTGFFWVFLeGpBWlE0UlYtd295cTJvSTFDVXdfVHhuRnQ1NGxISGZpLVJXSkRtOXB4VUpYR1RxNjJmWUJ5UzBiUkhQR1M0ZHBTaTk5V1hLSHFvcU5pX1h0SjFSVE1kVE03NVhtbUdhNFRSTURnQ25sTGRPMS1ZQ1VURlFjTjZKRXY5bWppbUpTMzdPWXQ1RUU3SHlfeVlYMm45MDYxZ1dDQQ": 1793773833.5755002,
 "CNN|CBMivAFBVV95cUxQZUlQakNFNUhhMTEtRjZoLWs2YlllZWFrSVcySmtWNlE0QWdEcGZremNpcTlPeW9zbERUQ0xnQTFhb2tIbnhaVUpYWGZpLWJ0UHBibW5GOE9IOUxQT2lpcThNQU5TQzBtdFhsVkticGtSa1BoMXhqV2R3ZTVBYjgwX2I1bUc3akRoSjM2cUVRRmJmNWlOR0psWm02ZFlENzRwTzVMVFd6SUFscUlMZlc3Umdoc2prM3ZXbldFbg": 1793682935.9716332,
+"CNN|CBMivgFBVV95cUxNOFZYX0lneUd4eWFzdXNSdVEyQUx3S05PQXpYNjF5STV6VE1HMHpFNXlHZmZhUUdDZERHOURkRnhubkxreGlieGtWbmxZb0VNQ0dRdG1Odkp5M0xGYl95ZEtGZ2d3bC1pc3lNQTVIejFyRDRJbWNES1M4LTBaNG55U0NKdzN2bnFkYl9oNWxyZkZBRmNqdlc1VndESFVMOThDbi1rV2swbm9Jc2RwTUJSOUJCUFdaNzJ0WGRtcUdB": 1793855727.6042163,
 "CNN|CBMivgFBVV95cUxOQXlsT0YtcTZMaVNNSEJNb05NX0M5SDlJTmJ5TDhpZDZ4R0xCSUNKdThIVlZWMEpnTGQ0MEJiWGJ2d2VCU2kzWjZuQVNiQko2MDFxTWJkTWJOZ1ZpVjRvWENfOFVKZU9sZklhdlFXZXRxMTFDV3NHV1hRRXVwTFNDdFpyaG9NZV9TODgzalVjUWZhQ0xsR3VLdFJ4dW1jRk1GdlpoVGR3am5keHFaOGtWRE9rSkEtZjV2LVNWaDln": 1793756725.9025118,
 "CNN|CBMivgFBVV95cUxORVZ5dERsZ3VDQ1NGXzNiZl9KQmhvN0xpdWZCUllMY2lBWndhTzZiYWZlcEZ6bTFVVFpPUWN4RVVYLU90YXNPeHY0QnVGaWROQUdMUFl5M1M3cGc0OHRYYzJaSTA0RkJPeng5SXExOU1yNGVNWXVRZVEtaV9yMFB4aFZ2Z1hRNlZIaTVFV3lLVU9VSnN2azFuUU9DQUhveFFrYkd3WlBkUms2TXJBV1JMZWpuUU9vanc3Slo2WFNB": 1793772039.2916944,
 "CNN|CBMivgFBVV95cUxOSWxJWExYSUlVNXJDLXVpekkzMFdVODhVWmMtYTNVQktkSFB3NDNtNHpGeXZpSjBqVnp4b3dYRzdPM0h2RlRSMkI4dWxnRHJUbVVYYVhNa3pxYWlHc2NmNVVDbVNnaVUwdkNDTUd6dE9razNGcVBxcWdEZWs4cTBTdmV1Sk9IU1JjTDBnbjFVNWJ1MDZ1OHk1ajNNeWs4bFNja1ZtSXVkRFd1b09VUG5VWVZfQ2VWOV9qeS1ES3BB": 1793751328.6273572,
@@ -5261,6 +5263,7 @@
 "CNN|CBMivgFBVV95cUxQb1Rya3BYRm5jNlhNTW44THJ0R1Q2Rlk5MWV0UjloOTNadlFDaDhFSzlkajdKQjRkR1lsNnNmSnRBX01lU1BEQm5HMFJoeWJRVlB0UnFSU1JQUkxTOG5pUENwRlFVX0x4ODJPeGczVTZyQkF6dF9nUWxqd0tJR1h2dGpkSUIzc1RQTEk4QVlNbFcxRHJiOGViYzliZm5Qa09LVHFNSER6Mi13SEpHQXdqX1FlNmJoNXozX19EMUxB": 1793811643.1557276,
 "CNN|CBMivwFBVV95cUxNVG9aU0NvdXVGanNWWENpZHliZm82aEVqQ014V1pjN3R4a3RQR1JPVXlVZXA4SVM5MWU0eUZVRll1Mmd6R1BHYklROTY4NUstNlNrMHpHQ0llaURLSVc1aGwxdG85Rm5EclYwODJRYkN4S1o5TXo5by16RUNuQlNjUW4wMTl1ZFZ5V3ZqVEt0M1I2S2dGNHZESkNseGZuLXh2VVY2OWUxcmp5NkM0R1VuNGZJS21meXNuOE4wNUowTQ": 1793335526.466084,
 "CNN|CBMivwFBVV95cUxOZXBuQXdfUnpmdlVpRzk5Z3A0YnNTc3VDRWpGMUhLYVc0VW1Yc3dVNGdleHgtWS1qZ281emMwWGk3NGJ6LUs0dUxMX3VOd3otZGd2UUtGdzBBN01McjV4ZnNuLTNtNGVySUgtRkxUUW1naWx3QmI2X0JnZ3llMWhDdUNYbHVGY2ZVMnREdjBENEVtVEdhZ1JzZDQydEV1UXBPN1ZVejFQdWtNZ1JRNkZ6VW1zckRLbEk4Y2duVnBwcw": 1793594728.5342677,
+"CNN|CBMivwFBVV95cUxPR0tJa0RKODZZdGpueXVub2lsT055VkdBWWRCOXp6RG4xV2hPWjNuSDJ6cWEtbVVDVU9fYzc1a28wcmEwck1xZTVBNW9MSXlhSjR3SDk1cGpzc1V5X1dtVE92SGFtWWpMc1FwWmZwTGdjVFZXY1gtd2dpeUpleV9Gb1Rvd1JISFBXSG9mdFJuSUFxZDA4dWNzR2V5b3hMZGZjTEtDNmtJbVFoa09uRGRGTlVreXUzTXZqd2VueVo3OA": 1793855727.6042163,
 "CNN|CBMiwAFBVV95cUxNY1pUb3h0SUdrelNxVHh3LUkxME4zUm5GZmdKcHJWam5EcjJyNzQya2RjVVl5MlBpWEdpd25PeGgzclFVcWNNM0UzWHJxTGN2UktPeFcyQ0MwT0FDbWZJNDhaVUJBZWV3bVkwTjZ5YW1yOFNyOGk4MzBKZ25vR09QRHpUOUdfanluaWZBRmZZT24wb3habDlQM1dDSk1OMmZzcTRTVFo1eUhndmNiOTVaclVoLWJ0bWRQemdmSGFXck8": 1793791834.3544168,
 "CNN|CBMiwAFBVV95cUxOMXpzd0hPbmtvSFpLVFk3UXI1bUE4QV8xVDFONEdHMjUzTFZWZWpocDlEWFBtR2tlYURSVVBzaUE2ZUt2X0NLV3JCWVhtanlQWEFtemVMYTZ5WUpRVFN4T1FOa0t0b2FiTE13SDV0dUNKckt2XzBUbjdQNkszYV9mQ1F3OUNQRE12OFYyVnZsVS0zcTlUZHJXOVl2RGJfbjdlUmdhNUtsZ3ctQk9FYlVaVGUtSE9wZnN2UHhVT1FSdEo": 1793595640.5525115,
 "CNN|CBMiwAFBVV95cUxOeVBUcm5WYXRiV2I2S2pyUFFBSFV3d1RsRWJRVGQyRVdCc0FUOUtrOEZodHNjemhPUEctVlFsbDRGWHJXRTVFWEFZbXpyTEdYVGlKWmt4S3pmWHJyczVCSFVmeXR6U1RPc1FueUlyNWxJUWdsd2FhTTNzUTZMSkQzMmxUaGNIZkFZQ19nbVhWQloybDhUUjlrZjI5VlVvaHFCSXNrVHg1NDcyc2I1ODYxbllBcVU2OXNvU2FOaF93U3Q": 1793285131.2230716,
@@ -5294,6 +5297,7 @@
 "CNN|CBMixwFBVV95cUxNdFU4MW52VUFjcEFhTVo1cThkQnNETUhjblB6eGdzOUNSTHV2V0J4bk5pelBCQVNaenhVbkJvTWg2QUtRc0xhSHhvaEl6dTd3dmR5SmNEM3lFUUlob2FCTnB5WlEyTzA4TkcwUk1Odi1lMFR1RTV6OWwzY0JqY1pldXllNE55ZEEwSU9wa2Z3QnVOczJwb29pTWpoeXdRc3BsM3FBSVBacXY3aE9ac2Zkb3NYTmlvWlR3Q19lWXF0VWtFY0VTYzc0": 1793680235.4406598,
 "CNN|CBMixwFBVV95cUxOWGRtYXdERnUxd2tIZ3c2OXJjTFVGTTlBSElYV09PcUtKT0tXdXVjbE94eWZoLXNJSFcwaGpqOTFLNGtPN0hHYlR2ZHJGRXRFa1h0N1JUQzBBUU1td3RDa1RoY19mNThpbzl1Nkl0c1BZc3FFR3R3bFlidTBWSUk4WmY3aVpTQWJvVktwVzBXUTc1UVJrMndtald4MnFfSDdPUlFCcHpEaWE0djlENFNKZ053UnlPMHhsbXJrNGRPYThXWklqeDVF": 1793661338.2976787,
 "CNN|CBMixwFBVV95cUxPQVZfTVR0bVEwZ3JxOGZfTXZ0VEUzWlBwX1BrQ25EQkpzbHFfc0RqMC1qMllyQXZ3V1N1V2FBSy1LNzRtbWNQdWg1aTEyWlhLRm1aZ2ZJcDdGNFFYRFBmeTQ3ZFJKYW5fSklyWXJxRkc0M3QyUkh4VkZPZXg1U1BJUElCRWRMNTlFTmxtMG9UTkpnbDlPd2xTQmx5WTNrRVMtSUFlaWdTZ01wUGN2bGw3RVV6cnpxaGxIZ2V5cElaRmpWUUttLWNn": 1793493037.4805093,
+"CNN|CBMixwFBVV95cUxQdnRqY2tzSXM2R3RYeFlPS29RblpsMlZUX1VtaWI5Tlhkc3p5RTFET2twNlRQZFY2elN1eUhxeHpnaXRtSXd4dEJmNnhDcU4zdDdiMjV3bGJPd0RlWWYwNmFHTU1FcExtM0IwSE1JSEhFSEN1c2I2U2huYUxXekljSmhRWU9zRWEyZmkxQUJuNWxaQ21zUnZCRmpqQlMxRnJ5Zy1pbXZ4ZnUzbjlwYTNUUlAtMV9tekhrQ0E4NHFaOGRkY1hRcFg0": 1793855727.6042163,
 "CNN|CBMiyAFBVV95cUxNbjlnWnVNZF9wVHd4d3FLckpSSWdlRnNmcVVUSjF1VXNoMGdoZVAwcExxOTFrRnBqdmJITmtwZW85b0xTSC1IVm9XaDQ3OG1Tc3MweXBaS05zbmZqa21MTk84cmwzUlBqQ2FNRUNrdzhsT0ktMkg2RUU5Tm9xRjhJVkJWVkxfZGoyYmVGeWxSczV2QWphcTBaVXJXbHRPVUwwMEQ3OWNBdG9VOG9yR1poNzhWX1Z1TWhUaUc3aWFqLWs1ODNJQVlEWA": 1793758519.1887755,
 "CNN|CBMiyAFBVV95cUxOQVNGU3lBQ1dRbk5KSFBSd1ZGbnExV3c4bHl2ZHluU2d2aEEzN2pQVEhmM3V1QWdqN0xNbHFvTWI3QmlaSkVSeEZKVF9YLWdsOVBJMXFZM3J5bmg4QmdzMEc4MllSN2ZPQ0xaNFVhN1dfX0xxeG9uUXo3QTZlUlJEWFNSMER3Qk1ZbTlweDdGR3NSTDNjUWUxdGZldUdLVjhacXp0RkgwM05YTUpxZjB3Z091Vk5nR2htQkpjQnlpeWRtSGc5anBoaQ": 1793510127.889054,
 "CNN|CBMiyAFBVV95cUxOSkhJQzVnM3NpV3doRG13TTNmSU03N2FSb25xRXA4ZzlXYndaY05NSGlrWG52dVk4aW9VX1VHdnpqWlp2TElSdHo1b3paaGFkOFhQTUJmMlJsUnhNZ0h1aFU1aWVRSENZWXQ1TWFSdGVxT2ZRWUQ0aU1tSEZIaWkxMWZwQkhSbGI1NUltRkk5MXgtYzY2LWlaUTZoY01QRUNSMkJnU0Z1WmNMbzVhSS1NOFI1OHlxNEZ2cFZ5aVZEbnJ4UFFpdzRqTQ": 1793375126.1995485,
@@ -5813,7 +5817,6 @@
 "Le Monde Politique|https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-600-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3237.html": 1793643328.428524,
 "Le Monde Politique|https://www.lemonde.fr/actualite-medias/article/2026/11/04/a-bfm-tv-des-journalistes-s-inquietent-de-la-banalisation-de-certains-propos-racistes-a-l-antenne-et-reclament-des-mesures-concretes-de-la-direction_6806368_3236.html": 1793811643.1557276,
 "Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html": 1793266235.552444,
-"Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/29/vote-des-mineurs-on-dit-que-le-suffrage-est-universel-sans-se-rendre-compte-que-cela-propulse-les-enfants-aux-confins-de-l-univers_6802087_4401467.html": 1793250926.0898464,
 "Le Monde Politique|https://www.lemonde.fr/campus/article/2026/10/30/j-ai-vite-compris-qu-il-fallait-s-armer-intellectuellement-pour-ne-pas-etre-decredibilise-le-mouvement-lyceen-vecteur-de-politisation-acceleree_6802908_4401467.html": 1793344527.2852259,
 "Le Monde Politique|https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html": 1793438125.6435175,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html": 1793264439.3501782,
@@ -5825,6 +5828,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html": 1793727938.599468,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/04/greves-du-5-novembre-perturbations-sur-les-reseaux-ferroviaires-regionaux-trafic-quasi-normal-sur-les-tgv-et-dans-le-metro-parisien_6806372_3234.html": 1793812529.5073483,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/04/une-croissance-de-0-5-en-2026-est-difficilement-atteignable-selon-le-haut-conseil-des-finances-publiques_6806233_3234.html": 1793800847.7608814,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/05/on-assiste-a-des-phenomenes-d-emballement-voire-de-harcelement-contre-des-journalistes-les-medias-alertent-sur-les-violences-a-leur-encontre-a-l-approche-de-la-presidentielle_6806776_3234.html": 1793855727.6042163,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html": 1793267125.7120302,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html": 1793564126.5078118,
 "Le Monde Politique|https://www.lemonde.fr/flux-video-immersif/video/2026/10/31/manifestations-du-31-octobre-les-mobilisations-en-images-et-en-videos-partout-en-france_6803733_6717263.html": 1793478631.9334962,
@@ -5857,7 +5861,6 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html": 1793739644.4340088,
 "Le Monde Politique|https://www.lemonde.fr/le-monde-evenements/article/2026/10/29/a-lille-une-convention-citoyenne-pour-repenser-la-democratie_6802300_4333359.html": 1793266235.552444,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/02/pourquoi-la-modification-de-la-constitution-exigee-par-le-rn-pour-appliquer-son-programme-est-tres-compliquee_6805252_4355770.html": 1793625329.831225,
-"Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html": 1793250926.0898464,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html": 1793376925.3028862,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html": 1793423728.032773,
@@ -5940,8 +5943,10 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html": 1793833244.9267337,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html": 1793808926.275183,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html": 1793806237.544,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html": 1793855727.6042163,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html": 1793853927.2191892,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
+"Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-suivez-la-journee-de-mobilisation-a-l-appel-des-syndicats-de-salaries-avec-nos-journalistes_6806775_823448.html": 1793855727.6042163,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/31/manifestations-du-31-octobre-les-corteges-defilent-dans-plusieurs-villes-de-france_6803723_823448.html": 1793466052.5647137,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/31/place-de-la-bastille-a-paris-les-forces-de-l-ordre-controlent-les-passants-et-rappellent-l-interdiction-de-manifester-par-le-biais-de-haut-parleurs_6803638_823448.html": 1793455236.8705266,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/11/01/je-suis-contre-le-service-militaire-obligatoire-retour-en-image-sur-les-mobilisations-de-la-gen-z-en-allemagne_6804340_823448.html": 1793540728.401172,
