@@ -149,13 +149,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRldVOEdPWk00eldSb2xSOGtsOE5nb204MGoxRkR3SGZJZ1FkcVhzSzUxS3pSQ0hrN3FSV2JOaUpSQnVETWZ3a19nVl8zZjY3VGtud2pGYk5Vek1jRzFTb1BkUFNvMU96cHBOekZCNkxjNWlocEp4VjNDdzFGbEZCZVFjLU9JREZIUklOQnBpTHBjQzJJ?oc=5",
-"src": "Reuters",
-"title": "Photos show massive crater at site of Learjet crash",
-"ts": 1793736780.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeU1KSEVUbTdzY0N5d0E4cF9sdFJTeUI2Zkstak1VTmZZTHBPYkxHelY0UnBoOXRTUG5hanhSbWtGbS1HeHZPYzMtQlhJbjRaLXBfaUQybDdLdnhlVGhtajdLVW82V0RNb25BTGVpOVZfOTQ5V0l4M3BFQkl3SXp4aVk3WV9UZF9BSDRockpDa3drcXJhbjdLY3RwTmNlbE41S3lKdHFTaENsN2Y5OTRNR1IwaW5VZmZWRzZRVWhTbmY?oc=5",
 "src": "Reuters",
 "title": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
@@ -3660,6 +3653,41 @@
 "src": "CNN",
 "title": "Why presidential hopefuls are gathering in Denver next week | CNN Politics",
 "ts": 1793865420.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlV5alZzS1gxR0FZdVFyMjBDYmNUejBOYm1nbmNnRkx5cGY4cUE3eDdOTEgyT21kYUloSnpmS0VLVGk2VmlueDBpNEZoa3dQb3dsQ2pZSDhzMkhpLUFIZ2RpWTl5LTVnQnVINU1uT0c5cWpNTFVpMDlsY1lyVG95d21GZ1phTTZBV2VtbmFpWTgwLXJoOXFWM28wUG9zRm95alVvVTg0bUVDLVJrVEQ4N3daS3pkOFZpYU4tQU13?oc=5",
+"src": "CNN",
+"title": "Why presidential hopefuls are gathering in Denver next week",
+"ts": 1793865420.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
+"src": "Reuters",
+"title": "Trump's political humbling signals short-term gain, long-term pain for China",
+"ts": 1793865420.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/05/manifestation-du-5-novembre-a-paris-le-parcours-propose-par-la-prefecture-entre-republique-et-nation-valide-par-le-tribunal-administratif_6806362_823449.html",
+"src": "Le Monde Politique",
+"title": "Manifestation du 5 novembre à Paris : le parcours proposé par la Préfecture entre République et Nation validé par le tribunal administratif",
+"ts": 1793865458.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/05/mobilisations-sociales-le-complexe-parallele-avec-mai-68_6806832_3232.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : le complexe parallèle avec Mai 68",
+"ts": 1793865601.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/05/au-proces-de-la-rue-de-trevise-une-bataille-d-experts-pour-remonter-le-fil-des-causes-de-l-explosion_6806836_3224.html",
+"src": "Le Monde Politique",
+"title": "Au procès de la rue de Trévise, une bataille d’experts pour remonter le fil des causes de l’explosion",
+"ts": 1793866016.0
 }
 ],
 "seen": {
@@ -3714,6 +3742,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/ck240mm3e42do#1": 1793830528.1813452,
 "BBC|https://www.bbc.co.uk/news/articles/ck4g13zrm513o#0": 1793624442.8175824,
 "BBC|https://www.bbc.co.uk/news/articles/ck4g13zrm513o#3": 1793624442.8175824,
+"BBC|https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#0": 1793866530.0581846,
 "BBC|https://www.bbc.co.uk/news/articles/cked35dz47y7o#3": 1793517326.0999315,
 "BBC|https://www.bbc.co.uk/news/articles/ckg5j4jp5d5lo#0": 1793371528.8495183,
 "BBC|https://www.bbc.co.uk/news/articles/ckg5j4jp5d5lo#1": 1793369726.6730137,
@@ -3745,6 +3774,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cmqlnxxe71ydo#0": 1793776528.0329738,
 "BBC|https://www.bbc.co.uk/news/articles/cmqlnxxe71ydo#1": 1793794526.105261,
 "BBC|https://www.bbc.co.uk/news/articles/cmr4yvel29keo#0": 1793826926.808165,
+"BBC|https://www.bbc.co.uk/news/articles/cmr4yvel29keo#1": 1793866530.0581846,
 "BBC|https://www.bbc.co.uk/news/articles/cn5nvkdwy74o#4": 1793517326.0999315,
 "BBC|https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o#2": 1793517326.0999315,
 "BBC|https://www.bbc.co.uk/news/articles/cq398y0zj9rpo#0": 1793607328.1228447,
@@ -4285,6 +4315,7 @@
 "CNN|CBMifEFVX3lxTE9vcHNHVUZJcnFSbTA5OUFOWkJ0a1dlczhLeWRQOTkwa3djUFo3cWtUUmQzSlktaDVqbWdhRERMa3dVdkRTTlpRR2hZeEhqQ3pHSnNSWmhiU2UwcmM4Z0cwTTRndnpOempIRmpHY0UzTTl1M1R5LXZDcUV6R3I": 1793490325.6091304,
 "CNN|CBMifEFVX3lxTE9wNnd5X2dtS0lfRXltNllHeEVVaGV6a3JkVW1YMUozczhqY0xIMHBCOVlTcGlvbjdQT05ZdVdxMW0tS3k3eVUweFlBa1JUdlBuaUdNTXBaTUFhR3FYX21kUjVraWlLVGJRN0lDQXMxcmdnbmJvNHVTbGNpRTA": 1793640634.7240539,
 "CNN|CBMifEFVX3lxTE9zS3dNN3NSdTAwdXV2aHY5STJSVHMwbHUyRklETW9Td3pOVHRLZ1hwSDZrZ053Ylc4S0JzT1VZS3M5WXZZN3ZrR0s5UWozNVNScFlwWjhOei11N0didWpETXFFWXFBSGNodUs0QmhFNTRSUnNSXzNKZjlYT0g": 1793628927.2254949,
+"CNN|CBMifEFVX3lxTE9zck1rejRRbHROenBoUV9NWnFVbTZBYnMxX29KZGtxbkVhclllcUc0U0pxQVhSeWhhY2pZV0tFSkhhRndSbzdxOENJSzk5Z2JYeU1WZU1zMWVzb3BTcEtfRXkwS0M1QXg2cEI5SHJpQklMWDVIUXV0cFFqa3E": 1793866530.0581846,
 "CNN|CBMifEFVX3lxTFB5WjVYc0trc3F0NG9vMDBGZC03emR5UzREaHhwb0xJUUFudjU3V2dYcWRqQ21NRk9DQ0Y1WjljdGEzMHZsU1VwU3dVMXl2R3FZYmV2NXZSLXpLWWxVTU1qQ0x6dmZLNWF0U2IxZDc2Z3JRZnNnRWcwOGNkcGU": 1793268925.8536756,
 "CNN|CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ": 1793553327.12138,
 "CNN|CBMifkFVX3lxTE1BOERhYzRtM1puWFc1QUg4czZIM0g3T3NBZ3lmZTk1U0h2Ym1hSXNoYWVJYTVscmNSOWFxZGlvdlNvSjRwdldtamJmOVd2RlNaelE4c1VBSFdPRHdZUm9ORXNvUk4xMEZqTFNvblJWbzVTY1RBLS1lN19aamRQdw": 1793829641.4600422,
@@ -5154,6 +5185,7 @@
 "CNN|CBMivgFBVV95cUxOQXlsT0YtcTZMaVNNSEJNb05NX0M5SDlJTmJ5TDhpZDZ4R0xCSUNKdThIVlZWMEpnTGQ0MEJiWGJ2d2VCU2kzWjZuQVNiQko2MDFxTWJkTWJOZ1ZpVjRvWENfOFVKZU9sZklhdlFXZXRxMTFDV3NHV1hRRXVwTFNDdFpyaG9NZV9TODgzalVjUWZhQ0xsR3VLdFJ4dW1jRk1GdlpoVGR3am5keHFaOGtWRE9rSkEtZjV2LVNWaDln": 1793756725.9025118,
 "CNN|CBMivgFBVV95cUxORVZ5dERsZ3VDQ1NGXzNiZl9KQmhvN0xpdWZCUllMY2lBWndhTzZiYWZlcEZ6bTFVVFpPUWN4RVVYLU90YXNPeHY0QnVGaWROQUdMUFl5M1M3cGc0OHRYYzJaSTA0RkJPeng5SXExOU1yNGVNWXVRZVEtaV9yMFB4aFZ2Z1hRNlZIaTVFV3lLVU9VSnN2azFuUU9DQUhveFFrYkd3WlBkUms2TXJBV1JMZWpuUU9vanc3Slo2WFNB": 1793772039.2916944,
 "CNN|CBMivgFBVV95cUxOSWxJWExYSUlVNXJDLXVpekkzMFdVODhVWmMtYTNVQktkSFB3NDNtNHpGeXZpSjBqVnp4b3dYRzdPM0h2RlRSMkI4dWxnRHJUbVVYYVhNa3pxYWlHc2NmNVVDbVNnaVUwdkNDTUd6dE9razNGcVBxcWdEZWs4cTBTdmV1Sk9IU1JjTDBnbjFVNWJ1MDZ1OHk1ajNNeWs4bFNja1ZtSXVkRFd1b09VUG5VWVZfQ2VWOV9qeS1ES3BB": 1793751328.6273572,
+"CNN|CBMivgFBVV95cUxOUlV5alZzS1gxR0FZdVFyMjBDYmNUejBOYm1nbmNnRkx5cGY4cUE3eDdOTEgyT21kYUloSnpmS0VLVGk2VmlueDBpNEZoa3dQb3dsQ2pZSDhzMkhpLUFIZ2RpWTl5LTVnQnVINU1uT0c5cWpNTFVpMDlsY1lyVG95d21GZ1phTTZBV2VtbmFpWTgwLXJoOXFWM28wUG9zRm95alVvVTg0bUVDLVJrVEQ4N3daS3pkOFZpYU4tQU13": 1793866530.0581846,
 "CNN|CBMivgFBVV95cUxPZGxQa1BpTHNsZi10aVJHLV83T2JYbGpFZHRmeUFhT0JFQnoyalVROUpLck03RkVjLWx0SjREelE5VFVSdmJTdk1aTHpTZ2JmSFV4dkMxT1dvN05aY3pYZC1LazMzSGltVDhZY0RyOU1vTWNhSUdVS1hvdUh6c2hUR3lkdnBwZXpFQldWSWVjVnZLbVFpZ0lGR3dkV01rMXcyYXNYRE04WDVySGY3OU41V0pRS01ESndsTmt2QUJR": 1793772039.2916944,
 "CNN|CBMivgFBVV95cUxPZWtYbnFEVFR3WFROOWtaTlVnSzdlc0YyVWwyR0tOanpvNEhSOE9vNTZBcGRSX0h4UTEzZ2NzN18wbkdTXzRxLTBBY3BheVJNUlpPaWtNd0k5TUxIUVBYcXpKbmhwTm1lN3JXT2RUOVBYRlJpQjV3eUFrOHBTMjJLQ01GQWx4NWxhcjdHc1F3SWN6a01RVDNXeXV6Ynp5SEt4cTlBWVh1b1J2MHhhNEV1YjhiQTR0OXhIbEN6RXNR": 1793770238.9282258,
 "CNN|CBMivgFBVV95cUxPaEFVd0pISEx6dGtIX25fV3V6TDk3bHBjV0d5Rmd6b0RBcWxma2FzVHJhbkVpT2RzSTNHOTJfd2praVRmdVY5N1FjTGhab2VQOFFnTjA2ZUJTMUdfVS1HLUJsVkV1eWozNUYtcTY4bXl2eUtFMzlubnBIbGxIOFNETFc5VGk5MkRUbDI4bmROZ1Z6NFVnamNhQkVmRUJnall5OGZITVM2NVQ2YXQxdHZwN3J3T0pPMUFFUGI3UTlB": 1793424634.9837863,
@@ -5755,6 +5787,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html": 1793782839.8406355,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/la-politique-budgetaire-francaise-n-est-pas-particulierement-efficace-pour-soutenir-durablement-l-activite_6806371_3232.html": 1793812529.5073483,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/laurent-joly-historien-l-extreme-droite-tue-c-est-une-realite-que-l-histoire-enseigne-et-qu-il-ne-faut-pas-oublier_6806108_3232.html": 1793771127.2471974,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/05/mobilisations-sociales-le-complexe-parallele-avec-mai-68_6806832_3232.html": 1793866530.0581846,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/05/mobilisations-sociales-nous-commercants-et-commercantes-sommes-pleinement-solidaires-du-mouvement-populaire-en-cours-en-france_6806830_3232.html": 1793864730.8678863,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/05/tristan-garcia-philosophe-les-mouvements-de-contestation-actuels-ne-doivent-pas-etre-assimiles-a-une-crise-de-l-autorite-ou-de-l-etat_6806822_3232.html": 1793857527.6919713,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html": 1793488529.150506,
@@ -5851,6 +5884,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/francois-sureau-ecrivain-et-avocat-la-crise-actuelle-est-alimentee-par-la-propension-du-personnel-politique-a-ruser-avec-la-volonte-populaire_6806777_823448.html": 1793855727.6042163,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html": 1793853927.2191892,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html": 1793862051.9766598,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/05/manifestation-du-5-novembre-a-paris-le-parcours-propose-par-la-prefecture-entre-republique-et-nation-valide-par-le-tribunal-administratif_6806362_823449.html": 1793866530.0581846,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-suivez-la-journee-de-mobilisation-a-l-appel-des-syndicats-de-salaries-avec-nos-journalistes_6806775_823448.html": 1793855727.6042163,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/10/31/manifestations-du-31-octobre-les-corteges-defilent-dans-plusieurs-villes-de-france_6803723_823448.html": 1793466052.5647137,
@@ -5888,6 +5922,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/04/manifestations-du-17-octobre-devant-la-commission-d-enquete-parlementaire-les-commercants-disent-avoir-ete-totalement-abandonnes-et-sacrifies_6806418_3224.html": 1793816145.300829,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/04/mobilisations-sociales-des-avocats-denoncent-le-recours-a-des-mesures-antiterroristes-pour-interdire-a-des-militants-de-manifester_6806075_3224.html": 1793769329.0068207,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/04/tours-enquete-ouverte-apres-la-blessure-a-l-il-d-un-tiktokeur-lors-d-une-manifestation_6806430_3224.html": 1793826926.808165,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/05/au-proces-de-la-rue-de-trevise-une-bataille-d-experts-pour-remonter-le-fil-des-causes-de-l-explosion_6806836_3224.html": 1793866530.0581846,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html": 1793462438.8989837,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html": 1793452525.7107594,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-laurent-nunez-declare-que-les-corteges-se-sont-bien-deroules-40-000-controles-realises-dans-toute-la-france_6803391_3224.html": 1793474130.9776192,
@@ -7090,7 +7125,6 @@
 "Reuters|CBMitAFBVV95cUxPai1oV2Q3R1NFRGppUVBKSVRCQVlfaUc1TDhOZWw0TkV1Z0xxZDdyMmhnQXhrUUdaN2Q1WDIzUXhCcnpSSTczd1Vsb01MX2plMkc2R3ZaRFNiU3Z3b0tRdm1qZWtZazhETEhQQVQzSWdqby1tenNSU2ZiSGFIeXo0bXRkLXBndXktbFUxektqb1hYc3l1VjN0MG9wLWVid3RKVHQ5bC1vTmR0RjY1WExra0g0ZXQ": 1793305832.1628714,
 "Reuters|CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8": 1793648728.4907944,
 "Reuters|CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k": 1793828727.1183856,
-"Reuters|CBMitAFBVV95cUxPcG1Cdmo4cUo0WUJ2TENLcXNfMERDQ2JWMVlRUUg4enp5RHBhM3FhUkJ3TzJBZG9TVGI2NVNMbVhHT2x6c0NETmdQaWdKRl9CQ0k1T3hGRFdicFBoNUZ0QUtsRnNwd05ndlNacXhGQmZ1RGktUFBoN3owbEFqQXVfRkY4NUozY0N6QVBKZ3kxU3RBb0RvUV8yN2tzdkRvVGp5QXRkSTZuSzluQWJOLS1MYWRuTWQ": 1793261727.537367,
 "Reuters|CBMitAFBVV95cUxPdjN2Q2FvbFlwQ1R1Y1h0T2sweW5XdmFzLThZS3JLWE5HRnoxdTFoc3VQX09hNy05NGcxeXhzblBkd0JEc0tkOUM5YVkzTkVRZzRBVDQyNFNXekVXeVhhRjJjWGhpM3BHZVpjbTd2UFRhQzJlVGdmSzhmSGRwNXRPRFNzYVNUZXh4V3lSVmVIdVRmVVJjTWRraVl6SDRqN0gwNEliX0tEcjVMLU9ZeG1LMEZUajM": 1793603727.1098242,
 "Reuters|CBMitAFBVV95cUxPeC1WaUFNMi1wWEN5WFRyenJJLUxoa0lkUGdFM1dOU3VkVUYyak9ZdWRVV3N0b1NPX0xFTjZ0NVRlNWpadXdGMVltUmxMcm1zcVdQdjQwMV9ialVNaGliVmhXOS1zTm5kNUp0VXlqTUpaVVRqUUhuX2xaRVpQWlFXbFlMS2EwNTJqYUZ3elRFLXUzcmtpaXhFMHlFTjBVaHJSMFVULUhrQVJlYWpaUnljMTVwSjA": 1793616326.4077754,
 "Reuters|CBMitAFBVV95cUxQME9GZlNzY1R1djlUYWZnQ2lQRXE3ZHoxQ1VhOEZhaVRyVTY3TWZIRXhNMDNaemNtb0NFNzJZeTZtYlRCX0FtbFlYenA4Z0gtSkZBZVFRQThHZkRtcHhsR09wWXVhdl9CLUQ2Z19JNWpFWlI0N013RFR4VDFrSTFoZzVQS3F5Y216eWdlMTlZbWxldWY4TXh0M09TLTBuX3lUZ1ZWRzVaRHhxSENxT3E4Qlpwd0E": 1793852126.9483988,
@@ -7201,6 +7235,7 @@
 "Reuters|CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E": 1793699129.0533829,
 "Reuters|CBMiugFBVV95cUxQNWllOXNsUkJtZ0FVOEFHYVpETWxwTkZkRmFEamVYTWNveDR5MTZmLUtpMWJJMU9zTVNIX09VOS1IWmJwcjRnWW9UdlM1QjQ5Q0xDaEdYWmdxM3ctMXJPZHJFWEVfeDN5UGJ4QUFYeXBadEZsZWJxbHFXWUJVSHVsYmVYZWtnSGplWndXWTM3U1BTOUxEZmk1MDVfRlZleDdlYl9rblBVcEEyQWxhYTRlUFE2RzdEcHVxaHc": 1793268037.973616,
 "Reuters|CBMiugFBVV95cUxQNkV2b2hDWjdaYjJ5TGNNckMxeTk3MFBkeTBMWC1ObmdKX2NsOV9DUVhBY2s3ZTBOTTFJR1B0cFlQVXVPY3M5bnVfcm5DZUh1SDdzZHRrSTkxcndTUzRqenRVZm5PRlM3UF84RDZ1aHBkczdORGtXRjU3ZnY2RWUxelhhMkxxR3ZVZHMtd05PQmxlcEtHM2w2NHloTWlZalFSbXh4Qy1lNnVtMm1oSkpBZzFZOTFIRVpkSnc": 1793699129.0533829,
+"Reuters|CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc": 1793866530.0581846,
 "Reuters|CBMiugFBVV95cUxQR1Y5OGZoNEh2ZzdKN3pfVGlFWG8zT0tUdk9xOXQ2T0JfVlREREdhUWhpaFlTZmJPMV8wZ0h5SUg2YWd1bHA5M3FIaVFBZUdwbG1sbi0xMnNXdDFVNWotcmJTbHpCZWhCV0stcDd2WDFvcTZ6RkxsQ050V2ltZW5UUFgxcUk2ei0xQjROZENtTXdPX1A3ZGJ5RWluMVV5eHdvUThnbVdpb19vaTA0RGR5ZWVyLVg2bVh6Q2c": 1793593835.7334867,
 "Reuters|CBMiugFBVV95cUxQVU1Yc05LOUpLWWFETUw1ZmZaVGxpblRqV1hDdTBwX2RqTmZBY1phQjdreTlNblBEZDB1WmhDa2lRM2NaS1Mxa3BObkJBblVUVFpEMkFwelFmWTczUkpZRFpGdUl1d2ltSGQwOVNLLVlkTlYyNjVIbEJEMUFMUm1NUHZTVTJWcC1CdDVVdDBUbWJXeWh0WmJKUktHTlZ3RElJRENVOUxzSWQ2aHFBbDJFbTNzQU9USzYzYVE": 1793613645.902274,
 "Reuters|CBMiugFBVV95cUxQZDRZcUtSdWx0QUhRSDVjbF9JTUFTOGhNeTItalh4WWVnMS1HWFdDT2hseS1CSWdxX1RDRkxpR1VSVnNJZGtrV2NjLUx3eWxYajFQY1lFaXdhR3Rtak9iZ0hpYkhXTmVOSDFyQ25jMmdLY2dXR2F3QklLdDBDQm9wa2dfcDVBX3h0T2xmRlZaS0lqY0NPX1FUSVBvZUZWT2hya0JPSjR5MU1oTUxmeVRwekV5OEZzY3ltMmc": 1793823327.911587,
