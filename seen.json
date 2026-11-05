@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
-"src": "Le Monde Politique",
-"title": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
-"ts": 1793734487.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/03/mobilisation-sociale-une-deuxieme-influenceuse-mise-en-cause-par-la-justice-pour-provocation-a-commettre-un-crime-ou-delit_6805660_823448.html",
-"src": "Le Monde Politique",
-"title": "Mobilisation sociale : une deuxième influenceuse mise en cause par la justice pour « provocation à commettre un crime ou délit »",
-"ts": 1793734979.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/idees/article/2026/11/03/net-de-toutes-dettes-notre-secteur-public-est-riche-de-750-milliards-d-euros-et-c-est-sans-compter-la-joconde_6805662_3232.html",
 "src": "Le Monde Politique",
 "title": "« Net de toutes dettes, notre secteur public est riche  de 750 milliards d’euros. Et c’est sans compter “La Joconde” »",
@@ -3653,6 +3639,20 @@
 "src": "CNN",
 "title": "‘Hegseth has been a disaster’: Sen. Kelly tells CNN",
 "ts": 1793863560.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/05/mobilisations-sociales-nous-commercants-et-commercantes-sommes-pleinement-solidaires-du-mouvement-populaire-en-cours-en-france_6806830_3232.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : « Nous, commerçants et commerçantes, sommes pleinement solidaires du mouvement populaire en cours en France »",
+"ts": 1793863825.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjFSZk1rRTk1QlFxLTlmd0RoSDRlYXVtTUd3bGJCMVhZbDdyUGZ2d1MyREtPc3dqOUJKTTdVUDF6VEtFZWM4TDdzdlhrOFNSSVRxZ3hON3RycjRHZDZoTE96X2g2TG92T2VKTjVfczE3TFN5bmpfdWQ3VWx4UGtlUjhTMlZOaU9IOXJwdlNTd09WcmZJNlhzMnBoQ0xMSUFiVFYtTXBOVnRTdDNKNm1R?oc=5",
+"src": "CNN",
+"title": "‘Hegseth has been a disaster’: Sen. Kelly tells CNN",
+"ts": 1793864280.0
 }
 ],
 "seen": {
@@ -3744,7 +3744,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqdr872jkk7vo#0": 1793845833.6177785,
 "BBC|https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2": 1793818846.0157492,
 "BBC|https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo#0": 1793848527.225776,
-"BBC|https://www.bbc.co.uk/news/articles/cqlyejngjenxo#1": 1793259927.9221706,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o#0": 1793376041.3538332,
 "BBC|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o#1": 1793502924.544295,
 "BBC|https://www.bbc.co.uk/news/articles/cqn734d24l0go#0": 1793812529.5073483,
@@ -5038,6 +5037,7 @@
 "CNN|CBMirwFBVV95cUxNRERCdDJHR2REN0V4N3JLN3RiREdTVXkwVlM5aDNLUDQ4OS1VYmhNTWJGY2JwbHpIQ00zWnlQcndGckJ3YXVTNlVGLUZ3TEtxcG9kVENSc0lGalJ5YWVrem5mMDI3YU0tdDQ4dVYzWG9CZEF4RlpZek1fYThaYjlWZE5PQlBnZldLeW9TRk9PYXJlenROMS1KNHNKdFBodjVGY3lFcnV0Umx0dFZ3SW5j": 1793743242.7584682,
 "CNN|CBMirwFBVV95cUxNc0l2akRZTVZfemVaSVBTMUVjZkRNWnZ2UkZLMnpzbU50RWR6RnNab0E3YjJOVl9CaFB0MlJEWllBUHdvZkJMXzBhRHVkTGx6QzlGRUpoN3k2MUdPRUdrT3dNNVNRWGFZYUtyX0dmY19MUE9rcklmdXVQVkx4RVk4bnFrSXRoRm51ZGVMVWpVQldZRV9YdzY1bk1KdE5CR2d4a0FLVjV5MkpUbEszdTFV": 1793677537.5513487,
 "CNN|CBMirwFBVV95cUxNcEdNb1FoUDRuVVRDVmpUNkxIWnFLV3NMZDRqeXJGeGoycEc5UGdPaFZNOUF3Z256cEZ3Uk93WUNaaWNPMEdJUWpKeHItNk5WNnV2VXA3LXA3c2FEcklOWU84VVR2QUdjbFlnc2YxNDhKcXFqS0xOaUVuR2tGRWtWUHBUUGxEeTFXQmQ2VFJCQmZtUXVkMFpHUlM5ZS10cWhqYWFTSTZUNWJaY3NHVmhj": 1793454326.654034,
+"CNN|CBMirwFBVV95cUxOZjFSZk1rRTk1QlFxLTlmd0RoSDRlYXVtTUd3bGJCMVhZbDdyUGZ2d1MyREtPc3dqOUJKTTdVUDF6VEtFZWM4TDdzdlhrOFNSSVRxZ3hON3RycjRHZDZoTE96X2g2TG92T2VKTjVfczE3TFN5bmpfdWQ3VWx4UGtlUjhTMlZOaU9IOXJwdlNTd09WcmZJNlhzMnBoQ0xMSUFiVFYtTXBOVnRTdDNKNm1R": 1793864730.8678863,
 "CNN|CBMirwFBVV95cUxPM1piTjB6ZmZ1emxheXJsUFpGOVhqWFdROW41cExZamgyeDVXa0tNcW42Z0Q2clJlZFlQdlBBa1I3SEduSnAtTHBhVEUyRDhhOV9QUFhGN2lDakVwUl8tNXJObzBIZldxbGJNRFZUczRMdUtjRmdKdEw5OS0tMWJjQVlFdTdvYjdHWVh5bWJnc2RJbmxmRFVnNER4NVNsRlc5MmlkNEVXa1FSNE1ZYk1n": 1793661338.2976787,
 "CNN|CBMirwFBVV95cUxPM3FvUlFnRzVfdlcxLWJpT3FmQ293anBtVkNORVgzVmR1eXV1NFhhU3dfaUgzLTZHWk5OVUtmZHpkWkF2OW96clhQdHk1cXB4RXRveEZldlNnWVRDSUpBNTNDX2RoMDVvSHpoMHljTXlXWTk1UnV6QXZMbm44M3E5MTJPbm5sRkhsTmJDZnlzdVdwSUE1bDRUbkRmd0pPVWg5T0lNcGZNSVZYUTRpMF9F": 1793328325.3563468,
 "CNN|CBMirwFBVV95cUxPSEpJcWM1azhfUWkwaUxyakRhalB3bWVQaWVKazNvb0U2RnliTE5fa241cVpjbERULTdIcVJ5a1lsVXBZdG8xWkt6dE1WQXBkS21uZXVSUENLZk9yUlhBaHRfSmc2bVZBV2U0Y0Y1VEVYTkZ4MU1hRWZrRnJZRnRvZU5ZYkpvSEJCUGFQSFdtOFR6dWhFVmZwOWttOWRQcTA4dkE1c0tYaWp5cjhpeXhB": 1793781039.4170918,
@@ -5483,7 +5483,6 @@
 "France 24|8f140b04-d7aa-11f1-950f-2d5dc2d65c51": 1793727041.1358614,
 "France 24|8f41129c-d78d-11f1-bb87-111b0f4613fb": 1793717127.3495593,
 "France 24|9003221c-d7ef-11f1-a5fd-8588457c0809": 1793756725.9025118,
-"France 24|91327e96-d347-11f1-a311-41720142f882": 1793259927.9221706,
 "France 24|917bc212-d6cc-11f1-9155-217e4419bede": 1793631644.673278,
 "France 24|92acd75a-d395-11f1-8994-cf4cfe5183bc": 1793285131.2230716,
 "France 24|93f5add0-d458-11f1-a048-89b1a90db4ce": 1793371528.8495183,
@@ -5508,7 +5507,6 @@
 "France 24|9b4d9120-d835-11f1-bbe1-49209b697cd6": 1793789126.006607,
 "France 24|9c936828-d779-11f1-8534-813072c02d5d": 1793706328.9321496,
 "France 24|9cea4028-d830-11f1-86a1-d358eb51f146": 1793791834.3544168,
-"France 24|9d52aeb6-d366-11f1-b5ec-d7b5dcef79d5": 1793259927.9221706,
 "France 24|9dcf2364-d425-11f1-9580-376183820a40": 1793355326.763194,
 "France 24|9ea2887e-d4d1-11f1-9298-2113fb673e34": 1793442634.445774,
 "France 24|9ee9d4aa-d8db-11f1-a13a-ff24d8a72357": 1793860234.3691907,
@@ -5598,6 +5596,7 @@
 "France 24|c99a7128-d7a0-11f1-bba6-6b058508fb79": 1793725244.335299,
 "France 24|ca665864-d477-11f1-b755-9141e7e4b9c5": 1793376041.3538332,
 "France 24|ca725822-d854-11f1-a89d-d7e660c35713": 1793804443.416912,
+"France 24|ca9ea094-d8e5-11f1-8f89-83689eddda32": 1793864730.8678863,
 "France 24|cb211e2c-d802-11f1-aa43-e18dd6b21606": 1793765727.813624,
 "France 24|cb85eefa-d7b8-11f1-a487-cff22607a6df": 1793734237.9507725,
 "France 24|cc08e0c0-d7a0-11f1-b377-7f44ecb25b67": 1793725244.335299,
@@ -5745,6 +5744,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html": 1793782839.8406355,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/la-politique-budgetaire-francaise-n-est-pas-particulierement-efficace-pour-soutenir-durablement-l-activite_6806371_3232.html": 1793812529.5073483,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/04/laurent-joly-historien-l-extreme-droite-tue-c-est-une-realite-que-l-histoire-enseigne-et-qu-il-ne-faut-pas-oublier_6806108_3232.html": 1793771127.2471974,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/05/mobilisations-sociales-nous-commercants-et-commercantes-sommes-pleinement-solidaires-du-mouvement-populaire-en-cours-en-france_6806830_3232.html": 1793864730.8678863,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/05/tristan-garcia-philosophe-les-mouvements-de-contestation-actuels-ne-doivent-pas-etre-assimiles-a-une-crise-de-l-autorite-ou-de-l-etat_6806822_3232.html": 1793857527.6919713,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html": 1793488529.150506,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html": 1793472184.8638265,
@@ -6617,6 +6617,7 @@
 "Reuters|CBMijAFBVV95cUxQTWc0WEJYUlFxU0NnSFFxNkk0X2JUanhWZl9qMlMyTnl4dnlaS1Zlbjd4VEdscXpQbVRwSWNMejdZakVHYVVsQWhRQmQwWWVObTNUVV83c3prVVFab25oVXpkTzd3SnJVYUdiZGFpSEljV3NxS2hwRDdzd3FzVzdFdWNiNUdHa3U1aDg1Qw": 1793292325.4882994,
 "Reuters|CBMijgFBVV95cUxORm90S0QwQWRoeURkeDlZbWQ4c1JjM1pMVFd4WHlfSnZldFcyYWtRR3hSaEUwVzc1dW1YTmtMUHlXZkpNTkljMU9fRGV5eXV3a01scURVODRiTWZ3a204Qm5TeVF1TFpob0hNcFZNQ3dYS1J2Zm1lZ0NsRjZOV3RzNjNCQXEzdG1mTlBEbnJR": 1793437239.0072668,
 "Reuters|CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR": 1793682935.9716332,
+"Reuters|CBMijwFBVV95cUxNTUxUa1BlSU9ZTWZLVTNNWUFHcnlUbldwUTJVRTljWUgzS0tIR3p0aXdwXy1uYnJVUDZyYlV4SVZCQksyTzExSjFReS1kQXUwWi1xVEEtTnFNN3dKR3lpZXloX0RMNGMwMGZTWUhTRy13cEU1YS1reVdneXlETVA0WDZhLWwzd1d2RS1TTllCaw": 1793864730.8678863,
 "Reuters|CBMijwFBVV95cUxPNE1zRnJTV0VtTHpjWU9ucEFFSUtma0VBV3JaRkw4cXJSODZyQV80dThrb1FVX2tkaXctV0pUTEk0OVVmZnRnQ2dRTkZzb0k3dXBKM2s3OUx6UGRPOENUVmVQYnNlVnh2bFRQUVJoOUpKdmYzbkV4Wk1mTDNwV1hWTGIwMXhNSzRqMmZURWpfOA": 1793787331.118251,
 "Reuters|CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw": 1793367928.8022168,
 "Reuters|CBMikAFBVV95cUxNOHpXZXhKV2hmR3JyZXZSV2RZVzdNTXlzTmYtTzcwbksxc3IzVGZsY1dTR0pPdWE2OE5HUGRvRWtuNklSTVhsaFNZdWhpREE2VnlFOTlmeHlJaDFoMjhaajZ2TG4telVPcEhvRkZndDZ0WHEwQ0ZfZWVZa2hEbV9USFNBTmxkeUkyUmd2SkFOdzI": 1793515523.6886463,
@@ -7303,6 +7304,7 @@
 "Reuters|CBMivgFBVV95cUxQTjlha1JibnFzbGJ5M21ScnQ4YUQxeF9KRkREWG1iUG1TV0xUM3BBcF9WNDVFWXBPY0JXOXY4VzlJV0dYX3U1cHZnb2Vqakx4QzBsVjNycEFZVFI2eGM5Zmtta2xIX3p6blByOEF4SFduV0dpdEdJSHMtZnZyd2VEWGh1UUNORk9SRkJXaEdKaFhvRHhOUENmb2ZZcl9ETDZaMFkyZll1aWZDY1ZpeTh2WHpUMDRMb1FKN3FxLXdn": 1793356236.2710125,
 "Reuters|CBMivgFBVV95cUxQUmVTUWlGdkFmblZKTmJTRUZCLS01dWJocVZmVmd1UUtkR3ZLZlMyaG8wMVphRV83QU5RV3haOWlDeG50eG10cU80UkhaeWtnOXgyeHhXV3MzNktnNmgyY1BoMndvVzNTWGtLVnJYQVV3cER4eG93QXdEVWtsU1dnME1SdjJnMlEtSXBqcUlXR3A0MTV4RDE5cGQySHhJYUdUYWZUR3p0Z1J4SWoyeGJ4dlFScmJid2tVTG9lRkZ3": 1793460638.0693126,
 "Reuters|CBMivgFBVV95cUxQYmpXNjRjSnVwRnpyakFkeUhjUDNRMkxCWkdvRnpVRERaWVlweHlrMERqRUZNRzdzZjlDM3FEenNTQkFweHc3M29KSXR2SlIzS1JkRVkySUlsR3BvcVdWSXdRaUxpQm43bW1uR1AtOWNNaVlTVGo4RUNWcVpuU3JicDNTSGJUOUotZFBRLUxrVFY5RThob2JYcnk0Mm1heE1WcUIxbGxuOGlPZGdGS3VXamhEdUFoOU9VYmJfanlB": 1793286041.3185582,
+"Reuters|CBMivgFBVV95cUxQcFVsZXRqTXFfTTMzQ3J3elBCT2h0V2ZzSnc1OVF2ai1KVUZHMDVBaHM3M29HTURkSzJtTUdZcXR5akF4WTBrMXEzano3V01ycWhQdHVGeXJ6TjNwRkdBYzZSSzhUaFh3TG9sLVo3Q2txVl93LTlpU0pCUzhfUnBvU25FLU9SeXFJWU5KNmUzSnJxdnFTU2Q0Y1I3U1pDV1ZRS1ppdmFvYUlkOEJXY1F5UVoxT29RNmpJRS02cWRn": 1793864730.8678863,
 "Reuters|CBMivgFBVV95cUxQd2NpZHp3a2RSSFFqLTZzUHFPeU55RlVKdGxieUpFWkFkdGdvLXVrOHRydmhYeDFTREpIVDVDLTF2OTBOSGI4R3ZrZEpGVTdtc1Q2U0hBSTd6Z0drcHZmVkhONEFNalV6MTJaTzRYMWFORGNZV1ZQcFRkZ0MtS1dSTENuRF9MVTBHR2QwQXJ5RGFPblptUXNlNzk4V2FFRVJyb1AxcFpQZlBMbzF4TTdhNmZqNnJuM2lfUW1Jb09R": 1793793642.9126692,
 "Reuters|CBMivwFBVV95cUxNMWNXTWlKX2RidWxwem9kbTNLdFhKTkVDMHNvbU5PNGVrdzJmaC1YSExYYWUwNE9Ib2dyN2VWckg2UDdfNGU0dVpzWEV2d1BQQVJzczZUMm1FbC1hRFphOXJNSHRvT2twRUdMS3VLaEh2ay1Lcl9wYnM1TS1YWlpqSWM5UE9TRTd0SXNrWU9YOUw2T05GYUtVeFhyR056WTdCTm5fMDdoUnEybjNVN2pMaGFXVW55bkFSQnZyRmVJUQ": 1793709929.9023352,
 "Reuters|CBMivwFBVV95cUxNOUs5T1hqWThVX1hLRlNZR2NKc1Z0SjdxaHBBVjcyZDBCM201UURyQlRXaEtPX1F2QzBHNTNUM194aWhLQlBGMlEwcU92WU1ZZkhQUjY4bzZmMDJvcU1rZ2ZyTEYtTk5WZzh5WDBVWDJvb2M0ME1fT0JTRWhJMWtud2hueVRIQnVrY1RYVWZBakRTelJhSGxzT2NQbE9uWU93WktDMW81SjYyYXgwY2tHVVlKZl8wZXRNR1JWUUFUTQ": 1793271640.6704144,
