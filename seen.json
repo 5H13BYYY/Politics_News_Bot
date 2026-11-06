@@ -9,24 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajdEWW5uUmVIMVJpcmRhTjBNUnl5NUY5ZGdmdDJnWTRIVUViQ1hNWGl0VmE1aGd6R1E0dGpNM3p5Mk1WRTVNVlBCZ1VpMmxjejJtdmZfOTEtRlg4MjhhNERqOHczUVY5VkZHUmhmbmkwS0ZRRkh2eDNsMzdPazRva2lSdHlXdEhIcWlWSjhIS29JTzJiWDJtdUVQQUwwbndhMEoyVnBfNENzMTZwcGxUXw?oc=5",
-"src": "Reuters",
-"title": "Democratic victories bring historic breakthroughs for women and minorities",
-"ts": 1793835224.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjZSN0kxSlF5YmthMjZ0dGdUMlN1dmkxQlVCS2wzdkNEaUQxajZ3QUcwQ2l3RHhrcUVLRWh3c2FNeWlMSkpUcEtVNGJEMGFpZFJUbUxkTFhfTUg3Q0lXTlF1dWpac2lhSlloQU9uWUxCdzZwc0h4UHdZZVJ3VXJFc0w5bzN3T1RzRnhvVjE1c21sR0kyX3NETGhvdXoxQkNXVnc?oc=5",
 "src": "CNN",
 "title": "Jeffries and Schumer team up to take on Trump",
 "ts": 1793841480.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkl2U1cxOHVnaUZLU01YM192cU1fLWVrZFJfbThsbnlFTGdTS3dWVjl3ZThmZzZYRUF6WmJTalNmRkp6YS0ya3ByUW54X3NabmtXQjN1SzJHZkNBc0d6UDhPYXZSRFpGSUQwZV9ENnFmQ1ZxUmtBR2I3MUFWT3Jvd0lKWGRMNzhlNmRYUmxtOV9MU0tsYjhvUXVFV0wyeTVaMDRlZlZjbGJNSk1WdHdlY0ZSR2c4Q3QzRTgtLXV0US1saG81V2c?oc=5",
-"src": "CNN",
-"title": "A blue wave for Democrats, including in South Carolina",
-"ts": 1793835060.0
 },
 {
 "lang": "en",
@@ -3121,6 +3107,13 @@
 "src": "Reuters",
 "title": "Pakistan's leaders dread US Democrats' win but its households are praying for it",
 "ts": 1793962544.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12N0FjaDFmc01oUHJPYmQtME9TcVV3cGpqb3NkODBNY3FVOVBEYXdJV3BYeURaM2dhOE54TGNoTU9kSDA1M1NQU1lXcTNJQ2gyai1jQ0tiOFpqM201ajl6STI4cW9vS1NyOGdfUElKOGF4SkQyamc?oc=5",
+"src": "CNN",
+"title": "What sparked Wall Street’s crazy sell-off?",
+"ts": 1793959215.0
 }
 ],
 "seen": {
@@ -3610,6 +3603,7 @@
 "CNN|CBMidEFVX3lxTFBRNUYxQ2c5VUJvNkd2RExjdVJ1YU5UNmpYYzh2dzgzT2FOZFFaNmlpd0ZUSVViTzZkRG91RmRad3MxNXdncmt4aFFuR2U5di11dmlYSG9hODllU2RNZXFTUHR1UlhpYzhESlpfMS15OVdETTNP": 1793894457.3766804,
 "CNN|CBMidEFVX3lxTFBjbGo3RENsczk0SmFBbVRFckl5eWVlZnBXdEZFeUQweThZWU94cjNFQzVhRVZvb01nV3dBSkE5LXhlMUZfZmlRUVNPRlZBWF9BMXBkNnd1TjJGaDZTZzhrRjkxQk5aUDBpRHJFQm5rSGtyN3d2": 1793601033.9224875,
 "CNN|CBMidkFVX3lxTE0wRGprY1FXZnZPMDdzQVpGVDI2SGdtT1I0V19yUXRPWGw3Qk5yZFZ3T2hJNU5pdHd5a2hDWEkteWRsVmFUWm43Qy04ekxlQ2hhR040aTAtX1pxMzFheW1pWWo3SnRWb1FQc2RXM1l2cXdQN2RUTFE": 1793690126.3018007,
+"CNN|CBMidkFVX3lxTE12N0FjaDFmc01oUHJPYmQtME9TcVV3cGpqb3NkODBNY3FVOVBEYXdJV3BYeURaM2dhOE54TGNoTU9kSDA1M1NQU1lXcTNJQ2gyai1jQ0tiOFpqM201ajl6STI4cW9vS1NyOGdfUElKOGF4SkQyamc": 1793965041.7596834,
 "CNN|CBMidkFVX3lxTE1laVpZSXE1M2tmMURJOGFwNllaWlpWdmZiM2Z4R1duQWZaN05qZDVMUGU4T2pNdTNoU1BhcHBoWU5OUHBWQ0ZpMDlFTDJrUHFTTmFjbFFOM0I3ckR4SHRVMXZYMEpXaGRMMzV5aDBINTVZbHRyWGc": 1793664045.4470515,
 "CNN|CBMidkFVX3lxTE1uQmxJWXdZaDJWbDNJdDkyb3hhWjNGWi1GNXgyR19MTUkwd21kV1h6Z09Sekx0YmF1eEtCajFFMVBfM2lrc2pneGZEMWExMXhlTjB5dlluRTFZM1BiWXVMclZ0eVNsRDJiMnBiWkN6RVJ5QTktY0E": 1793780126.8665378,
 "CNN|CBMidkFVX3lxTE5NdGJDWkxlbUV0V1B1Zk82LU1CZFRpVlFmcTVnUlE1WUFjNlR2dldxOWdpbzB2aHpzbl9mS01KYlB2bm1YNllNZGtHdlpxSlUxRy02M0NQWU95X3owdHp3Tmg4eDJLU0FqTUdQWTg2aTdnMFZLamc": 1793963729.9137383,
