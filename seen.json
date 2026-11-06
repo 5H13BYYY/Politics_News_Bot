@@ -86,13 +86,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTJSNEVNREFCa1owQnhxaDl4Q0ZhQVJldGphaW9uZ0dEa09Eb2RIV2MyTWNmQ0VhczhkUVVINFgtazVocE9MS2hzTFd0cnVpQmF0ZC1TdmlpZkxiSGh6c2JPQkVOYWNIRFR0RHVfYWJPMFU2djNYaVY3Wm85OUItd0FEaVpVRTdzSm5RX0VnUDVpZ1NjcDB5bG5FV2tJQndQRTZFclI2UXBQNDJtMmJJVUFOUzA5RDBp?oc=5",
-"src": "Reuters",
-"title": "Politics of fear failed to stop El-Sayed's historic US Senate win",
-"ts": 1793824862.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanc1cmZwU0c4cmJPSjE1VjAwSHVMQVlFT3JZdVQyYTdETE1Sb0FxY3NZUXh1SktsZ25VeFZOY1dVWVh3eTdPTFZoYVhybTVuTWlnUTdnTC1hdFJLd09SZ3A5WGpWLWtkem1TMU13WW5JU19xMGpHeVNtQ0RGRHdHclJsblliSnM?oc=5",
 "src": "CNN",
 "title": "Podiatrists say these are the best shoes for underpronation to keep your feet comfortable",
@@ -223,13 +216,6 @@
 "src": "Reuters",
 "title": "Democratic victories bring historic breakthroughs for women and minorities",
 "ts": 1793835224.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenlWLWl2N0xxNHJERHcxdVhwY2xDWHlZZ0tjanRYRGhyNDFZXzZHZzgwUXdZdTdPZndKMXRyTVRIV1F6SS1HSkpBYWZreEdROGN1T0xRc1NTQlRkb2QtSlg5emNRbWxoN1JseW1Db1JlczRjLS1WWjdzS2tXU09UVWRHd0ZLQQ?oc=5",
-"src": "CNN",
-"title": "Wayfair’s surprise flash sale takes up to 78% off furniture, Christmas trees and more",
-"ts": 1793825040.0
 },
 {
 "lang": "en",
@@ -3177,6 +3163,13 @@
 "src": "Le Monde Politique",
 "title": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
 "ts": 1793953548.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html",
+"src": "Le Monde Politique",
+"title": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
+"ts": 1793954434.0
 }
 ],
 "seen": {
@@ -4381,7 +4374,6 @@
 "CNN|CBMinwFBVV95cUxNNzN5SXBpYldHeUtvejk4aXZJU3dzWklPSmRUNFY1R2xka2ZFekQzMDUtSGFwMEhrZEh2Vkk1ZndOZDZPZWRVMWdxTUxhcGUxNDJOd3A2YUczU1J1aTBsODhDdnJWQjlGQ2w3RGVNYVN1U0J3VEJkSHlLcDJUMVVnTVlvM3RUb0ZIWXBQWi0zcVZQSWp4U05xNFRSTzRENWc": 1793356236.2710125,
 "CNN|CBMinwFBVV95cUxNQTdMTkhOTVVuTWVET19JS21sSUlEenljOGNSWTkyN1ZMZjZINlk0RWlPMmV2bkJNZ3ZMS2xORzFNOHNPUUJ5eTRuTGNTUHgtdEw1LVhWenYyeDNMcVd3cDVqVHNoYm9kdW5USmRiRk50TUdxeW92a3BSWDlOOGJXdm5QQUVvYjFLLU5iTWlwdkFCR1o4X1hDREtmbEY5ZTQ": 1793872844.3695583,
 "CNN|CBMinwFBVV95cUxNQnVJOVFua1FUcUJPQzVOeGU4SEtZVGwzNklzRXpkcmpZa2huanp6a1dQOHNucnJ1VlB4SlBDaVE4dTJBM3hxeGZyYWRvYVl0SGVsWnpsc21fUnFlNjdsR0t3THJmOXZxZV9mN2NPV3htOUkxRm1Uek5Xa2JsN3RVd18zRGVKR3htYWtXcjBnRWRlT3U5aHVGcGhXN002MmM": 1793401239.1858304,
-"CNN|CBMinwFBVV95cUxNWE9aaWFhU1NncGkxVnVzaFN0TW11c1p4RW1UTHR2LVJEc2lGeWFDNUwyTWc5U2hoZGJQdW4zWmJjUXFPT0w5Nm5uTlFGSkd5SVVpTTFma2JSYkV2NC1PMUNoa3hybmhGR1NzajNBbzV2T0RrTVh6NUUxLUVxS2ZFYlNCM0FKeVVRVEtWRkI3V05hZWF4UEJIWC0yS3M2Rmc": 1793349924.5690713,
 "CNN|CBMinwFBVV95cUxNY214OVkwemQ1dzRkS1hKeFpZaUZ4RjU0bUloVlc3QTVad1dsZW0wa1VHV0pVSVlrOV9BUmZnTzUwRU1URDdRLU9pQ3g4eF9sVEhtQnp6VTRsMGZOQ1lUR0x0eXdYcFMtc0hfMUVQT0RReDBXTEtoQmRSTUNzUWxSQkNpZEdqM3lRNnM4RVJJcnVFTWYwWm9hcDFuNkFILVE": 1793467835.1706958,
 "CNN|CBMinwFBVV95cUxOOGJGdTVuQWdOODlPbUpNTUtxeVRqM05kSkVfMDdRSGttS1RYdWdBYTZla09TZF9UQlBFWkFpdXlxbndDUzVkQ0NuM0lRN3V3WnNhejZWOUhfcXZUWUhPTDBlSlotVTBUX1BDQWprQ0ZjQ2ZlQWgteUVQRmJDWTJRSjVKY19fVk9UMkRhZ3VmRzhIQktkZWRUV0g3WjZHb1k": 1793700938.6415973,
 "CNN|CBMinwFBVV95cUxOS2ZOWnY2QWI3d2FrWTZzOS1YQUxFaU1RM2Z2dndUd2JucVRISlpLajQyNVlUVnc1Q1I1SXlfdkszd0NlR2Vta2x5TFNZVEdnR2VoZTBjbHBSekxieUpEVUI4TjhyOHFoQXZLNmYwVFZnbjY1S2JmQ1ByQVNWWE1mVlBvTUdCbkJyZWVCbzUzQ1dVeWwyMnhSdElLajNNUkk": 1793921435.3123198,
@@ -4915,7 +4907,6 @@
 "France 24|5d1f3d42-d8d8-11f1-b363-ffc5dfdd6749": 1793862051.9766598,
 "France 24|5d248112-d6d5-11f1-88de-bb051938d231": 1793638851.5526173,
 "France 24|5e14764c-d6d8-11f1-8318-9d101b138952": 1793638851.5526173,
-"France 24|5f36447c-d437-11f1-afe2-63bdcf5cdee9": 1793349924.5690713,
 "France 24|5f721f20-d58f-11f1-b34c-d358b94fffbb": 1793503834.7319715,
 "France 24|5fc96d9e-d665-11f1-8207-d93a1bb72b3c": 1793608234.3447216,
 "France 24|631ace5e-d604-11f1-9e84-afc74fb3e6a2": 1793553327.12138,
@@ -5213,7 +5204,6 @@
 "Le Monde Politique|https://www.lemonde.fr/actualite-medias/article/2026/11/04/a-bfm-tv-des-journalistes-s-inquietent-de-la-banalisation-de-certains-propos-racistes-a-l-antenne-et-reclament-des-mesures-concretes-de-la-direction_6806368_3236.html": 1793811643.1557276,
 "Le Monde Politique|https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html": 1793438125.6435175,
 "Le Monde Politique|https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html": 1793942129.6444912,
-"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html": 1793349924.5690713,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html": 1793403033.9221654,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/02/en-reponse-aux-commercants-eprouves-par-les-violences-du-17-octobre-le-gouvernement-demande-aux-prefets-de-faciliter-l-ouverture-des-commerces-le-dimanche_6805243_3234.html": 1793620841.1183317,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html": 1793679328.0200078,
@@ -5256,6 +5246,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html": 1793739644.4340088,
 "Le Monde Politique|https://www.lemonde.fr/le-monde-des-religions/article/2026/11/05/mobilisations-sociales-les-forces-de-l-ordre-robocopisees-et-les-black-blocs-en-noir-alimentent-une-dramaturgie-de-l-affrontement_6807151_6038514.html": 1793898932.6974728,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/02/pourquoi-la-modification-de-la-constitution-exigee-par-le-rn-pour-appliquer-son-programme-est-tres-compliquee_6805252_4355770.html": 1793625329.831225,
+"Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html": 1793954728.9039888,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html": 1793376925.3028862,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html": 1793421927.1703074,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html": 1793896240.3177986,
@@ -5436,6 +5427,7 @@
 "Reuters|CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs": 1793914236.4647849,
 "Reuters|CBMiUEFVX3lxTE9VRjEyQlBqSzFybXpKR3pNQU16TXhZMFFrR1I3clpjYUxlLXFkcFVXM1dpamtVNUZEZ09Sd0c4NDNFcTgtd19VTWNOdzltV3RV": 1793727041.1358614,
 "Reuters|CBMiUkFVX3lxTE1IbE5XTnNhdG40WTlIODFIY1ZjWDNPeklOcFFINlg4dGxXNDJtVXVpUUVvLU5VUnNrb0JwZlNvUVZZeVA2b20xNldNLW9hMktDRXc": 1793946637.024797,
+"Reuters|CBMiV0FVX3lxTFBTclJiNkhpNXg4ZlphWUlaaGo0OGlkQU9uTU5EQW5qNTVxdE56V0VrZHVUS0RRRVFLVXZlTWFmUXJNb3pHXzJzbl9vOE9iSmlsMlM2TVYzSQ": 1793954728.9039888,
 "Reuters|CBMiVEFVX3lxTE9wUUhuTmxIM2hXeFRxSy1CVFhIQW5CZUZQeVEzNGtvU2x5TDNrb3NPMFJ3U3o5S0JHWjAwSkZpTUFNZTVJdEtXMnQzUjhRZ1NOdV9pQg": 1793743242.7584682,
 "Reuters|CBMiVkFVX3lxTE1uU09fUFA4bmRIUVNkSzVMcDJwbU1SRzlfS1FVa3JaRWpsck45eTBiM2EzaVl2STc0NTdQdk9RMlE4X29FMXVFSTk1OGJoSW9CMkpSZkhR": 1793502039.031816,
 "Reuters|CBMiW0FVX3lxTE9GeV8zdG1pbEg2STM3eTlnZ3dkeklwYlVPd0M4SlY5TXVXTElDYmozbmNhZHBfUnktZERyUDZ2c2lxOTBMbjQ0ck1mLUpRenFlNmhtVko0aXVpYW8": 1793592926.6184332,
@@ -5560,7 +5552,6 @@
 "Reuters|CBMiXEFVX3lxTE4zMkVudHMteDFyTGZVaWRZZkxwalJGNEZpdjBYdWljdVRpN2ZxcjA5MElJUUd0ZkN4dzVPcmFPTE5TNlNETTBrVjVDZGN5dWd1YmV0ZXVRdEVnWDFT": 1793740545.064657,
 "Reuters|CBMiXEFVX3lxTE50MDgxSkFiX0pES1NKdmxDTXdlcno2SDJBOGR0LVNVSWtDR01MLUhjRE0zZ0ZtY2QwYnpxUUI3eGFmV0R2UWF2bS1UNmdPRDFmMS1QMjJXTnlyOHBN": 1793600126.9012156,
 "Reuters|CBMiXEFVX3lxTE51NG5VcjhvVE9BakJkSmMwZzk1MWF5cFUtZ1BHaHVocFg3eERjLUdwakZlOFZOSVpKU0w4aHdMS2dZUVdOamx1WktRT3AyajhPcVZVTUhGanlrSmhq": 1793664045.4470515,
-"Reuters|CBMiXEFVX3lxTE51UGRoUnBPQUJyeHFfLW5xSm9taGtFWnBHRXZ3emdUTko5d29BZlItSG1DN29la0pwMGk4M3NPdmhQWHoyOXZQYVJtQm5DQXZrenQ0MEZXVFpQQjFX": 1793349924.5690713,
 "Reuters|CBMiXEFVX3lxTE51V01hUW5ZaFZ0TGdscHgxbHNrOEdDR2QxQWRCVUU1LUVIMUpuN3l3S1EzVU9ZMmtrc2t6Z0ozSlJfV2t1ZTdHNmpOYkhPS0lDWklXOGx1ckthanJG": 1793567727.2672374,
 "Reuters|CBMiXEFVX3lxTE53TEVmZ2FUYTdvd21jZlRBY3Y1YU5GLTdFRjdUWW03Q3J2djVrdXRjaDJ0ZWZ3amRBZXVLejA2NXR1d2tRdERCbS0xQXJKeEVVMWx0ZzFuM1I1ZXhs": 1793816145.300829,
 "Reuters|CBMiXEFVX3lxTE53bFZ0OXhrRDZCMkZUdmczdktsbnNOSVJzRXdFUmF1QjZEX0R2NHNISHpCU2g4SGJheEpYejNCUjdkenIzTURDbTRLTzZTVG5yZW5Dd3V0enJNcXhf": 1793681127.5998273,
@@ -5597,7 +5588,6 @@
 "Reuters|CBMiXEFVX3lxTE5UNnBPZnVKXzhaSmdHY2pzSkYzek1TWG5FNWlQSGFPd2NVTmlLaDNCQXdtTDFha3BnNW5EMDRaeFBDZlJ2czVKSllJYmFzc2QxX0JEQXcxTkNuV3Vs": 1793591127.2921674,
 "Reuters|CBMiXEFVX3lxTE5VMHowamFpbzFsU2VYOHF1VGZIem0wUjcydWF3WFFjdFpoX1MxZXpXT2NQem12WTU1Rm81TDBadDB3Q05FdzFkRHhHUDdYY2tZOWNNbVYyMEh3S3l6": 1793615435.0154443,
 "Reuters|CBMiXEFVX3lxTE5VZjRCd0ZmWFpKUjhjN3RwTWZ1TGdXTzBSc05pZm83UktYdTZKSG1UM1A2MVpvR0JwM1ZudmJYei14UXJpZlpJNmN6U1VmUXNMRkxJcllqY3hVVUZv": 1793421033.0693376,
-"Reuters|CBMiXEFVX3lxTE5VcDFWMVVkT2lWa2ZFbW01al9zWVpsNU01X2ZwM25TWHIxdTVhQW1IUjVDZWNDbTVxMDVDaUxGRVhiMV9WQ2NXNWlsRFFvc0pYSzdNWkpCaExqMkRN": 1793349924.5690713,
 "Reuters|CBMiXEFVX3lxTE5WLU5SUjI0YWZGRzM3aEE5NXYyYk9WQ0pJbGo5MjBWbWp6MHNzSjRUeDdnSldwaVhGOFllXzBfaTNRbVJxVGdDWFozWWFKUUcwVzd2bmhpdDBEVE9i": 1793724330.1392367,
 "Reuters|CBMiXEFVX3lxTE5WeFJMUC03YWZQMl9TUUIxc3RramZmRmxKNDhWQ2haeUtwUU54XzJaZVBDVVNoWkY2LUFaZWgtaHJ4Z1ZWUGlrcWN5Y1lsWWxMNDJCOFJBUlQxSGtH": 1793657728.1604192,
 "Reuters|CBMiXEFVX3lxTE5Xb1ZEQTl2eHRSQmtYb202UWNfZGJLWGFhOEtjY2ZHaXBQengwTFFod2dKODR2WXN0bUswQ2hWallMMUtkMUdNMEg2bFNOZEdpVkFGRVB1WTVJUk1U": 1793556924.879115,
