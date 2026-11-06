@@ -9,38 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RN2ZTbzFpOFBid3k0UlI0UlljdU9fa2VmSW5mVE5wT253bXhtdWJOc1ByOHdNUHBNUGl4d0RLNVAyUW43anFMUUtVd1FfNHRKNktXNG5KdDBQTGpsbkttbTlVODA1N0FxOWh6cWJzYWROaUNkSGQ2UFZR?oc=5",
-"src": "CNN",
-"title": "Bomb threats hit several flights in Europe, reports say",
-"ts": 1793872877.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/05/incendie-de-la-mairie-de-limoges-un-suspect-maintenu-en-detention-l-autre-remis-en-liberte-sous-controle-judiciaire_6806847_3224.html",
-"src": "Le Monde Politique",
-"title": "Incendie de la mairie de Limoges : un suspect maintenu en détention, l’autre remis en liberté sous contrôle judiciaire",
-"ts": 1793873135.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xSkV3Q0RldHFObndJZkYybUQtb3BoUGhUUm5sMDhiNS1mTkhTcnAwWFpTTnJuUGswMGFnR2JuWWszNFdkOGVtXzRXUFhMelpa?oc=5",
-"src": "Reuters",
-"title": "Why Trump's midterm blues mean short-term gain, long-term pain for China",
-"ts": 1793873501.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDFjYjYtM2VOUFZjZVQtQmRreTlWeVpKMHBQZHd1eWFDdkFhQXdjd2E5ZHYyRzZQX0J6MVY3TzNqeE1mWkJoeTlHNWhtNFN5WmNGWHppNXlzWXQxMExuaTlxNG9rcEpJSzR0NEZFYUNGVUtrVS1aLWFtS25Rb3AxREswbllWU2lLTVlaTDZQNFdBWVlXdmc?oc=5",
 "src": "CNN",
 "title": "Law enforcement bodycam footage released from shooting in Citibank Center",
 "ts": 1793874183.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-"ts": 1793873091.0
 },
 {
 "lang": "fr",
@@ -55,13 +27,6 @@
 "src": "CNN",
 "title": "Cristiano Ronaldo retires from international soccer",
 "ts": 1793874852.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1J0bGZ1bDNUbGtZQVRjSldJTDRwaWc3UDdselByaElEVnFlWnVsaG1VRzFHRTFQbk92SEdUR1hKb0NMQVBpenVYT1VtdmJaUWoyZFB1QW5lbkdXWDFkTjNaTVpaM2NGTlFFU1hmRWxyMnNndUxFZEVyQUtzUzZyOUtTX1ZSMWtVbl9PV085UXRGVDhLYTJR?oc=5",
-"src": "Reuters",
-"title": "Why Trump's midterm blues mean short-term gain, long-term pain for China",
-"ts": 1793873625.0
 },
 {
 "lang": "en",
@@ -86,24 +51,10 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUJYYmVDUFUtVm9PcnhyeTNudmN4S2pFUFFRczl0YUtOM2RJcnZ6eExqR3JnemNKNnpScGYxdHhmeTBZYkFMLS1LTExjMEZlYThXTS0zOG5LRi1zTUViaEtvU1B0eUtqVFE2VThmSlZ5U29ISG55MF9PZG9sUzczMWpkUVdKVDNNcXpfYlo5eXdKU2FiX1E?oc=5",
-"src": "Reuters",
-"title": "Why Trump's midterm blues mean short-term gain, long-term pain for China",
-"ts": 1793873625.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45eE5aUXhYMVFkZ0lRNzk1UTdrUkFYYkxGdHVVMlE3dm9OaXAyQ3ZSWGl5ZmZueUd3SXgxU1BLNUE4Zm1sUy1WaGdpb05aZDZHbHhmT2EteGRpWmFZdFJCUGxWSTQxWW90VEdVZVBHZDZUYWs?oc=5",
 "src": "CNN",
 "title": "America got the anti-data-center wave it voted for. Here come the economic consequences",
 "ts": 1793876415.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
-"src": "Reuters",
-"title": "OpenAI kicks off charm offensive to change voters' view of data centers",
-"ts": 1793873401.0
 },
 {
 "lang": "en",
@@ -139,13 +90,6 @@
 "src": "CNN",
 "title": "‘Incredibly exciting’: Mamdani on El-Sayed win | CNN Politics",
 "ts": 1793878260.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTFRlOG1NVGhnei1iX3VhN3IyeWNic1o3S0ozaGNUWFJ4TmJBQ1NhbllWc1BjVmpSX1d1XzVNOVJSMDFRNVh2VGRadGViMjZTZUxfeDJaVDZ2LVpvMlF1N0lhOVN6NldfSEp2OUNHVExsemYzQWpjQ0xn?oc=5",
-"src": "Reuters",
-"title": "Why Trump's midterm blues mean short-term gain, long-term pain for China",
-"ts": 1793873625.0
 },
 {
 "lang": "en",
@@ -3723,6 +3667,41 @@
 "src": "CNN",
 "title": "AI's Growing Threat to Girls Online",
 "ts": 1794002320.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
+"src": "France 24",
+"title": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
+"ts": 1793989083.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHYzVFVHQ0JQV0Zoal9ybVUwVGZPa1Q3S09oMlRYVHVwY0pCcVVNX1lib1lFV3VCZF9GTTJaSXdOY2ppSjA2R1NCWURlZl9IekN0em96RXhMSVl2ODVpektEd19ZUnRWemZqM3FOeWlJNmhZdGlNbGdjVFFqb1daQQ?oc=5",
+"src": "CNN",
+"title": "Cornell Faculty Senate approves no-confidence resolution over university’s handling of sexual assault crisis",
+"ts": 1793998212.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini",
+"src": "France 24",
+"title": "Cristiano Ronaldo et le Portugal, c'est fini !",
+"ts": 1794000603.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkRSQlk0VlBGRkhTZk4wT2hQa3FOWDlOcE0zdWtjRDhBZ0N3YTUwajNyYmdtSHVfX3dONmVMV2pycTVwNjltOFE5R1hhakVhNDF1UVh5NFljM1BXZVRrWVhsakVlaC1WSjdHVFg5OTZlSEs4bXhJUkR0ZTBhbkJkSA?oc=5",
+"src": "CNN",
+"title": "Trump goes full Trump with his new chief of staff pick",
+"ts": 1794002429.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUJNWXQxNG14YWJLTmlwbEJqRmswQ1JweEg4czJQQkRwSnhZVUVtMnVnWGlqUXRMRUxnc0FsODAzNkVBdjU4aXhkSFpoMWR5TFVsRWpOMjJzYkFUa2c2cHhSaUttbTQ4Y2ZaTEhLYVQ0eFZScjJIWmsyMGR1c1pKZjYwRHMwWjdQc19DWmVUenhIdHc?oc=5",
+"src": "CNN",
+"title": "Trump Replaces WH Chief of Staff",
+"ts": 1794002774.0
 }
 ],
 "seen": {
@@ -4372,8 +4351,10 @@
 "CNN|CBMigAFBVV95cUxPTk5VNVlHdmZpanJYNjlqRjFOT0s3bk01NldWYlR0N25oTXNkUlpkc0VJd3pmZW9JczF0TU5QRmdtU3VSNV9mV0VRMG9JZlEtUXFScktfYWYyQXhIZHVyMEllZjd6U3hsWDlLQnA3X2FSV2dZLXlrbVNDSWcxNFZBMg": 1793811643.1557276,
 "CNN|CBMigAFBVV95cUxQME9oblJtdEs3ekRNanlZVEdueHMtRzNTcVYzMVdtaEJzbHhHeTNwMzN5b3JOdEhtUWtEMWJTU1BYUXI3ZHhtYWlnSXdPUkU1dFM5cDA0ckFtcTVkS2lRRDlxV2NsMHJRZmlVMkFLZldqekU5eWFhaEpDdmhHVmszWQ": 1793533529.2326972,
 "CNN|CBMigAFBVV95cUxQMUhyQVdVdTBHQVZGSWxhajlXWEpmZGt1YTJ3ZGtSTkhkRXhjVHZYb0NiMWJlcDNSNVBOVUczTFoxODV2QW92cUtCQkY3eGcyelEyWXB6aGExbVN4TjgyM3JCSkZPYUw1dnNtYTduWnJfYUhRLV9UZ3ZxQTVzTERpTQ": 1793986239.1840727,
+"CNN|CBMigAFBVV95cUxQOHYzVFVHQ0JQV0Zoal9ybVUwVGZPa1Q3S09oMlRYVHVwY0pCcVVNX1lib1lFV3VCZF9GTTJaSXdOY2ppSjA2R1NCWURlZl9IekN0em96RXhMSVl2ODVpektEd19ZUnRWemZqM3FOeWlJNmhZdGlNbGdjVFFqb1daQQ": 1794003327.1734498,
 "CNN|CBMigAFBVV95cUxQQmZFVTk5dmpvX1d0SXBaYkJNYklxcmpSYVZKeEVfRXJUVWRMakxybHVMaEdTTElMNW5uNXAzWGhoSHYybkFHSHk3U0h1bWI2SGlNb2tLcy01a2pjd3lTZWNZVmpOYWdSaE1SUFlTdUpNT0JSdlB3UGdyWGJ5OC1CTw": 1793755839.274925,
 "CNN|CBMigAFBVV95cUxQT1JNZkxENzk2T0dQSUU1ZGdBM1YyYUxQSDZXN3U1ZWNLcDB3NnlkSjZsZF8wczFtdWdvUk83UXhQYWNVU0U4WHlaU014bkNCS3BObDNjeDFPTDJ2V0l4ZGg1LVJUYWpjYU5aUVZJWF9DeGRtRkFtWUJ4STk5dDdiTQ": 1793819726.7040253,
+"CNN|CBMigAFBVV95cUxQYkRSQlk0VlBGRkhTZk4wT2hQa3FOWDlOcE0zdWtjRDhBZ0N3YTUwajNyYmdtSHVfX3dONmVMV2pycTVwNjltOFE5R1hhakVhNDF1UVh5NFljM1BXZVRrWVhsakVlaC1WSjdHVFg5OTZlSEs4bXhJUkR0ZTBhbkJkSA": 1794003327.1734498,
 "CNN|CBMigAFBVV95cUxQZ1NYemRRYld2TXBHY3llSWE2blFWNFEyd0doNWE0Q1JILTRBcEszemNPd2NKQUtzUGFGMjBLTHVLVUQxSVp6Q1FHZ2ZkejR1WjhsT1p5WDQyWnV2akVfU2MzRVQtSDRrNU1STnZfYVh5LVhCWVNUMG9seFF1dU8zYg": 1793529033.7633073,
 "CNN|CBMigAFBVV95cUxQbjhVTTRfX0VEalVkYUo2RWtXSFllWFVQZVdqSlA5eGhRWUgwYVgwQXBsMjAxdC13STNHRk5XLWhuZ1NsaE51bTFyMUI2UGg1bXpqakx4SUo2aEtKZ08wRGczbmMtX2IzZUx5aTF2Q3VWTnVrc1VlX3NJOVVxbFBtOQ": 1793829641.4600422,
 "CNN|CBMigAFBVV95cUxQc1YtM2VIeGVrRlBqdktiM3hLWmkyR1dzQXhMcmlMQkFsdUNHSk5UaTFGSmh3MXQtR3VHU0lSUGdaTzZNajRPbHdTcWlTWlJZMlZOeTVMV1NyUkZwWHg1aTBnQ2g2QWtKLXVuZVcwcnpNTjU2SlZ4aDNSeWNYenFiYQ": 1793740545.064657,
@@ -4455,7 +4436,6 @@
 "CNN|CBMihAFBVV95cUxPNEpsMXdlOEZXMXpqdE45c2twTWxoUWdFZ0hHaW1hVzJfWlJNTndya3pQRjJMOFJmNmRUb25sOG9heDZwRVpsSGprQ01GYUpNR0ZybkhDM1NCSDAzVF84YnNVZFlZOWNadzQ5Qm5HdDFFckU3cW5Jc0xDZVBDN2ZtNmQ0bVA": 1793539835.1813073,
 "CNN|CBMihAFBVV95cUxPNHAyenloZW9TLWRGamhPOGVWemhveWZ4SmZBUGM2c2pDX1pWZ24xM2pJbmljaXVOYXZaX2Vhclp4dWp4Z0oyNGtQRFNETTdBVkVXdTRMZGgxcks0MHlQZU5vZjV3NERjeVd5ck1OekZCVXVzb1E2STMwWWp2cWhKUTFJZUI": 1793919643.308997,
 "CNN|CBMihAFBVV95cUxPQU9wNTJvemVMSURuUU1uYXU1ellGZnp2Z19sS1NkQnYtX0t2dGl6d1RsZVJtdmozakh4WU5JMEV2WXAxaW9oZjcxU1lvMElPX3NNeGZUQzJzcTNJa2ZMV044Wk5yZU1jYklNcVJuYnhCSllyaWx2X19tRGl2cGVzRWhkSTc": 1793544325.066847,
-"CNN|CBMihAFBVV95cUxPSzhvRV85QnhZYkRNajUzVFd2d0g3eGpkVXdsSzhETmpOR1ZTMWtJS1N6Tk1ZTDFYaXdBbTdFYjJRYnNUYTZ6RFExNUc5c29UUEN1dDJzUnZDQms1TjlDTWZ5OTlmTmpZejM3ek5idUpXLWVWVTNLMFY2dmg1VUcxY253eGI": 1793398525.201972,
 "CNN|CBMihAFBVV95cUxPUzZDUm1vdXpZQllyQXk2OF9kUUtsRWl3Ni1WQzF0WGowWWNxMmYtYWplWmpsSEQ0THJRdl9UeFBzQ2xTNVhhLUlfVVY4MHFadGhyNjdUQjBXRUJEdTBOd2ZyR0NnUnBXSnVINFIxVnBOekZvenQyUXhXQ3hzQmJxRWpPdVA": 1793748635.9995825,
 "CNN|CBMihAFBVV95cUxPWW55NzlrNHdYWnQ4MUZzTnFFMUZRVVpGZE5rM0xTRXhaNG9zZnhrRmFPLUFaNi1PY0xHMk9lZ1VLanRmSVJSUlpEWldUV2VvTFM2dVpmOWdnRmktUDIxcmNZSnVtMmNrb1o2eUVHTEVMcndQbkpWbUMyV0Y3dFJ1VlV1bWQ": 1793718042.8529985,
 "CNN|CBMihAFBVV95cUxPY0JHWDNFcGhEWk5ON0JUNnh4WnNXWFRSQXRkRDhiaElxc3Zsa1dtOUFZNHVnWXQ0cEgtdGNsT3h6U0RMc2w4a0lPOXR0dFp1QnJRQmhNeDFfNWtxRXZnWWxKVC1BY3RqbkNMRm95SENDajBvdWo3TW40YTJTX0FwMU0zemI": 1793490325.6091304,
@@ -4725,6 +4705,7 @@
 "CNN|CBMikgFBVV95cUxQcUpibnVmb1N4cWkyN052VTlnSGlZSUJNekFPbzZJRklORElqTjFzTG9TTVFYQ1NBN09HamFjLUxsZU1XVm5GdnMzM1h4QVZBcF9HXzVoRGNXdm9SdklKVWFZVkJ1ZlN1YWRsUngweTI2WDROdFk5OHMzQmROcmdhS0FfV3BXc2tCYkd5c1RwdmNWdw": 1793639730.2889812,
 "CNN|CBMikgFBVV95cUxQcW5FdmdpY3VLMjBucUd6cGl0OXpJcTh4X1RPY2IyRUZwQ0FKQ3gwalNvdm9DZjF5VlRkUFFrcjhXVDBFMjV2ZHA2a3ZDYzNMY09maE5sR051czNadDZHdk1jN0ZOZFd2dVJZRUJfRm5iZDNmSExIaFdPWXNGNGFUUDIxRDdVbC1WMzd3dVFhZmcyQQ": 1793510127.889054,
 "CNN|CBMikwFBVV95cUxNLXA3Yll6QXVYYnFKamZnTmE0MFpiNGc4MDlrdlZrOXgxOGVYSVk0RGNXR3QwU3l5Nm1yZDg0ZW1zUjZHMTRIa2ozbEF0elpLbmFNYzk3VGEwc2szRHBfbndzcjFlYnVmbVFhZUZEbkNvVE10MjhhaUtaOTNBQkxkSDNEV2FPU3VNam43ZWI2TTVZZ1U": 1793959243.133397,
+"CNN|CBMikwFBVV95cUxNMUJNWXQxNG14YWJLTmlwbEJqRmswQ1JweEg4czJQQkRwSnhZVUVtMnVnWGlqUXRMRUxnc0FsODAzNkVBdjU4aXhkSFpoMWR5TFVsRWpOMjJzYkFUa2c2cHhSaUttbTQ4Y2ZaTEhLYVQ0eFZScjJIWmsyMGR1c1pKZjYwRHMwWjdQc19DWmVUenhIdHc": 1794003327.1734498,
 "CNN|CBMikwFBVV95cUxNNHFZenZud2d2WDhJYS1lVUliMWJjNHhNS2p3c0JEYW5Jb1FNaUFld1N1Um1BY2NKX3QxZUdEMU45N1E0bHpJUmE0YTBJek1fTUxVWDRZV0U3aDRPcS1XUkY3T29nRkdkSTJYbHlIanhsSU1KZmptV2pKVGx1M2xKYlkyLUJaM0hENkhGNEp4WWpaSUE": 1793526326.744078,
 "CNN|CBMikwFBVV95cUxNNHhBcmJIMGtvY2doMHhEbkJKT1EteFB1OGdrUXZpSHotc1hlV2IyVHN1Wm51ODd5QzFOOGQ1QkR6M1IzcVZUcWlCamV1ZEl4dkwxazEta0RwZWRFYUJvOXJ5cHdkMDRMZXFkUUItM2h1WW96RHMxTmN2Wlp1QS1wSU4tTHE0SllEOHBkNmlqck9ZMDQ": 1793823327.911587,
 "CNN|CBMikwFBVV95cUxNOUg2VTJqdDVSLWxOQ2dGbTZORFVsQjVuamZ4YzRvYXBDMTZocjA5eE9nMV9TbFZBTGtlU1VSNVlyRTgzWlZpN29CN1d0eE41OU03UjFUUHNaU2lOUThTTGpvY0dMamRRNHhtakVoRjVWT3o3cHVzRV9ybDQzc1NLWFNuYUpDQnhQNmdBbk9rUHBLREE": 1793745927.5019722,
@@ -5424,6 +5405,7 @@
 "France 24|5b9b6b5a-d6a1-11f1-8438-19e893148563": 1793615435.0154443,
 "France 24|5bb62c78-d8f5-11f1-9449-153895ff218b": 1793893530.0574546,
 "France 24|5bcf09c8-d76f-11f1-83b9-c3de389a8f40": 1793709036.18167,
+"France 24|5c7138b4-da27-11f1-9188-b9570836feb0": 1794003327.1734498,
 "France 24|5d1f3d42-d8d8-11f1-b363-ffc5dfdd6749": 1793862051.9766598,
 "France 24|5d248112-d6d5-11f1-88de-bb051938d231": 1793638851.5526173,
 "France 24|5e14764c-d6d8-11f1-8318-9d101b138952": 1793638851.5526173,
@@ -5443,6 +5425,7 @@
 "France 24|665fd562-d92b-11f1-bb20-379f31e9c342": 1793894457.3766804,
 "France 24|6675c112-d6b3-11f1-b51f-4f82dafd661b": 1793624442.8175824,
 "France 24|67a4b66a-d9e7-11f1-9418-ab455b9fe3ea": 1793981730.92988,
+"France 24|686b57ee-da0e-11f1-ba1a-a11893c19f44": 1794003327.1734498,
 "France 24|69e97110-d855-11f1-ba27-e319df058467": 1793804443.416912,
 "France 24|6a677692-d840-11f1-a042-679be0b2bf7f": 1793795444.3442256,
 "France 24|6a7005f6-d7a4-11f1-bb4c-736a56f79a0f": 1793727041.1358614,
@@ -5691,6 +5674,7 @@
 "France 24|ec1373ce-da1d-11f1-912a-5fe0609b2ee3": 1793997928.553598,
 "France 24|ec308c10-d90b-11f1-8739-d793f4a2650a": 1793956528.307193,
 "France 24|edb9d350-d86d-11f1-be06-5f1065d6543a": 1793811643.1557276,
+"France 24|edf5d3b6-d9c9-11f1-bda4-5d200ca5a9a9": 1794003327.1734498,
 "France 24|ee15a44a-d616-11f1-ba75-af941925ed70": 1793557833.5550513,
 "France 24|ee84ba68-d910-11f1-b24e-d59b4c6741e4": 1793880927.664138,
 "France 24|eeed1362-d87d-11f1-ba47-257b1053c580": 1793817933.610707,
@@ -6514,7 +6498,6 @@
 "Reuters|CBMiZkFVX3lxTE1zTXk0N0NvR2xXdWJWVURDdWlSTFAxSUlRU21KdlpXOEhCTFpUSlpiMVlna3dSR0dYZFU5Wnc1Wm5tZ1JqOUY2ZS1kaGEwbHVMTU5UOEg5bWZPekhVbTNIZXExMzRydw": 1793991645.950868,
 "Reuters|CBMiZkFVX3lxTE5DTUR4bkZ5MW84QktueG9RV2FUdHF4bERLN2Vwd0w0cXBxQWV5X1ZNSmp3SEFpdGdSWjFyaFFPUjlXOUhEdTRRVWN0R1dnanE3clNabF9wTHBpd2tNNFBNelAtQmpBQQ": 1793584505.2099426,
 "Reuters|CBMiZkFVX3lxTE8tdkkwZ1RjNEpQQXJHY01Hc2FMeDdIM3RMOXdWS3BMYjN6SFRwQXlZZ2RwczJjUTBSeEptNURnTkN3U1FVcnFlU0h0N0I2SkgyNVBzVkZBSUpoUGRob0t4ajUyLXJrUQ": 1793649641.337044,
-"Reuters|CBMiZkFVX3lxTE90WGxNUk80eUN2M21XV1UyU2VPdUdZbjBRUzlfZG5JaEk4dWUweUlDRmdsSFU1dFBNWEgtN2pqRTRSR0ZuTURramVWa3NqZDNlSTVXZzkxMzA2M2ZoSEE1S05LQzJOQQ": 1793398525.201972,
 "Reuters|CBMiZkFVX3lxTE93YzBhRHBNb2VINXpZcU5LOE1BUmZkOGRld2xzTE41aGd6MnFGODRvejNrSm92a3E2cHVzR2ZMd0w4MV9OdlRzYTBsZHQ0b09FYmlDMXBJOVhVdWdHaGtWYm9pVUpXZw": 1793996130.9975154,
 "Reuters|CBMiZkFVX3lxTE9ORDdOOWp4YUJrcWVHY1FuVXBYYlFtZ0lHV3pZMnJ1VVR6cmdFcFNOcVF0c3V4YUlGbDFqd213bWk3ZGpxWWVYU3JLMS1oX1I1U2k0ZkV1TlRsdng1RXNxS0s5TVNFQQ": 1793407535.7132185,
 "Reuters|CBMiZkFVX3lxTE9SanB5bDktN1dKTXktd0VpMWZyQmx1MGotNDBLcWptQXB5d0xQWmhBNFFMSF9QbEUya01WUEdaN3U1ekx1NXNjdEpqbF9VTW5jZVU5ODVxNEgyVVdraXF0Q1dDbzUzUQ": 1793456915.4362366,
