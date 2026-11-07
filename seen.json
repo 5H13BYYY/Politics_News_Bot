@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWlVOGtsak9GbTU0RE41bFBaVjFRaG9YZHRLUVVsRFROTExwNHlNN0tIOVBmQW5YdTM0b1ZhOVBMSGFPZGt2WDVTLWZNQU9JMzlMNTVVQVcyUkgzSVJNNXJPWTJkZklBcTU4TU5HSkVTWFB3aG4wS19fSHQyb0EtWl9HQm8tTTg4aEktaw?oc=5",
-"src": "CNN",
-"title": "Trump says he’s declaring Oval Office and Cabinet Room national landmarks to prevent future changes",
-"ts": 1793916721.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0ZnREZGQllHaElsa0lMWjdXT09rRXhZVGVYdHFpTXM4bWJiT0UyM09JM3NRMmlnT0c0bi01cnNrcXZPSURmY3p4MG1kR1hHd2pKYTdwTE1VY1ZiQnQ4cDB0VjRpVHh5NTBlcXlJcUlEYkp0eVAyYWxidTFLQXlpeEV0U0JGT0U?oc=5",
-"src": "CNN",
-"title": "Trump says he’s declaring Oval Office and Cabinet Room national landmarks to prevent future changes",
-"ts": 1793916721.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dXdpZm9ySHA3WkVkVlNhTXpFQWVCOUV6TE1fQWU3X1Z3aWthc1htWERrU1dwRWxhR2x0NEM4RUM0aEpWR1ozLUpqWDdHT0xoVVhTNnhiVGRaeGZrYkZ0NE82d0xoUnAyS3hvNC0zSi1ZUnBSVlZRSHl3?oc=5",
 "src": "CNN",
 "title": "Melania Trump touts peace as president revels in marble | CNN Politics",
@@ -195,13 +181,6 @@
 "src": "CNN",
 "title": "Democrats on verge of biggest House gain since Watergate wipeout",
 "ts": 1793931470.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFlFN3MtV09uLUVNSHl3TzNQVVp5bU04TFdoYkRjaWlDRkdjUHZrWEdGR0F1RG9oTTROZ3F5amFLM2UtLUlPbnZfd2RseHk2UVVDdlJnVHRraHlRSUttSWlLUTFaY3YzdTJGeWVoX29lbFJxR2ZVSVVfVUVZdVJrTjBUSi1GUWNzc2Q4ZjJfOThEdjlJX213a19XYTNOS1JNRFFRLTByMU1RaTBHWlNsUjUyVW9Jc2U3X2xIQkpPei12Wnl2bkVocFB3?oc=5",
-"src": "Reuters",
-"title": "VIEW Canada's budget uses higher oil revenue to spend on tax incentives, infrastructure",
-"ts": 1793916583.0
 },
 {
 "lang": "en",
@@ -2652,6 +2631,20 @@
 "src": "Reuters",
 "title": "Indonesian workers rally for Prabowo as women march against president",
 "ts": 1794044625.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+"src": "France 24",
+"title": "Israël : Eisenkot bien placé pour former le prochain gouvernement",
+"ts": 1794045974.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261107-pour-2027-lfi-pr%C3%A9sente-un-programme-fid%C3%A8le-%C3%A0-sa-volont%C3%A9-de-rupture",
+"src": "France 24",
+"title": "Pour 2027, LFI présente un programme fidèle à sa volonté de rupture",
+"ts": 1794046089.0
 }
 ],
 "seen": {
@@ -4261,6 +4254,7 @@
 "France 24|29270078-d83e-11f1-8f6f-e7cd255a4844": 1793791834.3544168,
 "France 24|2a153b7c-d7b6-11f1-aae1-375dd8e0dbc0": 1793731548.4759955,
 "France 24|2a21646e-d811-11f1-b1db-678ce8d9bb41": 1793772039.2916944,
+"France 24|2b4c2604-da90-11f1-88b2-25f2124a035e": 1794046478.3479567,
 "France 24|2cc45d3c-cc8d-11f1-b525-a576def4772b": 1793503834.7319715,
 "France 24|2d81adc4-d796-11f1-9de9-01d0f793f008": 1793720728.3320498,
 "France 24|2da52008-d875-11f1-9e2f-239a1c1c4d8e": 1793817933.610707,
@@ -4321,6 +4315,7 @@
 "France 24|48ff23f0-d814-11f1-8b70-676678dd63c1": 1793772039.2916944,
 "France 24|490703ce-d6aa-11f1-9b4e-654d0198f442": 1793619925.4618921,
 "France 24|4ad38f88-d92a-11f1-8539-35412243c7d6": 1793894457.3766804,
+"France 24|4c9b02f0-da8e-11f1-a4ba-4fdf8cf5a0aa": 1794046478.3479567,
 "France 24|4cdffbf6-d76b-11f1-85ac-c31f94e43b83": 1793702730.0036893,
 "France 24|4dacb1f6-d873-11f1-b4b5-3dca16061446": 1793817933.610707,
 "France 24|4dc4ebb2-d842-11f1-9589-535344b6213d": 1793794526.105261,
