@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
-"src": "Le Monde Politique",
-"title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
-"ts": 1793941230.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-la-mobilisation-sociale-le-soupcon-persistant-d-une-censure-sur-les-reseaux-sociaux-des-gens-se-font-supprimer-des-videos_6807727_4408996.html",
-"src": "Le Monde Politique",
-"title": "Avec la mobilisation sociale, le soupçon persistant d’une censure sur les réseaux sociaux : « Des gens se font supprimer des vidéos »",
-"ts": 1793941238.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1RxQVlfRVBLY1R4ZjZUMFdsaXlwaWFmYjBidGlMTlFFWVRmLXo0MFd4Y0E2TG56NnhfUkozWEFjXzQ1WE5teFFjQ25qa2x3RVE4OWFjbUxodEROY2Znc0E3SmtWcWVhQlAxbUpTd3psUXB3TkNqcDNyb1FFQmllRWJOVVo?oc=5",
 "src": "CNN",
@@ -2701,6 +2687,20 @@
 "src": "CNN",
 "title": "We tested the 3 best foldable phones that are actually worth your cash",
 "ts": 1794063780.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Faa0FtbVlsYTg1bVJmMjhoU0JTa1BxaVBhNUtDTHFRTW9QTnl3VkxUTEZsNEdyd21zRVFDMTRWYUNpWmtvdDM2NlJRQ2xmNzFnakg5cXNGSUE1STZSY2xwdkgtcDlZX1dBOVhpdGJ0dGRQRlJEMjNIcEFsX1UtU3NNU1hGTENjeHc?oc=5",
+"src": "CNN",
+"title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores",
+"ts": 1794051015.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wMkFOc2xCQlhUQlhTNEVodjYya2h3ek12WUs2cVEwaEVZM1UyOVNqTk1uMTB1cDJBQlBNeWZRZU5qaENXWGtlNGplOUdkRUVUSU5xZkFsOFBFQ0NlZnpaUU0yQzFVMUhxbGxsVTNGTW9RcEJkSE1lM0JVaGQ?oc=5",
+"src": "CNN",
+"title": "At least five dead in shooting in the main market square of Krakow, Poland, police say",
+"ts": 1794064547.0
 }
 ],
 "seen": {
@@ -3284,6 +3284,7 @@
 "CNN|CBMifEFVX3lxTE1rT24yUHlfaHNrcWlqQ0hMSWdSelVDaEdudUM0ZFhXb0hod0lRMWtpLUhQQWJFb19hVFdhN0l1X1Q5SHNrVDRRbzBUNmZ2NFFvLXNSUVk1aWVNZWs1Ny1waUhwSlhNc0xSUDVJalRDT0NGM3dtTXNVaUZ1UGg": 1793979927.2632744,
 "CNN|CBMifEFVX3lxTE42WWZaMDlmVjVkRWphbmZGWEQxYUtlUk9Kb1RFQ09wb1NrRXBHSHZkeFdGbGVuRHlTZTl1VVNsbVJUMmNmOUd0ZXNkX3hZTkNuQjhBMHVrbDRSR1FIZFpldFBnZ29aakdaYjlPczNXdzFQWmlBNjhQSDlqeEk": 1793636127.2263277,
 "CNN|CBMifEFVX3lxTE45VHhOXzlHU0l4ZmtKSmdWTEtnVmhaVXczWkgxbGtvVEd4LWREbzBQQjlXQTYwd2p2bE0wSnUxWjlhMV80Tk81XzRkckxPU21EU3BrM3IydUw2NlZUeUxWMkNvYkxuRGxFcXphNGpnTWZsNjBrX2h0Rl9KWmw": 1793652327.983431,
+"CNN|CBMifEFVX3lxTE4wMkFOc2xCQlhUQlhTNEVodjYya2h3ek12WUs2cVEwaEVZM1UyOVNqTk1uMTB1cDJBQlBNeWZRZU5qaENXWGtlNGplOUdkRUVUSU5xZkFsOFBFQ0NlZnpaUU0yQzFVMUhxbGxsVTNGTW9RcEJkSE1lM0JVaGQ": 1794070844.9715154,
 "CNN|CBMifEFVX3lxTE4yVXlmRkJxOFQwc3Y2SXdCenIzamJSS21RTWVhNGFKZ2lZWkZnVlI2RHpHUjZjN0FMdzQtSlR5N1dvY1lpTmdlaVlkak83czZMcEppT3F3WmJPU1ZtSGdTZ3dfT3I1a3g0OXJQYnZSVXBoRGl6VmFnQVNaazE": 1793535326.5361006,
 "CNN|CBMifEFVX3lxTE56a3dhMU5tUU5ZY0JRUWZzSjBKMkF3YTJiTlZRdnlheEpta3NRLVZHRzd1TjRFUXo3Qk1DZGN0ZHd2SEU1RHExM1U3LUMtbkVzMmtoaDBWdFpFa3l5UXdzZDU2VjFTN3NPMjhrSExUNXlCUUlUVFFCZ3kzYmI": 1793671241.509678,
 "CNN|CBMifEFVX3lxTE5FYnJGaURlVzVOUmptbjFkTEdSUXVTRVFKTnhONXdCanVEckRQV2NsbFJ1NDhkWjU2QW52QlNNVkpzdG04TXRPNnRLYkttV0FLdVRWRlBrblFURXJZSnFMWXRWOHc5V1hTdjRpT3NLMWN0QjltTzBndy1NREI": 1793991645.950868,
@@ -3527,6 +3528,7 @@
 "CNN|CBMiigFBVV95cUxNTmNGekN2aFNsWC1QWWlZMzZIbVNURXpRN0Z5bndIRmNlTzYwYU9GdmRPQXJkLWlEUk11MFpZclB2Q25pakNxNEQ1UWNrRW15dmRjTVlUQkIxNWRVZG9Ocko5VHBRcWNxWmNHTFozLXJXMnlQamprREc3N3RkWDhEY3FlZVFwd3R0b2c": 1793990727.566817,
 "CNN|CBMiigFBVV95cUxNWVN2NU5NWklqcGtsQmtrMGZQUlFzZlYzUnZpSkwtMTU2VG9hS09aaEZNWnRXX2ZFNDZzY2dRS21IQ3l1b3Zod01aaGJISTBSME96ZGhIMDVhNG0tcXhERVRoaUFnYlBPeGJlQXZJLTk1czZDTUdzVnMxNEpxRzdaYTU0RXp6NWxpVVE": 1793571324.4442024,
 "CNN|CBMiigFBVV95cUxNYTc1TExLYVJzLVJZeThZNFlDSF91Sl9DWFROSllZMUg4cVZFcEtvU1NXWk41RlhwRk9jRmFrbWZ1VWs1SXRSQjZ3VFFOdldOYzdjbFNuTU1EU0h2bE5SLUt0VXc5RDhHNkV4US1HQUhZSFRJRFQzNERwa01QV00yQzZ0aVItQUdhWVE": 1793810727.530477,
+"CNN|CBMiigFBVV95cUxNZ1Faa0FtbVlsYTg1bVJmMjhoU0JTa1BxaVBhNUtDTHFRTW9QTnl3VkxUTEZsNEdyd21zRVFDMTRWYUNpWmtvdDM2NlJRQ2xmNzFnakg5cXNGSUE1STZSY2xwdkgtcDlZX1dBOVhpdGJ0dGRQRlJEMjNIcEFsX1UtU3NNU1hGTENjeHc": 1794070844.9715154,
 "CNN|CBMiigFBVV95cUxNdk0yaGZHMWs1czZhSVpoX1hZM1Jyd1BTOE94RURxci03XzdPcjdYR3BxUXd6MFVLM0V3a0trUDlZcmQ2ZlFZS2lqQ1Z0UG1IUXk2azNKTEV5bmQ0TEJUbm8tRWVkXzl4ZW9MUk43Z2NVREhSTFRLWDY5enJlRUNIY1F5UjliamJzT1E": 1793610582.0712755,
 "CNN|CBMiigFBVV95cUxNekFleUhNTTRqQzNMbWZQa08zNXpmbTVZeVFKVUV1NjRvRVNEYkdRY215MHl5M1lkdzhfWmswY2EwTVdMOUxBWnZvX0xsUzljdldxdFplNDl5M0RfZng2WG10OVNKaHJSd1lsak5jSXJyd2NNZUs1T2wyeV9LclJDbGVJQ2FBRmpDa2c": 1793618125.0615885,
 "CNN|CBMiigFBVV95cUxNekIwQ3JRa1VXX2ZCdW5pUloyWVdKb0R2M3F0a2hWUWxZc3VZaXlqU2ZCZ0p6ZTkySlpsQXJrYlhMMGxESTNvb1dBWHJYN3RSOVlLRzQ5cnhMcUowN0ZZLWszYTlfenpsaDA1Sk9XUEszbjJBcTU1bFl3aXVvMUpfbmVjYnpKeDJ5T3c": 1793555127.0058784,
