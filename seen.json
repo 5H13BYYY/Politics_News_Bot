@@ -43,13 +43,6 @@
 "ts": 1793917080.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
-"src": "Reuters",
-"title": "Neocloud firm IREN tops quarterly revenue estimates, shares jump",
-"ts": 1793914569.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
 "src": "Le Monde Politique",
@@ -2666,6 +2659,20 @@
 "src": "France 24",
 "title": "Manifestations en France : le gaz lacrymogène est-il dangereux pour la santé ?",
 "ts": 1794043088.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html",
+"src": "Le Monde Politique",
+"title": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
+"ts": 1794043807.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGhKM2RjNDdtNEU3YTlFaTVJODRCbkplX0VETEw3NUstZGV6SXNlb0Rpam9ISmpYeHVNNV9adDlUbzhaXzFzWTFHN21VUlhuYTU5WEtvMWNldkhPWFk5NTVQVXAxc1RxbWxOWFJPS0R4N3F0NEtKWkFlYVp1NG42Xy16bHRwUjJqRnN0bEw1UmVHbkk?oc=5",
+"src": "CNN",
+"title": "'Wellness Darties': Gen Z is Reinventing the Frat Party",
+"ts": 1794044175.0
 }
 ],
 "seen": {
@@ -3170,7 +3177,6 @@
 "CNN|CBMie0FVX3lxTFAtdXVwYU0za1VsTFZ0aEFDcGtFTF94YV9fenRHVG41cXNCT0h3YWxDbVgtQkk0RUZEdE9SWWtCOS1pR2lvOGhQd1M4REpmUW85QmR4R3FJZks5bTZQSG5JVmk2QWJudS1zWnlwckcwdWUtaGdrdVZCLWU2bw": 1793998844.7339938,
 "CNN|CBMie0FVX3lxTFBGb0d3SHRLNDNjTXZHMDRUMzlmR0w3S2w1YXJSM0E3clVxZFBvbTZxdjRLMlVtTXNCVUNWbmxYSE5fakc5RW0xNzg4N3ZxdXpyZG4wNElxREtYN0NYdVRxMkdtQ1gxZ3p1MEhzRGJkS3g1T3BvSlVLVVRzOA": 1793893530.0574546,
 "CNN|CBMie0FVX3lxTFBJMk5Hb0JPYzlTU0ZOay0wUzdOYnp6bm9Fdm9JclFnMjdfeEd1dXFJaTAxWmF4QnRzSnladmJvU0lTMVZ6ei1BUkg1dzE3ZjlfR2dhNTBmRER4dzc4bHJ0ajMwUHVQZ1YxWGZjM2lBSHNkYlA4SnVQcWs5UQ": 1793806237.544,
-"CNN|CBMie0FVX3lxTFBSaE11MVFJclIyTExZWmxJYW5WVzUtZHFIZ1hrclZ4LXlhUVlUUE9yUnRjcGZQRkVZS2MyZnZ5d2dub1pqREkxVnRLMHRVSDJiUWRKY0h3SkFUR2lQY3hyUEZSNFZOLWczVFE2ZTBoblBLWXNLQUpaNV9ZUQ": 1793439923.8146908,
 "CNN|CBMieEFVX3lxTE01UEJXd21KUlhpYXRVM2QyR1hpQ0d0bTVXbzJrbllOSkZFU3RhemVEZ2lPUm9TQWlTZmFmSmRuXzVva2xJYkN1cDI0NXNnRVcxejFuLTljNHVvdGRjek5SeGxDLUJSV3k1MDRJNW5MQlZPSDRUX2JHbQ": 1793796328.7223122,
 "CNN|CBMieEFVX3lxTE0xTXdXT1EtNzR6OE9mdHlVRFQzRW9xeW5aWlBkdkkyYV8xaTh3R3VrekFHUTJxMk9YbDBfY08xSVZzY0pibC1lb0ZSM2F1TVhJYjZhdlFMRUt3YXIzT2N2V0FLQmFZU0RFRDkwUFNtQjg3ckYyZjZ1RA": 1793741443.2026694,
 "CNN|CBMieEFVX3lxTE1IOFFVaUF3a3VFUUQ2WXhFRUdMdzZIeWJfOHJNSVlBMHhqc3RyaXJ0UXdUb0dnVzFWQklBQW14OFBPSVhDMmNrNUoySkJPa2ZHMmNEZnMtSXdmXzhKQ29yUmJjcWRqQl90Zm56U1NxQnBlbjFBQUZVMw": 1793463324.8252583,
@@ -3691,6 +3697,7 @@
 "CNN|CBMikwFBVV95cUxQSWRjWUp6NGVfbnVNTlhTX1RRNEZVLWdPQzBIb0ZlcV92OFpCd1psTHdDT1gzemw4MnJrbjE3SE9iWmUtN3pCZHlPRExURWpKcE0wZldGSWtGZTAyUlh4MmpYZlowZ1RHSTU0cndjVllKRkJTUExnVlE2UnB2MUZBQ0Y1cHM2ekRiWHZYNzRyS1A2Skk": 1793620841.1183317,
 "CNN|CBMikwFBVV95cUxQVjFoRXpCNjlsTkNiZzNEU2JPTnVxNDhjdTJ1T2otd0ZxUXVSZk9yT0ZZbWNmblRWS0FESnhrdWQwdVhFMTlBbXQ2NTlpUGNrRHFSRm01UWZsMDVsenB5eGtuTGR4NU5qVkFXSXB1R2ttbFNzQzZXSl83MXRDcHJNSnpXaTlkQmVZb0ZzT2FFZ0x6NmM": 1793860234.3691907,
 "CNN|CBMikwFBVV95cUxQWHBQajZJdjltNTJ1MlVCT05jTTNtbXNmd2I0aGZnSGstenZlVzB5a2o1M0pVb2NUWDdxd2Y5YU9zdklIbm16QnVZa3NGeU14QmRiSEo4QnJoVEFXOF9pRmR2czk2d0R4N2V0MDVhNldxNDktR1dxbU9pdXFvdzR1NzY5d2xKTDYzZk83Y2dMLVFHVTg": 1794012327.2930872,
+"CNN|CBMikwFBVV95cUxQaGhKM2RjNDdtNEU3YTlFaTVJODRCbkplX0VETEw3NUstZGV6SXNlb0Rpam9ISmpYeHVNNV9adDlUbzhaXzFzWTFHN21VUlhuYTU5WEtvMWNldkhPWFk5NTVQVXAxc1RxbWxOWFJPS0R4N3F0NEtKWkFlYVp1NG42Xy16bHRwUjJqRnN0bEw1UmVHbkk": 1794044732.233242,
 "CNN|CBMilAFBVV95cUxNZ1RZVDJSamJ6LW0xdkNCSVV3Zk4wTEdGSExxcGFDa2o4MlI2RmlRczRsQWhRaUprUW8xTzlaT3hLczNoZFp1Tk9IOFNtSDB1dW0xWVM0YnpFVG8zWUN5VF9VMmx6VVhRS0FqdmpVdDRjbW5sUEIzdGM3aVZ3OGFHejhYTjFhbW1ZbDAweUpxcGNZem9r": 1793666727.121633,
 "CNN|CBMilAFBVV95cUxNa3BLTzUyUW5PR0Q0VFNTdzRqRXVMQlJXVWU5b3FqVjlhTkpSQzFLU0pTbUxNX2NTNXVKUnAwRDNNNkt2cjhzVlJodFBMMG9URzd6TVZ1eUd4Z2hhclFnbGY0dVFxQU1ZbTcxaE81Tmk4eTdaNUw1YVdzeHRkVnhCc1IzMk8zM1hTYkJ2TmVMa2VGUThy": 1793749524.6794178,
 "CNN|CBMilAFBVV95cUxOSXROR29wN3k1bGVKTWR3RHdDNjBRd0J0VzlZcDlGbGRwQXpOYWlKYUVCWjZtV0U0bHNEMFNDdFEzZWdoVVJlRHBXSS1sRXh2RzAyU0hHVDFHY05nZ0RvLXp6NElNRUVnNmtnckVOa005ZUJ4Zm1YSF8yVHVld0d2QjZlLUlpWVQza2QxS3psck9nRTZV": 1793791834.3544168,
@@ -4217,7 +4224,6 @@
 "France 24|0681d868-d88e-11f1-a937-31420fefd98a": 1793830528.1813452,
 "France 24|06b5f4a6-d846-11f1-a660-9d2f09fce2e9": 1793800847.7608814,
 "France 24|06e696d4-d72d-11f1-99d0-8fb330497cd9": 1793693729.498949,
-"France 24|070cfee8-d483-11f1-92b2-69c6f3a4a8f7": 1793439923.8146908,
 "France 24|0794ea8c-d948-11f1-bb18-176c6df68381": 1793905246.8449922,
 "France 24|07a2bbf8-d92a-11f1-82e3-53873cd6f64b": 1793893530.0574546,
 "France 24|080281b6-d5fe-11f1-a232-2906e49560b1": 1793544325.066847,
@@ -4553,6 +4559,7 @@
 "France 24|bf15f6a2-d884-11f1-b82e-17a12d35fc04": 1793823327.911587,
 "France 24|bfdd6fd4-d6d1-11f1-acb7-71582df1b7f8": 1793638851.5526173,
 "France 24|c05fe2ec-d727-11f1-baae-db400b2d2cf6": 1793693729.498949,
+"France 24|c0bdabfe-d8f6-11f1-936c-47bb0dfe66e8": 1794044732.233242,
 "France 24|c1757524-d935-11f1-9ffa-1720535e56b8": 1793898932.6974728,
 "France 24|c18cb3dc-d9fe-11f1-938b-0be1cae98b1a": 1793986239.1840727,
 "France 24|c1bfdb34-d7d5-11f1-b1a2-29cbef93382d": 1793745927.5019722,
@@ -4809,6 +4816,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-l-hypothese-d-une-candidature-de-christine-lagarde-questionne-a-droite-et-au-sein-du-bloc-central_6807815_823448.html": 1793981730.92988,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html": 1793953836.5637982,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html": 1794010530.2633893,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html": 1794044732.233242,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html": 1794028531.7535253,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html": 1793919643.308997,
@@ -5570,7 +5578,6 @@
 "Reuters|CBMiiwFBVV95cUxNYm5DM0ZVY05FLTJuQlJVVmJnUW5WczJyWDhybjQyZ3pYLTVfQnhQQ3FJNk5yTG5EeUJaNV9FRzdJYnU4VHRsVGE5OEVQVkVhUjJXanRobG5DVnF4NGdPUzUyU3A1UVZjVUFwS0g2bGtYY05GRjUwZWdsMnJTd3FUOFl5TXdjRlExRENJ": 1793734237.9507725,
 "Reuters|CBMiiwFBVV95cUxNZWx5bmNsLURMbFZ4T0NIVmFjeW12N1dxQlI4S2dGNDhmc3RIa2NoZE5INFJtSkJmT3hVWnowLV9SX3Z5UE9XRFZyS3l3UVNGUUpiSUJnT18xVUFDcEQ0eE04bjVzanBreG1nMmN4d19TTlBvOEpCdm5TNGo5RUl5Rzc2VUJrUWNpcGZN": 1793466926.527723,
 "Reuters|CBMiiwFBVV95cUxNcDlhaHMxTGZVOHJQT1lDR1g3aDZ6Nkk5NFl0UTd2djVuQ3dRVy1aUE5YZ25tUjcyWU5GQWdCUnZIWVdfSEpTS2RkcDdpWkc3bmZFWFE2SGFiWkNsLUM1allEV09PZy0xSV81RExwdVRlTUR4UnNXUVNJTm9pell6MjI5NjFTSnN6aHNB": 1794030328.1690876,
-"Reuters|CBMiiwFBVV95cUxOMGxvcUZtNGx1c2Q0c09Veko2REtqYXZmZ096emUtTUMzWURHaWFRVk9TcFRGN2ZwTDNETWZFb3hqNWVRd2hqUUw2VXowMllSbmF0aUt2bzVwOHp5VmlELWd6em1ZVXBDZEZkUWhPZ1RVTlZXZlQ4TXE2XzhSSDBWNU5sZ2xPVzhpT3FV": 1793439923.8146908,
 "Reuters|CBMiiwFBVV95cUxOMWdKbjFHMFB0R1h0R0RZbktvaTcwd3JWc00xR3BUMU5rQUxVNEoxUVRFRVJucGZwcU1jdlBHMk1YWHdXZE4yd2VyTTJWaXJRNzEySV91V3VKU1BDWTREajVYYmJSSHNWdWNlbDVCMmZaUHNhR0NNNXZtZ0F2bTMxX1NJXy1rOHlRbUlJ": 1793619925.4618921,
 "Reuters|CBMiiwFBVV95cUxOUlhvbWZtOUtXc2c0QXJ6STlpNUc0bmlRZnZaRjAyYzdKQUhYbDY5dmxMZnJxNmVMM3UtZ3NPUDlYb3RHZ3doMUtNRm5hVHFoRzV4dUFVVVFIVkw2X3VfVGR0UEZ0c3BlVTc4X01WdHA4N0lBQ056d214ZjREZHFLMDlCZUdWWHNKLTZz": 1793914236.4647849,
 "Reuters|CBMiiwFBVV95cUxOVmNTWWZveXhZZ29SbkltVWZBRFo0dVJSVXJlN0d3OG1VYi1GWGp3WE5GVld2b3FOc2k2S2dEck1KSUFUMk50c05FQklCTmxLTkdWZWlldWczZE5aaTliMDExQncxOVVXYUJsZVVkeWdKRThQTVRPdHF6cEhXWTdVd211MHQ0Ylh5TzZr": 1793622647.3541474,
