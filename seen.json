@@ -23,13 +23,6 @@
 },
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261106-midterms-le-camp-maga-n-a-eu-que-ce-qu-il-m%C3%A9rite",
-"src": "France 24",
-"title": "Midterms : \"Le camp Maga n'a eu que ce qu'il mérite\"",
-"ts": 1793952292.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/am%C3%A9riques/20261106-forte-baisse-des-march%C3%A9s-en-europe-la-politique-am%C3%A9ricaine-plombe-la-tech-et-l-ia",
 "src": "France 24",
 "title": "Forte baisse des marchés en Europe, la politique américaine plombe la tech et l'IA",
@@ -2848,6 +2841,13 @@
 "src": "France 24",
 "title": "🔴 Israël : Eisenkot, rival de Netanyahu, sera chargé de former le prochain gouvernement",
 "ts": 1794080507.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+"src": "Reuters",
+"title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+"ts": 1794081168.0
 }
 ],
 "seen": {
@@ -6474,6 +6474,7 @@
 "Reuters|CBMiwAFBVV95cUxQLTRfa0NnUWtwYjNVVmN6ZkZIZlYxcHRDUXVOcGI1OWlDbU0zODhZU3k5ZHZHekI4Ty1zUDNiMVNaVTdMOUpaeGhXdjlTYTNqeVJaUlpVRl9YcEh3bksySU1qbXZmVXNDYjRWSE9fSDZWTnBhMTRwREszeTdtV2cwUVBuakppZDhHTXQxVFJxVFZRWkdhOWdxU1BXcVpfVWVqZi1iajIxaEN3Yng4YlRSU2xXRU1mdGdNa3Rpc1pCdE4": 1793860234.3691907,
 "Reuters|CBMiwAFBVV95cUxQNExqdTFHQWs3dnpIQ0plUEoyTVl6X2NiZ205SFBaVWJpRnlYOVZZcmlJNERRQ3lkdF9pLWlzdkV1TnQ3NnJqYzJOYUhCQy1jR1BPM1pjd3B3X0U4c042WXNUcE5YVklOSDVQR096bS1aNl9hNmtHTkptcEZRSGNncnJTRVlEZVR0UTJTSXk0VHplVVQzQnBEbER1UUVOUmxvUTVvTm5JVVhONmRoaHE0YTFxdGx4TWdjeGthaUtDQmE": 1793691925.4388814,
 "Reuters|CBMiwAFBVV95cUxQTTFXcy1MX1RLX1ByaWVCbWRlNUNDak80YlRqbFhFMnh3cGlFQnpJN3dpSjMzenZkNVktR0FMOHdHSmJsbHZWRUV1Z1RRMm9GeWY5b21jaW1XSlZ6NUZibTdRWUFKeWNxSldPX1BRaGFvYXpyRzRjUkN1X3VzMjZRZTh3RmtIcF9ucHcxWENVU2UxSm5NSU4yeEdMVVM1dmpmdVlSWjFicGhxcEJjd1Y4R2M3M3RmVm1adThSbjkyX3o": 1793808042.880823,
+"Reuters|CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc": 1794082526.1467757,
 "Reuters|CBMiwAFBVV95cUxQVHl4ZUJWUzVtWGhob21FLWZ4TXNTUmVzYzJHTk15T1BtQWJPSkhWY3o4QWpMcWNHZ3BlWmtxblBtM0p3YmtsZWwyWW9COV9FNEp1dTVGSzN4MUJBUDB0bmcyN0ZpS05YRUlJdHJDa21qZllydnRqN0kwbEkyQWR3bUdXcjVFb2lHa3pHYkdRLWpOclgyWVZtSV9rSWxnU2xxNmh3RThtS1FhQmZ1UG1lQnlfb0JVeE9aWktEdkFHRWg": 1793830528.1813452,
 "Reuters|CBMiwAFBVV95cUxQYXI2czR3dzdWWnhvRjc5MDFhZk9Yblc2RkdXY1lVeUVlaFV6UGliTGpxZC1PbURxRDFhc2RRcWhOMUVrQXlqUGdVZkFSSlpOVjRZbFhDRDJ0VENIRVozYnE0alR4WmxPMkluSmVMaWdXSUhzVW1idkxRTWxJdXZQdURpeWpGMk0tMnM2SFdwdnBzZGlUenJ4QS1IeEI2R00yVFhsTWg5UHc3V0NLOEdUaWp0SDA3U01YZjNYMzFBX2E": 1794029433.0539818,
 "Reuters|CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE": 1794005127.6768532,
