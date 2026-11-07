@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/06/incendie-dans-le-lycee-nelson-mandela-de-nantes-deux-eleves-de-16-ans-ont-ete-mis-en-examen-selon-le-parquet_6807751_3224.html",
-"src": "Le Monde Politique",
-"title": "Incendie dans le lycée Nelson-Mandela de Nantes : deux élèves de 16 ans ont été mis en examen, selon le parquet",
-"ts": 1793955785.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261106-france-edouard-philippe-gabriel-attal-la-campagne-presidentielle-2027-des-heritiers-du-macronisme-patine",
-"src": "France 24",
-"title": "Philippe-Attal : la campagne présidentielle des héritiers du macronisme patine",
-"ts": 1793956237.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
 "src": "Le Monde Politique",
 "title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
@@ -34,13 +20,6 @@
 "src": "Le Monde Politique",
 "title": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
 "ts": 1793957622.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1BlaWVfcDIyNlJKWjVRci01Ukd4a1I4Yk9vcW12U1NUMlhQTDdYa09iTFpzcktKRGdVNGlGUGE5WlRZQm1vREJLZDhZUzh6bTNLRDJ3QVJXOTZ4NjByRm1zaGsycWg0TFotWjAyRXY2T3lWOTVoRS10M1g5QXVDcmVtZjVDdVRUOS1CbG5LRVdVTUFHR1dJOTg2eUxTcHVrb1F5SEs4WFRLdw?oc=5",
-"src": "Reuters",
-"title": "COMMENTARY: NATO’s plans come up against messy US, French and German politics",
-"ts": 1793956009.0
 },
 {
 "lang": "fr",
@@ -2855,6 +2834,13 @@
 "src": "CNN",
 "title": "A Political Earthquake Shakes America",
 "ts": 1794084304.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40aWh4TnVGZ1plSlNMeGVDYi1UeWRhalk3YU9VMEVoS2JQbG1uYnpFNzA3OXVOQVZ5VEJXSkRTSGw2QWN1MHgtSWdIZWFHU0NfMjBpaGlQSlg1QXRBUGxpMmhQLVBqVzd5ZktTcUlOM2V0QUZxSlhlek54QzU?oc=5",
+"src": "CNN",
+"title": "Trump says he’s asked Dana White to serve as press secretary",
+"ts": 1794085807.0
 }
 ],
 "seen": {
@@ -3202,6 +3188,7 @@
 "CNN|CBMiakFVX3lxTFBicWN5M3BHMnpSQkdtRndybXl6UjVVR3ZVaUJ4QTZCZF9SR0lkdklkZmZ5VVJ3dHUtQlNuWWFtU3VRM1ZZaERxSWxRaHNDOHhvU0JrallGRnI5blRZSHE4S1RrelpyTUJtUUE": 1794079838.2794526,
 "CNN|CBMib0FVX3lxTE12LVE3aUtlMk90aVVqXzJKVDdwQTJ1dU96R3NRZVlWMnd4WHZTb2Z4OGgxczY2Q2tpY2NobzZlanVMck90LXB2UDVRcnpkR3lySndvRzdIV2VHdERiX2ZhOWhkcWJ2RlFFQWJzX1VBYw": 1793548836.664287,
 "CNN|CBMib0FVX3lxTE1PLVhaVzdHekFzRU5QZWs0YnBrZTVldnlYYW5uSGczOGJNVU9fd1VNZUlZSEFBRDBzYkJyQVBNZWs2OUdYV3pKMDM2Mk56MUZKRE9tRjRkeTJDQi03MEF2WTBvU293dEw5VWxfc0dmdw": 1793661338.2976787,
+"CNN|CBMib0FVX3lxTE5hNHkwVHJKSTJRZnA3UHRXUWJhTktsVjdWQ3ZwLV9KRkszVmxtM1N6ZWVldi1GM0Rsb1FRaDlrVU91RDgwbEtNY0EyTGFkcjZ3V0ZIT1BpU3hkbHp6MzdGSUxPZmRZMk1vdU9CQVJHdw": 1794086127.320628,
 "CNN|CBMib0FVX3lxTE80VGY1Sjl3M0wwOEFnUTlaZFhNSWlCbm1nM0RJTzdOVzNlZ0FkVlJuUHBPYkJ4aWtvSkJ5X0c1eExfb3JPY21PMUpURlBoaWcyMVV1aDNzdTU4RnFpVlYybWFoblpuUHh0VGs5WmV4VQ": 1793648728.4907944,
 "CNN|CBMib0FVX3lxTE95R2NFSm5aTFJTcUZ4UHBMbDNQYldYdGdPZzVMcjFpRjhvVGYtTV91MElUTUo3N1c1OE5lZTJNLTl2NUx1ZEZvWDFiR1d0S2E4SVY3WU1HdVFPcjhxYW1EaFRMb0UwSjd1SjMwRG5OOA": 1794078930.4178438,
 "CNN|CBMib0FVX3lxTFBQbjJEVjJBV2R0ejhIdlloLUVrSTIzVTRQWThRNWVlbHlLeUo5c2M2ajF5NzF6MjF5dmh4WG5RendxSnpYY1FVNzVzUGE1S0xQY2RFcXlUblI3elRKbmRKRW9BU0YteFlpWVBVbENraw": 1793598324.839037,
@@ -3420,7 +3407,6 @@
 "CNN|CBMif0FVX3lxTE1raFZKS1BMV1dBUVJFV3ctVGVLN3kyQ2puWDZoWUdENTFfd2VJTTVZZWR1MkQ2UFZ1RE5CR2JoN0doWUduSVhCTThUb1BBV0tpa0VOU01PT3pReldGcHcwUF85dkVfYkg3RUt4QV9RcVVOdDdBaGtXaVM3QWRmWW8": 1793623529.0577672,
 "CNN|CBMif0FVX3lxTE42M2pQZGRYOHBxeUxOcVFyRkZNOHJONG8zenJCWHZZaEt3Zk5neTBuSHZxc0pzWEpqa3pZSDktWG1EMGJMZzRWSlBZRDhacXdXNnhXbWtOXzlTTjl4RkZsVUwybWxYSHZLZ1ozNzNIdnd3SGZqRmdXMEJmU3NVc2M": 1793713530.8517933,
 "CNN|CBMif0FVX3lxTE5HTk5mRk5FUVpYZmJ2Q0QxYWptVk1EWjVndUw0Y0ZpMVNUcEN3OHR1MXFHMm5hUHQtbVFMQjBVTi1kYmg4cHp3SFpFa3QwSHg5dnJWclhreTVMdnBvU0t1MzdnN2F3d1E3NThCXzVQSG9lRzZ5TEhFd05taW5Cc0k": 1793538926.5091648,
-"CNN|CBMif0FVX3lxTE5YTnRWaW5sTDNlQkEzclNmNldsb1FDQ2xiYVB1b2pfZ0ppYkp4YVgwdkxhQXRfd0dSOFBvcTVscFBPSUFxZVBISUw1VFdwZ3FjM3ZvTXI1M2cwSzZpRzZVQ1hoblpkdy1ETWhONndYNmszZDBhUExKem9pR3Nobk0": 1793481323.2553124,
 "CNN|CBMif0FVX3lxTE5ndkpRRi05N291amxHMmhEWWU2UWZSS21ucVlJQUFUV3RveGV1UmsxR3h5UldPejZFN0dsYWU3R2dkNlNma2hqRmpBWnRNSURZMUdVNmt4YVJ4NmRtOVBRRTR1SFBDZkJpb2U5UDVLa3NrdUkzMkNCSzNoZHlMd1E": 1793646926.0070026,
 "CNN|CBMif0FVX3lxTE5zT0I2WWp0bDgzSFczZWFVeE5KSG5GRVJ6NXQ4NTU0cEVMaGVaOUlkT2xIYk1MLWt0cTVwRExZM3JQc0NxUlRJUVVyYjFwQXlLdmlTQTJOZ1FVVW1rNTlndDVfb0IxRHFVSFpWWTNIc29YbUk4Z2FfMTZQU2ZWT3M": 1793730648.4542458,
 "CNN|CBMif0FVX3lxTE85b2prT3ZGd3ZrRGJRRTRLNFBVVjBxdUR6QTlZSHhHNXZrd0lBaW1jbld0Q1ZiMlg5S04xemlfUkQwLVFpQXo0TzlERDRISXJpOWRmZ2JNVXZZRnZCenZ3YlBSUkpJUnV2eGM3WDZHeVFRRjh1b095UWdzSGpELVk": 1794065436.243367,
@@ -3443,6 +3429,7 @@
 "CNN|CBMifEFVX3lxTE1oS1h1WHpSLWZfVmc2NUVVd2c5R3FQaXFHaXFpNFhvY0EyYm5fNHB5eVR3TEtvMEpXU1FwOWF3WUhUUTZUNTRxMS1UZzVyRmdLUUdwby0tUGcxaTVKOElnUVotTXAtUE83VUtRZk1SNmZOUGhjWno0M1ZBSFk": 1793777435.3662863,
 "CNN|CBMifEFVX3lxTE1peTFwLWIxN01JbkV6emdPajYxdFdSbktLeFRQY3R5dzhLSEtFZ2duaUF2UG44MWk3ZHhxVnpUanpxZWFsajlySnhJQW96bkZNMjhsdUlrNVg5X1g1Y3k4NXZLWUY0X3dJUUVQcGxFRExjZ2NRcVpYTldRRkc": 1793776528.0329738,
 "CNN|CBMifEFVX3lxTE1rT24yUHlfaHNrcWlqQ0hMSWdSelVDaEdudUM0ZFhXb0hod0lRMWtpLUhQQWJFb19hVFdhN0l1X1Q5SHNrVDRRbzBUNmZ2NFFvLXNSUVk1aWVNZWs1Ny1waUhwSlhNc0xSUDVJalRDT0NGM3dtTXNVaUZ1UGg": 1793979927.2632744,
+"CNN|CBMifEFVX3lxTE40aWh4TnVGZ1plSlNMeGVDYi1UeWRhalk3YU9VMEVoS2JQbG1uYnpFNzA3OXVOQVZ5VEJXSkRTSGw2QWN1MHgtSWdIZWFHU0NfMjBpaGlQSlg1QXRBUGxpMmhQLVBqVzd5ZktTcUlOM2V0QUZxSlhlek54QzU": 1794086127.320628,
 "CNN|CBMifEFVX3lxTE42WWZaMDlmVjVkRWphbmZGWEQxYUtlUk9Kb1RFQ09wb1NrRXBHSHZkeFdGbGVuRHlTZTl1VVNsbVJUMmNmOUd0ZXNkX3hZTkNuQjhBMHVrbDRSR1FIZFpldFBnZ29aakdaYjlPczNXdzFQWmlBNjhQSDlqeEk": 1793636127.2263277,
 "CNN|CBMifEFVX3lxTE45VHhOXzlHU0l4ZmtKSmdWTEtnVmhaVXczWkgxbGtvVEd4LWREbzBQQjlXQTYwd2p2bE0wSnUxWjlhMV80Tk81XzRkckxPU21EU3BrM3IydUw2NlZUeUxWMkNvYkxuRGxFcXphNGpnTWZsNjBrX2h0Rl9KWmw": 1793652327.983431,
 "CNN|CBMifEFVX3lxTE4wMkFOc2xCQlhUQlhTNEVodjYya2h3ek12WUs2cVEwaEVZM1UyOVNqTk1uMTB1cDJBQlBNeWZRZU5qaENXWGtlNGplOUdkRUVUSU5xZkFsOFBFQ0NlZnpaUU0yQzFVMUhxbGxsVTNGTW9RcEJkSE1lM0JVaGQ": 1794070844.9715154,
@@ -4783,7 +4770,6 @@
 "France 24|d76dd5b2-d83e-11f1-a623-81d43ce0b328": 1793794526.105261,
 "France 24|d86456c2-d92d-11f1-a245-0dfbb3fb019f": 1793897131.2633407,
 "France 24|d8bd30e8-d5d7-11f1-9f29-fd1c2e460860": 1793528128.0768423,
-"France 24|d905fb8a-d56d-11f1-83d8-7d25225ed608": 1793481323.2553124,
 "France 24|da20b5ca-d809-11f1-81cb-93c78c25580c": 1793768440.935932,
 "France 24|da5300b2-d8b2-11f1-ac0e-b52efa4d0103": 1793846730.6979375,
 "France 24|daec686e-d5ed-11f1-a270-3dd283bcaea7": 1793537125.055282,
@@ -5040,7 +5026,6 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/07/a-mayotte-trois-a-huit-ans-de-prison-pour-les-passeurs-d-une-filiere-tanzanienne-exploitant-des-migrants-africains_6808281_3224.html": 1794060929.7685132,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html": 1794071730.3836882,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/07/mouvement-lyceen-apres-les-vacances-scolaires-un-retour-des-blocages-marque-par-une-hausse-des-tensions_6808168_3224.html": 1794027644.8812451,
-"Le Monde Politique|https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html": 1793481323.2553124,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/11/01/en-direct-manifestations-en-france-enquete-ouverte-apres-le-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris-appel-au-blocus-lance-par-trois-organisations-lyceennes-et-etudiantes_6803391_3224.html": 1793536234.8423414,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html": 1794071730.3836882,
 "Le Monde Politique|https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-a-paris-la-manifestation-quitte-la-place-de-la-republique-appel-a-la-greve-dans-l-education-mardi_6808254_3224.html": 1794058238.047388,
