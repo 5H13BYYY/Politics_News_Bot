@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGhsaHZpX0FwZUlJOGVjSFpqU1B2NzN1WnRJTzEtbjZZd3FnNHVMV01janBCQVNwLXc4SUh4MTJxMGZzVXRIWUc0QTNYb0VqMzc3S3JqcTljRXc2VkwwYjlNVDhERWFVMDh0RHh1LXdEZ3NYYk8wc2RWeF9MVnZudkFyT0lPUk0yUldfbndTRGdSUkxaanJvNlJoN3M?oc=5",
-"src": "CNN",
-"title": "Harmeet Dhillon, who runs the Justice Department’s Civil Rights division, resigns",
-"ts": 1793900814.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat",
-"src": "France 24",
-"title": "Manifestations pour le pouvoir d'achat, défaite de Donald Trump aux élections de mi-mandat",
-"ts": 1793900903.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa05BZUdCNXQ2Um1BNEhQdjhNUEpSYkZGcnZMTHp2ZC1Xc0plVVJkZUp3N2J0VDZhb1VHV0YwSDJOZFctay0tSHFZbk9rTjJfQVJzMUsza2ZlUUdHWkxUR21uU2hac1Y1MHJqYUJkRVBaLWcyVkkwRFZLMVkyYWM5S1VvZXY5UG1Q?oc=5",
-"src": "CNN",
-"title": "Democratic socialist Nithya Raman will defeat Karen Bass in LA mayor’s race, CNN projects",
-"ts": 1793901543.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/idees/article/2026/11/05/avant-l-election-presidentielle-de-2027-un-hors-serie-du-monde-tire-le-portrait-de-la-france-de-ses-fragilites-comme-de-ses-ressources_6807326_3232.html",
-"src": "Le Monde Politique",
-"title": "Avant l’élection présidentielle de 2027, un hors-série du « Monde » tire le portrait de la France, de ses fragilités comme de ses ressources",
-"ts": 1793901607.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFU3QTVFc3F0akFQV2JycmFVNklfQ3g2NExNZVFmbEJfYmk1bG9UeTFRY3FSNzZVdzFVaFNJbFN2alJHbWVSSEFsRmIyZ2tMTnpKQ0FUS0Uzak9sdjlIX0pWZmxGMnJSN0k4OFRWRWxhU1lNZ1BJb29qNTZBLU5UdnNxMjVWbHNKMm1ZMnU0Q0ItX29BTnUydUFuOE9TeGc1d0xGel9YVUNJWGdnUVItMWFoYU1yeDNKVmM5OXFjdFl2YkZYcVZSUXVHekxXay1TV0gtSk93?oc=5",
 "src": "Reuters",
 "title": "Democrats swept the midterms. Millions watched on livestreams with their favorite influencers.",
@@ -76,13 +48,6 @@
 "src": "CNN",
 "title": "'The old Republican party sucked.' MAGA lawmakers double down after getting shellacked in midterms",
 "ts": 1793903465.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national",
-"src": "France 24",
-"title": "Paraguay : le président Santiago Peña démissionne sur fond de scandale bancaire national",
-"ts": 1793901367.0
 },
 {
 "lang": "en",
@@ -153,13 +118,6 @@
 "src": "Le Monde Politique",
 "title": "Coalition de Glucksmann à Lisnard : l’idée d’Emmanuel Macron ne trouve pas d’écho, même chez ses héritiers",
 "ts": 1793906473.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFhKVkhTU0t2QUZmMVdxalJ0MXhuVGJtamFDR0g3MVZDVy1qR2JRRGJWaDBVajdYaVIwT1hKRGx2MWF3N0M1TVA1RjZMWjk2NFZURkdvNEgzQUFoR2FTejA4OG0tUUFzMzhlakRjcFNYVFRVTjgwRVlSUkJSZkNUSnp2dW44bVNHekwzeUpn?oc=5",
-"src": "CNN",
-"title": "Democratic socialist Nithya Raman will defeat Karen Bass in LA mayor’s race, CNN projects",
-"ts": 1793901543.0
 },
 {
 "lang": "en",
@@ -274,13 +232,6 @@
 "ts": 1793910544.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEZJMjNKVlMxaWFJRFFkS194bW1uQUpHb0dNR01TdHVnMXduTGxWOEQ4YnZ1dTg5bUZ6a2lvZVRKLXhNZTgxYlpZakJwMUxBQkJWRkhXZ1ZrOW54YnlhSTlEaU96ZW9FYUoyRG45Z2lFQkRwYXNVVDZDamFHb2RBUThvQ0txSXd0b1Awcy1ySkgwQXFtS1RKeTdzV2x1WW44NU5QUFVQYVRvUkYwaWtSUE1meVZTNGdnSmk2QnBwQVJIR3IzZGJZ?oc=5",
-"src": "Reuters",
-"title": "Democrats gearing up to probe JPMorgan's relationship with Epstein, CNBC reports",
-"ts": 1793901233.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/05/a-agde-les-commemorations-anticommunistes-du-maire-rn-suscitent-la-colere-de-partis-d-opposition-et-de-syndicats_6807343_823448.html",
 "src": "Le Monde Politique",
@@ -324,13 +275,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVZMRzZIQS1pQmxLUWYySklZU1JZX01mSlhxZi0tRGRHQ21hZ0dvRlNaZS15TVhPbE04N0ZUdS1FRjljamJJaFNYcHdOQ2U0WTZyWXFxU1Frc2tPbmNGTDdlRWVtbnZubTZ6Sk42bmY1bUUyQTU1andhdndpNUZzYmN2Y0ZJRm9LTEJSVlJ4UWpDSEE0T1Zpa3h3eHczY1ZzR0Ezb3hiNXJVX2E0dG1POWZHQU5OQzNTSDRMQmoyNGdscDVXZUE?oc=5",
-"src": "Reuters",
-"title": "Ukraine's Starshield contract with US expires next year, diplomat says",
-"ts": 1793901408.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
 "src": "Reuters",
 "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
@@ -363,20 +307,6 @@
 "src": "Le Monde Politique",
 "title": "Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations",
 "ts": 1793913189.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02N0huWUsyZzVCSTBGbnB2RTd6X3ZPVjI4UjliTlBUdlRsaW5VR1IzeFJDLXpueGRZQmRkTzh4ekNDSFNTOGZ6QVFYX0piNGhPWUNoYXQ3bkVFLXhLVzJWelhsWnduazFHSnVtQzZBUDBBNU9hdG1z?oc=5",
-"src": "Reuters",
-"title": "Evacuated British Ebola patient in stable condition: Africa CDC",
-"ts": 1793900941.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zR2JIQUlESHZEb0lvcGkwd1d6NnFDTDhacEEyRmpUVWtmOGRpQUVCWnN4ZE9WTjJSWFB2SDdKcGhWNEhlbERDN0I2dTdHM1NueDhWOE5qdHNPT1lIRHVyY05vMHdIZms?oc=5",
-"src": "Reuters",
-"title": "El-Sayed's win brings 'hope again' to Muslim-Americans in Michigan",
-"ts": 1793901028.0
 },
 {
 "lang": "en",
@@ -4263,6 +4193,7 @@
 "CNN|CBMinAFBVV95cUxOMDNtNlZpbm5qeGpWWlRsZjhSRUJZT0VWblZjWGc3MjFFRHc3VndhV09GZ2dnem1BWUhVUmN2Z215ZjF4TEtQSkFYTGZoblRvdzBvaF9ZdmtrdDdhWFNlSDJmYVFZS2lEU1hCOWFnZ2JIajhHem5nRDlScmpsVnlWMTFuN2hHNXdUVDJOLXNTUnRYZ1dsNnJLeGUxNXE": 1793881839.259602,
 "CNN|CBMinAFBVV95cUxOMzBZM0w1bkRfY1gyV3ZVT19qS1Q5anFvd2hpdnFlNDRNQTRZaXl5WDRYSE1QMUVXNk5JTzZzRmhQODRnNnVSejRYcHpucW9IaXZkdWpHYVVIY2V4SHYwS0t3WlM2U3A2VzY4YVRoRERNTlpNcFV1UktDLVhRTkxybkRVWl9tVjJMQ1dlc0RJUXZmSUVrNTM4SjZ3Wjk": 1793826926.808165,
 "CNN|CBMinAFBVV95cUxOOGhsaHZpX0FwZUlJOGVjSFpqU1B2NzN1WnRJTzEtbjZZd3FnNHVMV01janBCQVNwLXc4SUh4MTJxMGZzVXRIWUc0QTNYb0VqMzc3S3JqcTljRXc2VkwwYjlNVDhERWFVMDh0RHh1LXdEZ3NYYk8wc2RWeF9MVnZudkFyT0lPUk0yUldfbndTRGdSUkxaanJvNlJoN3M": 1793901648.4882534,
+"CNN|CBMinAFBVV95cUxOT3J3WklqNU5XMnlRWENYSE9mS1lPa2JueS1pOVkzT2g0UXhfZDRGOU5ZeTJFckl0UmlZdFgzSGZYYlN6VjRlTllIaXVaU0xrZ284aF81S0xpc3AxMmc4bUJUcFlVMFRBcXBZX1NlRmxyU1ctZ1hfWV9leVFhRGc5R3dWUXd4bWVZMTlxWjhKVDdZUXlUS1hpWnBjWW4": 1794031244.0642855,
 "CNN|CBMinAFBVV95cUxOTjRZSGIzemtBdDZqS1kydE1LZ0tuVmp2NmNnd2FBdnlfdzMwa1VIQXpsdllybTFhWWlNNDE5N2Vha2NlWlMyS2duX05FWEExNWVabFpYVnJyY3NIUDNwYlh0dkRscDAzanVyclMwQS1BUGh6ZzlPYjFRTnpOUFhZemE3amhYSVRGaFVlZ01VREFxdWR5Q2hpTGdwQ3k": 1793913328.682114,
 "CNN|CBMinAFBVV95cUxOc0FSc2tmd3puOFh2bmpGRkVOWnpIRnlUTnQ0am14dEwwbXEyMUotMzk0R2JsM3psaVBUdjNCQ1ZnSUktOHVpZ3EwVVhmVFlSVkZHVEJQQlVaNnJKVnpsSFRadlphbEpLZVBmaWhaNXN4Tmt5dTRPZ1dCemMzRl9RZUxSTWhtYlBhVjFaNUg4WEZoX2NrT211eUYxM1c": 1793627138.9532075,
 "CNN|CBMinAFBVV95cUxOdFlWVEpRX1pxYUxQbWpfWnV4Q3RpcGtzRzdsM25STk1CUEg2bTJkUTRIem5weThydGZ6Sl9EZFZDTjlrVGNSdzNUazI4eTF0MVROUjN5dk5OZGJwNFYwVjBzSHREX0VoM3JHMER2WTA0TkJsM0cxdlFHZU8wSENEZUJ0emZyOWFvZGR1QXlNX3NkVjNsdVJ1ODhnVXM": 1793591127.2921674,
@@ -5460,6 +5391,7 @@
 "Reuters|CBMiXEFVX3lxTE1hSExWYUlObGJjeVBva3NkOFE1dUZfd0RLY25ZalYwcjFEU0JGamxjcVk3R0xTUi1lQ2RGcHVpeTlMc1lRZ3VsX2VhRG0xM1V3MkJUSnZPYkZKVXJp": 1793610929.9512153,
 "Reuters|CBMiXEFVX3lxTE1hTS1HWEpobHpaU0YyWnpjQlRtMVdSTG9sajNMZ2VCcFhCX2I5SVFPR0dWaXN0dHozcVFPZ3ZSVFVpWHdZODZWVHZyWkhGV2JpeUstZlVIdHJnLUJi": 1793736054.5792563,
 "Reuters|CBMiXEFVX3lxTE1hUENXbXdTOVg5dTBQNXRWMXVsMWR4VTAyd19TSlVaYnNsWXRaeURzNGZoN1lCQ1lTblotSnVNejBKLW5yQ3daeUlmM2tTU3FjbXREeE9uSDFXZnk3": 1793664045.4470515,
+"Reuters|CBMiXEFVX3lxTE1ibnY4TGdiQ0F1bFdlY3ExenVuSWctNlBicXNBbVRINzlhRXZfWWpfeVl1ZkRKa2RsX2F6M0ZVQ3c5QklxMTJBa3B3MFVoa3d6aEFpRUJqZUlvR3p6": 1794031244.0642855,
 "Reuters|CBMiXEFVX3lxTE1jOThrZHBwZFlDWjRDcnN2OVZ1aXpnSU5SRnNBZnY0LTY4cEVWb01ETll5NlBEakZ3c1lRYjE3azJFYnlhaDBBNDRyaHZyeWw1bEdLeC1pQXFtTXpY": 1793690126.3018007,
 "Reuters|CBMiXEFVX3lxTE1nbjcyeWN2QkhXaGxkR0RwRmduX01ldlpwb25KRGN0THZHZVM3aHhfb1VwVDRPcWRjSHBsUVVuZkJFclktMU9IR3VSN3I4Mnhfd2RXbHRGUm9EdlNa": 1793600126.9012156,
 "Reuters|CBMiXEFVX3lxTE1oLU1vN2gtSkVOcS1GNHNVZFlfdnRwNVZYQk9zR1NaWk10YVFqUW1OdDVmSEZEVS1LS0Z1UlFiRTdoRlZVbF9hSmtqX1NjMkFtWVJGcjNaNmVhVU5H": 1793684729.562037,
@@ -5657,6 +5589,7 @@
 "Reuters|CBMiXEFVX3lxTFA2X1Z0NWZ2eXU2ZUFwM2hWMzZjQjdFZmp0VDhGZjZGTmt4UmdDZmppX1cwaTc4RnY2SU5VQlU2TWJ0TjZHdTlnUWJ4MVF4YU9heVlCbmh3cFlsVmFM": 1793575834.0978415,
 "Reuters|CBMiXEFVX3lxTFA2eVJ3UFZCN1ltSVdqWVQ5N1E4ejdVY05talFrekFGZldiOEhiNXBONW9QZm9jaWpFMDg2Tm5DS3RES2RxTng1eFd1MUpYSTFGd01sYVM5SHlxcHFV": 1793757641.1968496,
 "Reuters|CBMiXEFVX3lxTFA3NWgxTzdkMXlWWkZNZmdHcmJNZDIwdkUteWtWUEl3UllZcmxMbFdLei03VE04MjZtQUQ3alU1eHFtSk82Qy1ITDQwM0paeF9DNHhaOVBsV3djQks1": 1793743328.6736827,
+"Reuters|CBMiXEFVX3lxTFA4aThNbHJwY0JVYzQyOTJLaW8wTG5IUmphRmJWVnBrcUhvZUhDV2pXZzljLW9xME1ELXFQOFNlMFdsR2NfNFpxT1BzNnJiTmJGRS1lRHZNZGhGRVZa": 1794031244.0642855,
 "Reuters|CBMiXEFVX3lxTFAtMG5iNU9LMjB2bWNJUEc4TnVEZWtjeDNBcjdVRFNZOUZJTEhDMTMyT1g5OVpIQ1g4Z2pybTNlZFhnazJoYzBlb3RxcHNHTk03QnFFbVRKdVMtZDZQ": 1793666727.121633,
 "Reuters|CBMiXEFVX3lxTFAtQnc2REw0QzZVVDhSM2kxT28zWHRlc19tU0dfa1VQampTNkxXeXVLUXdORURHOFR4TmVWcXBLTFJtYlBNMlh1Zjlnc1pGTG9ldnFkdkVvS2tCaWMw": 1793743328.6736827,
 "Reuters|CBMiXEFVX3lxTFAwa2dXTnNBMEgtZ2t5VFpvTDhqcmNkZlRwVnNjTkRjSW1wNXpJLUMwRzZ5ZEp4X2NXeERsRGM4cWR1MG02VG1McFUyeE1jOTY4WVJRUDJOOF9nU2hZ": 1793736054.5792563,
@@ -6905,7 +6838,6 @@
 "Reuters|CBMixwFBVV95cUxQZ0FfNmtkUFFEaTlUdDhvdXZNYko4TUMwOVNTWVpEdHl5ZjMxUE8xdW9PRHNjelJlbFFkaFNEMEN6OHRnZVEzYnFXY09LQUtTa0FMSFZKY0I4amR2dUt3VGRTc3ExUGJ1cGFtQ245eDFuUkhkWUI3ZGNBMVQzN3NBRlZJOXJxZjRCRVN1STlia2lXUHdoRF9EdkhFcWpGZXJqUW9CUkJmUERhTzMxUGx0Wi1XX2ZwV3BEMVBHM1pmLWpYX01XX2xR": 1793910638.4869728,
 "Reuters|CBMixwFBVV95cUxQZ1JTQW8wbkUxMUxKaEE5Q2VhM1gyNk5pWnZ1R3RtSE1RdGhuemtsdkhOa2RlUHhfZkxEWnBURjNTOWtvNU0yUmFiTE10cUZ2aE5DUFd5VUl6c1lWY256R0RxVVlJdEZ2enR0Ym04cUJQM2FWZ3dfelVyc1dPenZxQi0ydWZueUJwNnkzXzR6WTFpZ0FvbzlEanlVRWVfVEl1MzZIWHFrbS1Pb2hzUGhVUGxnRjBBSUJoblg1VU1mbTNpYUlMNHRN": 1793917838.79482,
 "Reuters|CBMixwFBVV95cUxQbjcyLUxfeTMxaHFnbENrc2tqdlowSDFqWU5DUWtqOWhVUUdSYWdSbFpBRGQ4VHI3Rm5DbDVsLTV6bkM4d3FjcmVPRnpsQlJ6RkNSLWNZX0ZtWURvUExKaGZ2M2diWUFvZWZfSE5FN01PR2FXc1pSN1kyeXhHX0ZFS0k4S1FjSDJLc2ZfbGx2cm9TYW9JSThiZVZIeFQxTnVBXzAwYnhlaGxsN3lwQkxOZTdFRVVpc3RPa2J2M0JZNVduZXA3Z2pz": 1793789126.006607,
-"Reuters|CBMiyAFBVV95cUxNOTNRRm1aNHlxQUJIU2doMEdoZnBOVVNyc0U2QXk1NjA1am9nZmZYQ3F5TW5BcDJQcEZqVV82TG1vQVFmVFAySkpfRDZlODVVYXpSTVFialFSTXhpSmYtbXBwSFQzdDhpdGY3SFlsaXE2MG1zUGhvQVB1T2ZRd0llbDdwTS1YN0FaNVQtMkc2Tld5RTQyWjZ0UlBxdlhmX3JzYlhQUzNBZE45TXNBVzY0ZVJ1SzM5Sy1Nd3Jtam9nZ2dhUnRzZjhGYg": 1793426440.2914977,
 "Reuters|CBMiyAFBVV95cUxNQ2xHcnFKSzZIWm80UDJnQWMzYkctWHVoZk1GTTVDbHMxRTFJd0xNaldGNFNMMG1KelBpSUYzU1EwOU83Zk90YnFnSGtDQ2FXVlMtcUl6TFV2LUZCeTByOUFGZGN0UktWWjh4MHNndTdnTnBod1oySTY3OUFmRnNpSkFuQlNUZnV0SUFibVl5VGYxQjkzUlNWMTJZaUY5OFJBY0R2VDZjS1FObEhXX3VsM2NBTUY0WkVaOWlLbmkxVkRXc2hjeEg4Sw": 1793698236.1532636,
 "Reuters|CBMiyAFBVV95cUxNUWQ5Y1RzUXE4Y3dsX1dSeVhXeEdiZlJaZ3FCekVyRTNLV1lsaEN2cE10bW12UDBnUlZqS2p3dlA5NnhQWTQyOGk1dUNWM2hYWTBLb0FsU0FsYVRMcGw3N0Mxd2MyOXduamJQOFZnbWxBMTZVS196MGhrTnVWMF9LSkxqdDdZT1FBc0M4MUltNll1cldIVVBUc1BGelJORXJXUllBeFo4c1B0Z3hRd0FFX0o0WVFySEZZVHlRbndNbXNxdlF4NlVfQw": 1793923244.6124542,
 "Reuters|CBMiyAFBVV95cUxNVUd6OHpCSDZBa3BEMnNFTTYyYl8wVW50TW41RDRDUURKRmhza0NkQ3otSU5LNUU2NTRvQ215N2p4Z2ExaUxyLVhxd09MWVVUNll2a2hKMGx0dWREUVB5MFVUck5fMENNQmVMdkFmUjRiNmluMDlMYm56Q0JsRmJoUmtVSTExUEN6ZHpJREZLYzNUekl0ODVrdTRyR203ejNXYm8tUVpDWEgyX0JkN3Q1NXZoT2QtejU0c1FYcS1DRWpycjBYVmpHZA": 1793914236.4647849,
