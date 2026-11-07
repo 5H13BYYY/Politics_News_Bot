@@ -8,34 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/05/le-lycee-francoise-a-tournefeuille-pres-de-toulouse-victime-d-une-attaque-d-un-incendie-et-de-degradations_6807345_3224.html",
-"src": "Le Monde Politique",
-"title": "Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations",
-"ts": 1793913189.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SUNUVERQMDByX0dVb3BJMEdqQTVkZl9aNkY1elNXYnBPUDNTb2o3QWxNNjB1VlpqT0EyZ194VmNzYjIxWkIxT1VtLV9aU19zdGVkVVFqbnd2UzRqRnhFZjdqcUVkOUtEcHFOaUZvWDUwVnhiWWVvOVZ3?oc=5",
-"src": "Reuters",
-"title": "Chip stocks will pay off even if AI spending doesn't, expert says",
-"ts": 1793912525.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWUWdXeWNRdVpScUFjQUFWOXVlakxXTWZTOWprZGhEc2JtR1FsTmdBUVRGVUM4LWh3c0FRcXQ5WXdsaFZhNzhTTUl3TWw3ZmhwQ1l2YlZqYmJwczl6?oc=5",
-"src": "Reuters",
-"title": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
-"ts": 1793912644.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFcxUEpwbW9ScEZyZGdqd09UTXBTRjQxQ090ZDRlZ2IwOUZSUlhTWlJFcGViTEdRN0JLOGd0emR0bC1VNWtGN2Y2SU5maVlab0dNRXlDaGZtMTJlRUs1eHRrNjAwNjRhdmRqcG1ULWhsT05oVFJ2am1tTzQ1bFU4WFF3QkFuaFRsMWotZDVVZXNVVDhZWXc?oc=5",
-"src": "CNN",
-"title": "Will President Trump fire Secretary Hegseth?",
-"ts": 1793913240.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDlwTVFPVkZyRU51UG1UUW5vNG1NeWExMmlhMkpqb1Y3MWRUbGNrQ3RsTmU1VlZtdk93REl1TEMyNzUxY1Zsdm05aF9DUlVTcjdrYnBVaWF6TzZuNVpCdjdPdlRVV1dYNVdxa01IQU5LVEVPN28yZ00ySllkamM4MTBYN2FYbmFQdExEU1ZtX1VNS05VN1FqM1Joc0RyZlRBLVdXMl84Q1U?oc=5",
 "src": "CNN",
@@ -90,13 +62,6 @@
 "src": "CNN",
 "title": "Melania Trump touts peace as president revels in marble",
 "ts": 1793917080.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWt4RGxMazZsVTUwLUNMYVlqWkpQb21pdXFHSmF2c2hMNXFySzdvVTlJbmFoSWVfZGQ4Ny1PcTgtV0p1U3NueXhkd1F1a1lTUFFET2d1T2tkS1g4WEZUUnQ5MXNMWnR3cHFoTm1mRl9sc3Q2Y2NGZEpBQlp3QTNSWGxncw?oc=5",
-"src": "CNN",
-"title": "Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know",
-"ts": 1793913132.0
 },
 {
 "lang": "en",
@@ -3936,7 +3901,6 @@
 "CNN|CBMiogFBVV95cUxPNFBxVEZIOS1mOGlWLVVGYURMLW5GQ2l6U0N0Z0h5VkhZSUMwSVhiU2FVNC02ZTFJN09DN3NXVmVPLTFvMHhRSzYzc1dWWU5jYVZCVUZ0VVB4RndWS0ZPTVMzUDVCZ25WNUZfQTdmaW9jSkxpekVfX2FPT0tNaGVDTUUtaTZuY1owb2wwa3RhSjMycWdsUGlRa2lpQkk2aXJESkE": 1793635244.0953445,
 "CNN|CBMiogFBVV95cUxPR1VtbmVHTHpyVGZFMzI2VDZCQWF3NVNJaUJTTEVjZWFqOXBJMkhGSFFrVnpuNldKeURKaWhrc0ZudUZDdlJ4WnU3QTl6ZU5zRjNqQVEzRXd1Q2dfbk11NzM0NWRqdVkxVmJwd0Fsazl4OWxsUnk4Y1U0SzFKY0ZKUGlWakg0eDIweENiSXJDUWgxR0NKYWlSbW40UVpkd21WS3c": 1793853037.1488535,
 "CNN|CBMiogFBVV95cUxPS2tjWl90dkg5ZnJfTnlTSkZ1X2oySTUtQm1SY09NS0ZjWE5Iamcwd25qMFRKQXZ5YjlaekRmMTJaYnctSUpMY21DaDZMWGRNemZlVkRoM0xQX1RWazdoVGZ0REJqMjA1SXc4aUpCbnc0OUdMOUd2X0E2Y0xWZk13MXJLTC1qbXpNd2pMR24wLUhPOU1YOWFFbHBMS1pJbHJlR1E": 1793659525.6806393,
-"CNN|CBMiogFBVV95cUxPUElOc0xXaVBqTDE5b2Fjc2dhTnpZNFZaSl8xS2c0STdnY1NhNy1TbzdMMTQ0eTlMZ3hTTVBUcnppTmtVTEFLaXFfRzF4eFdKQmZDdmNQMjJYb1ZXNElTcm5wOG9BckxjclBTS3lLdUpGek10UGlGTkVBdnhFdXVER25xaGp6cDZmcGJxWjI1M18yanJfMVVEOWNwT2x4VU9uaUE": 1793438125.6435175,
 "CNN|CBMiogFBVV95cUxPZ3RhbWwyazMyeUxPeEZrQ24taldpenZoR0VLMjFmejEwb0J4TjhjamVZR0VKbDMtbmo2UllWQlFkakZQR0RyTjdETWxmcnlqMFl2SUhtcV9HYTlpa3lVaENhZFc4ODBnRzNGWGlhZkg5aEdFVHFlRExseE9wV0hRZ0JxcWhYZXYyVzU0dWZXYWxieVFvQXc0ZGFfbXFJZ05BOFE": 1793939436.981116,
 "CNN|CBMiogFBVV95cUxPZzRheWo5M1MzOEhBV3NSYU9KcC11YVRrRzJBYmFjRkdqWDdMaUx6WGFLUnRxWEdJZ0VWcHd1dmZHNVNqcjlmVjFvazhtblY2b2tTU2FUd3k4SFRwNGpOVVItYllkdUhTUWVQc0EzSG1kZFVyeE5Md1ZwcEZwX2Y1cWtZOHEway1rN0Jhc1hBS19kN0g1Nk16MnZNRTZLc3ZPdHc": 1793882738.9926965,
 "CNN|CBMiogFBVV95cUxPa2VUcVRKeUpNWUlrM3RqWkhleS1JREVVY0JGMnhvbEdvdlpVUmM2RHdIblM4eUZISGtlY3ptbkhOWENlM3JwWDRVRE83dk1JclllZFc4R1Q5ckNPZXViREozbWlrbXRKSXZLRmNGaXYzNGp5Y0FDcThFaDBGSlVkUmdJNzNjRV9oWGlQYXFnU2hlMWhZRHlWSU1KTnNTcTQxQkE": 1793761242.251662,
@@ -4733,7 +4697,6 @@
 "Le Monde Politique|https://www.lemonde.fr/actualite-medias/article/2026/11/04/a-bfm-tv-des-journalistes-s-inquietent-de-la-banalisation-de-certains-propos-racistes-a-l-antenne-et-reclament-des-mesures-concretes-de-la-direction_6806368_3236.html": 1793811643.1557276,
 "Le Monde Politique|https://www.lemonde.fr/campus/article/2026/11/06/apres-un-mois-de-mobilisation-l-inquietude-des-presidents-d-universite-nous-avons-des-etudiants-qui-sont-descolarises_6807837_4401467.html": 1793985329.5848727,
 "Le Monde Politique|https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html": 1794028531.7535253,
-"Le Monde Politique|https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html": 1793438125.6435175,
 "Le Monde Politique|https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html": 1793942129.6444912,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/02/en-reponse-aux-commercants-eprouves-par-les-violences-du-17-octobre-le-gouvernement-demande-aux-prefets-de-faciliter-l-ouverture-des-commerces-le-dimanche_6805243_3234.html": 1793620841.1183317,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html": 1793679328.0200078,
@@ -6361,6 +6324,7 @@
 "Reuters|CBMiwAFBVV95cUxOcXVPVE1ZTHdtRTFaaW9Ga2dYeGNoNmJiSlBVd29tZGZZdHdEMVNVMEZzcmRvelJrdjJSaXZ3TGJRNEpYdWlhSmFIa0ozYXhYQWJvMEpTY21hMUZfel90QTkxalRvelZKTGpjWExJUEtGZ3VxVlNaLTAyU2d0VUt6eGZyMEtReFdqRVFhdmJPNG1hbkkyNGlaTFRBZFZmZlNucXh3MWdoQzhLaXZPd3JpTUtXd0JOcnAyb09EcUJXX3I": 1793796328.7223122,
 "Reuters|CBMiwAFBVV95cUxPMXFMUXhNOFRueTBpaDBRdk9WX0pJUW5DT21NakZ4WHlIZERjUWpfZHdjUkZ5OTRlSml1WnFNOGIxUEpBakFJbG90ZnFZMFh0Y2VwMGJ0VWJXVWZyMnBMWk5pMGpEa2NyQUN1dExweU1wYVhIdUtFUVBWcEViMlFTS2VBZDNaQmRsU0dfQ09Gd1FKOE9WN2ZDeFlTYjdlQ2k0QnJXeUpUeWgzWENBTkoyTmlwa2lvRkRuRURnZUFsdkw": 1793795444.3442256,
 "Reuters|CBMiwAFBVV95cUxPSmF2NkRUeVRpUERoLWhSdUNYRUtMbkdrVmNlbERVV1U2Nnh0bXFOakhnLXZ1Tmg2cjJEb19yR1ppajNzcVlVa0NmYi00WWZZTnRxVkFOb290dVd1R2s3eE5UMmY0eUV4SUh6Sk4xOGFURFZZN3lvYVRkNlZnclNudHd1djI3dHloTWZFZUdWX3FCNmVoWmVHdjJZNGp2aHAwZFB4dnBDU1VEbFdwT3ZtSDlyQnBQOU5qazJCUTB0MTA": 1793789126.006607,
+"Reuters|CBMiwAFBVV95cUxPTFQxeV9wZW5IQ3ViNVhvZ2ZRRUpaRzhtd2x0UU1aeWhCaEtZUW5Xcnc2VDBzVlYxUVl5SVdCREFKQkVEMlVpQy03YllvV3RvN2NlNm5XR3dZeFJBRjBsTzNwZ3dIekJ3TVlQaHNWeGNQRjNIME42cDVieDlRS0xzbkwwTDNxYVJGRFNQNlJUazIyRGRvUVdhcWN5ajBwVGZqQzdoTS1UZ2p6Tmk0cHNBSW0yOG1IZzdBTjl2eXdqUlM": 1794042926.8502877,
 "Reuters|CBMiwAFBVV95cUxPTS1OUlZfVmptTTNxR1VGSjUxWXhabGpEcmdKMmFYZ1FubG41M0pJbjVMa0hHV24xZXZObWJYbndJRWxOdWhFZXA0LXJFaHlvaXN5NjYwMlFHakxWMG95WjdSclFYRFlGRzFhd2ZvNTNtSXE3Y3dRV2ZNSE9fVFRqdkY2NElFQXJQN3pYUG1odmltQXBpeTRBZHVSWGpEWWNDcTd5YWpaZjd6MU9qVnpvN1BtZDc3WHhIUmNJSHY0aFI": 1793817040.3446465,
 "Reuters|CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc": 1793613645.902274,
 "Reuters|CBMiwAFBVV95cUxPV1ZCR01jOXZCVXc5TUJtZzFxQlNENzZTVmRFeTlmeHAwR0RWd1dlWEJiMW1DZ3lEWW1rUDRpdHJJcFYySmhRQnRUdVlrRVJDSWFiT2JiWFZGM25HcG1TTU95NFJWZmNDb29rWFZFNHU3YmdBSks1M1p4YldFbGs2Y01ndVRpWGtKbWNqYXM0NkNGS1lBVWdVd3phaURfaE5wZzRTbkVXRlpFNWM2ZVRXOENpODVMNC1Qdk8yVTVaZ3k": 1793790046.2484834,
