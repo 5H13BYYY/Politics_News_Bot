@@ -1707,6 +1707,20 @@
 "src": "France 24",
 "title": "Israël : Eisenkot, opposant à Netanyahu, au défi de former une coalition",
 "ts": 1794143194.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jMVZVWXdubDNkelUzQTdyblcyb3NEdUV2cjNIRklKZGZfcWF2TllsQnVRN3VxZHMyVjNTdURJSkN6V1hMcVZoRHFteVY2c3lGUUtXaW1sT1EteEJfUG1mMXZibnJuNzR4c25HRmUtMU1WTnN1ajBlZTNnVEVwdw?oc=5",
+"src": "Reuters",
+"title": "A magnitude 5.7 earthquake jolts central Japan",
+"ts": 1794141501.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261108-y%C3%A9men-premi%C3%A8re-livraison-d-aide-m%C3%A9dicale-du-cicr-dans-la-ville-de-ta%C3%ABz",
+"src": "France 24",
+"title": "Yémen : première livraison d'aide médicale du CICR dans la ville de Taëz",
+"ts": 1794145155.0
 }
 ],
 "seen": {
@@ -3329,6 +3343,7 @@
 "France 24|54d3f28a-d924-11f1-b2fe-63c319c5eb05": 1793889929.8155494,
 "France 24|56328546-d6dc-11f1-91e4-df2afd842f19": 1793727041.1358614,
 "France 24|56aedcb4-d9e7-11f1-902c-637c642eb98d": 1793981730.92988,
+"France 24|5732e47c-db78-11f1-aa5f-7fe627e634fd": 1794145527.2836037,
 "France 24|58884b92-d6e5-11f1-a8f0-3b1c331fe6a2": 1793642444.313418,
 "France 24|595cf842-d825-11f1-896b-fd372c7d3f99": 1793781039.4170918,
 "France 24|5992b0d6-d663-11f1-b161-7170d0ee4557": 1793600126.9012156,
@@ -3375,6 +3390,7 @@
 "France 24|70699a9a-d910-11f1-849a-534cc734324c": 1793880927.664138,
 "France 24|71bc9b54-d938-11f1-9e53-6b251a583337": 1793898932.6974728,
 "France 24|72e41e88-d87c-11f1-b57e-33f8aea5428a": 1793826926.808165,
+"France 24|72f5830a-db77-11f1-8c11-d9f01e38ad17": 1794145527.2836037,
 "France 24|735c63a6-db5c-11f1-980c-dd6426478491": 1794135642.354395,
 "France 24|747dceee-d9c9-11f1-a789-51c2402b8b61": 1793961036.8197155,
 "France 24|750ca2c4-d6cf-11f1-9559-c9c0902fa0a0": 1793637929.2901876,
@@ -3430,6 +3446,7 @@
 "France 24|8d296df8-d821-11f1-8cbc-03642e153a94": 1793781039.4170918,
 "France 24|8df7a566-d6cc-11f1-9497-59822487f123": 1793634326.1730483,
 "France 24|8e26b9ec-d766-11f1-a38f-c97bdab55723": 1793700041.3510172,
+"France 24|8e8f26e6-db6f-11f1-b40d-57a395b2cfb9": 1794145527.2836037,
 "France 24|8f0a260c-d93f-11f1-ab04-1bf49d938468": 1793902533.579833,
 "France 24|8f140b04-d7aa-11f1-950f-2d5dc2d65c51": 1793727041.1358614,
 "France 24|8f41129c-d78d-11f1-bb87-111b0f4613fb": 1793717127.3495593,
@@ -3803,7 +3820,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html": 1793896240.3177986,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-qui-manifeste-quelles-sont-les-revendications-suivez-la-journee-de-mobilisation-avec-nos-journalistes_6806775_823448.html": 1793871035.918236,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-suivez-la-journee-de-mobilisation-a-l-appel-des-syndicats-de-salaries-avec-nos-journalistes_6806775_823448.html": 1793855727.6042163,
-"Le Monde Politique|https://www.lemonde.fr/politique/video/2026/11/01/je-suis-contre-le-service-militaire-obligatoire-retour-en-image-sur-les-mobilisations-de-la-gen-z-en-allemagne_6804340_823448.html": 1793540728.401172,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/incendie-mortel-a-clermont-ferrand-deux-hommes-mis-en-examen-et-ecroues_6804537_3224.html": 1793557833.5550513,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html": 1793545240.5166764,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html": 1793556037.298126,
@@ -4475,6 +4491,7 @@
 "Reuters|CBMifkFVX3lxTE5iVWo4TzBIcElINzB6X3hxMkpaMllySzVXZGxiQnNfeW50STVTeGFwNmVPdkMtUzJFWk8wU2F1LV9PcFFvUGVJY0ZsT2NGNWZ0UVVoNk9LWTdlTTZLQjU1ODFCbHhmMlItc2pCQTRKaHVuN1pwZlJLU1YzSVZDUQ": 1793665836.12112,
 "Reuters|CBMifkFVX3lxTE8xNVlBaTczR3JTOHQ4VktpSnRrMnBOdjBGUkgyNnk3aGl1T05rY19JZ1pBYVlwQXZfcHFCNDMwRnhGOUplazFjT3NSTVpHNUJDTHR2cFdLT0c4VjBHSFlMYm5jWTd6bkk5UWt1X2ROUTZUNUtxLWFOU1hhNUJIZw": 1793556037.298126,
 "Reuters|CBMifkFVX3lxTE9Db1IyRWJyd080RV9odGZlc1F4M01lbWdRVFZkNmNmeEVwM01YWVhBdWRzeDZxVXVXdnk3RmVXcW5zVGdpcWJWbUItb1JlbWVaUUE3Z0RWWHd0T2pLSHNDckE3c052OVdyb3NYMVQzV0ZFZURRaDhYSEpwMTV4dw": 1793849437.1837292,
+"Reuters|CBMifkFVX3lxTE9jMVZVWXdubDNkelUzQTdyblcyb3NEdUV2cjNIRklKZGZfcWF2TllsQnVRN3VxZHMyVjNTdURJSkN6V1hMcVZoRHFteVY2c3lGUUtXaW1sT1EteEJfUG1mMXZibnJuNzR4c25HRmUtMU1WTnN1ajBlZTNnVEVwdw": 1794145527.2836037,
 "Reuters|CBMifkFVX3lxTE9lSGxTaWhnaDF5alJLSFJ3eUM3bnJMRUxWUkU4Ulp6ZFg2dk8zVTJuQkZNdU9zU01EQ3BjV1J4X1UtRUdNdXUzaGVoME1GVkJUVDgwNWZia3h3cjVvOFFkWV9kczM3N1lmbHBWbHEydDlRanNGZXh2dy1XZnVCQQ": 1793784635.17185,
 "Reuters|CBMifkFVX3lxTE9teE92S2czamphdE1mMjNOM3RlLTBjWXNuMUVyZVZDTDJsMUI5UVlwV0U5RXBjS204Q0xfYXJucThGUjZ2NTVlUnF5MVlYNEJORDlwOGIzOGllNXdkTGtlZzVJYVRJaThvUU50X3ZnUW4td2NxUTRCTkFWWnVfZw": 1793781927.2988334,
 "Reuters|CBMifkFVX3lxTFBtdUFHNjZYcVRPSVJFaHJWV0d1YTNGUWVOcmpfTG4xalV6QjMxY3Bxbm5yQ3JGNTV3eEJyaDkxRkVOZlEtOVM4WHlxQXlTWnJndXY1UG1ZMjRDVzBnclFwYm9XX2t3TndsR3ZrSFB1MjNzRl82b1d3QnJWUHc4Zw": 1794063644.0258002,
