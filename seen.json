@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkdxYjQxc3FPNS1VUkE3c1NYVWl5RVJkM18wWjQ4cG5jdXFsN0VzT2RUZmNlUzltOTlMZGRiYUVSb0RvQjEzWVowT21VdXMwM2ZETmZkM2JFOTN4dlJacUFEUjFldG1JVEhFWlM0RGVUbmtqa05Ec3p1RFB5VnB3cENVemdJLURGdTJCWmJ5Zjg2VlNjQng2RE5MRjBxNENzZVpYWnhBQ2s5QQ?oc=5",
-"src": "CNN",
-"title": "Trump Promotes Stephen Miller to WH Chief of Staff - The Lead with Jake Tapper - Podcast on CNN Podcasts",
-"ts": 1794016343.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0J0SXBRSmhzcVZUSFVxZVNzV3ZsX0NVXzhqMUxvS1ExN2w3UTJtcmEzZFlYNjFRdFFYZFZzQUpiM2Fudk5vVmZ5QVdXNnlIMFBtcHNjcllEZjBxbkdBWTNQUXZ0OTRJcFF1T3h6dGZaSjhOSGt1UHExWXY3cHNkcnBJcnY2YUpNOE9EcGp4SzU0YVFXcEZtT19fUEVDZzVEUTk1Nk9iVEY1QQ?oc=5",
-"src": "CNN",
-"title": "Stephen Miller to Replace Susie Wiles as Trump’s Chief of Staff",
-"ts": 1794016230.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVpMTFhtbDlvQ3BER3VtSVRocXhUOXpxTHEzUm5mR3MwLS0wZXl6R1BtWVlvWFl4ME1FU3VJcWF6TnAxOXB6ODJuaHUwOU51U1JwdUZ5eEt3VnlKMTNPa2pIci1PVmp3RHBncjZXWnNYazN2UUJpcElWTnFud0p6SnZhY0lRdkJZckVrTWxkLUVudGlMMWNHTkNaNEQ3SXl2Qjh0VFFuTkNYZw?oc=5",
-"src": "CNN",
-"title": "Young men ditch the GOP, help deliver midterm blue wave",
-"ts": 1794016569.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHV6VkI4YUU3NnpZTUt0b28tbF9LcEFSNnhkR1UxY0FCWm9KT0s0RnhFTXNHak5qNmp0eUF5NHpfUlBMb0VQemJkYmRWVkQ3OF80aEZSUDV5SEhyQU54cE5tV0xKczN4YVk2OW5DVGVtanBEYUpsV1hCMjk4Q3pDMEdfVGxCSnhmc09nSVBuYjQ0d2JzVlJIYkhOOVVUODltUzZvaUItTjFBeFIzZDM2TUlPVXpRSEFoUWpyX29lNTRCX3hYekN0cg?oc=5",
 "src": "CNN",
 "title": "Judge blocks Trump arch construction for now, but new website promotes project",
@@ -41,13 +20,6 @@
 "src": "CNN",
 "title": "New video imagines Trump’s arch as construction hits setbacks | CNN Politics",
 "ts": 1794019740.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWtfa3dEbDY4UU9uNE9keFhFcGlzSVhlckZtM2xwVGk3RnMxdTZoRjlVN2hzWXI4NDhxWk54MXpSeVZaUzFBMWViOS1EelpKNTNOazdzWDJMU3lFX3NPaUUxREk4ZVcyTGVFVkRQWU5GV0tENl9jdExBRXhhUGY4MG1sV2E5RWg1REJySF9sV1drYzhYM3BFM3pBcGhwUkdqTzBIeU12U1NrQ0RoTGVr?oc=5",
-"src": "CNN",
-"title": "Young men ditch the GOP, help deliver midterm blue wave",
-"ts": 1794016569.0
 },
 {
 "lang": "en",
@@ -1721,6 +1693,20 @@
 "src": "France 24",
 "title": "Yémen : première livraison d'aide médicale du CICR dans la ville de Taëz",
 "ts": 1794145155.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
+"ts": 1794145684.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
+"ts": 1794146374.0
 }
 ],
 "seen": {
@@ -3813,7 +3799,9 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html": 1794059128.53862,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html": 1794028531.7535253,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html": 1794143728.4115312,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html": 1794146443.8966165,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html": 1794111329.0780575,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html": 1794146443.8966165,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html": 1793919643.308997,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-les-corteges-se-deroulent-globalement-bien-rapporte-l-entourage-de-laurent-nunez-qui-denombre-270-000-manifestants-hors-paris_6806775_823448.html": 1793883646.8208325,
@@ -4222,7 +4210,6 @@
 "Reuters|CBMiZ0FVX3lxTE11eldxWG5HVG5sVm9PMGthdjlwd1hEUXh0SUtpZkVxMlBJMVVKaG9WZ3RhTWhyRnhwZ2RYal9Ec0U1YWgxZDFxamZUNDFOUGwzZDhLSkJIM1FYdmlHVWg5WkNvb2NVZGc": 1793650526.6697178,
 "Reuters|CBMiZ0FVX3lxTE1CSTBxY0xWV3dCU1NGd3JBWUhFcFI5U3hnNEhIVXcyNkRrMjFNaHVmSENMMTRDbEdZQ2lub1E3TUdZOEZHRGltQ2FwVXJiSDQtRDRNOGpqemdlc0pqWG4wQ1FXNk04SEU": 1793914236.4647849,
 "Reuters|CBMiZ0FVX3lxTE1EbkFsLS00eExLaXlCRnR2VlBVNnlXX2VzMjNzdjd6ano0Q1RjWEVRMGF0LUlZckhTVU1NWmpuNjI0OVhjOFZKS0haY1B3bG5VYjhpTTFQTUZ0c2xKc2lORTZkNnB6WVU": 1794015926.1283965,
-"Reuters|CBMiZ0FVX3lxTE1EemRIeUxQaTBjVndZZ0ZRbGpUSzNJa2hJZHhpUHVDUFVWdVhweTN4eUFIdG04QTZrNG1ldzZCMmdPeVNQTEFUYU83UEZiYVRNNGdwUHlVcmFkOFVFVzAtSUFNM1g5NHc": 1793541635.603153,
 "Reuters|CBMiZ0FVX3lxTE1FY3BVYWRkRkNyUlh0WnY0VnBfM2tsb0FwVVRJbXQ4OHM1c1R0RXcxanVUUUNraVRGaV94S29PbzMtSkh5a0J6X1NSR0ZlMF9Yc2JDYzJFMUdjNUpHa0plUDhJVnA0MTg": 1793736054.5792563,
 "Reuters|CBMiZ0FVX3lxTE1IN2luRmdieHVYZGFiMUJxalBGTDh1aXZ5cDdOWl93elVxNHNUckI1VnJEcU82YWJwOWhiQzZldmVveGVNZXBLNjY5RFlqOUE1SEYyYWJMUnlRMl9GRDc3SjBCU1lGMFE": 1793614530.6263456,
 "Reuters|CBMiZ0FVX3lxTE1JQTgwTGFXcGVrZWl2eEtwcGp3bkFLdm9UVlo4S19NY3RvZ1MzSUtqZ05iS2hLU2ZYTk5CSkpmVnFzc0xNdXg5aWVHd2NZZ0VTYVZpbld2b0VCLWZZemtNYzVtUnlsMEE": 1793946637.024797,
