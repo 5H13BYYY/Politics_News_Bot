@@ -9,24 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXV6WEZCVmtNQW9RV3BEWDhvUWtqRlBoaGpMQ1ZqQkk4Y2g3QWRtXzhjQ2ZFRVE2VWVRUlE3MDNuZnJ2aWw1WEtsZG5YRGo1V01EMXhqRldTMkNmNGI2RFZkeHZLVWJuWV9aTDZVSHlTTm9NNVpQeF9CRGtBWkFScnE4aEtzTDRUbkxZb2pYbE1RQ3NFS3V2bHpFUUJvcmFYRlpoSThucjBKVmtveWRWdkFGaHZPdw?oc=5",
-"src": "Reuters",
-"title": "Paraguay's leadership in limbo as Peña's impeachment trial starts over bank collapse",
-"ts": 1793977653.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlowMUczYjZyV2d0VmhKQjhYaHdkZkY1MEwwQ3E2VVVtZ3Q2Uy1iVm1nSmZOeGVncmZ6amZiTGdmSEtvZ1ZUSkp3TGJKRzZDZnJUR216WktPT09Yakpqay1RZHg1WHF4TVBVejlZRkVlRVNQbmR2LXpnSTNjdUtWYXdJdl9tWC1FbWs3aE9wU2NaS3h4SDUyUk1nbW5QTmM?oc=5",
 "src": "CNN",
 "title": "US attorney overseeing Trump’s ‘grand conspiracy’ probe into foes resigns",
 "ts": 1793978489.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmlXTi1JeEUwMS1MWXk5MjFEVm9RZHRpNWtMTkZ4dm1PcWdrTmVlWktteHlnejQzU2hZOXp1bGZGdVpEU3pjRkNURXlfRnhiLVh4RF9zN0lIbElnaV84QWRxSjZlMWlGRXVfWERPLXd5YVZxWkZ4ckJOb0ZHLW5reHlqUHkzSzUtWFhpeVl2QXlwUDQ2Vm9yMnBjX2paTjZ3WjhDRXZDdXp5UkREMWVPbUFOQlFUS3M3dHlhUlV3?oc=5",
-"src": "Reuters",
-"title": "Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief",
-"ts": 1793978069.0
 },
 {
 "lang": "en",
@@ -97,13 +83,6 @@
 "src": "CNN",
 "title": "Why did El-Sayed call JD Vance ‘habibi’?",
 "ts": 1793982060.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnRXOWRIUkRMTjJUVHA5MERSRnEzbUpJLWdYbjJwUkhyMUlkaVBELWNFWWhyVDl5RTNqQkhUSTdacElqLUhNRk9RSlg2SXpvRkQwTENWZ1MzRFlfYW1OcFBMRHFRQ0RfRDZ1MkVBbHJYTncyWXVOSnh6UTBFMklGLVRiSGNoN21PNURKcUtGSXpWYnkxM19zcDNCbldTeGc4bzJrRmVZNGt4Slp3NmFHcGpLMWNTSFJr?oc=5",
-"src": "Reuters",
-"title": "Bomb threats warning 'the clock is ticking' disrupt TV channels across Europe",
-"ts": 1793977789.0
 },
 {
 "lang": "en",
@@ -405,13 +384,6 @@
 "src": "CNN",
 "title": "White House won’t comment on where Trump’s many midterm promises stand — including those $5k checks",
 "ts": 1793989747.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2WkZYOVR2ZjY5anZTSmVydDNRSncwZWZBYnF4WHdqT3hhM1lfeXpTNWdscDN1b0ZLdUt0czZWbWozTzJtaTZDcGQ3NE1tNExzTWtiaU5zeHdFSkw2Yi05RnVvMDBuQQ?oc=5",
-"src": "Reuters",
-"title": "Russell Brand's conviction shines light on dark side of entertainment",
-"ts": 1793977875.0
 },
 {
 "lang": "en",
@@ -2414,6 +2386,13 @@
 "src": "Reuters",
 "title": "Explainer: What happens next after New Zealand's vote?",
 "ts": 1794095240.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVW4yOVNqQUh6eUVKWmxKREtMTUdRbjhnSnlNZ0xRdGFfYzVsWE56SmFOOTJVd2FPU1FlalZnZkh4VTdVSHIyR0xIRzFWTWhtdTF1QTBQUTdsYnhQSHczXzYwREsyZVJJZUxvNGhTeDBjemJTeDFnS2JGU0dFWnFaOVp4YWRJcWFRVXBIVWVtWkNFYmJhQVZmeWlkSGFFNTNzSWNmbQ?oc=5",
+"src": "CNN",
+"title": "Democrats at Crooked Con reflect on a historic week",
+"ts": 1794106680.0
 }
 ],
 "seen": {
@@ -2428,7 +2407,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/c615j8pw1y81o#0": 1793826926.808165,
 "BBC|https://www.bbc.co.uk/news/articles/c615j8pw1y81o#2": 1793894457.3766804,
 "BBC|https://www.bbc.co.uk/news/articles/c615j8pw1y81o#3": 1793826926.808165,
-"BBC|https://www.bbc.co.uk/news/articles/c62l4yz0eexpo#0": 1793502924.544295,
 "BBC|https://www.bbc.co.uk/news/articles/c62l4yz0eexpo#1": 1793637929.2901876,
 "BBC|https://www.bbc.co.uk/news/articles/c63dj21yvjd3o#0": 1793628927.2254949,
 "BBC|https://www.bbc.co.uk/news/articles/c63dj21yvjd3o#1": 1793776528.0329738,
@@ -2485,7 +2463,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#0": 1793759436.835882,
 "BBC|https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#1": 1793845833.6177785,
 "BBC|https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#3": 1793758519.1887755,
-"BBC|https://www.bbc.co.uk/news/articles/cm8xzw8zgdedo#1": 1793502924.544295,
 "BBC|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#0": 1793920539.1846821,
 "BBC|https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#0": 1793673032.855909,
 "BBC|https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#1": 1793823327.911587,
@@ -2507,7 +2484,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2": 1793818846.0157492,
 "BBC|https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo#0": 1793848527.225776,
 "BBC|https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo#1": 1793909731.544173,
-"BBC|https://www.bbc.co.uk/news/articles/cqm24pdylmm2o#1": 1793502924.544295,
 "BBC|https://www.bbc.co.uk/news/articles/cqn734d24l0go#0": 1793812529.5073483,
 "BBC|https://www.bbc.co.uk/news/articles/cqn734d24l0go#1": 1793826926.808165,
 "BBC|https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o#1": 1793552439.5673401,
@@ -2524,7 +2500,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/crq5nxvx48pjo#0": 1793894457.3766804,
 "BBC|https://www.bbc.co.uk/news/articles/crq5nxvx48pjo#1": 1793893530.0574546,
 "BBC|https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o#2": 1793517326.0999315,
-"BBC|https://www.bbc.co.uk/news/articles/cv369266644lo#0": 1793502924.544295,
 "BBC|https://www.bbc.co.uk/news/articles/cv369266644lo#1": 1793637037.4728782,
 "BBC|https://www.bbc.co.uk/news/articles/cvglwjydgk74o#0": 1793637037.4728782,
 "BBC|https://www.bbc.co.uk/news/articles/cvglwjydgk74o#1": 1793716249.2111654,
@@ -3646,6 +3621,7 @@
 "CNN|CBMipAFBVV95cUxPQzlDSm9pbWszQVFzNjB6M3o2cndTX1Q0ZF9JRUlmd1MxMW4wczZscm1KRDUwRkNGajMzdmREbGNGNlM0T01ha3IwOWRjdElUaVJFYTd3VVdDa3VyOTJ2S1pxVTFCd0dWR04yMmhJNS1KR3pFemFFTkVLN3dheWRYQS1HNk5nNU5zYU5pdlhRV25teTRlbTN6NEtDczBtZ2RrZndMSg": 1793989778.2705116,
 "CNN|CBMipAFBVV95cUxPRkxOODhkaVpTdjNvY3lSM21yOGdTOFk3N2VxSzNyUnh4U1pRS3pveE1WQXRlYXlGVUFsWnhBbVloM0ZGYnl2RDlDaFdjN0x5VXJBeEFyQUVHdlhlOHBHMWUtX0ZQeUUxREtMOWI0X1Nfc3MxM3JaQXdmVFhsT1RFT3M5MWFzTjRjVk5kYmJoY0lCMkFZWlR6djFsTFFiajJhcXFMTg": 1793795444.3442256,
 "CNN|CBMipAFBVV95cUxPSjliN2NoY2cxWW5IalA0V3RQMEtHZnZaVGVqWC1pdXpkUVVSa2VGZWxDdmh1ZzE5Unc3MVROajhWYVJ4RXZtTmJtVUZZQngyeXJJMGtKdnk3SGo5WVBmMmJoNC1abUMxbnNHZ2hIbW5leEp1ak95dkV6NXI2ZWxISUJPWHdrOWtnSDVmRUFBcjlZS2p3VXBtbGl3WDNhbVNDaFAxZg": 1793909731.544173,
+"CNN|CBMipAFBVV95cUxQVW4yOVNqQUh6eUVKWmxKREtMTUdRbjhnSnlNZ0xRdGFfYzVsWE56SmFOOTJVd2FPU1FlalZnZkh4VTdVSHIyR0xIRzFWTWhtdTF1QTBQUTdsYnhQSHczXzYwREsyZVJJZUxvNGhTeDBjemJTeDFnS2JGU0dFWnFaOVp4YWRJcWFRVXBIVWVtWkNFYmJhQVZmeWlkSGFFNTNzSWNmbQ": 1794107725.999932,
 "CNN|CBMipAFBVV95cUxQVW9PQlRrZUtLbWtvSXVxS3VkWGFuS2lWNzluSzEzUVhOM0tvUW42WVRNNi1HSjQyZWtNSjdRVjN5ZW1jRnJCOFZLZXNGWUJITDhESU9oOTk1eERlaGg5MkJoUFQ5YUpZUFA1WXJiLTNzb0JGWlR5TWNkUG9KRkJnaE5DTEcxbkI1X3V2aWtnempsU1hLRWtvZy1sN3lqdGE4MDFLMg": 1794015926.1283965,
 "CNN|CBMipAFBVV95cUxQbEVkWmVHV2xkYi1ULTBjMnBvblFQenhESEtwZFZjbHBJNDlyTFlTTnMwNUUwWEdpLVpYZl9FRXQzT0Utek9mVjg1ZThqcHVjc1lNdWtnN0VOTkFLUDVUODZYNEl4Y3RMM2lKMkRyRVlDVFN2QmJMMjBSa1ZGcXpyTVNxM2ZTeW10dUJyQlI0TE5EVjdXcXJ1Zm9pVHV5R0NhQmF6YQ": 1793706328.9321496,
 "CNN|CBMipgFBVV95cUxNY3FqSnpmZHNGSy15UTREdTRFNUhFQzVmVUlDWHRpdDRIWGxmUi1MX0NCdGljaDN0S2RuMC1xLWtCclBKbWJadGdlTnBWNUVxVzZtaTA2UlVqRDdHaExpOW85Y0xwMVRwVlFmcmN2c3FzSkMwT3prcFFGUDloUXNEb190MG92eUZPdlRnd3Z1RlQ3dVJpU1QtMXpWWlZkVDhSTlpLZ0xB": 1793897131.2633407,
