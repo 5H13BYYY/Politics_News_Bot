@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261106-apr%C3%A8s-les-%C3%A9lections-de-mi-mandat-l-%C3%A9conomie-am%C3%A9ricaine-%C3%A0-l-heure-des-comptes",
-"src": "France 24",
-"title": "Après les élections de mi-mandat : l'économie américaine à l'heure des comptes",
-"ts": 1793986855.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEtIajNfUElQLVIzVl95SEVmZ0xIZjFxMkk2VkNQLW9CbVlWOEZweU80SkFNdEo4eXVWeURreUFnNVVHTHRtOFYxU1I4ZmxXUjgxbWs0UHJtTGlsZzQ5V0JlNFNvYTc5Yy1FdXJQSURFcURzTUlBdlVtVmFRN0p2TjNR?oc=5",
-"src": "CNN",
-"title": "Video of suspected arsonist at Mississippi Police department",
-"ts": 1793986615.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcktHUkhObW1yU2lnV3N0VGhka2lFdHYyQ3VrTVFOZkJxUzQycWoxYlVpRVhlRVdlT3JoeWgyS0toVGQxM1ppNG4zMXVKWlJUSnZsb2xjUUxYbFhhVWhTSndRYnBpRWFZMnhzWFhxUFJ5eXo2YVlMWHIwenNUTnp6OV9rNDJZYjhSTndwV2RSa3NWTGdweE4xZW01UnVJdw?oc=5",
 "src": "CNN",
@@ -55,13 +41,6 @@
 "src": "CNN",
 "title": "White House won’t comment on where Trump’s many midterm promises stand — including those $5k checks",
 "ts": 1793989747.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmFaUXdFMG9pdlV0VllZZXNsUUFYaThZcEVYb00zLUFqeGxoRzJ6N1dENDRZS3pLTjF3WTRmVTVTeldoWjBLWXVmMllyaWlVbjIwQjRTaTJBa2hYRW11NTVFdV9CdjdaWTQzUnUxMTJQM2xGUkJkczQ1U0ptLVNTbWVfVjJIUi1JZzRHWVFiQmViWHRF?oc=5",
-"src": "Reuters",
-"title": "'Drug test' of ancient remains proves earliest known use of cannabis",
-"ts": 1793986700.0
 },
 {
 "lang": "en",
@@ -2043,6 +2022,13 @@
 "src": "CNN",
 "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy",
 "ts": 1794114015.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+"src": "Le Monde Politique",
+"title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+"ts": 1794115811.0
 }
 ],
 "seen": {
@@ -4069,6 +4055,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/06/un-vent-mauvais-souffle-sur-la-liberte-d-informer_6807770_3232.html": 1793961927.2609026,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/07/l-etat-doit-consacrer-au-moins-autant-a-l-ecole-qu-aux-interets-de-sa-dette_6808285_3232.html": 1794062727.8365278,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/07/mobilisations-sociales-le-virus-de-l-autocratie-ne-tardera-pas-a-atteindre-la-france-si-le-pouvoir-continue-d-adopter-la-rhetorique-populiste-du-rn_6808248_3232.html": 1794035727.8808753,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html": 1794116727.6666083,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html": 1793522725.4187293,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html": 1793739644.4340088,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html": 1793995242.8480377,
@@ -4460,7 +4447,6 @@
 "Reuters|CBMiXEFVX3lxTE9JY0pXOHdnTWI5VGgzNU9WN2VVTzdoanpNZkdsakNQZnZPWjk5R0RZblgzZDloZWktQ3M2cllqSmRTRUxOM2JyMmFyRTVnb2pmSWZDWEthRV9DRjVX": 1793748635.9995825,
 "Reuters|CBMiXEFVX3lxTE9KX0VUc1lnNkd2RDJXWEJMYXpBUUROY3NPLW1fdnU2UDkwZE0ydFpPQWtfYkZoZkkyQWd3bWxKZ0U4b1A5ekRtbVVtZC1IaVVZMXphNWQxVnBDU3RM": 1793670325.8976343,
 "Reuters|CBMiXEFVX3lxTE9KY0Q0REUxYVNLVjBGaWFXMEZCQW4yNkJaV2Q4UGI1enRkU290ZWs4cmtlaXJLaEg3VjNJTGJQbkxSTEROd1dIX2prcWI3SnRJUmc3NnRYRDgzazZG": 1793662235.4613624,
-"Reuters|CBMiXEFVX3lxTE9MX25UNXJJczRBZlVaNlhQOUtkd2F3ZnBlNFdyczZwZWJ2MXc4b1dYdnJTS1lKM2t0MmpGZ2VmaWlpZEJFVl9MdWJjVDhyTjlvano2eWc1WmlrQ2lS": 1793511924.776227,
 "Reuters|CBMiXEFVX3lxTE9MYktkS0ZlVWpUOXA3WWJQcGphNm5JTVNRa2tTZEZ6bjRUc1hfbTJvS0F6ek9mOGJOZEYxb0VfamRCQi1HVmt6a3BXbnI4YkdoWXJxMXFoUXVJRjM5": 1793914236.4647849,
 "Reuters|CBMiXEFVX3lxTE9MYnpBTnRHNkQ0azBRd3BlMkFMTGRBS254T1hLY2Y1MHAzRG5iZTg0MWZpU0ZxZlhYaG52ODVIQWM3aHAxMlBSQ1owd18xb1VLd1VYTTdaWDM5Vk9T": 1793736054.5792563,
 "Reuters|CBMiXEFVX3lxTE9MZE5MYXVaV1pLQU1JOHhkVUxrcXI3NWxjQ1dhLTN5RjlJUzBJbVdJeFRyUGdDYnVrak9qMExWSE84TjU3WllBTm5URXd0QVlJa255YkdtWExNUkZX": 1793537125.055282,
