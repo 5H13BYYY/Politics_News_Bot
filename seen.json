@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261106-jeffrey-hawkins-les-midterms-un-d%C3%A9saveu-de-politique-%C3%A9trang%C3%A8re-mais-aussi-du-trumpisme",
-"src": "France 24",
-"title": "Jeffrey Hawkins : \"les midterms, un désaveu de politique étrangère mais aussi du trumpisme\"",
-"ts": 1793995746.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261106-r%C3%A9sultats-des-midterms-cons%C3%A9quences-sur-la-politique-%C3%A9trang%C3%A8re-us-et-mobilisation-sociale-en-france",
 "src": "France 24",
 "title": "Résultats des Midterms, conséquences sur la politique étrangère US et mobilisation sociale en France",
@@ -41,13 +34,6 @@
 "src": "CNN",
 "title": "CNN Inside Politics",
 "ts": 1793998873.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdYV3dXUTRhWEJ2UTJxUXBMMmxVX292SEdXZlVJNmJIa0lzNVNRT0J3QjJhc0VnN2lYUnQybkNkd0JsRV8xUTc1Qk1nZllyQUx0RnJTTENFVEhJdXUyYW9SQXVodjFLT1RmSDF3UE1PODFDRnkzVnhkaEpVSDdwSDJRV2Y5dDZOTXF2cUoxUWlVVnBXWklYRjNpNGp0N2x1N0I1bFgtMFl3eldkdHZxUUlZRVdzQQ?oc=5",
-"src": "Reuters",
-"title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-"ts": 1793995414.0
 },
 {
 "lang": "en",
@@ -2172,7 +2158,6 @@
 "CNN|CBMickFVX3lxTE1rV3BJZWxxTW5WdGlETlNYSnhCV1dfNkdjZWdESFFDNE1vLWRLcXFKekZ5bnQ3NmJudTdpdS0yeFpBZWZpLVhtd3RZbHV4dUNzSTRRRlVQOFh4ZTNVYjVjQmZyQUpRQzY2SHdmczhaWHN1QQ": 1793756725.9025118,
 "CNN|CBMickFVX3lxTE1rdHdrdzl0S2NaVHlWZ2szZzZMTTI0Ym8zM2h0T05OOExOTlVhbzktclQ2MU14TzEyY0dmQnhOcDcteFFjZTB1TGVSdzY2bjBKNTJ3R09EdVg2TlAzVW96ZXhnaFNKcnRHTDVFcUVHb1VwZw": 1794050126.8351421,
 "CNN|CBMickFVX3lxTE1tNGhMbkJDVURJYm56Zy0yY3oxMGJaX0lxc1o5OHF4THNCV1JKU2JZOThKZ19mZG85cEwybjM1Zy1abktpUVdtSEExMkxDdTgzcTJvZ1NleGdTbEU4SVVYRzBBVElVd1pZWC02cm5aWXpLdw": 1794069928.6858244,
-"CNN|CBMickFVX3lxTE1xRkRTa291akNtRHVGcGZwc3d1dzVrSWNLN0RnbUlvSVNrTWFDdVNIQUdIUGhPZUJOMDl2eG0yaTYtaU9HcHpsa2xNU0s5MkFLLWMtQWdvQjhTdVh3aTNYc3d1RlZBM0d3a3QtVFVIbUR4Zw": 1793520926.1727045,
 "CNN|CBMickFVX3lxTE4yTWJUQ24zTGh4YUliOS1MakY0aWNMUTdPOHlSLUVjSDQzellOd21qOUF1akQ2Qk1vRl9GTHMyN1JLVllCakE4cEEzSFRGQU1wSTVwSzA2QzBPcFUwUHVUaFlEX0lKanNrLVB6NHhnSE5DQQ": 1793869255.4778793,
 "CNN|CBMickFVX3lxTE5KVXpLaHE0WnFOSGRHR0ZRN0JOZlh0N0FoVURZa0QtNm5UQmZZSXZKZXBlUG4wSFQ1NEZKLTVaMm9EOU96VzYxNFhKNzI0UVVqSjlydkVMa1RoQVZlcFlkRktzWkhTUUdnX1JxekMyeXdwdw": 1793717127.3495593,
 "CNN|CBMickFVX3lxTE5wdDQ0RDhYaGVwS3NXeXc0N201NFpZcHBIVnJBMlRyME5zTmxWSXNGcmhtWXRkOUoyQ1hjSGxWWVJUdC1fd2xyWDFDV2NRYXJmQ0hfTHVXX1dFTnYtZmJuNmM1SVhuZDJHOF9BZDUzT25HUQ": 1793904329.7970982,
@@ -3555,6 +3540,7 @@
 "France 24|a72c2cc6-d782-11f1-8296-d761514075ec": 1793709929.9023352,
 "France 24|a7309078-d830-11f1-9466-c5c0efd8c11a": 1793784635.17185,
 "France 24|a7cd9f04-da32-11f1-8b8a-652b25039908": 1794010530.2633893,
+"France 24|a7df7bc6-daf9-11f1-b401-51667e289e70": 1794125727.43154,
 "France 24|a84d6510-d6b6-11f1-968f-cfada8e515bd": 1793624442.8175824,
 "France 24|a84f60ae-da30-11f1-990d-9737c52702f0": 1794048325.823577,
 "France 24|a92f7aec-d600-11f1-accb-0b4c2a46b40e": 1793549726.7061281,
