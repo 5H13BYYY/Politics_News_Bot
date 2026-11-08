@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVkp1ZUt4ejBqemNOeFA3VllQQTJzSk1FbHVMU0NfaHpIZGswcFA2WGdhdmoyWTJIN0FfZVFVSnBPaDhiVEJWb3JTMGticzFheTljLTRXR1VMR0d6VHVHVXJ4RUVyQXFUWHo0eWp3RW1iNGRiTUFxQVFJaC1PMUE?oc=5",
-"src": "CNN",
-"title": "White House won’t comment on where Trump’s many midterm promises stand — including those $5k checks",
-"ts": 1793989747.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2xKbVRHTDVQRHYzc2J3aWtnQ3dPYllxOXFjN3A5bWwtcnM3Nm8yMnMzMzNXbTBwendONGJSNzFTMFhYVEF0WmZvQi1HeHlTY19fY28ybUpwel9vQ3I3dl9JOXRhdHJLVk54c3l5R0RGUmZUQUtkVmphdHZ6S1l2cjVGdEdNcFZYWkE?oc=5",
 "src": "CNN",
 "title": "New England Patriots player hospitalized with ‘unexplainable’ neurological ailment",
@@ -296,24 +289,10 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTd3NjVneEJMSkh0SDQ4MGVxWUFHNUR0eHVVTzRkVWtmU2FiZ1lOQkxNOENBX1VqRmc1REZ5Z3hzNU5vX3ctYm9DRjU3RGlWZHNVQnV3SEpNbzJsTFowUEU0WjdzbEliSXV0MjVVZnNUZkRYSGhxd2VTd1M2QXIxOU92Smstc09wTWF2QzRuNEpwOVMzRGxoUVEyYURuUzRVVzJHbEx1enc0bHB3?oc=5",
-"src": "Reuters",
-"title": "Prince Harry seeks to appeal Daily Mail lawsuit, lawyer says",
-"ts": 1793989410.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmJQQnEyQ3M2WjdMN183dE05dEdTTENtQUNYcFhKRHBYclN0ZHNiUDFTLU01dWR6dFNqeWpsZENqc2gtZ0gtUFVVaW1OdkdwbzFvNEo1UmhCdWMtZ3FSeG9Bemx6bDU4aE9pZ191d2J2cUpxdV80VG5aVmFNSV9HZVpaZlptWjF0Y3FQU3dDdFhsV1E?oc=5",
 "src": "CNN",
 "title": "AI's Growing Threat to Girls Online",
 "ts": 1794002320.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
-"src": "France 24",
-"title": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
-"ts": 1793989083.0
 },
 {
 "lang": "en",
@@ -1980,6 +1959,13 @@
 "src": "France 24",
 "title": "Scandale bancaire au Paraguay : le président destitué Santiago Peña placé en détention préventive",
 "ts": 1794117711.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGdHamlJR0pqV2g5VGZScFpGNGZDTktNeU05YXZMdFJKdVhsSjJWU1VFakdwUE5yeW50Tm1kbm1tNEVSc0F2eExnbGhnSXN6TzQxWUUzOWVCZHRPbklHZ040QVp0S29wSEJUV0RUelgyS2ROTU5Nd1NxTUNHbmJSSWc0NlQwa3ZUWUwwS2ptVW16MzBBT3BV?oc=5",
+"src": "CNN",
+"title": "James Talarico makes a cameo on ‘SNL’",
+"ts": 1794117759.0
 }
 ],
 "seen": {
@@ -3025,6 +3011,7 @@
 "CNN|CBMilgFBVV95cUxQd3dsemUwVkxJMzlrUEdZUXRNMHRlSlB3Q2hxSzhLNGpFLWU2S0ZWTklEREEyVS1KeTd5YkxhYzRIcmdES0FsemJ1b20yUnhRZGlVVExQbWl2NmN5dmVXX3V6bmZXS1hQdk94cE5lSzB4RWpyQjNpaE1mM3dGanVxeXcxQjNycTFid3Z6S3dqS25JVVFYWkE": 1793748635.9995825,
 "CNN|CBMilwFBVV95cUxNR3l6ZEQ1VjJoM0NGTWVhZmpHVDFSb25mbUY2anB1eUlWcWFOVjRZUkJQZXJKd1lfVzZnemxTMFVXQlpwX0EzbjFaZ3NOWmUtMHVUZ045bWlsM0FpV1JaLUt2WkJVWEhqZVZqRE42X0xOa3ZQZmdVRjNnYzBDNEJMN0tSY0piZ1ZkQkNVVFdUZFdNWk1BM3dr": 1793642444.313418,
 "CNN|CBMilwFBVV95cUxNRGpKbEV0QzNBV1V5ZHZCWHREVjBUcFhJQUQ2ZDNPcG53SGgzQ2NyX2Rlelg3UWJaTllQUGVnSklCNjVfVjB4VUozaUw5UDdqU2k4QlpLa0xUY1owT3FPb1dUUmJsbENqNmxWOGFMMjJpSWtwM1hvZ3lobXZyQzYzZDVGZk5wRGpPNVJDeHpmZzlGNU5aemxz": 1793977247.8124201,
+"CNN|CBMilwFBVV95cUxNSGdHamlJR0pqV2g5VGZScFpGNGZDTktNeU05YXZMdFJKdVhsSjJWU1VFakdwUE5yeW50Tm1kbm1tNEVSc0F2eExnbGhnSXN6TzQxWUUzOWVCZHRPbklHZ040QVp0S29wSEJUV0RUelgyS2ROTU5Nd1NxTUNHbmJSSWc0NlQwa3ZUWUwwS2ptVW16MzBBT3BV": 1794119435.0100698,
 "CNN|CBMilwFBVV95cUxNcXlmUDBmYlIteE5kTDh0MGJOaVlfNnVOUzVuS3FONm1QSzdGRFU0eWVTLUxDWTJqY3BxLUxrUXFxNDBiWmlLWDhCVDNiQmlNVGh6NWMtRDRmcmRiOGZVcHkwMFZ3U1NtWHVkUTFLMTN1c1J3Y1lhYm5QR2xLUThja2V4X2k3dGpENGVBSW80ZnE4NDlFTTI0": 1793556924.879115,
 "CNN|CBMilwFBVV95cUxOM2RNVmhiQm8wNmxhSnJXTzhjbVBrQVNma2F0QW9pdnBiMHZOM2d4TFhmWDhKOFpvZnFVMm5sQzZjMDlUTzlaT1hyajF1NzhHZUxmLVVNaDJPb0lPVkpLN2dVbU9iMHVQX0dUS1UzMS1Mdk1McjJwUVFfQVh3SEdtVHRubHNQLVFpNkpram5zblRSWEppTUZN": 1793966444.930902,
 "CNN|CBMilwFBVV95cUxORzRhc000Z2s1M1A0bkxXWHB3bXhNOFZVTkNEM1RtTnFvTzBqVmN1QXEzekxTUllaM29ZaWxmSTFiX2hmREk1UzVKdk5xbTZjbGl3NXU1U3Vra1JISWZBZUJmR1RBd2d3dVlveFlmYWY3WjhfS2JqRVNsWDEtRHNNdVo2eVNMMW13Y2xKSTExam1kVWFmVzdz": 1793956528.307193,
