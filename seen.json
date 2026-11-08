@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWowM3l3OHN2YlRLVVFpVmtpc01KNGxmLVBvTGh0X1VuR2x5MzJlOHRjcXQzMWxVT2lfMWc0ZjVEWmktUTRoLVFPUG41WlpPTXVRbWo4OFVvUlVxVVpteHpOdG93MUtPYVRnampWZWFlTV9zSF85cmFCTmY2Q0Rib0FfTVh6VnJoRjFocVM1aXlqMUJJc0Y4c1VMdmFNVU5BdUY1cWtXYWlULXpRVzNDU3YxODBod0dZYjJsb3V4ZnJPU1hV?oc=5",
-"src": "CNN",
-"title": "What’s behind several high-profile Justice Dept. resignations?",
-"ts": 1794008966.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdThlRUZsMk9VaW0xcVJhQUF0dkh6ZGc0clF6VldKRklmTDlPcjRZNnBmNmRHdW1jckhRSnNndWhBOWFYZDJneWNWZTB5VlFsUUFkX2pLNHJoX0kxU3RVYUpjV2VvTVVGcWdvcTdxYVloNEw3encwbHR2cGR4ejdLeHpNVUVOV2VKb1JrSGNxM2xRblBxTldHN3dJQmFVTDVETGtkZUNRcmxLakF0bndLTmhvM1Y?oc=5",
 "src": "CNN",
 "title": "Musk’s massive political spending in Texas backfires",
@@ -83,13 +76,6 @@
 "src": "CNN",
 "title": "Dem Georgia Gov-elect on Stephen Miller’s WH promotion: Trump ‘doubling down on chaos’",
 "ts": 1794013597.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDRNU2pNSzB5eFo1ZkZhMFZ4MXZpR1p5SjNkR0dOS21Xbl9BcEV0Y3BHOE1WX3BOZjRvZXZudjJ0bkJJRlpWOTJVQVZxTHFfWldsTGswTDZRQnlWaWRDbTZZQTV5SEw4U3VZRk5wWllwX05FWmRjUU5SUkJ0eHZXdHlQMU1oZlllbU82ckhsem1wMDRBanYxVXJrVVdjX1l5NDJRd2R2UXlfeVNJLVZvWXVQdE5NMjczRkN3OVByRzRheW1kSS0yaEpn?oc=5",
-"src": "CNN",
-"title": "What's behind several high-profile Justice Dept. resignations?",
-"ts": 1794008966.0
 },
 {
 "lang": "en",
@@ -1749,6 +1735,13 @@
 "src": "CNN",
 "title": "Why your kids are fine, even if they’re not perfect",
 "ts": 1794137415.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDVmeWhtZjZsaE9tRXFDalVXSGlodmMtckdCUDFYQnYzcHp0b2dCemQyMUYyRHVhSkd2UmF4dTJUMTlzUXpfWjFqenhzSU5ENXFxMVo0WkZiZ2I1Qm1haVJTd19XY20tbjd3aFFacU51bl8tS0RCUEtKVzl1MDF0dw?oc=5",
+"src": "CNN",
+"title": "How the rejection of Trump produced a biblical downpour on Republicans",
+"ts": 1794135615.0
 }
 ],
 "seen": {
@@ -2357,6 +2350,7 @@
 "CNN|CBMigAFBVV95cUxPTnR4V2U5TV9rR3VNeDFIcU1NbGxLYW1YYWdKbHBGZ2VielJobmVLNFRqcDh5azF1anJ6ZmI5OUlNZmxRaXZtYjlha04xeUktNHVOTWVYdkE4NWxtSm52NHhyMXRoa1hydTdtX2V2NFM0eHhmRktQX2FDb2FUM3llZA": 1794102328.3278112,
 "CNN|CBMigAFBVV95cUxPU2RTdGpvNDg4OFh2MzczOFEtTHZlN1FJYU9RZmJsZGRmTVk0a2RLNFUyaGVzd2JZZVI3N3N5eUFTakU2Z3E1YmlkQ0xUX1NCSnRucV9ZQzFnQmRUdF9mX0NCcUNHR0NvaExkOXkyX2trX3EybjlmOWFGcDVmTjB2Mg": 1794088839.2043355,
 "CNN|CBMigAFBVV95cUxPZTE1VFYyVURidnQ3dFRmMko4ZHRtQXZKT094WExDTHJTMlBJY2hqSEx1dzN1bUZYWGt5NXgzSGVRblVGT204MnNxYlYyVkNSc2dBYUd6bi02bFMzNjhfc19YUnBpV044S3JQcW4tb19FYTVGN0ZKZmQ0c1JqSVhVNg": 1794051929.6222508,
+"CNN|CBMigAFBVV95cUxPdDVmeWhtZjZsaE9tRXFDalVXSGlodmMtckdCUDFYQnYzcHp0b2dCemQyMUYyRHVhSkd2UmF4dTJUMTlzUXpfWjFqenhzSU5ENXFxMVo0WkZiZ2I1Qm1haVJTd19XY20tbjd3aFFacU51bl8tS0RCUEtKVzl1MDF0dw": 1794138618.9374592,
 "CNN|CBMigAFBVV95cUxQMUhyQVdVdTBHQVZGSWxhajlXWEpmZGt1YTJ3ZGtSTkhkRXhjVHZYb0NiMWJlcDNSNVBOVUczTFoxODV2QW92cUtCQkY3eGcyelEyWXB6aGExbVN4TjgyM3JCSkZPYUw1dnNtYTduWnJfYUhRLV9UZ3ZxQTVzTERpTQ": 1793986239.1840727,
 "CNN|CBMigAFBVV95cUxQNEQ3aEI1a1ZDS2xIU3BqTGREUGRmNzRlajVBcE0zU1FzYko0Wk1KYVlqSXZTRXduS0pYQk83VlRhRzZ3akhoWmVMYVd0NHpoTW1taGRUbElsZ1pPVlRSQmRTOUw1em44TUdic3M4ZllBLVdkaVotUVBFU0lrdDd4Zw": 1794132931.5569317,
 "CNN|CBMigAFBVV95cUxQOHYzVFVHQ0JQV0Zoal9ybVUwVGZPa1Q3S09oMlRYVHVwY0pCcVVNX1lib1lFV3VCZF9GTTJaSXdOY2ppSjA2R1NCWURlZl9IekN0em96RXhMSVl2ODVpektEd19ZUnRWemZqM3FOeWlJNmhZdGlNbGdjVFFqb1daQQ": 1794003327.1734498,
