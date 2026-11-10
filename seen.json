@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFpGRGl5UFREZ2tWeGpZWFh6dDhCcHVEQzhVckplNGNaMUZtSy1RREpfN3dzX3lZNVdVRGc2d3V5bWFTTmdEN3dRQVd3SHlYUDVseGFPYWJRSVVhSUdXM1lVOWxNMGk2dWJaUnl3bWlKSVJOYmlwS29iU21Jc2JfaDJXeEZZUWFmOHNWRw?oc=5",
-"src": "CNN",
-"title": "Train collision in Egypt kills at least 7",
-"ts": 1794167340.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemJTVWlQMVk2aUpSTGUwd0hiQmljREpCV1hnbnhFeGFNdXNKdVdiVkt3djNCS1B6SEJOc3ZSMTRhWkhKOGVqYWtCSWhBMHBIMnZUamZmTnA5YW8zcjhsSlNTWjJwQWNYb1RTUDdpX1p0dzE1NWVZNk1sRExSbmZUVlZoRkZjc0xMZzJJejV5S0FQUVZISGtEcjV2d3NKb21xMU1nTjZjb2V4QUpUSXJZRWJFcE5lZw?oc=5",
-"src": "Reuters",
-"title": "Krakow assailant appeared highly skilled, fellow shooting club member says",
-"ts": 1794167981.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalJYYi1seFR4U3RYMjlQZWNFNHd3Wl96VnJxZFVaWFY0dXotampLME5PYjVvS1Y2NksyNXhtd1JFcFRRRHBodWdnUWRPTkNCNkpoSkRSanh3LTdvRGYzanhxNUN0VWFqTGdUMFZ4ME1sOGVCZkxnQlFhbTljMjd5Rm4xazcwUTliQmlOVmZjcXVuT0U3MlNVRkY2a0JSR3Bwb1FKTUZuZnJXZw?oc=5",
 "src": "CNN",
 "title": "Ex-Obama official on what Democrats must do next",
@@ -3191,6 +3177,13 @@
 "src": "Reuters",
 "title": "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says",
 "ts": 1794295560.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+"src": "France 24",
+"title": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
+"ts": 1794296760.0
 }
 ],
 "seen": {
@@ -3198,6 +3191,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c317k85r5lglo#2": 1793787331.118251,
 "BBC|https://www.bbc.co.uk/news/articles/c3gr84w85glyo#2": 1794123034.509976,
 "BBC|https://www.bbc.co.uk/news/articles/c51kdk422w8jo#0": 1794294928.262747,
+"BBC|https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o#0": 1794297643.4275584,
 "BBC|https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo#3": 1794271526.785175,
 "BBC|https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#0": 1794233728.688592,
 "BBC|https://www.bbc.co.uk/news/articles/c60meenj1ke8o#0": 1793909731.544173,
@@ -3237,6 +3231,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#0": 1793866530.0581846,
 "BBC|https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#1": 1793977247.8124201,
 "BBC|https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#0": 1794208531.1038544,
+"BBC|https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#1": 1794297643.4275584,
 "BBC|https://www.bbc.co.uk/news/articles/clydn7r5pn1o#2": 1793818846.0157492,
 "BBC|https://www.bbc.co.uk/news/articles/clyl3z2xld8o#4": 1794123034.509976,
 "BBC|https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#0": 1793986239.1840727,
@@ -4358,7 +4353,6 @@
 "CNN|CBMiqwFBVV95cUxOZ2RnaXdUMHd2ZExpQ1dLaDdPUVB5UXRZUWlqMVF3VTFqaGhlaFVUMmNpa1QwTC1kMFk3MDBORXBMcUFTRmViLTVTVnRiU2JnRFpoQlJrQWJVWWNFT2pURTZ3TWNfUmdTTHhhT0ZFOWdMRzFrdV9TNXV1TDlfQU93cnJVVjFqaHlkWU8yN1Vfd2kwRUk5bEpzQldlRExlVHA2Ul9sSGMtNVNscEU": 1793696442.946826,
 "CNN|CBMiqwFBVV95cUxOZFFleEx3NjUzeGZ3NWRvYTRBTGtDd25wWXlIOURZR0FfZkRwTGg5UDJPVEpSZGdXOUJoNm1jNDdFcDVHdDFseTJPR3RVaDQyYlBFMVpsMjh0dXh6Z1IyQTE5R1lGQjRkaGJaLVVnZ1ZwbE9lcmxIS3FVdVJ3VEJpNG5idWhrTUFTRnduR09RYTk2bEVCMkNhZmRoejRIT29uZE5UeURzbHJ6ZU0": 1793893530.0574546,
 "CNN|CBMiqwFBVV95cUxPb1RtQm11UjVpTnItZ3ZvYjQ5SVR4eVc2OXUyWW44b1VacGk2c0J0dUp0ZTZSNnd1X0NIeXVPMFZSUXlOeVlKdVpZYlNmTmZpeUc5R0ZOd3h5X1M4Skd5aVpmbzU2RFhPNndnbFJ6UndQMndCZ2ZkaDRidVI3UnBydEJXQi0xT1hWMXVwekRWeUFqMk1xODh4WHZkaDB4d1QzOWZrektTYzFiM2c": 1794186236.1844592,
-"CNN|CBMiqwFBVV95cUxPbjhRNGtPRVdJaUFlWUFCMngzRml3cVkxX0FuY0NPbUxCSWI1V3FabUlUUFhScFJBUUdBV2x0eFF1d1RaOHlwdFF0YWN0QWtoUXg3RW9QVEdPTElqdjdaS0xwUGluTm5GdVZhWFktTE92Sk9WdTFuWng5WVJ4bUE2aktxckhUeFNvdE1CWS03OUlpZW9aY1d4U1h1c0k1QWkwYl9HeEtlbEVhamM": 1793692842.7586987,
 "CNN|CBMiqwFBVV95cUxQVjdfNkY4SHZzdkpIbFB3MkF1cy1GVEpNUWVWbHlRcWc5TzVKVTdMRGctNUFvenFmaEJRdzJydDRaNWd4RUpoTWxhOGNjTHdvQ3pyVHJKUV9BTVctLXAybkZyM3dSQjdlNWM5X2MyX0IzLVhIUTlZWmRlQ3VtVy12WmlFa2FLZDE4Rmh0dDE2NUg0SWZ5NW5pYy0wa1I1TW9vRWZCWV9qcHVxbnc": 1794073527.1011438,
 "CNN|CBMirAFBVV95cUxNQmY1bGhUVkdFcEMzV3RrOUxVMGlfTmJhLVBpNGdjUENtVXVnei1JVVE2ZlFETHl6OHpBM0plYXk3enlKUzYyX0xidFl6UUVPRU1wZFNaYkpXR2V3VWhqRVg1X1BxMEFiZnBaQWxHcUlZeXJyV2IwbWxjSmxSTEJPQksxaDRFTVZxVWpFVDRiY3pET29aYk1GSVBsWW1XakZhblNfVHJzQ2c1cm1w": 1794060043.0204515,
 "CNN|CBMirAFBVV95cUxNc3VWOW1HX0tXX2lxOUVHV3d2azFJUVd6YjE5WUFqLW5penRReUxfNm5LTU1qMENwYW1RbV9aV3c3M3lxVGNzeUNqdjRSdHJvRFJGMWJCRFZkZjJDemE2VWpyTVZVb2k3d05HM2I5SDJadGN1RUpVblBVZ0VSb2p6Z2ZKUmJUOEY4T19UNFlJUkhLM3ZhcGJwMlRsX2N6NXpDc3hod3ZYY2pIN0RL": 1794027644.8812451,
@@ -5007,6 +5001,7 @@
 "France 24|ef274a04-d9cd-11f1-a706-db1d544b1674": 1793961927.2609026,
 "France 24|f016e00c-d9cb-11f1-8ade-07cd59e09ffd": 1793961036.8197155,
 "France 24|f0a9de56-d79c-11f1-8363-edba9bd8886e": 1793721645.0031567,
+"France 24|f12b6ba0-dcd9-11f1-b8c5-c37363e96e79": 1794297643.4275584,
 "France 24|f14581b6-dc48-11f1-82a2-b524577f1df6": 1794242731.5335116,
 "France 24|f284218e-d89e-11f1-b644-bf4c6cac2a03": 1793834131.7907696,
 "France 24|f35d628e-d874-11f1-9c18-9f226b38f71b": 1793813270.450772,
@@ -5284,6 +5279,7 @@
 "Reuters|CBMiXEFVX3lxTE1zUUxZWkVUOC1VYlBJMjh1VlhqVkRNSTJ5TnB5Wk83TTBSWW5GTEx2eGlNTHBLNWNwQi15Y3ZVQWp6NzhUMVVFQW9RMXdNQWxIZlhQbktJQno0WnhI": 1793727938.599468,
 "Reuters|CBMiXEFVX3lxTE41RGQ3c0g5N1VLYkVWWXZ3VUFrN2NMNEpSMDVVUXFXVkRNXzNTTTMyQ2xrb3c0ZUdaSXUzMC1zSk5VNXZSV3FHU1E5V1F0cXVYbGMtdEdYemJuNllr": 1793756725.9025118,
 "Reuters|CBMiXEFVX3lxTE42ZW5iVm1rOGFxaThCeVY1VjFRNU9QUXlXR21yS0loUTBnTnJfT1pyclBiRVFwSDZtMnROcnFsZnRoRzB2di1uTElWNmg5bHdTTzJzY3RhelZLLTlt": 1793914236.4647849,
+"Reuters|CBMiXEFVX3lxTE4tbmpQalVrSFNKbXkwYnB3QlVyZ0lSWEN6Qlo1ZkhINmd4Q1luQzdXQjZfV1dpc0JPM3FMY0pOTzBicWtzWVlDWldOemUxMjZwc0Qza2c2dWdWNmx3": 1794297643.4275584,
 "Reuters|CBMiXEFVX3lxTE4yOWZOVWpXcDR0ZnhCajRJcXFrSURFTEtFWllDTGFwdDNXOTU3TEF5RWIzQW5TRkRxUFljVUctRUE4YkhhQ0xZUVpYYnRvX1d3b1NNTnFVT0FNNUcz": 1793812529.5073483,
 "Reuters|CBMiXEFVX3lxTE4zMkVudHMteDFyTGZVaWRZZkxwalJGNEZpdjBYdWljdVRpN2ZxcjA5MElJUUd0ZkN4dzVPcmFPTE5TNlNETTBrVjVDZGN5dWd1YmV0ZXVRdEVnWDFT": 1793740545.064657,
 "Reuters|CBMiXEFVX3lxTE53TEVmZ2FUYTdvd21jZlRBY3Y1YU5GLTdFRjdUWW03Q3J2djVrdXRjaDJ0ZWZ3amRBZXVLejA2NXR1d2tRdERCbS0xQXJKeEVVMWx0ZzFuM1I1ZXhs": 1793816145.300829,
