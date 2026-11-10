@@ -9,31 +9,10 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
-"ts": 1794171653.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261108-cnews-la-p%C3%A9tition-appelant-%C3%A0-la-fermeture-de-la-cha%C3%AEne-d%C3%A9passe-le-million-de-signatures",
-"src": "France 24",
-"title": "CNews : la pétition appelant à la fermeture de la chaîne dépasse le million de signatures",
-"ts": 1794172321.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261108-patronat-et-syndicats-re%C3%A7us-lundi-%C3%A0-matignon-la-col%C3%A8re-va-t-elle-retomber",
 "src": "France 24",
 "title": "Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?",
 "ts": 1794172722.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHR5UzQ1cFlOeHFpa3N4NldPTlRHUkI2aEVHallCdkVFRlR5TTFJZWVQdDhqTDF5aXBLZ2xscTN5ZFNvcDNpQWRKSVhOMEJiNEEzLVAwYWFsckRzY0tpWGNZR092dzh1ZjZVbXE0Z2JZYnU1Sk9wSUhndGdXYlV0NFZUUlFfQ0xhOFB4M0RkeWpkME5Gb0tQaFBiNlVLc21PRTAta1JIZnBDVFRKM19vNWg3R1FyYzlKS1pWYlU1RWlkM01DUGc?oc=5",
-"src": "Reuters",
-"title": "Climate talks should focus on implementation, not new targets, Singapore says",
-"ts": 1794171823.0
 },
 {
 "lang": "en",
@@ -3191,6 +3170,20 @@
 "src": "France 24",
 "title": "Cyberattaque contre des frigos : la France \"ne s'interdit rien\" dans la riposte contre l'Iran, avertit son chef de la diplomatie",
 "ts": 1794295922.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html",
+"src": "Le Monde Politique",
+"title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle",
+"ts": 1794301159.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
+"src": "Le Monde Politique",
+"title": "Grève du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d’action pour « mettre le gouvernement sous pression »",
+"ts": 1794301706.0
 }
 ],
 "seen": {
@@ -4863,6 +4856,7 @@
 "France 24|a06fe974-dc44-11f1-9262-b393fc868da9": 1794233728.688592,
 "France 24|a0710d54-d82a-11f1-bef9-6fa77c9d90a1": 1793782839.8406355,
 "France 24|a16cd616-d9ce-11f1-b4cf-950ab0f44093": 1793961927.2609026,
+"France 24|a1f1aa06-dce1-11f1-bfbf-e71be188cba5": 1794302131.1548553,
 "France 24|a3922496-d776-11f1-96aa-dfba2dcc66cc": 1793708126.8287153,
 "France 24|a499130a-dbbc-11f1-99e3-2b703d7534bc": 1794175242.2952156,
 "France 24|a516ff32-d832-11f1-a07a-d16e16e26880": 1793789126.006607,
@@ -5171,7 +5165,9 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/teddy-riner-annonce-etre-candidat-a-l-election-presidentielle-pousse-par-la-colere-sociale-et-l-envie-de-federer-les-francais_6808643_823448.html": 1794223839.106101,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_6808657_823448.html": 1794233728.688592,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html": 1794300329.336967,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html": 1794302131.1548553,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/le-chomage-se-stabilise-au-troisieme-trimestre-a-8-2_6808794_823448.html": 1794295836.7795806,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html": 1794302131.1548553,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html": 1793919643.308997,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-les-corteges-se-deroulent-globalement-bien-rapporte-l-entourage-de-laurent-nunez-qui-denombre-270-000-manifestants-hors-paris_6806775_823448.html": 1793883646.8208325,
