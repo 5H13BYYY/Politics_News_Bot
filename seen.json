@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261108-y%C3%A9men-premi%C3%A8re-livraison-d-aide-m%C3%A9dicale-du-cicr-dans-la-ville-de-ta%C3%ABz",
-"src": "France 24",
-"title": "Yémen : première livraison d'aide médicale du CICR dans la ville de Taëz",
-"ts": 1794145155.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
@@ -3163,6 +3156,13 @@
 "src": "CNN",
 "title": "The Lead with Jake Tapper",
 "ts": 1794273605.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/france/20261109-france-nouvelle-journ%C3%A9e-d-action-%C3%A0-l-appel-des-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants",
+"src": "France 24",
+"title": "France : nouvelle journée d'action à l'appel des étudiants, lycéens et enseignants",
+"ts": 1794268322.0
 }
 ],
 "seen": {
@@ -4807,6 +4807,7 @@
 "France 24|8f0a260c-d93f-11f1-ab04-1bf49d938468": 1793902533.579833,
 "France 24|8f140b04-d7aa-11f1-950f-2d5dc2d65c51": 1793727041.1358614,
 "France 24|8f41129c-d78d-11f1-bb87-111b0f4613fb": 1793717127.3495593,
+"France 24|8ff1e602-dc98-11f1-a338-1f1718194b53": 1794275063.7124557,
 "France 24|9003221c-d7ef-11f1-a5fd-8588457c0809": 1793756725.9025118,
 "France 24|9073eb32-dc27-11f1-a180-bf32f5dc36e8": 1794221130.534577,
 "France 24|90b0fa38-dae5-11f1-ae49-d333a4fd5cce": 1794084326.9629102,
