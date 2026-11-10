@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDZKWXR6NWRkSU1kLUV0M3FSOHpOYUtQWlV1OWVhUGN5Z3BraUg2d3BIdEJDZjBMMV9Ca3JBaEw5bWl4a0FPVFdGMWgwTEt3SUZtMnBkcU1MempFcGRwZVlXdmVfeGgtQm1sZW5zQVJMU29DczY5MjJ2WHF2cVo0M05pbw?oc=5",
-"src": "CNN",
-"title": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns",
-"ts": 1794170202.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261108-samy-cohen-eisenkot-est-populaire-car-il-repr%C3%A9sente-un-apaisement-de-la-vie-politique-isra%C3%A9lienne",
-"src": "France 24",
-"title": "Samy Cohen: \"Eisenkot est populaire car il représente un apaisement de la vie politique israélienne\"",
-"ts": 1794170646.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWlVMmg2TlFMXzFudjZfRUlFWlVkYldzRzcwY2U0NVM2VUc4YXpYWDhnbHpJTHAzd25KUG9DUmJreXlEazZsZmlkWXJJal9KYUdpYmZCVkZDaUVsY3dvLUxKUWFPZW42V21FT1NhbC1vX2owY1lyQVJUdXI4b0hwTkQ1S0ptajZjNnp4LXlxVnVKN2pOZVRpbVNEYnVGcmE3THotZGh3Mll4X1k?oc=5",
 "src": "Reuters",
 "title": "How a digital bank’s collapse toppled Paraguay’s president",
@@ -111,13 +97,6 @@
 "src": "CNN",
 "title": "Newly elected officials arrive in DC",
 "ts": 1794178080.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTRYV3JOU2Z2SUF2M290QXBhaDEyLUo2bGhxQjNKd0pWMWxlWHJreldCeFRPNG1xV0M2SzFDYUlQTUF3ZGtIVU9nNmlhTWZVWjdxMVlwSlVSUHhwbWVHYWxNUGdrSzRVd1paN0ZhYmNJODAyd3A4QUNlVXI1bzZGUC1R?oc=5",
-"src": "CNN",
-"title": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns",
-"ts": 1794170202.0
 },
 {
 "lang": "en",
@@ -3205,6 +3184,13 @@
 "src": "Reuters",
 "title": "British writer John Harrison wins 2026 Booker Prize for 'The End of Everything'",
 "ts": 1794298843.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html",
+"src": "Le Monde Politique",
+"title": "Conférence sociale : le gouvernement ébrèche l’unité syndicale avec ses mesures sur le smic",
+"ts": 1794300138.0
 }
 ],
 "seen": {
@@ -5031,7 +5017,6 @@
 "France 24|f4d7351a-d7a5-11f1-8e06-1972af607453": 1793727041.1358614,
 "France 24|f7ea2f5c-dc85-11f1-9689-d7f558a430c4": 1794264329.9843528,
 "France 24|f8e60c70-d788-11f1-bf4b-359d460adb9f": 1793715332.5803595,
-"France 24|f97415f6-d760-11f1-85fa-4971318d553f": 1793695200.8544173,
 "France 24|fa27a156-dc7f-11f1-9eb4-f97d1dafa75a": 1794259840.3682075,
 "France 24|fa2e3ab0-d79e-11f1-92db-b16583d47fb6": 1793727041.1358614,
 "France 24|fa7877d0-d846-11f1-b190-338c9fc29a00": 1793800847.7608814,
@@ -5186,6 +5171,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-le-duo-glucksmann-jadot-presente-ses-100-jours-de-la-revolution-ecologique_6808651_823448.html": 1794229244.5785513,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/teddy-riner-annonce-etre-candidat-a-l-election-presidentielle-pousse-par-la-colere-sociale-et-l-envie-de-federer-les-francais_6808643_823448.html": 1794223839.106101,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_6808657_823448.html": 1794233728.688592,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html": 1794300329.336967,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/10/le-chomage-se-stabilise-au-troisieme-trimestre-a-8-2_6808794_823448.html": 1794295836.7795806,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html": 1793713530.8517933,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html": 1793919643.308997,
@@ -5504,7 +5490,6 @@
 "Reuters|CBMiZ0FVX3lxTFBlWnI1X1lhY2J5SnozSGtZVVhRblkzUG52RFV4Mks4OVJlZnRqZkpLQy1uU3BXbjJ3ZUo1MFladEJpRTFWVEtTNDYyOGxCTUVqR003NkdHalNjMXpXMzJOVlhPNVA5cEE": 1794271526.785175,
 "Reuters|CBMiZ0FVX3lxTFBmOTlJS0xBX1o0MFFXQ2VCVkJVdFd4Zm5zVnJMRWZKOWRTVzVlc1JvVkc5dHlNLUE3bUQ1LWNzeWp6eGp4WHp5bkJXVXpyQWVkX253UTRUWFFDUGFDaC1DRWhYNEEwMlU": 1794261641.8708556,
 "Reuters|CBMiZ0FVX3lxTFBobVVqVXN4OVRVQlpYUTFlbk5PMnJGSTJkekZGekxkaEd5aUxZV1NhWC1PbkhCZFl5dHdGRFFQNm9oczgzZmxEVC1JcVFweHpickZnQ2FUX1otYmhlbVRDVTR6SGZTVjQ": 1794201328.1445081,
-"Reuters|CBMiZ0FVX3lxTFBqTEdrc09MUzJlSlZFWU1oaWhxRGx0VVktNTJ5cHl5UG9JbnMzSjY5ZmV0MWpjUy1hLXJJaUJRZE5kRmZudnFIUWZTTHRna1Y0ajVnOGx3MjdHRVVjVjFOTEJoazhhenM": 1793695200.8544173,
 "Reuters|CBMiZ0FVX3lxTFBuZkpqdTJOOGxrVVh5S2FzbE1fQkVNVEpIM3RUbTNMU1Z0WDh0QWYweEp1bHpUTGlkZDROUW9IZ3NFSjB3dmxDcC1NVVdxekNTX2Q1Rnh3cVl4dUlaeTZIRmdzR0ExSnc": 1794011435.885011,
 "Reuters|CBMiZ0FVX3lxTFBvYWlRX3BhZVM4NnlXRnUtYTd5cFlDMU5TSmJOTVltMDZSa2ZwOHFTMk93Y2E1THE3RlBpR3BNenYyWG96dWZzd3hreklMLW5icWt6LWJEbXhLWmwxWW8tTnZEWmdRbVE": 1794285035.458002,
 "Reuters|CBMiZ0FVX3lxTFByNzR5SndFVDAxU2tOUUlzVl9CNWNoRnFNaWpnYXVRNlBnY0NxTUZIQTFTSXF3VThabXd2VmFGbHFOOExwQVdJWERzQUpOOW9XY0Z0RzhnbTZRbGo1VTVraThheG5xOEU": 1793997039.4733543,
