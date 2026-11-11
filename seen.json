@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-hausse-de-1-6-du-smic-les-syndicats-ne-d%C3%A9sarment-pas",
-"src": "France 24",
-"title": "France : hausse de 1,6% du smic, les syndicats ne désarment pas",
-"ts": 1794230204.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck1DaU56SnU3eGFZRzlQaVpxYUs2WEFyRVMwU1Nkd0ZoVHVfWFdNNklIYjBWUExwUE1VOVVqbTJRUHV4SkR5Qnc0ODNYWV8yVmV6dEJFVnFDcWdVUUtLWkIwMUtTektoZ3lfNEhNZi05dmZoVlc0MHlRWHJjcWhYb2Rhbmtoc0xzQXBZZmdwc3NJc1lMVTZ3TQ?oc=5",
-"src": "CNN",
-"title": "Sen. Chris Coons says Pete Hegseth is worth impeaching",
-"ts": 1794231029.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jWlZEbFdQaTZmZW5NVXRQd0VyU3hGcF9HT3Fyb0RKLTE2alhwMTFVQThjaEtzM1JmMWd4NjJSdmIxVnh4LVAxODh5a0lLc3VabVJ6dktuSkU5NldtV1lXQU00Tk5qUDQ3RWlwTlYzX3AyNnVhR0dN?oc=5",
 "src": "CNN",
@@ -3499,6 +3485,13 @@
 "src": "CNN",
 "title": "Hegseth’s former spokesman calls for resignation, says he should be impeached",
 "ts": 1794359072.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw?oc=5",
+"src": "CNN",
+"title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+"ts": 1794348887.0
 }
 ],
 "seen": {
@@ -3814,6 +3807,7 @@
 "CNN|CBMidEFVX3lxTE5xa0tNTnpSYnFIZHNVQW1OczlvaXZZaXg2QUtrTk92LTh3UEFpbVI5UTZ5eDZGMllNTW9SVlRiQ1V5ZDNzbnFRVXJZYlBmSjdfM19sbTZURGhweFRNLXMtRWh4dU0zYlUxTTdhRGxBZTVZbWxS": 1793918732.1866617,
 "CNN|CBMidEFVX3lxTE85TXM4M0FQNFV0QzFyQ2tTWmdkWDRPLVBJQ2oxR1FpdVh4Z3U3T2pzZ2JPanlyVzR3ZWdHRGQ1ajlUVENVcUZxUE44aVVWeGFicHlrWWxDb2hLM3dDczUzdEYzX1B0Y0ZNSzRqc0c3ZDZiZzdZ": 1794079838.2794526,
 "CNN|CBMidEFVX3lxTE8yX2VGdUlpYmUxMkJUWHY2bklXNlJTQ3NJSm9KQllpR1ByaXFyOXdKbXlrMHRkZllnb1ZOckpJdmRPZ3ZiQ0M2Zk0wWlJJMXFhcmVrNzFQNG5HZ2RBQldkVWJ4dE0wTXNKTXlBaUhmdmdjek92": 1794243646.3737514,
+"CNN|CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw": 1794360636.1169083,
 "CNN|CBMidEFVX3lxTE9JbmN6US1OT19wQTkwM29NZXZjd2pYWWxWV21VWEhiZ2RXZWpsU1V2b25YYU5IRDl2OWlXNXIzamtMcG1EVzdpS0pfdEdIeGRnb3Q3MWtSOUp4UW92WmNIN0U1Q3pUck1Qd0xNZnlweE9qZDVq": 1793772928.2028146,
 "CNN|CBMidEFVX3lxTE9Qdm5mTXRFVllXYWlpWUU0QldCUVhhU1dwYVdTVkVYWjVnS2NGWFVPVERkcE1fS3hUOHhRT19SWURFWEszNHpBb3RBMHZabU5hTjAxNU83Tjd3bms0OHFwajExd1cydWJuOEdQNTBlbmNULW1j": 1794060043.0204515,
 "CNN|CBMidEFVX3lxTE9xY0tXdjdETmRMYU9MNUc0LThlQWtyaXloUlRiQWdadVBkd0tlRlJmSU9RYlpwdkhwR2FNdDdFQW96QVBZMG9uMUZ6OUVlczZUY1NvRU0yRlVQTktqTzBJNEZCZ1RCWU9xZ3BWbFAxNlBENlRL": 1794233728.688592,
