@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmttSXJtNFNlWTJ3dkx4b3hTTXg3X3pRQ1RZLVF0aTRtZXRvWjhSLUlPNTNIMl9rSWM0MXJYd2NTeVI2M01pYUtOakJqMXdzbHVVUk5IRERXOFBwYTBKMTF2aFZSeDZhdUxfaXZDVW1aLWRMZFlDSnFWei1LdUFxLXFBTUdzZ3ZRU3JuUWlhMXdnRXdmU29vRTRxUHlCTnY2ZmFJaWtjUXN1a2lWUFEtYkZSYnVyU2tEQmxoZjR1bw?oc=5",
-"src": "Reuters",
-"title": "COP31 host Turkey to push global electrification goal, but will it be green?",
-"ts": 1794280020.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/asie-pacifique/20261110-australie-va-imposer-garde-fous-entreprises-ia",
 "src": "France 24",
@@ -3093,6 +3086,13 @@
 "src": "CNN",
 "title": "The Odds: The Rise and Fall of Inflation",
 "ts": 1794408539.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261111-exclusif-rdc-entretien-ministre-affaires-etrangeres-paul-kagame-v%C3%A9ritable-chef-des-rebelles-kabila-frn-fdlr",
+"src": "France 24",
+"title": "RDC : \"C’est Kagame le véritable chef\" des rebelles, pas Kabila, selon la cheffe de la diplomatie",
+"ts": 1794409570.0
 }
 ],
 "seen": {
@@ -4416,6 +4416,7 @@
 "France 24|3c718596-d96e-11f1-b921-9532b22e5f55": 1793921435.3123198,
 "France 24|3c969464-dcf0-11f1-8d58-03308a139385": 1794309330.9183729,
 "France 24|3cb87578-dd0b-11f1-b2a3-1b978980c39d": 1794319253.088356,
+"France 24|3de84df8-ddb8-11f1-8890-1154febfc93f": 1794410129.323917,
 "France 24|3e10455c-db5f-11f1-8708-01d23b3dfaeb": 1794135642.354395,
 "France 24|3e2f23d0-db52-11f1-bf3c-67756c6bb6a7": 1794133840.2290533,
 "France 24|3f4d29c6-d9f2-11f1-844e-d7dbbf54b12d": 1793984445.9455993,
@@ -4430,6 +4431,7 @@
 "France 24|435f7466-dd11-11f1-8002-67af628f3cc5": 1794331837.843593,
 "France 24|44025b04-ddac-11f1-9af6-8130216702f4": 1794389433.7668605,
 "France 24|4425eeba-d9de-11f1-b622-9f6e57074459": 1793970043.9374325,
+"France 24|44310932-ddb5-11f1-beb6-47fc4dae7fcf": 1794410129.323917,
 "France 24|444db682-da3a-11f1-9b35-bd068c9a0fa1": 1794042043.1859086,
 "France 24|44ef6b9a-dae3-11f1-b434-718acff9ff28": 1794081640.9245064,
 "France 24|45f263f0-d870-11f1-a684-9bc1b5712f69": 1793872844.3695583,
@@ -4554,6 +4556,7 @@
 "France 24|8c5c1fa4-ddbe-11f1-810d-312348d895d5": 1794395727.0769234,
 "France 24|8c910926-daf8-11f1-b78e-a91aa05ad600": 1794123926.5812569,
 "France 24|8d09843a-d91a-11f1-97b6-61df4fada6cf": 1793956528.307193,
+"France 24|8da077ea-dddf-11f1-9a48-ad5ab2952c35": 1794410129.323917,
 "France 24|8e8f26e6-db6f-11f1-b40d-57a395b2cfb9": 1794145527.2836037,
 "France 24|8f0a260c-d93f-11f1-ab04-1bf49d938468": 1793902533.579833,
 "France 24|8ff1e602-dc98-11f1-a338-1f1718194b53": 1794275063.7124557,
