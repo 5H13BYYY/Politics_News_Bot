@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/mobilisations-sociales-les-plaintes-de-journalistes-pour-violences-policieres-se-multiplient_6808896_3236.html",
-"src": "Le Monde Politique",
-"title": "Mobilisations sociales : les plaintes de journalistes pour violences policières se multiplient",
-"ts": 1794336562.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG41RE9FU0tZaUZFaTNXOEVWUDlVNVgzZ0dZaUY0S1NZZTR4dHdMcFpGQUxaVk1SaE0xanZuOVhDcXktMHUyWFlfcXd6bUFGbF8yaVhaa0JEaEIyczJYdnAzbXN3ak11S2tCSXNOdjJQTGxCNUlnS0Vsd096cFUzcmdWYV9yWENfSjJmSjNzMzhnMGF2d3lrQzdta0VXODA?oc=5",
-"src": "CNN",
-"title": "Outgoing Republican chairman to DOJ and Democrats: Keep investigating Jeffrey Epstein",
-"ts": 1794336809.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FVnAwdEhEOXFsT0NNdm1wY2ZESG85bmt3MXUyR3JhNUt5N0V3NzI0QmdwWloweFdSUmY1VHhHTnN5MDBCcTlvbGMtdWlyQjhCVWhtcUpYYWI5VURGQXc?oc=5",
-"src": "CNN",
-"title": "Sitemap - November 2026",
-"ts": 1794336951.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRzRzUWluUktQNHNEOWNJaFFnUU84XzBkaEtUNkNNenIxY1VvaU0tTlpnQlYzLWQwZFhfM0xETk1oeTlDWHo5LXQ1R0VIX1JOOU5pd2w3TTRPakZKLXJ1UGJ3TlRGdVVGNXluQWFiZzEtVTZ6UlpPaTFlbF9PZDlVbnZ5aDBrRFlIRFdlUndDVHhYb1pDQThFRDF1Z21yVGwzczJGaTE5eERKYjI4bUR5cVRVYw?oc=5",
 "src": "CNN",
@@ -258,13 +237,6 @@
 "src": "France 24",
 "title": "Pourparlers Ukraine-Russie : Washington plaide pour un \"nouveau\" cadre de sécurité avec l'Europe",
 "ts": 1794347831.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkZObW93TzNORkg5a2lucU9SNllrcV84dG0tUTA5ZjRpWGYyaF9aNm5FcWZRUUljLURHbkFuR1h5WWplUEFfQlhhajFkdm5JczZ1bVBJRy1yc2VoVWdySm5aSTUwUExVYkpmUkVpZm1Kb2huRkNpRlhYak4zSmhkTmUtUkFXaFFDTExRZFAtdVhhNU9xTlFmV29leE1ybkZjWUYzNU80SldnTkItblE?oc=5",
-"src": "CNN",
-"title": "In Gaza, devastating floods leave families with nowhere to go",
-"ts": 1794336551.0
 },
 {
 "lang": "en",
@@ -3163,6 +3135,13 @@
 "src": "Reuters",
 "title": "ヘグセス米国防長官の一行、アーリントン墓地の衛兵から「静かに」と注意される",
 "ts": 1794464276.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd05lZm1iRjNOWVdzblhqMVgwWTdERTh6cWdST2twamFXZXFPNTN6UGpEajdUZWQtTVRyLUJieXFjNnJ2aEZBb3VrcXhIb1gzV0phRWVsb2NWNUN4RkFjeHpMNVRxS1VmRHFBNkxPM0kzMkQ2aTAxZS1YYTBlOUdCXw?oc=5",
+"src": "Reuters",
+"title": "Anthropic’s AI benchmark",
+"ts": 1794466650.0
 }
 ],
 "seen": {
@@ -4788,6 +4767,7 @@
 "France 24|e8f8a4b0-dad2-11f1-898f-99f1f260d631": 1794074443.604836,
 "France 24|e92c4fa8-d907-11f1-9cd9-91698b9bc387": 1793879131.7060616,
 "France 24|e9497176-dd19-11f1-803c-a78ef134d76c": 1794385835.6692023,
+"France 24|e9624210-de62-11f1-a3fc-5be477fcba91": 1794466841.6683908,
 "France 24|ea00fb04-ddfd-11f1-be0f-1bca6489ac90": 1794430849.9188793,
 "France 24|eadfe0dc-dc57-11f1-8c47-89161d081307": 1794241841.0504336,
 "France 24|eb712c48-db5f-11f1-8141-fd947aa17dfa": 1794153648.3598208,
@@ -5467,6 +5447,7 @@
 "Reuters|CBMifkFVX3lxTFByQVRqNVRta19jellHVURsWW9DWGFRUmhfTnJwY2xQVGFYRWdLcHhoTXBoQm9iMXBtOXRIaC1IdjhvS005TS1Wd2VpTDIydGR0ZU5BSEs4X0JsUDI1R29LZVR6cGlTc0JuR0tLYWpDN2FfSEFwNmExd2RnUnJOUQ": 1794224728.8407536,
 "Reuters|CBMifkFVX3lxTFByZnVaTk1FTi1qcVJKcnNfZ3RldjdLTTVpc2N6RTY3ZWU5UGFfZTBzbzBwcnRQajh3eWROUlFVemdxaU54T0JlaGpRa1pRb1gtUXhwbkRZNnFSOFJmeTI5UkJDYmJiV3NNd3pPeG5TT2VPQnVlNFJRcXRaWDNLUQ": 1794313842.9969897,
 "Reuters|CBMigAFBVV95cUxOWGFuTFhrRmZtZzVzdVhLRjZSM0p3UkNzMHBYdXNoRTJVUnlYMllEcTlvVV80azNXZk5pN19PUDI3RkVIV3V5Ny1FTndGSXhaay1xYzBUVGVWZ0pyaHdoWXNNRzNVeGR5cGM5cTNhbGxqUXBMSXZGTmh1ZlB5S0RxOA": 1794099645.0533948,
+"Reuters|CBMigAFBVV95cUxOd05lZm1iRjNOWVdzblhqMVgwWTdERTh6cWdST2twamFXZXFPNTN6UGpEajdUZWQtTVRyLUJieXFjNnJ2aEZBb3VrcXhIb1gzV0phRWVsb2NWNUN4RkFjeHpMNVRxS1VmRHFBNkxPM0kzMkQ2aTAxZS1YYTBlOUdCXw": 1794466841.6683908,
 "Reuters|CBMigAFBVV95cUxQbzFuTXdvV2RnZzJVSzRiVHpuellxZzNsVlV1VUVpUU96TmdCZGR4V0dOMUZYZnV1WE1STVBTdWtQWVBORDV0RkFVSmVUZmFVUUVOWF9abTY4WW13ejRWcWk5RjhQNk45QTJDZ2w1aTNoc2Q1VmxFY0VZeTc5TmlRdg": 1794375927.4169786,
 "Reuters|CBMiggFBVV95cUxOV20xVERYUFVxTVJQUUFtSThMdmFFWThlRVZKa0NlMkMyeXRqcnJzR1E5QVFYbGFRdFkxRDVxcTJPMWdxOEFkSTFNWlI2QW1TY04xTmk1TjktZzdVM3VoS203ZjdQUjBWcUJycmlYbGxyS3dTcjZXRjd1cVF6N1dOSkF3": 1793982642.5372627,
 "Reuters|CBMigwFBVV95cUxNOS1VQXg3T0lVTm5WZ3paRzVqOV8xdGN5dlZoR0lOQTB4eTJyT2ZlUXZ5SjVZRUthU25vd3JTMU44MEZKX2MwRHNLRzY0Rm8xXzVhSTlTWnJHaGZCYXc0OFhIQWxVNFoycXd2TXM4TkcyRlZDaVptQ2sxZ2ZRc19DRXVRYw": 1794354331.8047323,
