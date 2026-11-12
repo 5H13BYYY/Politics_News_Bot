@@ -9,48 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261110-prise-de-parole-de-jean-no%C3%ABl-barrot-des-sanctions-pr%C3%A9vues-suite-aux-cyberattaques",
-"src": "France 24",
-"title": "Prise de parole de Jean-Noël Barrot : des sanctions prévues suite aux cyberattaques",
-"ts": 1794329137.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-du-logement-en-italie-les-manifestants-plantent-des-tentes-%C3%A0-rome",
-"src": "France 24",
-"title": "Crise du logement en Italie : les manifestants plantent des tentes à Rome",
-"ts": 1794329308.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeU5SYXVZM2FIOHQ0VkZ6bENsMm1OMnBjbk44NEFwNkgtcmpKd1ZUa0JTN3RuQzVNNVQxTGFYNmdBSl9pWjE0UUR4bWxFeGxRbUt2blZkVDgtaTVpQlBiZUZGU0doX285MHlNdVd6MElZZDlYNlo0U1kzTGVHQQ?oc=5",
-"src": "Reuters",
-"title": "'A life or death sentence': Greta Thunberg returns to COP",
-"ts": 1794329561.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJCbi1nQncwTUFwU3JycHgyU3ZKcUVDWHB4SE5UQ2U2a1A3Q3ktZ3EtZWRVeFFacGptSGYxQjZLNkNpTllLVG1pVzZPaVI5RTB0cHI0bWdkdGwxU3JjQzUtdk9OT21EQUxSajZNT0YzTllNXzVBN0xkSWx1ZWJ4YWZobkNjM2xJS1BEZGpIWHcyMUE?oc=5",
-"src": "CNN",
-"title": "Hegseth’s Impeachment Pushback",
-"ts": 1794329988.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261110-allemagne-comm%C3%A9morations-des-80-ans-de-la-nuit-de-cristal-un-des-survivants-t%C3%A9moigne",
-"src": "France 24",
-"title": "Allemagne : commémorations des 80 ans de la Nuit de Cristal, un des survivants témoigne",
-"ts": 1794329817.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/10/le-gouvernement-veut-renforcer-la-haute-autorite-pour-la-transparence-de-la-vie-publique-avant-l-election-presidentielle_6808882_823448.html",
-"src": "Le Monde Politique",
-"title": "Le gouvernement veut renforcer la Haute Autorité pour la transparence de la vie publique avant l’élection présidentielle",
-"ts": 1794330025.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
 "src": "France 24",
 "title": "Qui est Vladimir Medinski, l'historien nationaliste à la tête de la délégation russe à Abu Dhabi ?",
@@ -3254,6 +3212,20 @@
 "src": "Reuters",
 "title": "Malaysia says convicted ex-PM Najib can be returned to jail if he breaches house arrest terms",
 "ts": 1794457740.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhQa2NBOU1aamRDRHlwcm9ZWE5KaENnYVpISm82YzhBUnVaSkExNEZ6dXlHX3FZcVdCUDBuWVF5bUxRNmEwQzlnaTBHSzdLMEZkbFRyWkVfb0V2bFZsN1NXcHdFb3N1eTNwOTdoUVdSa1BMN0VLbk1LTUFGNnZrbm1wdnRUeTV4WHA4WmNKTlo2czZXaVVxV0M3d1FSNktxc0tXNUFtSkQ4RWt2bFFnR2NLWHR6WnVSMkxual94ME92cW9XRFJKdWVmQnBuaUpUUlJ3?oc=5",
+"src": "CNN",
+"title": "Treasury Secretary Scott Bessent Moved to Military Base After Iranian threats",
+"ts": 1794442045.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2lRcXNqR080SFBmQXViRmxubFlKR3Zza09PdGpuUy1pNFpYNmd0RTlGbmdCUzdEY0FnTWQ1d19JYWI0QjVuazlWS0FqSzlvZFdYeXp1N0dyd2tDUDl4WmUzYXltRG80MFRSTjFLcWhrV1hQdmtwX2NlOW1wTUVYR2Rfbk13aEtDbkUxNl9mNGhhRkRMbHB6SG11OG00MG12enRfdEczUEpubF9vNllqZm1rZ1I1RDd3WmY1NTBvbHZGTnZs?oc=5",
+"src": "CNN",
+"title": "Exclusive: Scott Colom’s father: ‘He’ll get up and get to work’ after historic win",
+"ts": 1794458883.0
 }
 ],
 "seen": {
@@ -3374,6 +3346,7 @@
 "CNN|CBMi0gFBVV95cUxPZ2trQkVmOXplVFJVaTluZEdhUDI2aWxNMkp6cDhYTG5NZUU5eEZLU0JKNVpoZVk5RkJSNW5rRDBsZXkxb0dZYzRqaElvUHZCRm95RnlWZnFIbG1BeXVEcnp1Z0NEbDdPUjliUVJiSlF0OXloZEU3Nk9FMUFmekV3U2RLMExlamszZkVmT2lyN1k0ZkJnTnlTQWl6ZnhFT0pRSzFpbWlpemlvU2xwVUUwQzdOQkxBNFdkTkFSVFpKMHVUQ0FySHNQck5Mc1ZOYmNERmc": 1794009645.9768844,
 "CNN|CBMi0wFBVV95cUxNeUJ5OFNxeFJNNEpGVVR3X1phWkd4TWZpM3hZNTJ3Y3B2NEdudVhqYWZQLTRpN1hTY2ptRm80N2U3TXlCZ2Y3amhYYnI0eV91RjV2dDhZMG5EbkJDMGJpc3lMTlVWeTRxYnEteGlpU0ktT0I1dnJySU1MckxVNVhjSDRocERpMno5dzZuNFpSdnNGbU9wcGtUTGswS0ZCellPY2tmLVlkSzNIN25CSW9YVDFPdktBc2F2WWFiZXZTV2t4ZnpEaFlrczdGaTN2VDhERjVj": 1793910638.4869728,
 "CNN|CBMi0wFBVV95cUxOay1xZmlOMG01ZGs2dGNQNGNWVmZxTE5OYWEtblc4bTd3Slp6ZnB0MFkyb1dYWE9XSDJ4RnNaTmRXazZuT1VINERTTEdYVmxiY2lvdnNzempTSU1sa0JWcElISV9VTklTOUxBQUJrRUpQOGZ1WFJjaUF5a1JnN1Vqc0xOeEtWenpXWG12ZDYwZ3RrU3pvNDRHRjRubmpvSU5OVlNHdDhRUTRBdlpCdmotYmlnRVlXOEI2TG5yQW5SaEx4WnBTcTZYbDBsUnBseU5kSnA4": 1793898047.3229573,
+"CNN|CBMi0wFBVV95cUxPOGhQa2NBOU1aamRDRHlwcm9ZWE5KaENnYVpISm82YzhBUnVaSkExNEZ6dXlHX3FZcVdCUDBuWVF5bUxRNmEwQzlnaTBHSzdLMEZkbFRyWkVfb0V2bFZsN1NXcHdFb3N1eTNwOTdoUVdSa1BMN0VLbk1LTUFGNnZrbm1wdnRUeTV4WHA4WmNKTlo2czZXaVVxV0M3d1FSNktxc0tXNUFtSkQ4RWt2bFFnR2NLWHR6WnVSMkxual94ME92cW9XRFJKdWVmQnBuaUpUUlJ3": 1794459641.000425,
 "CNN|CBMi0wFBVV95cUxQc3kxejVHV0lpWDJCcld3QURCa3ZYN1dfTTlBWHFpVEFZZFZiVjFXenI0OGZhdnZjd1lrQ0R2SXBEVGlRSmpBS2oybllXbjRfdUhQdVJsd3o2YktRN01WUGpTQlJRWWRlVjRHaHBxczl5Z1plRmVCSmtQeF96aVhrbjJ6Z1FkeHB6dnNrdVhLajYwNFdCUXRlSzB2SXpfWkdVYUNobzloTUUtdVQzeXFhajlVd0stVnMxQXpqWXdrT0VXdTBmVS1xNkotTmQwWmtWWUdz": 1794287727.628503,
 "CNN|CBMi1AFBVV95cUxQdDJad09xLTJHZGEydnZrdno3aE9HYS1PM3EyT3dYcGtBNlBlUHZEV2lXa3FIQzFxcUFib0NldFN2Zm00YVV1X3BMQzFpSmVlTXVzY3JpSkswOFR4Q1F1OHNCZVE4aWFLRTI1UTdfSFFoQllHZms2M1Y4emIwZFpYU2JJNGJJd21TNnFtWHBUQjZxZkt0N0RkWllOQ3VMVlN4WC1ZU0NoNmxTamU2NWRxTUQ0VEVpZWg4bERjRnJ3M0tjNTBUamJ0WlctOXN6NE9qeHlQUw": 1793857527.6919713,
 "CNN|CBMi1gFBVV95cUxPODdPTmJHMHlHT2F5clFOMTA1aFloYkxHV0djamo3LXo4akIyb00ybmcxMVJqN3pvSUNMSTlpTmkxcFRnWjJZSU9XMlNJMHFFNDBkVHZFZVpOdHhJOFB5bEExMGdFWnhUUng2T20xSU1qR1c0a1JQRkdIQUQzWnQxa3JnY2IzVzA1Y0gyRWVCRFplYTJjRy00NEJWbVVOVkpyX0NtcW5ERjRPbWRObFRCWUF3TklXcXVpV3FLLUdQNFpEeWlCaUJXc05BMEtuYy1OSEUzTkF3": 1794354331.8047323,
@@ -4467,6 +4440,7 @@
 "CNN|CBMiwwFBVV95cUxObEtHZjFtMzhQeVdOR0NvNTRBamJjVFBwUlVaYXZHMk1pa1liaUdXazZIcW9mWXo4LUN1RnBGX1ZFWGVGX2NINUVGWEF5X3l2dVBIMWJFamlaTTJFT3czT2dwSUhjTkJoRS1Wdk93ZmYwMXA4aU9xaUl4azFkVnJ4ZDR6SzBRZUxGRUd5aFRYTlZvNzlsOG1xSzYwWWJpVHFaR0JRbHlQbW56UzFwUHZrM0gyTGxXZzVBQkdWZUhGMk9hRms": 1793865641.4127834,
 "CNN|CBMiwwFBVV95cUxPNXN3amNQTklXMWhLanBOSWMtSnZNTl9pU3RUeklMNlJDWHNkcU1LTmh1YS1kcENEemUxUmFnWmIyNDE2RUpaLW41ZGJFdUdKS3NXYnNha3BiNTZaY1NMX0NlaVpYY0t1cXRqdktQOFRDMTlVRUtDNUtlOWxGdFdHZTM3LVU3QWljcXBuOUtEM25Tc3FzUVpVWjJLdjcxTkpmMlRpdGVTRTFzU2ZQVTJQRlFJd2NnRHV3NGc0SjBOZ1ozS00": 1794285927.5303695,
 "CNN|CBMiwwFBVV95cUxPQWFEMklBUzdlVmJGTHR3X2tEMGFfY3g0YXNxR2dyMDRCUlNObUQ4NTh3UlBUeHNmYUhEQ1NFbXRvNzdreW14V2dIVWhFZnZwNkdELWs0WHpERzU2R3QwU2RDS2pLa0dhQTZiUDM4aHl3Rk1HNlljUzlFQ3JZZms2Tl8tZVpobGo1TnljVE1ZVmdaRHZLcFoxMzJDNEpWZ1JrNHoyMnNCYUNsSUNEc1JfcDdGVDR1bXRSN3RxQ1VINjZmM2M": 1794292234.3648193,
+"CNN|CBMixAFBVV95cUxNM2lRcXNqR080SFBmQXViRmxubFlKR3Zza09PdGpuUy1pNFpYNmd0RTlGbmdCUzdEY0FnTWQ1d19JYWI0QjVuazlWS0FqSzlvZFdYeXp1N0dyd2tDUDl4WmUzYXltRG80MFRSTjFLcWhrV1hQdmtwX2NlOW1wTUVYR2Rfbk13aEtDbkUxNl9mNGhhRkRMbHB6SG11OG00MG12enRfdEczUEpubF9vNllqZm1rZ1I1RDd3WmY1NTBvbHZGTnZs": 1794459641.000425,
 "CNN|CBMixAFBVV95cUxOR3laUUF3MDhvMnN6ckpSN3hodFlkNThGSGFRc1RMcUQ0dzJoUUxVMFR6aFpGbDZ3YmZucXkyNGF4emVaRUx4RmtqY0NCcGlxMXRkWlU2UTZWX2FZR0lvWEUwbFVkVnN2dFpmano4THVTXzA0cUozQWN6U2NDN1RPVTB6eVZ2Wl9tN1V3OUVoVHN5S29RQlVPamRNeW0xcVNLQV8xMHF6SUdUTUZlREtCWDhxTVlIVkhPM0NJN3hYRnNRS0F0": 1793936642.2189748,
 "CNN|CBMixAFBVV95cUxPR25IbEJmaFRudWV2aHFXS0k0Y1AxbFVvb3p6b3gtZ25DZ0ZLODNIVG9ZNjU4cUlrbjVzU0lENDkzSl9hLU9oS3JYY3lqZE1qT19POFRPOWg3UVlsZmhZTkhoY3dwVHU2LWFBRkZlVFlCSXpqel80ZUdyZ0ZNX3pjZmpPTTRpUEFrZFpsazNTQXBRTXdaUVRSall1b1MzMzhqdWg1Q1hFU2FTRHdaSTNSNWM2SFhXRk1QOXpxTUpZSE8yd3Ni": 1794235530.5357244,
 "CNN|CBMixAFBVV95cUxQdWowM3l3OHN2YlRLVVFpVmtpc01KNGxmLVBvTGh0X1VuR2x5MzJlOHRjcXQzMWxVT2lfMWc0ZjVEWmktUTRoLVFPUG41WlpPTXVRbWo4OFVvUlVxVVpteHpOdG93MUtPYVRnampWZWFlTV9zSF85cmFCTmY2Q0Rib0FfTVh6VnJoRjFocVM1aXlqMUJJc0Y4c1VMdmFNVU5BdUY1cWtXYWlULXpRVzNDU3YxODBod0dZYjJsb3V4ZnJPU1hV": 1794010530.2633893,
