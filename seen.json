@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRlA2R1pkVGFVdXEwM1djSkd5TDhMSTd5UGtEWVp4bDNhTnNhQWplVk14ZThYZzgzdHJyWmI4OXktdHc0b2RsRkppUFFGSlkwaVBpMTBzdzFuYnZjSjVfNFBWRV9lMGZZSy1XaEptTXU?oc=5",
-"src": "CNN",
-"title": "Biden reportedly reveals letter Trump wrote to him upon exiting White House in 2021 in forthcoming book",
-"ts": 1794334242.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91NWxJZF9mWjJtNEh0enFqNy02NlRCSV9ZeEZrNjkwSTJ2eFFuZ082MllTb3M3aGE0WFBpQTh4d3VYY0lfaDh5OVNKYVRsSXROZDA5WGpqMTJ3U3BNR0pRTm80SG1XSzBFUlNnLWhncGFvSml4Y1dpOWJOWHM?oc=5",
-"src": "CNN",
-"title": "SEN. KELLY ON PETE HEGSETH: \"HE NEEDS TO GO\"",
-"ts": 1794334331.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1BycmhtQnJyczVWZHkyVGo0MTZ1WUd6YzJVLWJuUml5eFJpdzJzbkh4RlpkbDBHOUxJQTc2ZWhrRHhPLWNYMWQ1TTdTUDlmU3BpUjZBQmh1LVk3OGx6THM3MmdVVnRnT2piTTNIOXNEUnphOEVacEFTckNTTGEtWWhCTTlfM2FaODlr?oc=5",
 "src": "CNN",
 "title": "'Mississippi Today' founder: \"Thousands\" of voters have been impacted by voter roll changes",
@@ -118,13 +104,6 @@
 "src": "Le Monde Politique",
 "title": "A la Guadeloupe, les dérives de la « Sécu » examinées par la Cour des comptes : 1,2 milliard d’euros perdus, une désorganisation interne et des délais qui s’allongent",
 "ts": 1794339223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTi1SazJlMVRrbm1LUnBqUWdCRDRPZU54WXZKbkdfQ2ZWTGptNkNCTWNqY3lXb1dHMXJlS1VidVlwcmFxSjZKeHlQOGtTRGZmV2JfNkg3ZW1HbFJwdE5sWG1fRkJKTHowUDJwUWpNc0RSZ0lDV29MYVM4Z2hlbW1yWWRn?oc=5",
-"src": "CNN",
-"title": "SEN. KELLY ON PETE HEGSETH: \"HE NEEDS TO GO\"",
-"ts": 1794334331.0
 },
 {
 "lang": "en",
@@ -3156,6 +3135,13 @@
 "src": "Reuters",
 "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
 "ts": 1794461460.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
+"src": "Le Monde Politique",
+"title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
+"ts": 1794463211.0
 }
 ],
 "seen": {
@@ -4940,6 +4926,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html": 1794425436.9815495,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-la-candidature-d-eric-zemmour-pose-un-probleme-republicain-estime-le-president-de-sos-racisme-dominique-sopo_6808971_823448.html": 1794401127.105442,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/11/vincent-caure-un-macroniste-de-la-premiere-heure-a-la-tete-de-la-commission-d-enquete-sur-le-17-octobre_6808975_823448.html": 1794404729.9028966,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html": 1794464128.8168294,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html": 1794460528.7758873,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html": 1793919643.308997,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-les-corteges-se-deroulent-globalement-bien-rapporte-l-entourage-de-laurent-nunez-qui-denombre-270-000-manifestants-hors-paris_6806775_823448.html": 1793883646.8208325,
