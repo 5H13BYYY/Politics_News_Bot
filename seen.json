@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XTE03bWdTQ19uUC1PVFJuU3hqYm5xY01uSlIya01xMHpxMi12UlVObEliTGRVZ3RIMm5SclpBVmpwbXhuODloVzVGYkMyOUVMTmhEbkx0RHFESzhXaXlrRTIwZFlKUVE?oc=5",
-"src": "Reuters",
-"title": "How do impeachment proceedings against Pete Hegseth work?",
-"ts": 1794352776.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW15YjEtTEdUSmd3bXRGQWZVdURYWUdIZ1dodFpkZVB3cHhkNWFLSng2ektXajdhX0trcU1laHY3Zi1icUFmWW4yYjVsYUI4UHlBM3F5d045bXVYZXZBSnREc1N4RHc4YWhJbjF2SWhPOUVtNVBzbXVWaVBXejdiblNhRVpyaTgzWUhmWUxEWWZHNkFwdmVJSU5iRk40Nzc3ZzR2cnpiMC1rVHJqZHUzSS1TT0c?oc=5",
 "src": "Reuters",
 "title": "Ortega's frail return to public revives succession debate in Nicaragua",
@@ -3072,6 +3065,48 @@
 "src": "Reuters",
 "title": "South Africa's ANC spokesperson: leader Ramaphosa is not under pressure to resign",
 "ts": 1794481784.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2t4MDdMMHlIVzZPdktiNXpUTVgyOTYwUGZXSXZiZldFTXdDdThRM2JxdzF0Z08zZFVIci1SOUVLLXZCM0lDSlV1a081NkF1YWpNUG1Rbjd2cHI5YWx5WTlzTnRCQVMxdGMxMXBZZG0tRXN5bjlGeWxUdWk4dWxQY0xYYW4?oc=5",
+"src": "Reuters",
+"title": "PODCAST: Huang in the balance",
+"ts": 1794478829.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CeldFY25Jcm5mcnl5QjgtRkhJbExucTVXakpPWU1NRGpFWUMwSzVWUGlVLS1sdE04Q1BJZnk0Yy1uRVdJTU00X3ZLamRkSFM3Qks1NGpJNjE3Yk9HTDRZNHR5VWx2X2pwYWwxbjY1MlFBZ1d2UVJjcW9Zdw?oc=5",
+"src": "CNN",
+"title": "The $1 trillion question facing Nvidia and Jensen Huang: Who lied to whom?",
+"ts": 1794481215.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261112-irlande-la-capitale-se-pr%C3%A9pare-%C3%A0-accueillir-le-sommet-de-la-communaut%C3%A9-politique-europ%C3%A9enne",
+"src": "France 24",
+"title": "Irlande : la capitale prête à accueillir le sommet de  la Communauté politique européenne",
+"ts": 1794481364.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+"ts": 1794481433.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+"src": "Le Monde Politique",
+"title": "CNews : un débat public est nécessaire",
+"ts": 1794481981.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1ZjazZjemxIREZWU1NoSEVaRzhLUG50VHJxbFlDNWMtYlNIRjlKYnp5dVlZTDl1Q2t6UUVRSnR3MWlYZk5vZ1VQZzBtS3NtUEt4akczVmFvTDVJdFBhWm0yLU9uSWFtR3NUUkRsYnljX2EtRjRSVHppSGxKamRmVXY5cnJ1YVJqbFlyRGJINm1xa0liVnpLNnJsSzVXTDJUdTdJR0VYVFRtN3prQXNIWDdn?oc=5",
+"src": "CNN",
+"title": "Scott Colom supporters celebrate after Mississippi Senate win",
+"ts": 1794482280.0
 }
 ],
 "seen": {
@@ -3133,6 +3168,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#3": 1794364243.9818587,
 "BBC|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#0": 1793920539.1846821,
 "BBC|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#1": 1794233728.688592,
+"BBC|https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0": 1794483039.5259848,
 "BBC|https://www.bbc.co.uk/news/articles/cmqjnkn8951qo#0": 1793886328.8062122,
 "BBC|https://www.bbc.co.uk/news/articles/cmqjnkn8951qo#1": 1794032128.988144,
 "BBC|https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo#0": 1794144638.1390822,
@@ -3395,6 +3431,7 @@
 "CNN|CBMidkFVX3lxTFBicUtBZ1ZzNHFBc3VRTEQ2czdNdVd6Z1FLS0tUS2liYm5sYUoyT0R0U2FNc0p4OHdPQThBbGlsUWl1d3BONzJXM1VjY2FpVU1KVElDZW1DRTJoWVRhYzdKeFh3WFlZTVRHcGlZUHdKUHV6X3ZSc1E": 1794257133.7411935,
 "CNN|CBMidkFVX3lxTFBuWTNFOGQzS183SjNvWngxamtVcHBIVVlBWmJUUWZEblBlNHBjQUh5Yl9yMzNBSmNlUWxJdHNxdHAxY3liZk82MGdNOFNoYmxDalgtT202NVFTZXRwTHVNMmVBMk81OUNadFlRRUdmTUlUUHRMbmc": 1793891734.6812828,
 "CNN|CBMie0FVX3lxTE15QVc2b1RWRU84ME9FV0s0VWRlZzl2aWJWcVdxck5fQjRmLTZLellHVV9sMWYwd1pheXJuY2JpbHViZm14RGpkS3RDTTVNbWlPY3ozM1owTGhVdlkweGNYWVhfUXE2N202dWRneWVsX0RwRUd5ekJhY1oydw": 1794162638.4151034,
+"CNN|CBMie0FVX3lxTE1CeldFY25Jcm5mcnl5QjgtRkhJbExucTVXakpPWU1NRGpFWUMwSzVWUGlVLS1sdE04Q1BJZnk0Yy1uRVdJTU00X3ZLamRkSFM3Qks1NGpJNjE3Yk9HTDRZNHR5VWx2X2pwYWwxbjY1MlFBZ1d2UVJjcW9Zdw": 1794483039.5259848,
 "CNN|CBMie0FVX3lxTE1FQjVwY3J2SWphbmE2NXhGdXhnYUFLZm1BOFpDR1Rsenp5anB5S2FtUVhlWkVfUXd2ZnNXVkg3UmdHaWROQUFQYXhjd0tqdXNTTUtfSzZjVlRyeDlqbnpISUNvcXFpdHZKa1NwVHJUNVNXemtWalc3bE1EVQ": 1794255330.839107,
 "CNN|CBMie0FVX3lxTE1IR1hsVFRtSkJVZkJ0cDQ3VXJfZk5iQXJtb2dlQjBFaDlyNEdDVl9SclVkb294Z0g5eFdPZi13SVJsUjVHeDliV2c2T2dTaHl0d0pfVnp3WS16X3lsSGloT2tKUHB0dHlqQWZSRDVIYTZERmFkbGtVRTlIRQ": 1793900732.3669322,
 "CNN|CBMie0FVX3lxTE1KNXFxVm5fU1ZvdHJaODVlQlJ6b0hHQnZFejRPU1BlV2pKalR0Z0xKdS1FTGdHSnpPTXQtcWh5SGRJelctck9FbTB4U09pYzV6N1FoRW52YUpGcGlGT0dYa3dUQ3BaQlBsZnlaWEhBNGJTaFpGRnpubGMxWQ": 1794061835.2787244,
@@ -4166,6 +4203,7 @@
 "CNN|CBMisgFBVV95cUxPNDNlcHByMVVCZ1M5VnI5VHRsLUZORlE5LUtHMkZFSmJWYmpTQ24tVHVPSTNJbGNYWjZ6eFFwTFlUNXEyQjdKQ0lqckFQSnFJMkNkellfUHdvY3phcXJtLVV6RnNvLTZVYUVncG5DUlZxQ0ZrR0QwTTVvdE5hWjl0dDJ4TjQ5SzJTdzNaVjBPSnZJd1d2eVB6dUFCTzJfbEJPbnNPdGJUcFYxWWxXRUhkRkN3": 1794081640.9245064,
 "CNN|CBMisgFBVV95cUxPT2VxVWh1ZmZkVExkR2NxOERoUTBGb0YxcDM3alV6MHRkdnJVVlIyNWloMFUwSkNraGtJVl9pbTAyVGJJLWQ3SndYSk9SZmRrblNhc0hHaXJGWjdCMlpzc2MxNjRteU9iY0toTERBdlFxVTUzUDJfVkFYbElUR2JDMHVBczBNQkJjSWMwZ1V1ZjQ5Rl9DalA5dS1JSU1EU0VJTmNZWW5DazRJWXFiUlo5cHdn": 1794001536.608789,
 "CNN|CBMisgFBVV95cUxPb1J6bU1XVmRuVXNfRUR5VV9LMnBXYTdZZEg3ODJDQkc4UXhSYXRGMUlXSFdidVBhVlJVMnBFMGFrUmZWbVIxVC1hTk9vMUc3Y2FheHpBbktoVXZld3hoeTl4Tk03UUtwc192QmN2U0NwY25RMjN2eWdvU3A5dmFUMHZWR0xCeExLOEQzc1BSbVRpQThxWVpTZS1ta1dFV2VTYm9nNVJJYks5WElRWVk2blR3": 1794210328.0284784,
+"CNN|CBMisgFBVV95cUxPc1ZjazZjemxIREZWU1NoSEVaRzhLUG50VHJxbFlDNWMtYlNIRjlKYnp5dVlZTDl1Q2t6UUVRSnR3MWlYZk5vZ1VQZzBtS3NtUEt4akczVmFvTDVJdFBhWm0yLU9uSWFtR3NUUkRsYnljX2EtRjRSVHppSGxKamRmVXY5cnJ1YVJqbFlyRGJINm1xa0liVnpLNnJsSzVXTDJUdTdJR0VYVFRtN3prQXNIWDdn": 1794483039.5259848,
 "CNN|CBMisgFBVV95cUxQTThFbTVoZTZocXJNMVI0MjU5LUU2cXNzYzk1RjJMN195M1NBZHFRUGcwb3JhRThQTmtKZjlJMnc5ZzduSTQ1ZjdVdUFRZlFqY3Q3NFo0Rm85WjJWZGJ2MkhRR3ZCcE9QQ1oyWE45clhiYjBiWDRmV3k4TzdKLWtMcEE1T2JsSno3ZVIzN0lPUHVuRERKRExUd2t5RWtOUWN0a01GdGJsak16eE15dXM0U3JR": 1794059128.53862,
 "CNN|CBMisgFBVV95cUxQVTBiRUhzaW9qWjRFN3dnS3h0Mks4R2JWNW1tRVpLbms1N0g5QmJDYTB5aV92eV9SNGVQTExmakYwQkxnVmdqREd5dDB1cUUzSUdzSVlzeTF2eWV2em5yYzBxVXNpZnRxdUZZREQxZjZQLXplSWczT1JTMUxISGJEblJpbUJOMFllTmJaN0VlUUFiNm9rZXFkenZmN3hvdXdkTjlKRGhJOTNIVXg3NU85dHZn": 1793904329.7970982,
 "CNN|CBMisgFBVV95cUxQY1RwNlo4SjNMOGZjc0pLcERIcy1mdDlFb1NxRlhsdGZuMXNib3lyeS1oSFlVTGs0dXFZbjRiUHVXTFlGVlRPaWxURW9JaEQyUlltQTMwOVhVVjhHNmk0bzBGZkRrbWtoWmdLNmw5cV83ajhCRTdHUlIwNWRNa1NqMFIwNXExbWhtUnZ3cnE5V25qTzlDXzFJOUJ5TkNWR1phYXpJbFducXlmb0FpSUlfSVpn": 1794272467.641642,
@@ -4628,6 +4666,7 @@
 "France 24|cb9d58f2-d9c9-11f1-9055-dbe2368c931e": 1793961036.8197155,
 "France 24|ccda022a-db71-11f1-99f8-eb2bda3c812c": 1794144638.1390822,
 "France 24|cd1527ae-db82-11f1-9982-37b0d0b45524": 1794214852.1260982,
+"France 24|cd334ae8-de86-11f1-89f5-d18e84b6d8a7": 1794483039.5259848,
 "France 24|cea81e08-da80-11f1-8c89-ad6ca7e6259d": 1794048325.823577,
 "France 24|cedcb1ae-de81-11f1-bbc9-cf55d4ed6b75": 1794482129.5153193,
 "France 24|cf5eac50-da02-11f1-bc85-abebebbd6c75": 1793989778.2705116,
@@ -4739,6 +4778,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/11/de-la-fuite-d-hitler-en-soucoupe-volante-au-mythe-des-illuminati-un-essai-plonge-dans-les-croyances-irrationnelles-de-l-extreme-droite_6809017_3232.html": 1794421836.4185686,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/11/le-vigilantisme-la-violence-de-citoyens-qui-entendent-se-substituer-a-l-etat_6808948_3232.html": 1794388528.3226187,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/11/presidentielle-2027-que-la-constitution-soit-complexe-a-reviser-ne-donne-pas-le-droit-de-s-affranchir-des-regles-qu-elle-impose_6808972_3232.html": 1794402928.4602053,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html": 1794483039.5259848,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/12/le-tribunal-constitutionnel-polonais-appartient-au-droit-et-non-a-la-majorite-politique-du-moment_6809090_3232.html": 1794482129.5153193,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html": 1794460528.7758873,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html": 1793995242.8480377,
@@ -5362,6 +5402,7 @@
 "Reuters|CBMiggFBVV95cUxOV20xVERYUFVxTVJQUUFtSThMdmFFWThlRVZKa0NlMkMyeXRqcnJzR1E5QVFYbGFRdFkxRDVxcTJPMWdxOEFkSTFNWlI2QW1TY04xTmk1TjktZzdVM3VoS203ZjdQUjBWcUJycmlYbGxyS3dTcjZXRjd1cVF6N1dOSkF3": 1793982642.5372627,
 "Reuters|CBMigwFBVV95cUxNOS1VQXg3T0lVTm5WZ3paRzVqOV8xdGN5dlZoR0lOQTB4eTJyT2ZlUXZ5SjVZRUthU25vd3JTMU44MEZKX2MwRHNLRzY0Rm8xXzVhSTlTWnJHaGZCYXc0OFhIQWxVNFoycXd2TXM4TkcyRlZDaVptQ2sxZ2ZRc19DRXVRYw": 1794354331.8047323,
 "Reuters|CBMihAFBVV95cUxPbkQ2N3k4cDhRVVFxZGlBLU1McG1iMTE1aGQ3V1Z0VGxYRjJFSjQ1YUdCRGdmWlcwRE10d1d2bjc5aVdIZGdOMlJueEVmMF9naWRHc1pXd3VWcEdENDNCTE9pMkR1dVdhWlNkMkZWaFBoZi11N1lvWm5fcnNtclpIZWxUdEU": 1794307528.0287557,
+"Reuters|CBMihAFBVV95cUxQR2t4MDdMMHlIVzZPdktiNXpUTVgyOTYwUGZXSXZiZldFTXdDdThRM2JxdzF0Z08zZFVIci1SOUVLLXZCM0lDSlV1a081NkF1YWpNUG1Rbjd2cHI5YWx5WTlzTnRCQVMxdGMxMXBZZG0tRXN5bjlGeWxUdWk4dWxQY0xYYW4": 1794483039.5259848,
 "Reuters|CBMihAFBVV95cUxQTDlHbHpTVldIZG05YlY4SnNuZFlYaTYyVnVyTmNaTGlreVZmNXBoUldDZXEteEt2TU5SWDJfcDRhaHNDNWx0OWNocExsNGtHTzlHRnNpNHYxMlBRd2YySmFmMnBoTXluY0hGRjBhYlRpWmNBY2I3VnpBSnZmeGxqb0pNaWk": 1794068127.1696668,
 "Reuters|CBMihAFBVV95cUxQVU9ndUhBTElmTE1HSGJoa1c5eE9EREYwU0dINV8zdFFnX0JHaUZWdVpCT3N6bXVWeTFWRHIydnNiWFBqMlAzYktmOWhVSDFQdzk1ZDhzVGlUUThNemhFZHV4NlVjbzl2d2c0a2hKcEdZMktFTnl4SnFOMlpXT2NYUEl2ZkY": 1794100527.4087105,
 "Reuters|CBMihgFBVV95cUxPeWM1UDRKS2p1bi15TF9GWkJkRS1wSzU4RUQ0YWxRVzJfenZkSVJyU3QwbVNtVGxxdVBjcjMwcXFtNFA0anNUZDVSclZiZFZhbkRUMWZrV0lPUTN4VXBrQW15RE40VFJxZzVFUEVZdXlMRzljOHJDZmtIU1p1WjluSjZqVkZNQQ": 1794286842.7872272,
@@ -5910,6 +5951,7 @@
 "Reuters|CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB": 1794212128.2666523,
 "Reuters|CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn": 1794212128.2666523,
 "Reuters|CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3": 1793881839.259602,
+"Reuters|CBMivgFBVV95cUxNdmFKSTZRdERBVWxKWExpTFVHVUF5Rkw4UmRhMW9tVExib29OOU1jRkludFphNXRJdUZJOWkxZVNWVENMbFU4dGNfUGdHZVFVU3U2OTVQNUh0TVJ3Y21YaGxiOERRNnFnUHpOSWRhb2VXTWh1TDNsX0V4aWJ5eHhxOVNtY2YtX09RRW9mZ2hnV0dZUVUxVGt3ZzJCS1dJTkNVNnY1RW5fd21QRVlsVFBuUktLYTQ2aThwT0Q0OFFB": 1794483039.5259848,
 "Reuters|CBMivgFBVV95cUxNeW9YS2daVjBqc2dKS0pnQVkzNnZPTF9yN2xDcFpibTRFRF9ULXBNVDlURjJfYS0xMjFaWHljQjRkODN6djRod3BMQzBBckE0NUxFMkRpeGcxQzNVOEIwb3BVc2VnT3EyM3Q1ZGYxWVdoZ3R4ZkZyRjBueW5BcS13WmZiSkVob3pjcW9VVTFWMThvN09WRVY0alZyVVEwVlpIdGVqUWlFcnVPdnFfRnZPSjRZSnR1WkJ2cVZHcHVB": 1794061835.2787244,
 "Reuters|CBMivgFBVV95cUxONkU2dWNBakJSWk1ZVGE3Z3ZYR0VWejVheEtvai1BbTBZTmNsV2RpT0N1TmVzRUF6WGd2WV9rTUlocDFIUVBNWnNPc09KYmd5QklhSnN2eUVmSVJ0c045cUR4ZldveGRidGhOS2Z0NjB0T0tMeUY5TkRzLVF6N1BUeFRCblJfM25DZ0s1TktlbmRmc3FDZEg5ajNseUZjdTNyX1gwRnI0V0VmcF9WUDBsekhuamMzc1ZkZUVVNTRR": 1794401127.105442,
 "Reuters|CBMivgFBVV95cUxONl90NmlUNWYxUFhzeDE3VV9vSW5HckhqVjBfNHQtX19GRWdyUFFtOWVtU0tXSnRfdkdDOVlTS0VManRpSXYyejRtcXgyVFNfZHZ3SDdNU0ZOOHZxcUZwWVpqVGlOelZLNjVudVAyazhFTXVGTjNOVkVMU3FHWmZRTXFWdVRWX1pPYURTa24zUDJldGJiRnlINkE1anNkWjFRZVpkcUhXdk5NRjN4OGttYndibmlVRUV3Ni0yazJ3": 1793949326.5573196,
