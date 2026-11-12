@@ -16,13 +16,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WT3dBMkMwdUd4MWNiQWtXN3YzY1RTRHI0OU45VFlsb1NzbWhyLVFxTlNVMWV5X2pLWTVsQzg0d2NqRWluUTJvTUQwaUstYWFyNF9WYUR0c2hTX1l1M3h3U1RYWVQtbWdVUWFwRTRfSE51bzVXZUE0?oc=5",
-"src": "CNN",
-"title": "At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say",
-"ts": 1794365460.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmpkT2doOElITV9JRkZ3QThFbW5aR2NNQ3hPVGIwNkVsbjNxYUpac2ZVUzJsSzdsb0lhY2FFc3BORUhJU2xxWkwzY3JJN3M2eFpaOXhzeFB6SGg4UGk3bWJjR0NocktyRlpKNWRNQ1ctd1g4VFZNSTJBTmkxbVdaaXlxOTdyMFdxU1lORDNKbzEzT2dvY0pRckVuTVh2NVdsWk5SOFo2cmtabVdjUS1HOUU4NGNFdw?oc=5",
 "src": "CNN",
 "title": "El-Sayed’s message to Hegseth: ‘Why are you still in your job?’",
@@ -3289,6 +3282,20 @@
 "src": "Reuters",
 "title": "Nvidia CEO Jensen Huang steps down over extramarital affairs",
 "ts": 1794494106.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261112-pr%C3%A9sidentielle-2027-la-candidature-de-teddy-riner-peut-elle-peser-sur-les-r%C3%A9sultats",
+"src": "France 24",
+"title": "Présidentielle 2027 : la candidature de Teddy Riner peut-elle peser sur les résultats ?",
+"ts": 1794494864.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261112-sommet-en-irlande-le-pr%C3%A9sident-ukrainien-appelle-l-europe-%C3%A0-se-montrer-tr%C3%A8s-attentive",
+"src": "France 24",
+"title": "Sommet en Irlande : le président ukrainien appelle l'Europe à se montrer \"très attentive\"",
+"ts": 1794495229.0
 }
 ],
 "seen": {
@@ -4672,6 +4679,7 @@
 "France 24|67548a4e-ddc7-11f1-8a92-bd99fe73a29c": 1794400236.8236604,
 "France 24|67a4b66a-d9e7-11f1-9418-ab455b9fe3ea": 1793981730.92988,
 "France 24|686b57ee-da0e-11f1-ba1a-a11893c19f44": 1794003327.1734498,
+"France 24|69144616-de9f-11f1-84fe-373923082d17": 1794495641.8920825,
 "France 24|69e9c54a-ddee-11f1-a095-fd4ce7e67888": 1794416446.9049873,
 "France 24|6a41c358-de75-11f1-9fe1-c1fcebe6478c": 1794475834.0805063,
 "France 24|6b335200-dc3f-11f1-bef4-0fdb8a957d7b": 1794231928.4513342,
@@ -4760,6 +4768,7 @@
 "France 24|9ab12d08-db3c-11f1-9bb7-353487d47928": 1794133840.2290533,
 "France 24|9b7a5f46-d93b-11f1-b23a-f14374a45006": 1793902533.579833,
 "France 24|9b8eb3be-d941-11f1-9d32-5779240165df": 1793902533.579833,
+"France 24|9bc420e8-dea6-11f1-83f9-673c6a595749": 1794495641.8920825,
 "France 24|9c287612-d92c-11f1-98cb-9518471c37ae": 1793897131.2633407,
 "France 24|9cc97588-ddac-11f1-920a-d1e571164893": 1794389433.7668605,
 "France 24|9ccb1c84-da8d-11f1-b6f8-19cb2f2c84a3": 1794045641.793101,
@@ -5943,6 +5952,7 @@
 "Reuters|CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA": 1794105036.1940165,
 "Reuters|CBMisAFBVV95cUxPNDJobV9vVHl3X2syak55WXpWTDFkOVhTcGhHMXAxdFdMdWlMUmxpNzFSUkY2VGtSU01PQXdFNHVQSTgyM3M5Ulh4Uk1IVmhpZWowZzNvODNYX3dWenlIUGFXTWI3bGRYdVBzQjkxTUptWDJlUktCYUdGbDRISXNRRlNsQnh5NWtYcUxUV1VxbTJCYmthX2E4WXA5Rko4WFN3bFFsUjVDb0I4N3pNdTRNNQ": 1794247248.0321827,
 "Reuters|CBMisAFBVV95cUxPWmFkaFF0TkkzWDZQdFlXbGtrOFFUQUY0OURJc3loRTJFbVBLdXlQUnhaeDBrYkdGMHpwUDBqQnhpbVgwYTNONExFaE5TM3JqdUlUdnNVQ0k1dkpON21nTjRLUTVqVFF1TXBVazFsZ3pOS3hJSXg4OEUwZURBTGhUSzNuREZzZk5DbW5QQkdfcmV0VmRCQ1RDeFFXM3dmaXA1RXBJOGptNkdUYmpyc1J1OA": 1794435331.1660388,
+"Reuters|CBMisAFBVV95cUxPalZrZE4zekRsSWZIS2FZNkZ4SG5JcGRDdlptSlNnNGJvR1luV1I5cHFtcEN0RFB5VkpSMjZRSXlOcU5oekFVbDNXSXBhSWYzMzRQcTUwTmF0Sm1LUTA5RjdUSHJPMXhTQ0h4RElvaFpXeGloaUNzQVJVQWZqaGNsanpOSWMzQVpNQ1hLOVBTcHFWZXZCWHpvbzBULTlJaU9uM2dxTjlDLVNpWkplUDlHYQ": 1794495641.8920825,
 "Reuters|CBMisAFBVV95cUxPcm1vbk9zc2FEMFg1NFJVczA4WnRiV1lWcjBNb1RqU0tHQ01Bb05vR21LeVdMb3ZjYnZod1dQSzFOWkxHVTFlenh5RjM3d1A0dVQzdjdlQlFGMnFfeGhUdFZUOHBCeDkyS0FVdHJqRFRVY2VXV244a2FHTDdZTjFjbzl5bHZwOFlsY0tmOFJCaEJiYndpMURzSkotNWNZRF9EVzE4azlPRTA1VFd6R2VhcA": 1793910638.4869728,
 "Reuters|CBMisAFBVV95cUxQMUY3RVZDLURQel9mZWtEbWI5aEp6eEEyTU50ck5TOHhTenFuSUhVaGlxX0Z1UHF4cUxxeE1tdTZpMjEzaVlaaUQ2TENfVHVYVndJNWFLclNVemtIaEF0RFBWcE55anJ2cnJYT29jWEk5aHJId2NFOFdvNFBPcTZYTnV4UjhmdHotdm1ITmFNWEt5MVltUjlmOThrbWJXdjU0WEhsWllZRE5aam5WX0w2dQ": 1793913328.682114,
 "Reuters|CBMisAFBVV95cUxQNDB5a3ptaDVQUGk4anQ5dFR5OUJPWjA3UmlEYUVxUUlNbTN0bjZiOXdwb21WVGd5UlZFWTNlSlVwaFI0ajdxOFp6NzZpaktiZWVfcW42bWlWVmJKWTlTdkJFTjU5QzJYSHlqTGg1UTVzSWdwNkhxVEk2RWJoa3R0MFBPT3B4Y1dJanZ2X2hpdnN1TUVsbnJ0aGxIWVlST19TRFlyTEg5YmVwT191c0R2aQ": 1793948443.515806,
