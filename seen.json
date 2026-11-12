@@ -15,13 +15,6 @@
 "ts": 1794326065.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OQlZYV1pobDVQNVo2RjVEcDR0b0FLM1pSVWFQY2pESTNVeUdsQ3NrNkNWYlRLUTlqX1B2by1SYmljVmF6TDZiOG54S2ZEZXgzeEVNV0hpWEdCelRqRmdkQkt5cGRIV3Vhby1yRzRB?oc=5",
-"src": "CNN",
-"title": "Inside the ‘chaotic instability’ defining college basketball’s Wild, Wild West era",
-"ts": 1794324615.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261110-france-quelles-sanctions-contre-les-cyberattaques-de-frigos",
 "src": "France 24",
@@ -391,13 +384,6 @@
 "src": "Le Monde Politique",
 "title": "A la Guadeloupe, les dérives de la « Sécu » examinées par la Cour des comptes : 1,2 milliard d’euros perdus, une désorganisation interne et des délais qui s’allongent",
 "ts": 1794339223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTUhmSmd0VWlTTkk4aUwxSnhtUlpzNzVVTGxUN0pKMERmTTJqY3hYWjFnWlo1SHFYVFZQMVlJNVRWbUdxQTROTk9MSlJJbU5JWmpSTXBNdUFPMElhUlB1MnFNd2dkRDJlNEZWcGFRWUpSeWNMb0FwdG9WbEJOQVkxOTE5Q21nSy1aU2t6b1JJXzZTLUo5c0ZZcjh5VGZnTjZ3RU9nZmwycTNUU1JnSUkta1RhcEdyQm5uOGg0cXFEbkNLdnJ6UlE0TVAtNlI2UVlJUkNLVXNFRzZuWEtySmc?oc=5",
-"src": "CNN",
-"title": "‘Being Heumann’ looks at a pivotal moment in disability history",
-"ts": 1794324600.0
 },
 {
 "lang": "en",
@@ -3303,6 +3289,13 @@
 "src": "France 24",
 "title": "En direct : les émissaires américains vont rencontrer Vladimir Poutine, puis Volodymyr Zelensky",
 "ts": 1794450063.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnVBV296end5cVRDZWRHOG50cmJBZlRYNzhJREU4Z3I5akZKS25vbXNaZW9vSTlSak16dUlWRGlVNjRrTDU2V2JLRFhFX1hlNTFTQVdXOVVJM0V5eFhaMGV3YkloSDR6bXQtU1FVa3NhZ01yaWh0Z3h3Sm9ieFVGQ3VULXpxSjdfd0hYY19oWndOeEU4R3ctVTVJbk44aC1DR0l0NGpSVjFWaW9BY2FfZmpVUnlJSWsy?oc=5",
+"src": "Reuters",
+"title": "Taiwan is taking part in APEC China summit on an 'equal basis', president says",
+"ts": 1794453720.0
 }
 ],
 "seen": {
@@ -4853,6 +4846,7 @@
 "France 24|ac67aba8-db5f-11f1-a18d-23888fa56f5f": 1794135642.354395,
 "France 24|acd7f32c-dc45-11f1-be66-c32aa056d876": 1794235530.5357244,
 "France 24|acde81ee-dde7-11f1-825b-216c80c515cf": 1794412841.416497,
+"France 24|ae5767be-de43-11f1-9092-51be2b43d578": 1794454233.069169,
 "France 24|ae768620-de3f-11f1-a47a-fd73b8cdf32e": 1794453324.766531,
 "France 24|af2e0b72-d9e1-11f1-b6a1-37d9964f7942": 1793971839.6133232,
 "France 24|af873e72-da9f-11f1-bbda-ddf17f0f88b8": 1794059128.53862,
@@ -6109,6 +6103,7 @@
 "Reuters|CBMiuAFBVV95cUxPZDhlQnREeENWRFhubmZDNHZITW1NeVY5LUk2ZGpPWDk5QzVTYXRuOFFpZ0NpSDREak5sNjNCTDk3SDZ1RncwSWRHYUhSa2x6WS1HVURzZU9QM3ZIR1Qta3M1MDNSRzVucERRQXQ0Vk9IbE4yek51MmFQRlBQb3NKYzJlVW5rZjhTWEV3WVd6eGtHMVI1Smx5UFU5TTVsTFplQ0lOOVhPWWUyQWpWUkFjd1NJWXFTeXFS": 1793910638.4869728,
 "Reuters|CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw": 1794296729.6524563,
 "Reuters|CBMiuAFBVV95cUxQNkJyMVBWVHpWN0ZmV2dkTmd1Nng2djRzUFgyVmlCUDV6MWVjMzFVemZsN1BSS01tTDlCamxlUU11cUNwLXpaS2NSMnVtNGRtSTF1YVY4alJQTE1UNnIzTzNMY0xmRHpCS1JVVnNZZ1A5dHFyX2FkMXhza3BrYmNFMkpHRnYwejgtNzZJMXhMZzFnZDVuQzI3N25hRFRGYlI2ZG91N1NXUFhNQkpKU0tyaC1oN0F1WU14": 1793946637.024797,
+"Reuters|CBMiuAFBVV95cUxQSnVBV296end5cVRDZWRHOG50cmJBZlRYNzhJREU4Z3I5akZKS25vbXNaZW9vSTlSak16dUlWRGlVNjRrTDU2V2JLRFhFX1hlNTFTQVdXOVVJM0V5eFhaMGV3YkloSDR6bXQtU1FVa3NhZ01yaWh0Z3h3Sm9ieFVGQ3VULXpxSjdfd0hYY19oWndOeEU4R3ctVTVJbk44aC1DR0l0NGpSVjFWaW9BY2FfZmpVUnlJSWsy": 1794454233.069169,
 "Reuters|CBMiuAFBVV95cUxQUDJuaEJRSEJpRkdkS2lOM2lzUDhyZ3VpN0dPdU5FVWpmWkh4Vm9BNDFLTERLV25PLTNpMXdYczJPUmN0NTgxUURDWUZLWG11QWVsZDl4dWFheVFCY3oteFd4ek9EQUltYkNydkdCNzFGZWxOTlVVNjBoakFIbDNyMEs1b0JRUlZRbXNacGpIMDFGOHM3MmNtbGY1NW1NVDBJWlJFb2paU2ZOZkVaMkVqRjdWalpmeDg2": 1793932237.319793,
 "Reuters|CBMiuAFBVV95cUxQWXRxNGlOYmZzdHFRSGtFeWRXeW9uanM5dGlkcjU3aWhMeFVlbWlrZG45YkxCVmhubVRkSnN1dWctY1ZPVVowbjJvUkFncWpNbk5nN09iLTNac2ZGam1iMmdHNjRIRDBIRTVDeGxnS3QxVUZjY0k4QlpqRlI0YUxsT2RuM09uX25rdVdyald1MW1EeHRsSElxZk1iR0ZhbERmMTNwTWNFWDh2N0ZtVjhTY1hrLWpELWVu": 1794303942.8019438,
 "Reuters|CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli": 1794402053.7307801,
