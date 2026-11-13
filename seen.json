@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-"ts": 1794424545.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WamkwemYyeFdjbGQzY3ZKVTZyZGF6eXNTbm1wSmllZ0hyT0dIVF9OVmNSQjdmM0ZMRV91ZzNQZzMyQXZtRGpTUTFxRHR1MDAwX2x2QmNtRkk2WWlscVV2ZFhSUUpqcTA?oc=5",
-"src": "Reuters",
-"title": "Trump praises Hegseth at Arlington after House blocks impeachment push",
-"ts": 1794424658.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
-"ts": 1794424849.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjBRa0Izc2x0QWlCTzN5VDd0ZTlvN0VNajE1ZzdWYkVMaXB0VzBPV1dvSXVhV0hMQmtmNFFwYUFwQmR4S21FWm9mUjNvMnBoQ3htb3Njc01wc1dNV29McWNtRldDenFqN1VTUl91b1pwY0tiNXhhZWdsTE1XNnkwMng5NjdrbHo0Z0tGdHJOZw?oc=5",
 "src": "CNN",
 "title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say",
@@ -69,13 +48,6 @@
 "src": "Reuters",
 "title": "Jerome Powell's job is safe - White House",
 "ts": 1794426825.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EeUhHUm5QT3J0dkJsNzRXaXdQSHV6LXZxaWlYTUY5S1dMR2ZzekNiOUJ2Q0ZMaU82Z19vR1NmbFZqLWxIRUtnMmpmalIzTzkwdDF3cS1HZHFVdjAxaWlaNzZFcmFQR2M?oc=5",
-"src": "Reuters",
-"title": "Police clash with protesters as 4 million strike in Spain",
-"ts": 1794424725.0
 },
 {
 "lang": "en",
@@ -146,13 +118,6 @@
 "src": "France 24",
 "title": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
 "ts": 1794431557.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Rm0wdkZaYW1LUVg2ZWx5S3UwNTY0SXhOcmstX1hfeG1QSGNLQTI4MUtMRUxuUnNYNl9zc1lOVm1jcmVQRGdnUG1qSUt6OFluZTVlRkdlNW9CMHlTNGdHUnl2eVg1UQ?oc=5",
-"src": "Reuters",
-"title": "Police clash with protesters as 4 million strike in Spain",
-"ts": 1794424725.0
 },
 {
 "lang": "en",
@@ -3282,6 +3247,27 @@
 "src": "Reuters",
 "title": "Cape Verde president eyes new term as party builds on legislative win",
 "ts": 1794553440.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGT2RNaDFnQVBONmFJOVhac3RUNjNkbS1abjB1cW1adnZ2QV9yV0xkMFRYcmZZUElCWHR1Z19jMTZka0s4eTR5bDgybDF5WTd3Z2Y0akJ6ODMwQTJCTFBXbUw5WGZ6UUU?oc=5",
+"src": "Reuters",
+"title": "What is ASEAN and why does the bloc matter?",
+"ts": 1794549135.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/sports/20261113-%C3%A9liminatoires-can-2027-s%C3%A9n%C3%A9gal-cameroun-c%C3%B4te-ivoire-cadors-f%C3%AAte",
+"src": "France 24",
+"title": "Éliminatoires CAN 2027 : Sénégal, Cameroun, Côte d'Ivoire... les cadors à la fête",
+"ts": 1794554304.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-bruno-retailleau-devoile-son-programme-toujours-plus-dur-pour-lutter-contre-l-immigration_6809292_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme toujours plus dur pour lutter contre l’immigration",
+"ts": 1794554417.0
 }
 ],
 "seen": {
@@ -4862,6 +4848,7 @@
 "France 24|c650aa1a-deac-11f1-a9b6-0dfc890dcce4": 1794503728.4287832,
 "France 24|c6665e70-d9e6-11f1-8e67-8b89b00215d6": 1793981730.92988,
 "France 24|c6e71b68-dea1-11f1-9ed5-85b5ff6a8628": 1794492929.031265,
+"France 24|c8365828-df03-11f1-80e0-272e0f21b1fd": 1794554793.0583696,
 "France 24|c84f6244-dec9-11f1-b4e9-b9a1dde53cad": 1794511836.8793907,
 "France 24|c86ca51a-dd03-11f1-b014-2f6224affb59": 1794318331.60005,
 "France 24|c9227716-de37-11f1-8b2b-cf8ea8d63e84": 1794465926.2127671,
@@ -5076,6 +5063,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html": 1794508242.0299418,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-le-livre-programme-de-jean-luc-melenchon-l-avenir-en-commun-en-tete-des-ventes-de-livres-devant-le-prix-goncourt_6809100_823448.html": 1794485727.762882,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html": 1794503728.4287832,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-bruno-retailleau-devoile-son-programme-toujours-plus-dur-pour-lutter-contre-l-immigration_6809292_823448.html": 1794554793.0583696,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html": 1794545128.806474,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html": 1794224728.8407536,
@@ -5374,6 +5362,7 @@
 "Reuters|CBMiZ0FVX3lxTFBBME5sdlpyMkNWQWlRbE9zVWZiaGtrTTNVQVAzX19Rb2RpNWhtWnVyNlkxRFFva1RsbE1NSjBOU0NaRXN6MjY3VHpfak11YnJPRUVTekZuMGFocGFKM1M5WVM4cUdWRDA": 1794364243.9818587,
 "Reuters|CBMiZ0FVX3lxTFBEMWNpSXFHUXQyeUJTVVZQZTNYQU9sb1pEbW1SUzQ5aEo5Qm9RSy1zdnl1SVJ6UkgwVXBpcXdrOWJ2eTVFOFFkMlplM1BNT3VRc0VaSXlNLUZkMzFlNW43RDFIQmZEaXM": 1794487528.1053998,
 "Reuters|CBMiZ0FVX3lxTFBFczljS19SXzVJSUZLbEpnempXVXR0YzBkM0g1bnpVeDc2WFVBdmR6ZVZ3b24yMzhMMU5UbXFUdWNvcVN1X29xVG5SUElUN0N6NVRuUGpSdHB6LWdKbmpESmhEX1pwMWM": 1794553244.6170504,
+"Reuters|CBMiZ0FVX3lxTFBGT2RNaDFnQVBONmFJOVhac3RUNjNkbS1abjB1cW1adnZ2QV9yV0xkMFRYcmZZUElCWHR1Z19jMTZka0s4eTR5bDgybDF5WTd3Z2Y0akJ6ODMwQTJCTFBXbUw5WGZ6UUU": 1794554793.0583696,
 "Reuters|CBMiZ0FVX3lxTFBIa0poOS1jdVJPX3QxRDE3YkgwVVBNX1Z5UUVNc2ZFaEY5Y3Z3cHVVcDNyOTlqRG56UjUzXzNkT3VSQVNJSUdlSUNHaGYxNWVPR0gxOHlxVFRBdy1PUjZUNXgyLTFIWkk": 1794303942.8019438,
 "Reuters|CBMiZ0FVX3lxTFBKbnY1NHNtbU1PMnRZR25oQjZJTnBvNmpySjBpOU1LUFMtUS1DOWlOSVFiQ01hVkt2MWFqaFkxOG1iU2Myakw4WUdYTnJIbGFwc04zOTJlbng3U1NwVW1WVmtBeHhDRXc": 1794325532.1588218,
 "Reuters|CBMiZ0FVX3lxTFBLM2pFWnRSZVlUR01lbVZXRXBpNVRSclhRbFhHcEFvUnBYaXpGRFVMdmM2QTA1WFZTU0lPaXVPUk9lOFRRUFcxdlVUNFVMdF9TWU9xbzFnd1VBQnAyZjl0MUV1RkdWVk0": 1794421836.4185686,
@@ -5912,6 +5901,7 @@
 "Reuters|CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln": 1794197728.9572709,
 "Reuters|CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3": 1794063644.0258002,
 "Reuters|CBMisgFBVV95cUxNVHdSSjVhSmQwUkViRVA5b0prMDltYWNMekxDV182QV9WRDJvak1JbjBBWXJRcTdNVlVsbHhfTWs5RjJfbGlkMzZldXpNSDBzM3hUTnVNNjBwTFRQWFFmc0paSXFtYnhndEQwMDJqVVE4OGVwaWh0Snl1V2xwMGdmcDdPRFZrWFJac05QdTh2cVZJSTJ0LVI2TGFreXN4NDRGdlhTZXNMMVdHYjJfNWFqeHZn": 1794005127.6768532,
+"Reuters|CBMisgFBVV95cUxNWi1CVUk1ci1YWElZX2ZRekhQRDBFQXNJNkJQWFpSRzJDYnhmRFRXWVktUUhtYU5zQklMUnpUV0g1bFk1NWQyZTMwS20zZkxDeC1TMnZiWFcya0JiSVRTcWpFODB1Zkd2U0NJNWV6NFIzS1FxUHV6V1JYaFMzWW9YZTJ0QTRwa3NkNXdDM08xTnlsUmdZVG96WkhiWGVURHVIbWlhcENEYjdVMDMya3RXR2NB": 1794554793.0583696,
 "Reuters|CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3": 1794541527.2756867,
 "Reuters|CBMisgFBVV95cUxNaGFjUVQzWlZDV0lrSGxPNXViU2Zmb1d4WnpYb01hMFh3TWpJVEVPWVgwVmxaRENiMXgwemhkVEctWENtT1NWZXFQZzgwU0ZGTExqREFBN3UyUkQtbURRTEthRU4zTzUtdDBwRlJUSTByMmE0a19SZVdSUEZteGpwUXc0X054S0VVbUV5UEFkcWV3Sm9UWHNhWUhIeGtaa2xfa2ZaUmdwTWw4WFBYREF4aGNR": 1794554131.6327481,
 "Reuters|CBMisgFBVV95cUxNaU1HVHRST0JBSXdCOFhiSXJwVHVSRTFiOVd3dlF0WV9ZdnQ0MERmR0JSRlV5RnNHcThoZEJvOGVuY08wOU1xTlNXX3dXTjhHbWJYNnhvbXJQNFNLMmpKRl9ieHh0VXR6a1g2dW1pNjFEbjkwalBIZk1KcjZsdEQ2UVAwY2NlaF9VVHRhdXhsX1ZuMHo2dzBVWktGbk5sOW9teFNZdHNKT1M1MkdvWGJnMHRB": 1794407435.961119,
