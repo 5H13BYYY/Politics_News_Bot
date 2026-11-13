@@ -9,62 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c8dx160v9zrno?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Burnham signals backing for more ethnicity options on next census",
-"ts": 1794412041.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261111-colombie-president-marche-parmi-morts-images-font-grincer-des-dents",
-"src": "France 24",
-"title": "Un président qui marche parmi les morts : en Colombie, des images qui font grincer des dents",
-"ts": 1794412352.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-%C3%A9missaires-am%C3%A9ricains-rencontreront-vladimir-poutine-puis-volodymyr-zelensky-jeudi",
-"src": "France 24",
-"title": "Les émissaires américains rencontreront Vladimir Poutine puis Volodymyr Zelensky jeudi",
-"ts": 1794412373.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWo2YUVyVXFweFRYdTRsUnY5ZVdqbk03Mzg3d0VBNkk4LXU3eVA0d182bjhxZVFXeVVwYkVCSXVJaUZ2NUFnREc1cFhWNnlVd3JYc2VaUHlwQVE0cTEtVXd3eG53NjcxOGpyUFFsdS10dTRwcXVONXpQd0NvS3ozdXpYWTRFRkxWODhZaWRHRlg?oc=5",
-"src": "CNN",
-"title": "Meet the 2028 Potential Presidential Contenders – Rahm Emanuel",
-"ts": 1794412406.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXRUUjJHOGtiZjlZU0xHQmpzeWJGUFh6S2tMN3FCTlI2Y3dXUm5ZR1ZkQWVNMGNEOHd3MjBSX3FDVUw3TDNYUzNSZ2xMZVIzbm9wcWFRbEpLZzlMSzBBejFFQWo1YVVnbE1CR2taZ2tJUmhlVV9nQ2dRbXlQN0FnSGZlU3VQME1QR1NFdUo0QQ?oc=5",
-"src": "CNN",
-"title": "Meet the 2028 Potential Presidential Contenders – JB Pritzker",
-"ts": 1794412407.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNkFlUi1kYkFfc0VhcHV1QXhiaXRTNFluVXJ0cHllVXJtN1V0dnI4clhiTlBhWHE0ejJUT2xINmlUdGpjSEtrc2hSMUdmczdGc05ZZGF4dzVYUENBNXh1bVBaOUJvaU1IeXBzUkhVZ0FtT2R5UUlyYWdaRU1aaEtteXRJSE8yRnFEaFhIQUh6eE4?oc=5",
-"src": "CNN",
-"title": "Meet the 2028 Potential Presidential Contenders – Gavin Newsom",
-"ts": 1794412407.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261111-christophe-gleizes-500-jours-de-trop",
-"src": "France 24",
-"title": "Christophe Gleizes : \"500 jours de trop !\"",
-"ts": 1794412415.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9qLW1iWU5GSy1sVHhwNGpJZlIycnhPYWRHd1Q5Y1Ntb0FWdEtlSVlyNlBLNTREX3pwWDVQcnZkdWs0eW9jcnVDbXlrWmktamJKclpFaklfMUx6UzJBdzdrbk5JVy10ZFpoZkY4Wi1lckQ4T2tmb2lKOUJjVnBNaTFleDdoeld0eGdvbWxjNV9CRnM?oc=5",
-"src": "CNN",
-"title": "Meet the 2028 Potential Presidential Contenders – Glenn Youngkin",
-"ts": 1794412521.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkVrQWs5WUZ4eUNVbkRnMWJHeFlVZTBfYUZ5dS0yVW1HaTdLNWcwSU5PSExkYm1fUFVXdllpNHp6N2Y3SUdXSC16Vjg5cVR6cFJZeHFtM19hNTFkLWtmdm9xZWZIUDBRb0JzSDU5ZUwzeVRULVNhVUY5ckRIem93d1RzVFd3YjlER3NyZ2YzVlIyeG8?oc=5",
 "src": "CNN",
 "title": "Meet the 2028 Potential Presidential Contenders – Chris Christie",
@@ -3506,6 +3450,13 @@
 "src": "CNN",
 "title": "Democrats chart a new course after midterm election wins",
 "ts": 1794540411.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTJyamdCbEpXVmI3RGgwMzlwQWNpNTBHeVhIRzRVZ181Wndmc1poaGJucFUwZXhNcnUyejJSVGF6NU5sakpKaEx1QmFWdVBsbjF5ZkRSZG5BbG03MC1oUmF0OE04c3RRMHFoTk9UZmE2SEpidURzNGJORFdfSHlGb0pjQkJSUUN2YlFXY19Oc29FMjRaU1gwTmJHRXVoWGk4eXZSdjZyTks?oc=5",
+"src": "CNN",
+"title": "Questions loom over Trump admin’s handling of Nvidia scandal",
+"ts": 1794540461.0
 }
 ],
 "seen": {
@@ -4521,6 +4472,7 @@
 "CNN|CBMiqAFBVV95cUxNNjRrM2RiN2VZM0E2LXZUN21xcnIybUY1NV85ZW1XTHE0bDZXaHlaY1k5S2JTTTdNa2d6aFhyakYxektlNkRpaFpkM1JKTURJOExoTllTcDJxSzJ5Z2F6c0RJTEg4RUt3Rm1GWXFuTkgwemFiaDlNd1EyYXFsNGVoNDdWSU1xOHNRVnh4aUl0a2I0SUhYVXRpbnBHaExtSWo4c3ExMUw1UGc": 1794321038.3021433,
 "CNN|CBMiqAFBVV95cUxNODQxdXczalBzLUh6WXNoWnNTX1BUejVtWmUwV3NYWHpua1ltdXBscVlUMXdkZ0VEYTRwVUhGTW5vWDhzU3RzaC1JQ3ZuX00tRGphd3BiLUZkNHVMRkE3cXQ1RG5taXllQXlsVFZJcm1JYWI2bzFCYUFzcnJQQTlscjA0endXRGc0VWszdmItSU1SYU9iRWJLNy1vcllrS0kxMnFuTXh3ejk": 1794238239.1765761,
 "CNN|CBMiqAFBVV95cUxNVkh1OWpaN0NMRlRscmY1aWctdTFodzNDSWwwcjJPWWNNeGs1TF9jQ3pUYV9xTkVsOEhndkVXUE1rRFF6WlRzcnZVRW85eTFYczdnVThPendDQXlBZGY0b20wUWk3UHYyMk55TDduNXdWMmdZNGhRZjlhNUZHTmM4QnNNMldqSHZtU2x5bXNlQVhqX3JWTlFTZmh0aHM5VG9BMVEyR01mRWU": 1794253529.476761,
+"CNN|CBMiqAFBVV95cUxNWTJyamdCbEpXVmI3RGgwMzlwQWNpNTBHeVhIRzRVZ181Wndmc1poaGJucFUwZXhNcnUyejJSVGF6NU5sakpKaEx1QmFWdVBsbjF5ZkRSZG5BbG03MC1oUmF0OE04c3RRMHFoTk9UZmE2SEpidURzNGJORFdfSHlGb0pjQkJSUUN2YlFXY19Oc29FMjRaU1gwTmJHRXVoWGk4eXZSdjZyTks": 1794542445.2244267,
 "CNN|CBMiqAFBVV95cUxNaGRzMEpHZVhiWEpqV0h1bzFVLS1uaHdaUURBNU10QmFEMG9MQ0NCb3ItNUJLbllvYllZM0R3VjB2VHgxNW8yenVLdkdmVlBxOXdTQ2pfa0Ixd18yQkNKZzVINlJxUWJlbFBnZkZDVjUxRzhrS1E5cEhqTUZzUGZTN0FDQUtNU293emctaVRhQXZYRFowTkhVYmtGMmlTdi1OTHVfbWY3Ymw": 1794283240.2177362,
 "CNN|CBMiqAFBVV95cUxONFZDY3FIOU9jUEhhNmxJSnk4TjNRUkRFLWJLY3RxMEF6OUZFeFI1Ym54X0l6SlNCanRjaG5mbG5jZ2JRdG5IU0ZtcXlYNmJqUlExV0thTURjLU1VbHgySGVBalRGX1NhTU11dGhZWHFlQjZnVG1IZzhjeWJwT1Q3OVQ3eDVSZ21TcXR5VC13eXAyeXNXWXNsdXNpS1VNZ3cwSlFvVW0zOXY": 1794532530.1887395,
 "CNN|CBMiqAFBVV95cUxPRWlyMUVWVUFmM1JqNWZhN01hRHJtdHZCYUV3T1FLSEFtWktKVDl0UXQtS01fbEszcUxHM3E0SXZPc1lTZkxQTF9oQ3NNbmw4LUJveGM1WmpobmljRXhOaVpoWUJVSEdwMl9LVlQzbVU4SnAwYW5yQ0RNSWZJNGRPSGdsekZ5R0dMdmdvaEJva0Z1ZVlLODB2V3pxMTh4QlYzdjNQQUVOVTA": 1794158130.4224916,
