@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMEs2ano2Qmd0YzdmcUI3OFdiNmdhWmdPOVpVMV9HdVRYZzBueXRlNUhLUTB1ZHZ1VldlSzVQMk83aC1FTlFtbE9rLWI2MTRfMDlxSDV4c01FcDZ6?oc=5",
-"src": "Reuters",
-"title": "George Harrison's first electric guitar hits the auction block",
-"ts": 1794428406.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVJmZ25HVWdCdEZubWhDTWI1WnM3TzAwc2JObjJlMVBENUZTOElPYUJXUXUxQjAwN3VoaHlkcENWYk9GbGJudDBGQmNnRWNMU0Y4Mmx1cmxxSGxjc1hhQ0g2dkFPYkNjTXIyYkNydVN0QzdrRnNUdHF0UEhyMV8xWTlMMGlVcjgzVkFQdGFzZWRjaUljQTI3VU1xcGF4WktRQllTbEwwMlVwN2JNeDlOZTFn?oc=5",
 "src": "Reuters",
 "title": "How Nvidia CEO Jensen Huang got entangled in a China chip and spy scandal",
@@ -55,13 +48,6 @@
 "src": "Reuters",
 "title": "Muni bonds, infrastructure stocks offer shelter in volatile market, says expert",
 "ts": 1794433142.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxWW85aHZqS1ZZSTk0bDg5SDFXbEJuM2NiQ1Y3OUlDYzJoSGhQZXdxZU5rcXMxYWxrOG4xdEY5TkZPLVJFNEE0ZEYtamlERGdoZC1uczhQU2h5eFlp?oc=5",
-"src": "Reuters",
-"title": "Guyger experienced 'inattentional blindness' - Ex-Dallas police detective",
-"ts": 1794428406.0
 },
 {
 "lang": "en",
@@ -3177,6 +3163,13 @@
 "src": "Reuters",
 "title": "ASEAN faces Myanmar dilemma as some members pursue closer ties",
 "ts": 1794557416.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
+"ts": 1794555190.0
 }
 ],
 "seen": {
@@ -3194,14 +3187,15 @@
 "BBC|https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1": 1794318331.60005,
 "BBC|https://www.bbc.co.uk/news/articles/c60meenj1ke8o#1": 1794144638.1390822,
 "BBC|https://www.bbc.co.uk/news/articles/c615j8pw1y81o#3": 1794432635.3225079,
-"BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#0": 1793952930.1999066,
 "BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#1": 1794198638.1078155,
 "BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#2": 1794232844.5948508,
 "BBC|https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o#1": 1793971839.6133232,
 "BBC|https://www.bbc.co.uk/news/articles/c6ly02ry5982o#2": 1794123034.509976,
 "BBC|https://www.bbc.co.uk/news/articles/c6ly052pdx4no#2": 1794272467.641642,
+"BBC|https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o#0": 1794558635.0579028,
 "BBC|https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o#1": 1794556839.3011,
 "BBC|https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo#0": 1794505527.8352904,
+"BBC|https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo#1": 1794558635.0579028,
 "BBC|https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2": 1794123034.509976,
 "BBC|https://www.bbc.co.uk/news/articles/c6y43zvwzre1o#1": 1793962843.0278747,
 "BBC|https://www.bbc.co.uk/news/articles/c820v0e43xr4o#0": 1794329129.9549541,
@@ -3239,6 +3233,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#1": 1794208531.1038544,
 "BBC|https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#2": 1794216637.379103,
 "BBC|https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#0": 1794557726.7759933,
+"BBC|https://www.bbc.co.uk/news/articles/cm369259g0j2o#2": 1794558635.0579028,
 "BBC|https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#2": 1794123034.509976,
 "BBC|https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do#2": 1794223839.106101,
 "BBC|https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#3": 1794418236.7474616,
@@ -3329,7 +3324,6 @@
 "CNN|CBMi7AFBVV95cUxPYXF0bkhHa3F6Y1pCLWp4a1cwek96Wk9odnZnYXJ5M1QtdjhhQ2RtM2UwalJWbVRPMHRobVB3Z1pXU1ZlY1AzMXJOU1N2dWkwTXpIbUN6Qnotc0hkOVJKd2lKVVM0WnBWRTNGVUZiei0wcjFOU1cxZWttU1JIOFRGTzlwM0Riem5OVldDaVljcy1yYnljdHZ4ajRacDNNY0lkakFLc2JvNFVJQnRSakF0TXNMV3lmVVBoMm1tWU9WZTJJX0ZISjhkSVRfSUk5WXUzb3E4dXlLQjUwcm9CUTh0TndsUWo5RHRFb2tYNA": 1794210844.7530384,
 "CNN|CBMi7gFBVV95cUxPX2xZeThyd2k2bWphakRRbE5LNGdsMXBSdlhPRmx2WVVienhNWE5zd2lkWm1WVmJGV3lvekxnd29rLU1xNldiNTNvbzRYNnVmeG9RdldsQ1N4VlhoR0ZzWlhVYTV0MjQwVnlTMzlEY3dRSHVzWmctRDdXcGpBV2UzRHJ6SGNFeHB4R2F4SFE0WmRuZnlHWElpZ3kyRk5ydEdmeTJiTEFGUXNtX0Vrc0JuUzc5TzFiLVNnN2Qyb3NGNFJJMjNCUkNOckZMX25pMF82b0FyMzNMVUNNbk1mSXA3V2JmUUdydVBCT0wzWjNR": 1794279644.1741142,
 "CNN|CBMi7wFBVV95cUxNRVZzSE12b2xlMTFZZnVrQnFKMDVDYjhNMjhZS3JMWFZ4ZEk1ZmtsOGNsS2NsOHNEUTgzMlN3UnRPVHBLVEo0Z1QxSlVISjJJcElDbzB5d1dRSVZvYjRraXJkNzZ2ejhHTVlOOWNrVjIxZDlEUmhPM3BFbHdTWEstUnZUUVQ5N3l0dHJUSHdRSVhONWUxcThEYlRnYXczMDNlVVR3VWFGUzU5M3h5SmNROUF6dmRSRGZWNXh4dDhNZkZnTFJ1OEdZNlBrYlZUZ1JyRktyX1JKaEk1aFliT25XQlF0a2J4SzRoU2dyQWdxWQ": 1794417331.9421513,
-"CNN|CBMi7wFBVV95cUxNVnhNRmJtRTVMRzdDSlNrVGN2Q0FKR1ZnYjZZWUdObTVFZjlQMVhtV0NkWlBudjRQRDBDNHJvTTFJZEFFc2x3ZHdKcGZ6Wkk0UzRydmtCbExub0ExbmZ1Qm9QNVFIZ1NsczZ4d2lvMUR5c09RUWJ0R2M5a3U1bFVjTkNCOTJwb21KTWdoOWZCVExZQWJMQ2ZWRkd0UWVZWURiaENtQWg3TlRaS0o4ZDV0aDFrN1cwSG94Wmh6T3ZSZ2dOZC1UWEgtNGQyUGtMR0tvYjNvalpETjhGVmhZUE1fMkZmbmlKYk9kYjM2Z2tCWQ": 1793953836.5637982,
 "CNN|CBMi8gFBVV95cUxNcWZyY1R0U3NmdHdTc3JrcUhXSjZaSUpDaF9JbG9CT3E2WUNCN1poRDJrekdNQTlKTG9lUnJkWVNCRV9jbksyZFpmTGU2MU9oTGVkUk92RWExNUZfQS15MW12LVA2UjJXOVlTMkp6MW9hRzM5M2d4bkRuMHJPaWJ1NWc4NW10NnVVdk5ZcWl3VXBtb0lZWHJQRnZyZUZ5T19MVWR2Sm51WFZhWnhfYmxicUtjN2Vzc0FQc1Jwb2ZjVzhuaFNwWVlfUlM4NW92WUM3WV9fdFRtZmpmd3hJdzh3b2ZRaFBNbWJsa0FFX2t3eTJidw": 1794108634.925319,
 "CNN|CBMi8gFBVV95cUxPNTBRYUMzQks0cFdzQjhycFhmbWctRW12UHFZQ3BmMGZaeUhMUWROT2xjMVdwcjN2Q1E2UzhxcmE3VVZ0a19rWk96ZktyTVlXcWgwRzZwdWZ3VVg4US1XXzMxSVVZVXN5TzM0VDJ2eEtBTDJJcEhsUGI0SnlxQmtJdmMtclpMcU5ZRzhGNWlCZjJtb2IteUt1NnYxcUVTelB4SW52UUdwU2tMdkc0VEx1aGd1Y1ZELURIWV80dTN2ZlRZZlU4bEQ5MW5NWXBNRHRvNmxwQXJyWkJBd3FremItcjY2UkFNa3I0VjFRTEpYa0k0QQ": 1794027644.8812451,
 "CNN|CBMi8wFBVV95cUxOdEdxb0YzQzI2TGhIM29qVGFVa1NWOWZ4end1NUlYM2FQNEtYOTRoTzZsZXZRbldqczV5RTdPSDk0dmRzRGo4dkpMRDh2ME5zZS03anpTeVc2RnFOYUxFOVI0NHprbW5mc05KREJBeXBIUjhqNnIyRWRyaWN6TmhIeF9uVEQ2ZWNnblFwSE9qOTIyNlpRTl9McGljazg5QkpRczFPZjJsWkt4VmR0UkFXcEQwXy1JclY1SDJyUUl1ejJ2UERTTnZ1S21teGFIXy1CdHBxRUFHUFpYWXU4Q1I1SkQ4RGh4aHY2QnY1Z2dLWlZmaVE": 1794081640.9245064,
@@ -4913,7 +4907,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/mobilisation-etudiante-a-paris-des-responsables-d-universite-defilent-pour-reclamer-une-action-urgente-de-l-etat-et-le-deblocage-d-1-milliard-d-euros_6807819_823448.html": 1793981730.92988,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/pantouflage-l-etau-du-controle-se-desserre-a-l-heure-des-grandes-man-uvres-aux-sommets-de-l-etat_6807822_823448.html": 1793983529.8550558,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-l-hypothese-d-une-candidature-de-christine-lagarde-questionne-a-droite-et-au-sein-du-bloc-central_6807815_823448.html": 1793981730.92988,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html": 1793953836.5637982,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html": 1794048325.823577,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html": 1794048325.823577,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html": 1794010530.2633893,
@@ -5109,6 +5102,7 @@
 "Reuters|CBMiXEFVX3lxTE9selZYU1NSeE9mUzFyanExTWhXSWhjX1lLaVhxQXE1aEJOSWtuSEdhV3Y0TV9ZNy1KQ3FSSS1HXzlKZkZHSlZNY1Y0Z3FMcWIwUnlsN2Y4TkdzZWtk": 1794078041.7588253,
 "Reuters|CBMiXEFVX3lxTE9uN3B5a0dpMUozZlljOEVvaTNXR0ViUmZDZ3dwNVhPNXVfYnlRbnF0ZzBnZjVQUnhIMFc0UlR2NHU3blNRaHFFc3RtcTBnMW9YVm9mQXA0N1g1MjFp": 1794416446.9049873,
 "Reuters|CBMiXEFVX3lxTE9yODVKMk5lZU54QlBLZU1EbFNxSkFvRzFBYkI1UmRIclNjRmFGYXNzUC0yVF9jV2t0S2ZsSmZQbUUtVjNyZkFFT1NOSGRDRzVpTThyeFg3RGxUMWRK": 1794331837.843593,
+"Reuters|CBMiXEFVX3lxTFA3SVBMY19TNGlXeTdXNFdIV0RGak0zTkRjZ3BZRktTQlZENkxxaTVBYXdXYjB2a0JTanQ1NnJ6WEJiS0lJbk9vSVR3djVTU3dkRzNRM25ITnhPcmtP": 1794558635.0579028,
 "Reuters|CBMiXEFVX3lxTFA4aThNbHJwY0JVYzQyOTJLaW8wTG5IUmphRmJWVnBrcUhvZUhDV2pXZzljLW9xME1ELXFQOFNlMFdsR2NfNFpxT1BzNnJiTmJGRS1lRHZNZGhGRVZa": 1794031244.0642855,
 "Reuters|CBMiXEFVX3lxTFA5cC02dGpkRHd0WEVNNWZ6ajJtenFUNENXQXdfbFkzamR6alJyZER1WFYtT1lBd1ZveFNRWWlvVWpNLUJVYVFpT2lPOW04bXdUc2wxNk1jcDBpUjE5": 1794524438.1299994,
 "Reuters|CBMiXEFVX3lxTFAtSGtVeXVqZ1lhU2JzRnI4LVF3WnVEZC1FQzBKMTJxbTVsUlZJSnJOQWNKWEFTTEhJQzJ2NFJrRDNETU9HNnp5aHl6MGhwT0VkdmNuWk9tZHRFTzZm": 1794443437.0896893,
@@ -5501,7 +5495,6 @@
 "Reuters|CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw": 1794222047.3750374,
 "Reuters|CBMijAFBVV95cUxNd21laW1KWHJCemRHWXF2SkdYRklWNWV6ZnVMci13a1BfcTg1X2lyQUwwekdnZFhmQXFzWUEtaThRelMxZVRUaVkwVFYxZl90VEV5MERkRHV0VHIwUmU0bk9Vd1htRUJnUFdNcmpPbnB0em1oTVA4VklHbmgxM2hMUFlTUzZ4c3VPM05RTA": 1794092440.2532294,
 "Reuters|CBMijAFBVV95cUxQcl9IZFVuS00zSjQyMTVpYjM4TldkamZJUDF5LWlKWkQ3NFE4VWtXbmFrVVhORkdKckRRcXU4cU5HQW5HQkF6NDNEYXJoXzR5eEFGV25aS1o4ZUlQQkwwRHV5M2ZSTVVTZG0zZnN2VUdyN1UwcnhtUC1HeERRQTBZVGlXNVhUUWUtWmFxWg": 1794005127.6768532,
-"Reuters|CBMijAFBVV95cUxQdWEyYjlxaW9WTFZLanBpRjhNVnFKS1NhanJZRjl2WHk5Wm9TUDhOaFlyMXRHZTZyajFqb2RPOXUwTHN0T2VuVlNYUmZVanVGU1JRWTE5X2ZiWHY0MDdXRVltemF5cVZSZFM3b3Q5VXl6VnFlc0l1ZHptbXR4dG1Vd054ODNYVXRqOEpqLQ": 1793953836.5637982,
 "Reuters|CBMijgFBVV95cUxPSThoWXpUYm5jakdXc1p1cVBfU2J2NVNiSl9Rd2ZWRXFRdjQxVEhGUTJib2d3WEhNQldiXy0zUG9kZFpLS0Z6SmRodkZpN3pWdWlOY1RKTjJERnFxYTB0TThFM29rWlRORzRESWc3Z3dVTjBtRGRkeDF3dE5vc1QzaEdncXVpRGd5VlB2RF9R": 1794101434.5819688,
 "Reuters|CBMijgFBVV95cUxPbURYeFlSLXpKeGxuMFBtLVRHcU9WbWR0NEc1M25qU0FFSVZuMTR4RHlSTkpobG9tWk9pcnFCbmg3Q2NjRzdrTG8zUTc0aTZqVW43TEZfZUZycm1VRWw0VEg5UTdZenRscktjTEg2UkM2TkZyaHRjekRROUtFbFBQMm5kWUpFRzl1V0ZrZzNn": 1794222047.3750374,
 "Reuters|CBMijwFBVV95cUxOa0hQVVFHWHJIc2xNUHA3SUF4VEVpeTV4UTJ1MVNVZng5OVIyc3NRRnVnQ1ZfQ1NDVU1ySTRmQ0tNR3NGdVpXSWZIdkJZdGlWbTZGQWFfMG9FQ21xY3JnOC1pUVpJMnBfOGowWVJGRDdjSUFMQ2pUdDlOREx5ZnZ6UzBZdG05ZDk1dXltTW55OA": 1794402928.4602053,
@@ -6194,7 +6187,6 @@
 "Reuters|CBMizwFBVV95cUxNTWVFLU9IdFNEUzFUaXdxTC1PZ3VrOElsd1BDMXE4ckx1ZmdLWnBBMjZtTUF3MXBXcVJLRVJmbFZ0MnhNakc1czRyNFRFSzVZX29adEw3ZjV4aGRycmVwVmQ0RGZpaWxmWXJ2NUQ5U1ptVkVISXdOdjFnaGdkZGNBVVI2OHdiVVVYWEpZNEhMZ3NtckVDYi1mMHU0VUJHcDN1dEF1NmxkNEZxZGpOWjRtM1cyVTgxT256SFNDOEdBZ3I4MThjY0E4bVF1ZERTV2c": 1794249929.3347409,
 "Reuters|CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ": 1794499241.2949064,
 "Reuters|CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU": 1794385835.6692023,
-"Reuters|CBMizwFBVV95cUxPX0x2c01FMG1kaWJmejdZbW81SHRmbUd2VV9Dd082b2VNWHhlX1ZDUDJmTDhnb3VBSEtKa3dWTWYzN1RoVGZtVW9mMTdUYWQ3amN2MENXTzN0MmI3bThfN21rSklOU0lPUjROb0ZvWmV3bHl6RVFkaS15MHdJVUUyUHZveXhBekwxTDNqOEZpNjdJX3BZOGFZaVprMlI4OHVpRXVuUUpCa0JVbXFfN3BlMmpfTkE5UUZTUnBFMjdmX1JLaTNqU19ibExhY3dlOWc": 1793952930.1999066,
 "Reuters|CBMizwFBVV95cUxQTFhpVVNXOHVtaUVqdHI0c3d2NmlST29nZ0RwQllJeWRTS19yTWx5NFJSdWZwbTZuTnJpZW5fVlY1dk9xUF9HeUF1UG01cUhHcjJoOXpDUWtOazNNTU1LUXRzYkpiTUdncWtxQUxWaTh4bGszQmtTUmZGWjAwMEJ5cHN1ZGNKSmRsSEJic3dTNklzUzc4Vk5peEQyN2NpdlhVMV9heHBsOXZSVFFzSlA1VGZ1RGlmT0JmX2U4aElRQnNCREIwX2Z3MWZGeFdibGc": 1794309330.9183729,
 "Reuters|CBMizwFBVV95cUxQTm9ocG1uVHMzeFVVMzBQOWMtZ2JxMnMxelVrS2dVQ29LTERoSm9pUDNIVTBPd2lEU2swY2k1b3N5ajFhdnVfd21seDAyT25sUEt4VnJLdUZsbEhpT24xR0pSRXEzR1ozd09XRWtVMGlCSUNzVTdRcFhnenBzVl9hQk9ObWRFRjFGcW1JNDFuR04yQlh6MUxJZmF2LVI4NzYzV3g3LWdjcy1kMDI3cUZHVkUwckQ2R2FlVlF6ZERQNHNpbktMcGVmZlZHbnVyakE": 1794402053.7307801
 }
