@@ -36,13 +36,6 @@
 "ts": 1794422295.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlRWM1JkZFR6Qy1vb0dDbkhqTHRsd2FIaGV4SUdSWkxITF9ndW1UNExHR2IyZk1uV2JjMU5XVndQRUxMVXI0d1QzV3ZfZkNYQVhHOEZueDEzb3ZWaDVwYjNyV3BvZnJpbGVQeFl0ZjBxNUxzdzdORWFodTBDSGtlQXBHaXAwc1pUMEMyeEtOdHhZdkMyYkVxLWYwR0FlTC0wWDNGck9HNG11b0NMN3NMbHVWcFlsTUlUSXc?oc=5",
-"src": "Reuters",
-"title": "European shares log record close on Siemens, CoreWeave-fueled AI optimism",
-"ts": 1794419588.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/idees/article/2026/11/11/blocages-d-universites-la-liberte-d-etudier-est-aussi-fondamentale-que-celle-de-manifester_6809022_3232.html",
 "src": "Le Monde Politique",
@@ -76,13 +69,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
 "ts": 1794424849.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWVES0JyeHd0dnVWZ19jcFBEeXNmdHRXVUxvXzZhTUVYdWFuR05OT1BkUlpORDBUR3k4UlBtbjU0a1ZSRFpJZnZUeFBWdkFiTDVJUzEySDYwSVh0X2FtbE1STC1tMzBQazhEVTJtVjZGVEpvSFFEcmJiX1VZbWlZWjY2dw?oc=5",
-"src": "CNN",
-"title": "Voter polls: Election 2026",
-"ts": 1794419180.0
 },
 {
 "lang": "en",
@@ -3268,6 +3254,13 @@
 "src": "CNN",
 "title": "‘We did it the old fashioned way’: NC Dem flips +16 Trump house district",
 "ts": 1794547591.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUExDUDN4b2R1NjdzUjQ3aE9GdlktOXBHR0Mwdy10WGlteEtGMVY2OXdDX25BY2F0VFdWX0JOZ2UtTy1JaGs5VHZZVzlPcmdubGR0SVZGU1dRLXQ0SjhvaXZmU3Y5UV9aRzlKNTBfMS1uMXMxM1BXaE5YZzhLY1VBOTMtcmRfai1xbjQ0WVJrSlRVQQ?oc=5",
+"src": "CNN",
+"title": "Darth Vader’s ‘I am your father’ lightsaber sells for record $4.87 million",
+"ts": 1794549393.0
 }
 ],
 "seen": {
@@ -4021,6 +4014,7 @@
 "CNN|CBMikgFBVV95cUxON1pYX0FiYnJXVm4tV0FZcGhMb0V0Z1hGQW9HUF9yNjVfdUFBQ284Uzl6MDNjbXo4MFktbmJYaE51NFV0NzE0REk2dTlNRmR1TzFGbzBZLWtldWRfSkpjZDVGRHg1SUo4ZEk1VlM1dUYyUzZHZHBXZ2NYdnFZU1RuTW40M203Y0ZBdjgwYnVGdnN0QQ": 1794494728.2553887,
 "CNN|CBMikgFBVV95cUxOQ3k2cENCVmdkcDNrVDQtNEpyc0RGMHJpeFYxc1ZHU1ZoN0JORUlvbVVMbnh5Z3RqMFZMVWY0VnFuQnZYVnlOclgzVVFMamxZQ3dyME84alFKb2JQZlBWZWg1QkpFam92S0NOaVp6M09IYjY2aVR4eHVJWU01b2kzQ3NlYjlQbVRELVF1NGhTZ3l1UQ": 1794155438.5656717,
 "CNN|CBMikgFBVV95cUxORk41REZrRDlVWjg4N0pXV3BpU1lndG5kRXZ3X0Vfd2FORXFEZDRmMzFOekNqTkR3X1hsa2paczJVSnpMNGk4RWlZdWI0YkxZQk5HX2dzcko4Z0taeWFod2lLRmpJQzczOFF5RDRHM0RCYll1a1d5M0U5eUZQWGlZSXB3UG04LXdrU2hlVFZlZHA0Zw": 1793981730.92988,
+"CNN|CBMikgFBVV95cUxOUExDUDN4b2R1NjdzUjQ3aE9GdlktOXBHR0Mwdy10WGlteEtGMVY2OXdDX25BY2F0VFdWX0JOZ2UtTy1JaGs5VHZZVzlPcmdubGR0SVZGU1dRLXQ0SjhvaXZmU3Y5UV9aRzlKNTBfMS1uMXMxM1BXaE5YZzhLY1VBOTMtcmRfai1xbjQ0WVJrSlRVQQ": 1794549638.9427633,
 "CNN|CBMikgFBVV95cUxOcENpck11TW45cmVGaW1jQ1RlRnZaR05aVTdnQ1Jzdm5HRG5faXZUVjBDV0o1aE1DVDdJSFN0NXJRNjVTdlJocVdheEdmcm5JbWJmWk1xZEpOaEtnWnl6cm9ZU2tCQ1BHaUdKZkdzRGlHSVVMVWVlSTk2R1ctenU0Sko4Q2RMYlIzd0ZvSlFsRUlnZw": 1794318331.60005,
 "CNN|CBMikgFBVV95cUxPSG8wRkRPQTZyN3V6cDlIZzF4amU1WjFXY1FHZGUyZTh6dlJsZXdjTFZGSW9kTllHbUU1RE8zRy1RSWtYTWdYVEFBUUtyT3pVYjNCTTBIeERIMGwzeWhwU3NmY28zdkMtLUlNelZkV21KMUtpVk1xMHNUUHhZR2JrRFE1RGJTdTFxc1l6M01BbzR0UQ": 1794298528.6267712,
 "CNN|CBMikgFBVV95cUxPV1FsSGlBU2VGYlhkZWxyaHhMU1JCaWRqQWFzNXRaMFFVdWZjWWY0ZXI3MkNlWWRTbVNwaktEVXhGanNsWVpVMlh2cFhBN0NYVzIwakFnR1ZOekF2ekl6ZUw1M3lURTBHSjVHNGN0a0NvQ1YzXzdTZ2NKX2llWG5uTllvVkdEVy1LdUtYckkyVVdpdw": 1794416446.9049873,
