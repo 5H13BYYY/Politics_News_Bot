@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjBRa0Izc2x0QWlCTzN5VDd0ZTlvN0VNajE1ZzdWYkVMaXB0VzBPV1dvSXVhV0hMQmtmNFFwYUFwQmR4S21FWm9mUjNvMnBoQ3htb3Njc01wc1dNV29McWNtRldDenFqN1VTUl91b1pwY0tiNXhhZWdsTE1XNnkwMng5NjdrbHo0Z0tGdHJOZw?oc=5",
-"src": "CNN",
-"title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say",
-"ts": 1794425586.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/actualite-medias/video/2026/11/11/christophe-gleizes-plusieurs-personnalites-rassemblees-pour-soutenir-le-journaliste-detenu-depuis-500-jours_6809026_3236.html",
-"src": "Le Monde Politique",
-"title": "Christophe Gleizes : plusieurs personnalités rassemblées pour soutenir le journaliste, détenu depuis 500 jours",
-"ts": 1794425710.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWlUTWVZYVJ4VHpUd3h2TWRQcWhVSzMwX1JQWTBRUDM1Slo3THZVd01ZTUlETU9vSDJ5R2hnWnFIMHNLcmlnSnA0UHA4UFUycWw4NmRBcVpsbVpvN3E5YU9uRmhOdUQxNFMyejJkSU5PbEcyYjRLbVZqQS14RWJEZHFCa3RlMFNrOVkwYTktMA?oc=5",
-"src": "CNN",
-"title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-"ts": 1794425953.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/videos/ckz6qx8zdg2wo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "How would you describe your ethnicity on the census?",
@@ -405,13 +384,6 @@
 "src": "Reuters",
 "title": "Stocks end higher as CoreWeave results ease AI spending worries",
 "ts": 1794442106.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84UXJwTlo4WGdzeXVxd2FMa0hZMHNDTnR5NDFjdDJhT3hJc2laNHVEM0hKVkJseXN1ZlVvYkh2ZUlSd05vbmhHQkhjOFlhNm1USjZKTzB1X0lXRXczOGgwTXdzUXY1amM?oc=5",
-"src": "Reuters",
-"title": "Polish right turns out en masse for controversial Independence Day rally",
-"ts": 1794426197.0
 },
 {
 "lang": "en",
@@ -6253,6 +6225,7 @@
 "Reuters|CBMizgFBVV95cUxNaXdnTEpyNG9Xdl93aVotOWpscXVpYlRtWElQOF9HcWY4RUl6V2hMbkctZHlhMFE5ODJrQkNkY29hNGtLb3J2dG54d3Y3bm9UcDNMbDZFRFJMV0ZpMV9HazQtYmVUV3Z5TTJ1bmYtQllqRGJNLWxZcWU5R0ZoVEhJYm9SZ3I2ZzFGU0d6b3RVRkYybVZyb3kxMlBlR0NKRW1KTHpaNEJYMG9wRFdmWTh5THpEUUpDMTB3UjFCVjJ3bGgzMzRHTGwwbEtaV2dlQQ": 1793969130.7387803,
 "Reuters|CBMizgFBVV95cUxNeU9Cem45RWNaM3U2NXluS2xqZGxKbzZPX2dDdlFmY1lXYWlJb3NBcUt3eE02Mm5qRkJlNHZqMjBLZ0ptZElWM1B0ZmUzXzVCVDVBODVmNTdKM3ZrY2hxeGdQTHZqWklWSTUwZzl3RVdZQUZnMG10UElJaGVzQVY2TklROW94UURSc2ZlaVZweVNxdWFDV2VzazZYYVU0VEdORkdVY2RHRkxNWXZVSEEycFNzeTJyUWxjNDBQQ2NMdm43UnYxaXhVZzZ5dmlfQQ": 1794220236.6689725,
 "Reuters|CBMizgFBVV95cUxNem5XdHRwM1hRS2szbHB3V0ZZLUpBSFBnSHQzYkpzTHphS2FZdktJM3BxNzMxcWV0WmN5QW9jVGtYVGs1UW95dllhMG1IMlltNFBKTjZEZzNsYVpRS3Ztc1dJYkZTcmV6MVQ2ZE1QalVtZWloY080N21hTXZUdkJ1bFA2TmlVMmVjeWp4a0RLZTBCVk1ORFRXUkNkbDdCNG9rU3pYN3MtRHRhMmF0Mm80YXlsU0h1MXhuRVpENkNvUHRxZEF5WVEyMmF4MTVGdw": 1794221130.534577,
+"Reuters|CBMizgFBVV95cUxOSU9MUk9vWldOQkxjOU9sRk1tTEhqR1BfM21hYkk4SnF6RUVta3k0MzJjWXlteU5mMkZNcUlCdmItZmVFOEgtNmJsTmJaME1WdmJIQktKa3AzY0VNcGU0YmdHV1Z1eGl1eUEyckhwVDNtSzI5eldTbVRVX01FLUUyczB0OHdMakM5aFFpcU5jd0ZOTld6djlUdXRTVk5Iblo5UTY5QnoxTlNjY1FYcGIyUXJFeEpiNFFfS19xWGZoQzQ5MnJPWVp5NS1HR21MZw": 1794555928.6005783,
 "Reuters|CBMizgFBVV95cUxOajBjUkJzUkpMQjZLck00SEljVmF6U3lRNWRVY3l4S2RpdDhJUVZHY2tmTmNrbE85VFZTQjdWU0ZiU1U0Nl8td0haRzdKOVhEYWRjMFFKaDhfbVE2NkoyS1dOUm96czBjSmlhdmJzcTdVSk1oUzZqSW1UQzZFR21zRDBlOWd1V0oxRk1ObUVlYlVjT0RfOFhlWUVZM3R2ZGh5NVAteWY4RGdfcWdqYjFaaFJnRDJOUTFZSmx5eEZ0ZmFrYVpyZ1BUemRHM1VvQQ": 1794507330.2534726,
 "Reuters|CBMizgFBVV95cUxObUg2YmVFRjM2azlnNDFSc0hYQ0FRaGFYVFpkck9hVjkzVFNNaHFGQTh0VUNzWTFkcUo4R215d25XTzNNcy13ME9JTHZ3V1NBcEduSVZNd3BFQXpNU1NlbG4zVklVMDlCbFdyZlg0dUxyZ3U1MmlpUF9ULVl3OUl1UUpzOWRjQWJxTTVaRll1VC16dkQ5SlIzT1dFUVdfNmxOZ0VRR0lpWXVUM2Jjc05SMjRwMjNZVlBQcm9QT0d3ZEp2bjEwVXo0M29WM3R4UQ": 1794457835.5806527,
 "Reuters|CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw": 1794361531.6724212,
