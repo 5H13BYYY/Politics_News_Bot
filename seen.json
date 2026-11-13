@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGRFMnliMEJId3RPaF95aXg3ZDFYUG9BNWhLLUViUVBtZ3R3SGtCLS1rSDRrMjJsLVVKMmY1OW5FNEdQaDFTUTdTbWw0Vm1ESy01TUFLY2JteFpXSjQ2YmZwMjB1NG5sZkpMM2JaS1pjZjFxMUtmWUdEMERuVzJpSk5UQ21TeUFseENiSk5rZjV6S2dsTW01VW82N3NzbnRtcVphYzBLQ3c2R3NOaXduaHJsalFwSGRNMkZoYk1B?oc=5",
-"src": "Reuters",
-"title": "Indonesia's vice president has resigned, three political sources say",
-"ts": 1794401766.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/idees/article/2026/11/11/presidentielle-2027-que-la-constitution-soit-complexe-a-reviser-ne-donne-pas-le-droit-de-s-affranchir-des-regles-qu-elle-impose_6808972_3232.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : « Que la Constitution soit complexe à réviser ne donne pas le droit de s’affranchir des règles qu’elle impose »",
-"ts": 1794402008.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
-"src": "Le Monde Politique",
-"title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
-"ts": 1794402009.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMGo1dDh5SkotMFpDQkJablBQUFZwMjVZNjNLc1BsQmZTSnJZel9hQ2ZKUHNiTWlLQ2RidXZUQnI1YllVMUpHelBJUE1fRTZOd2VINTU4WnJvaUU4aXhsc1pHaGE4OGR6aG12ZzRDUUhzLVh6SVFhUkt3alUtRms?oc=5",
 "src": "CNN",
 "title": "How each House member voted on the impeachment of Pete Hegseth",
@@ -48,20 +27,6 @@
 "src": "Le Monde Politique",
 "title": "Vincent Caure, un macroniste de la première heure à la tête de la commission d’enquête sur le 17 octobre",
 "ts": 1794403802.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRsYVRlNklFZ3F6ZHQxRVBuUGMzM1JTUDZGWF9FclJhbDVHakhVN3FoRHFoZmFDTDFYMV9vWHhCR2pkWS1CNFJrM3BzejM4MmFWYXhwV3ZSRUVSVkdVcDBCUUJCdlM0RG1CVGtyWTlUOHpHQ0pBMlVuZzh6dG5TdURjbkhLeXl0NG9wNmhQcGEyVWk3U3JLYTF4Q05fcmRYc2NhX1dwN2I1dw?oc=5",
-"src": "Reuters",
-"title": "Russia's bear attack death toll rises to 35 since spring, RIA reports",
-"ts": 1794401623.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5",
-"src": "Reuters",
-"title": "Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states",
-"ts": 1794401837.0
 },
 {
 "lang": "en",
@@ -545,13 +510,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : comment Emmanuel Macron a adoubé la candidature de Teddy Riner",
 "ts": 1794418267.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SEVJNnBoR3J4dDAwWm1Jek4zWlo0VVg2SUFsSWE0U3ljZFAxYXZpRzQ0R0I3czJOMGJrWGtPY05lenhfTFBJVUZ6SkYtN0lUckdaZ3hiMmFWNDIyRU16TnhGd2xVM3c?oc=5",
-"src": "Reuters",
-"title": "Kenya counts down to official Ebola-free status",
-"ts": 1794401775.0
 },
 {
 "lang": "en",
@@ -3646,6 +3604,20 @@
 "src": "CNN",
 "title": "Lutnick faces probe over handling of firm at center of Nvidia scandal",
 "ts": 1794530540.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlMtZzUxWkhvOGh0UkJNV0lGSXJpV1dRa3liRFk1ODBMUXJEbHpoZUF1d1VheDdUeTlqVzJweGhqQlFMaE0tUm0wanV0OHkxT0FkQjhrSmxjYkJLbHFIRlFCeVZ0Z2xuV2YwazY3Z3FCOXRMVmhJbTNUU05xV21MeHdJNXJjLTBSR1FpU2lIamZDSkp6dXMzRWhzRV9lSjdMQkduckFzVU1oUzdJRG81dnBDaGVxVGUwUkozYlBkcDJQUQ?oc=5",
+"src": "CNN",
+"title": "His mother fought for Myanmar’s freedom. Now he’s fighting for hers.",
+"ts": 1794527099.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XMnVManFrRjVOSFNmVmZGS2poVHJteV9nWGYyZjRjMjBNaGNsbFpZemY0c3pnMVNTWWZLR1dIa0QzTWxiQjFocHEzeHE2aUlSM0Fjdi1rNWR3d2RuUk02MUFZb0thM2hfSWtJejRTanBMX0pPMVZKOHRR?oc=5",
+"src": "Reuters",
+"title": "フアンＣＥＯ辞任の余波どこまで エヌビディアの次のトップは？ＡＩ投資は？世界経済への波及は？",
+"ts": 1794531007.0
 }
 ],
 "seen": {
@@ -4825,6 +4797,7 @@
 "CNN|CBMiwgFBVV95cUxNTmY1NEhsYktiMGs0aHg2aFZENnBOenRDNXc1QThyZ3hqcERBeXF3MEhyT1FFYXgyZnk1Vk83UVJuUUEtSlJjNl9Td25SQUJ4T2tZVXZMbjBTUklIMmg1eFhMNERzSHZCdkdJZF9xV3J5SnFiYVZiOEN4cERzWGpuUUZBbktYcHpJbElMQnZPeGVyRmVLbThTckhGNmppRnBjNHpicVY0QmZGazg3WHFPS0xFNlZBRk83elI3Nko3MnFIdw": 1793940326.8237913,
 "CNN|CBMiwgFBVV95cUxNUFN1WXc0amZIQXpjVTlFUERMZkEzcFVtQ0d3NFdaRk5kbVZ2SVdycGlVWk1PaGJNaW0wR2dITjdtS2padDI2dXE5LUx3Rll1TVZIOTF6Um45czVhN2Y2NVpBOWhEZUhtMU1DZVRtMEM1Y1JFajBSX2ZBUDlzdGVHT2lPTDVaV1duZF9NZ0dHbEZSZGNLR0I3R3BtM3dBbjY2Vk5rcGtucE1jZUtrRnd0VE8zX0VLNW9ubl9HaE5QWTBhZw": 1794286842.7872272,
 "CNN|CBMiwgFBVV95cUxOVGZ1VUhrc3VnbDBDR2F2VS1kWC1SdWNsWlBRSEZpaHlMR1BWVWdKMmpNbklnS190eGdzVGlHX05jbmVzYWZTbndNQUxfZWVISE9icEJXVTlOMnp6NmtCZlNrMkF1RFpsbjhPUVg2SkJfb1Q4WWUzTVVhdThmd1BjSnRTdHE0ekNwY3dmcV9RTzBsTTE5MU85QzI5NU5XMElrY2tFdFhidV9SQzBvSTd3dXk0bDJMYmRpSHJfM09lb3JoQQ": 1794448840.1466913,
+"CNN|CBMiwgFBVV95cUxOdlMtZzUxWkhvOGh0UkJNV0lGSXJpV1dRa3liRFk1ODBMUXJEbHpoZUF1d1VheDdUeTlqVzJweGhqQlFMaE0tUm0wanV0OHkxT0FkQjhrSmxjYkJLbHFIRlFCeVZ0Z2xuV2YwazY3Z3FCOXRMVmhJbTNUU05xV21MeHdJNXJjLTBSR1FpU2lIamZDSkp6dXMzRWhzRV9lSjdMQkduckFzVU1oUzdJRG81dnBDaGVxVGUwUkozYlBkcDJQUQ": 1794531641.6223161,
 "CNN|CBMiwgFBVV95cUxQM0Faa3d3X2l6TTl6UjRnZ1I4QWpGUnFBbTJyUzMwN2FFcW51UzdDZWZnamdiMWxpd21sUHFjM05xYnFwTEtZTWNONTQ3cGx0RDQ5RkNYeGFrclFNb1U1YmNmQ1g1Vk9OSXluSVZLY1Vuc0FlWVlkTXVnb0c5ODcxbHkwcnhhMGF3M3htVWhXVHhNcUhQVzVLQ3JqMVJtMV9zR2o2U3huNXV0NXRsR2JXdnRqbGFobXA3ekxsNGotMVEzQQ": 1793988928.348944,
 "CNN|CBMiwgFBVV95cUxQaVdEVHhJRGZOcFRuWnBJVmdfSTY1WE43b28wVkVTZzh3ZFFMZjFqX3FRLXlzOVpUWUtRVmxvY2t1aE1lQUFmNi1TMEpSOHR3V1dNRTRudFVrNXhGRmNQdVpQd1hXMnBtaEZuMkUtbUpCV01DQkZ6RC0xclNZT3V4MzZldFEtQjRkclQzSUhmU0ZIMG12OU9UczlWcTd3OV9ndE1ycmdOZXBUT2RseGdYQTZaS3pkWnBmaTNXRm9Ib2M0QQ": 1794356129.5657432,
 "CNN|CBMiwgFBVV95cUxQdDZhc2lMRWtDVXdMQ204eWpFOEZaZ25ZOXd3MzNKQWxSbjE5dDkybkpvODF3ZkRKTDNRT0FHcE1GVTBXUW40WFlVU21OOXhsZkNTcnlQekZ2VGFidmNFNUNaM3VRckxrai1HR2hqbWVUbUFtc2ZkQjVCWGlGcE9fM01KXzhnUWRYN0tETTd3SUhWQ2plQk1oek5jYXJxT2xmNWFwZkpUZWVqbmUzQmN1SXFXTVVfQ2xRRHdpQnhpY1ZzQQ": 1793993436.3319495,
@@ -5849,6 +5822,7 @@
 "Reuters|CBMiekFVX3lxTE1DaHNORndLMldvUFJhTHJfQ0FPREhCVUhocHBoWmdQaElEQlUxX3BEZEl4dHByUVdhM21PTWJCTmN4RzZvMFBMYXNmRWJUM0VUZWRRYUFScTQ2ZjFBWWhJX214ZkUtQ3dtaDhMX2E3amNQSHpkRUVUbVF3": 1794226538.3709297,
 "Reuters|CBMiekFVX3lxTE1Oek05Xy11UlZ2Y0pSX2l3MGV4UmRWV2RWbFRLNDUwN1F4d0Z2TUNEdTJBczZWZjdSZHNoUk5wSlIwbF8ycVlmWjN4aTRrcU80N2RLOEJCYmtfSTFRTXUwcXNKMV81R0JPYnUxazNnQXBRdHo2emVCWUVB": 1794433530.6685166,
 "Reuters|CBMiekFVX3lxTE1QOERSNno0MUMwUVY2aGtWOUlKOHMzalZwNnFtQzMxUVRVSU54YWgydjhkOF9JRGlhRDFDdVpjT2Vlc2lxY3RDOG1yaG5vRXlXeG9SdG51ZzctRFVXMmdpU09YdXFLYkhKLUVGMXF3eDBQbnVScDlwM3dR": 1793946637.024797,
+"Reuters|CBMiekFVX3lxTE1XMnVManFrRjVOSFNmVmZGS2poVHJteV9nWGYyZjRjMjBNaGNsbFpZemY0c3pnMVNTWWZLR1dIa0QzTWxiQjFocHEzeHE2aUlSM0Fjdi1rNWR3d2RuUk02MUFZb0thM2hfSWtJejRTanBMX0pPMVZKOHRR": 1794531641.6223161,
 "Reuters|CBMiekFVX3lxTE1hZ1o1YWhKUTg5MV9YWnRPOW9rSEhzSWRHbjZCemJmdUdKbWpRREFQMENFc0NyM1RBd1NVRG1uLS1aM1lweXYyeFhGRlBGM04tYzNLTHN5RXB1d0JabTVJSjRfYUtlWjNrSlBZU00wa3hVXzFIclFVYmZn": 1794277835.6574578,
 "Reuters|CBMiekFVX3lxTE1qMGNqaHcxRjlldjZzTWRadHlMbVl6QVM0Umw4Z0NkcTljUUlzMGdIeDdXMlFFUmFNU3V2dm82RkE1VkpRX0pRMS14Q0ZCbjZZS0tqd21lejhscVZ5RWlBcXI3czNvcVNXMk0zNGYzMDhVM2VUVFNvd3dR": 1794345332.7530034,
 "Reuters|CBMiekFVX3lxTE1tdlFBSUJSUDVQaHRqSzJaamtRVGxsVktCNlhiQjdfRXVoZTc5ZmVkVURZdDFJWTdBTktnOVBXdlJBTVdnU0VhT2hiVWNWTkRoeGx1cEdybjZVaVhSYnB5RThjeUJ2UnROM1cyZ2tYa2s2UGN0WFBweWRB": 1794254445.0941312,
