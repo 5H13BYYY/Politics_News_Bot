@@ -23,13 +23,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHA4cFhlLXdNVWZockRUMDJnc3ZHaFJ1bFQyUWY0enBpNUJsLXA0c0tMSW0wbFItZE80NmtQOWE3N2FIYnFfYUVMYzNKby1ldnNiVHQxTndUU3hCLXJOcDNuRE5LWWpGWUxITkdJOUF6V3M5YUJXbEZpYWdBQ3pIdGpSOHNsUXhWZ3BBQ1pDVFJ2NjYtWXFPQXFGcFlMNXM1eDJRbVVXTFM4SE5Zb19IUEpwa280Y1dWMGJtOWZtNHVBUQ?oc=5",
-"src": "Reuters",
-"title": "Credit Agricole open to selling fund manager Anima in BPM deal, sources say",
-"ts": 1794417818.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3daRUlqRDl6MHVCYUhiS0tlUWV3d2xOX1BLWGtRazZCaVE1RWVqWDdoTENEX04yc3doSzhHM0wzQS1ibjd6cC1QZFoyaGNUVmY4bzlfcHdkX0dSVEpXVmQ4TTQ5RE1sWnVPbWkwb2ZWUE1fSWdVTkpTM1BjUFk5XzExLURsSUlQMjlvcERJQ2J0Vno5SlByRTBBMGFhd3RmdHRMTVBxMXV0b0pkOW1ZTXMxTVpLQnY4SHNSMW5Pd2ZFaUZZY29TdF93?oc=5",
 "src": "Reuters",
 "title": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
@@ -62,13 +55,6 @@
 "src": "Reuters",
 "title": "European shares log record close on Siemens, CoreWeave-fueled AI optimism",
 "ts": 1794419588.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY29FamczaWh6ZWZtb2RLMU9XMVpYQXJVbC1PQWo0X3dCckpoMzUwSTlNNFpjYnpOVnRvY0lUalJERnJNQVFzbmRPcVFyVXFjQ1ZuUFZyMmw4dldiaHBicnNSWXRxbFBFOUkteG1mOVNIVFJlakVwdFl0ZmxfN3J3R1pOcTZuQTk2UHN6Y0ZaUjRTUW11cVdaMjRlREs3OVB2OUYtaGVLQmc0Ri1ZNktWSzdWaFc3WENXT2lmRXNJc0FvVGlOMzBHTFhERWQwelE?oc=5",
-"src": "CNN",
-"title": "The Situation Room with Wolf Blitzer and Pamela Brown",
-"ts": 1794418162.0
 },
 {
 "lang": "fr",
@@ -153,13 +139,6 @@
 "src": "Le Monde Politique",
 "title": "Christophe Gleizes : plusieurs personnalités rassemblées pour soutenir le journaliste, détenu depuis 500 jours",
 "ts": 1794425710.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3ZncHRaMHVGNk5xT1hNdUFkQzh5dDkzMHM0OUtfd2JjM1hzNUJfaHh6Q0JfUlY1cEwtRm5ZQzFsS1I4VWcxVzZ1cFF6VE1XSVY3Ukswc1Vac09sUTZRMmdVWVdoVEZTMGk5LUN1Qkh5TEV0SG9aSmt2UDVCd3k5cUZqQW1SQm8?oc=5",
-"src": "CNN",
-"title": "J.Crew sweaters, Columbia coats and more are already on sale before Black Friday",
-"ts": 1794418200.0
 },
 {
 "lang": "en",
@@ -3296,6 +3275,13 @@
 "src": "Reuters",
 "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
 "ts": 1794546180.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWhKcEZ0bFI5Y2VrdTJrcElqTTBvZ2t3SFpxVmZaamQ4R0pqOVNBaUV2UDlvc0Fld09Ed29la3BUYVh3aGNiNzlFbVVOZFFOUFpINjhQdW03dkMwdU5LZlQyRV9WejFucllrVXJyOWFySlZDb3hwWDY3OW5GR1pON29EZF83REYyaWFjZDMtcEU4ODQ?oc=5",
+"src": "Reuters",
+"title": "フアンＣＥＯとアリス氏の親密な関係はいつごろから？ エヌビディアを揺るがした2人の接点を、写真と映像でたどる",
+"ts": 1794547479.0
 }
 ],
 "seen": {
@@ -5654,6 +5640,7 @@
 "Reuters|CBMikwFBVV95cUxPbURkdHI5WFI3cEhWSUs1VFltLWtYZW9iRHBSY2xCQ3VjNmhlQ1o2dlYxVlpmeDVmZGY4Y3Zyb2MwNjVpQnZPN0lqMi1xYjlXYVNoQWpIMUxmd0JtZkhtVmtwSW5YME1Gb19YZjdYMURZeUhVTE5SNldfVUxBZTAxaUpRa3AyLXZYSlpUbzBqUmlhU0E": 1794189643.383181,
 "Reuters|CBMikwFBVV95cUxPcWRNU1c0UVlwM05aZjgyS3F5OC1iRlFKTEgzSURMN0RTOGNyd2EzNnF2R1NuZS1wUmtVd19LSEgyaUotMXlja0FsaTh6NUNuNTVwZUdTTHYzYkdQMkdFcXQtVV93QUtPTHlIcTFxVXljVFEwanN0amV1QWlTR3BNcXJMOXZoQUZxTUtWdTZkMThIQk0": 1794204043.4123511,
 "Reuters|CBMikwFBVV95cUxPeERCVzJNeUxEakdOaC10bE9jRFp3UHRQV1VydHU1SjJJQmJmT0Uyd09pYlFxTUtVSFFpdkRsVlVHYnlJVFFsUFFTOHFCb2VTTVRSY2ZuTDkycEdQT2h3VWdrMVJ0eWgyTWpYNnhPcUI5WWFPN1IyUXhsUWtkellpTXVtUmFXUFhDV1FnYWVLXzVGZVk": 1794294042.5556588,
+"Reuters|CBMikwFBVV95cUxQLWhKcEZ0bFI5Y2VrdTJrcElqTTBvZ2t3SFpxVmZaamQ4R0pqOVNBaUV2UDlvc0Fld09Ed29la3BUYVh3aGNiNzlFbVVOZFFOUFpINjhQdW03dkMwdU5LZlQyRV9WejFucllrVXJyOWFySlZDb3hwWDY3OW5GR1pON29EZF83REYyaWFjZDMtcEU4ODQ": 1794547836.935659,
 "Reuters|CBMikwFBVV95cUxQMjB0cU5QaGZUTENKcDB2ZmNPNjJlQncyM0lKbFBpUTI2aS1jdjAyR3FxUHJ5Zmg3VHpBZm9ITEtUZUxIS1dod2xNTFJkQk13SDVnSFFnOEtCQWFSa0hqbHZ4RG5KX21SMUFPX1lCSkFBNExoMnlmSGszbTV3TFZrOVVIT1ZZSDdJa0prU2VBR0hyRnc": 1794377730.4564142,
 "Reuters|CBMikwFBVV95cUxQRl8xT0RfTG1mRDYtbUIzT2dVN3JlWjBtRDQ4NDMyMGRER2V1RUVLLTNwZWtUeElPN2RFbGtpZHJheTliYlQweG1LTFZDZC05RDdYdExKZDZaUEZjVGxUSUJuVVZ4SHJnMl85NkowSUdhbVllSTBSMUpYYThiTnRJV3BQY0hYa01BV0NvOGFvZE05d0k": 1794440728.4818327,
 "Reuters|CBMikwFBVV95cUxQd2swNjdDOE5ReXAwZ1I0Sm5XLWtSSUVDOWZZb0o1Y05SczBDZ1JDWDJUc29EMU5rQ0h1TmlXX1hrdE92eXR2dlZONlF0OGFETHdOOUFCTVdQMGJnRkotZnJ3eXBoZW1nbk5zTmdxcjM3N2hZTk9wX0JxNFpqRlU1SVl4WVdUQW50cnYzSEpldXdOdDQ": 1794286842.7872272,
