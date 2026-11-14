@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUZrM3BkeGkzU3J6aWI2OXp6NFRDRS16OTM2Q2hVc1ZsMFhwOWRTLXg4MEtoTkpvRXFXNFJ6SC1fbGw3QWdWYVhvallTaDh1Si1WWmItQ3dZX0NhM2RENVpVc1phTjgzc1F6cmlBR3NaazRQc2RORklMUDhxN2tlTndTaXRPdms1M3h4YjJYUXE0dU43ZXd4ZVRoYk16T2E3Y3ZBMDZCeWhyZjljcThFRndLcUVoVUkxdHJ3?oc=5",
-"src": "Reuters",
-"title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock",
-"ts": 1794565128.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTV4UzMtV0l4TzBlR2VWeC1adUZidWc4RXlBWXJJLUVVejlZZ255ejlMNjV4RENTWlBGek5iaWF5QjYxYVB3RlhoNlRIRV9nWF8tWGNUUGRveTd6Yi1OQTV5RkhtUmt1OTQyZkFaSF9aOWpfc3Q1blp2QVhpTlVMTEV4NmZkdUVpLXUyTXBWU1licmVMaXRZ?oc=5",
-"src": "CNN",
-"title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
-"ts": 1794565103.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
 "src": "France 24",
@@ -76,13 +62,6 @@
 "src": "Reuters",
 "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
 "ts": 1794568264.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261113-derri%C3%A8re-l-image-en-colombie-la-communication-controvers%C3%A9e-du-pr%C3%A9sident-d-extr%C3%AAme-droite",
-"src": "France 24",
-"title": "Colombie : les dessous d’une communication présidentielle controversée",
-"ts": 1794565735.0
 },
 {
 "lang": "en",
@@ -331,13 +310,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWJGQ2F3c0ZFM2p6SFpiSTlHZE9KMVhKRHNoYkRKdTFNQWYyNDh2cjNKbnM0bVV3dFg0NjV2MGE1N3BxNk0zenVZVkdReWJnV1FDUXhLb3lMYjNWektrU0t6bWNQVWFSUWp3NXdYR1pfQThhTHVpclVOMkJuelZyLS1qMFVhX2RNZlRGWnN1S2JQdw?oc=5",
-"src": "CNN",
-"title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
-"ts": 1794565103.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMTZjWDQzbndMWFltOVdFeGx2YUxUQnZ4Q0ZUdC1QM1M3WFB5ZmlnMWpua1BFcl9wVXU0QkpidlhTS2R2SXBmVWNCWEhkdFFhWTUwVWxaZndGSEotNDkzZFpsU0NMN25rcS1RZ1NubDFrZmxCbW9XSmRlQk0yYmx5Uw?oc=5",
 "src": "CNN",
 "title": "Autism took away his voice. He wants you to know what that is like",
@@ -412,13 +384,6 @@
 "src": "Le Monde Politique",
 "title": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
 "ts": 1794580034.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTJYMWdEVHFDV3FURUQ3RmpMYlY0UkV4a2gwZ3lXa080ZnBKZGdtakFaUk4xejFRNWRaWm43ZE5SdWdjcDR6VFU5ZFNxc2RvTmtPbWVoQ1g4WlRHZjhuWVBzUnBWOGQ1QjhXWlpYN2pDeTByQTlSWmNHbk1PQTdOejBSMDlNUkhpdmktRl94b0JpbHhRSG1oTjVHaExQMnoxUWo2dDJsaHZCV1J4UEs2NHBQaVU?oc=5",
-"src": "Reuters",
-"title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
-"ts": 1794565615.0
 },
 {
 "lang": "en",
@@ -4019,6 +3984,7 @@
 "France 24|39008720-dd58-11f1-93af-dd6bacf30e9f": 1794351642.9954333,
 "France 24|39a454e0-db50-11f1-addc-590c33069b25": 1794132044.4053762,
 "France 24|39cdb38c-dd33-11f1-9128-f5ab2328f389": 1794335441.4975138,
+"France 24|3a23c488-e077-11f1-9d80-319ec9b15393": 1794695433.661229,
 "France 24|3a296ec4-dd20-11f1-972b-df0309bed856": 1794330046.3339784,
 "France 24|3a406cd2-d9ec-11f1-849e-57277d33a762": 1794673836.5549464,
 "France 24|3abe2468-dc28-11f1-bfff-f33cab93428a": 1794230128.0095983,
@@ -4168,6 +4134,7 @@
 "France 24|86ee35e4-db8d-11f1-b196-6b4579809846": 1794154526.8130245,
 "France 24|8761c200-c0c3-11f1-8ef6-f76e46373e98": 1794661242.1113,
 "France 24|876dddbe-dfa0-11f1-ae66-31a5ca46cec9": 1794601836.3768063,
+"France 24|887cc624-e078-11f1-b0f1-e36b04d82a3f": 1794695433.661229,
 "France 24|88eceb80-e00e-11f1-a4a8-ef205f46f428": 1794651329.1227612,
 "France 24|88f4815c-dc07-11f1-90e7-b300c8e09a25": 1794207643.5373783,
 "France 24|89966c5e-dafb-11f1-954f-4b9d1cac2544": 1794100527.4087105,
