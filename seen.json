@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-le-livre-programme-de-jean-luc-melenchon-l-avenir-en-commun-en-tete-des-ventes-de-livres-devant-le-prix-goncourt_6809100_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : le livre programme de Jean-Luc Mélenchon, « L’Avenir en commun », en tête des ventes de livres, devant le prix Goncourt",
-"ts": 1794485220.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261112-rd-congo-ouverture-du-proc%C3%A8s-de-l-opposant-politique-prince-epenge",
-"src": "France 24",
-"title": "RD Congo : ouverture du procès de l'opposant politique Prince Epenge",
-"ts": 1794485398.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html",
 "src": "Le Monde Politique",
 "title": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux",
@@ -331,13 +317,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVhOYmRoZl9ral9naUExLWtRV1RCMzlvMFdIeWM3MEFsM1NDMENNMmpXMk9DQ3Z3eE1DY3RjUlEzRUVXbFlkU2ZxTjBuQ1B6dWJnUW93MlJUWnVLV3R2REM3X3ltTTAzdzVSU19jT3RkMkFVNDZqem9vUkx4NXdIbFMwRHBCd2hGbk9ISExrUlpILTVQb0ppS0c4SnpTTXBrRlhEakQ2eFVlOWE2c0xyVjdMa2t2OFcyUGgydHhPUXBMQQ?oc=5",
-"src": "Reuters",
-"title": "Baghdad's first Jewish museum draws crowds to rediscover Iraq’s Jewish past",
-"ts": 1794484903.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZktLTzhpRnZGMUNOa21odmN2ZDRmcjZpSzU1aUJyWVFzbGdIUjhfWDAzeGg0eHFUMGJOLWd2WVVBN1M2amhud3dnSV9HbmZ1eXVFdmR3cjVRa0drakdvMlVjUUpXUzFJRHNHM042N3NpT0pMSHhZRDBjSThiOXRISl9aVGJuVkZDdzZJQTZxTkQ1NlNOTUtrX1F5cmR4eFREazB5aG9HREpTMWc?oc=5",
 "src": "Reuters",
 "title": "Visa barriers push students from US and UK to Asia and Europe, global survey shows",
@@ -356,13 +335,6 @@
 "src": "Reuters",
 "title": "One person reported dead, multiple wounded in active shooting in Washington, DC",
 "ts": 1794498321.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjd0aHRnQUM1SEliU0pYY1JlV2oweWNBYkpNRkV1NjJobFcyYkNaaE85YVJUcG5NMXdyY2ZmczJUR3F1RklNNnctNktxcHRFNWxWbldKMjBIUnFHam9XOEp0ZWppZEpVVEM4X1BKbmxybXM5UTdxSEdkbjZOSTMtMlZlMEUtVmd2WFAwelZIQVZDSnc?oc=5",
-"src": "CNN",
-"title": "Pregnant Woman Among Survivors Pulled From Building Collapse",
-"ts": 1794485067.0
 },
 {
 "lang": "en",
@@ -3689,6 +3661,7 @@
 "CNN|CBMiaEFVX3lxTE9qd1QwbzVna09jQ2dRektRZVQ1OWVNVTBaenA5VElQNjZjOFIyVHdaMWdBbmxIanBjTnZlc0lWT3lQV1hQZ1lmem1XcEFpQkpZdThRN0ZBR0xkUmlnMTNBRnoyTFhoYjJN": 1794438040.705759,
 "CNN|CBMiaEFVX3lxTFBNRTZNZHZMZ1dwX3hfZ0txOTlqbWlVZTFhT1UzdFh3d0Y2b1lvTlJNMG1weWY2TVJtbGszRFJyOEZjT2dHMUVhMjZLaVd2OHhuSlJpekFGdGFJY1JQYUY3SzhYUjZSVy1T": 1794254445.0941312,
 "CNN|CBMiakFVX3lxTE12RUZCVjVCS1lINS05Q1g2Uzg2U2x1TVNDdTJ4TEFjYzlGZ3lndnl0ck56dWV0aFJYWkp3dEV5UGdZbU9nNzczZFVKQ0VldGhJcDhmY05BbUJJU1Utb0JmOWJjX0VHa29pNGc": 1794504633.6289053,
+"CNN|CBMiakFVX3lxTE9ZQno5cXpQUGhXX3J2LVUtcXNsYzc2UHhVOFQwelNESTNDREJlWV9ZUGt1SXNYQ1pkRXBqQTBNTGRGdXhzNUNGZVRPcDRQU054WW5FdVdDWVNaOVRjNnRkdEt1MkdTOHJUdFE": 1794615327.4113073,
 "CNN|CBMiakFVX3lxTFBHdWxqLW9seEZ3b0pubmJoZE1FY2xheFlMSzViamtnNzhCUnFYbjlWaFlQdkZHMTZmN2pNR0JrRlh0OVpsa05RVlhxOTFieXFlUjg3UTVfb0ZIVnZOQVVDVXlXZVpSMnFZSnc": 1794575729.3395228,
 "CNN|CBMiakFVX3lxTFBWTDRYY0wwSmlQazRXUzN1TlFVQnY1NThJSzloU25abVhBMllIWEVxdDlxcWVVT2htMFpTOTE5M3FVQnNkYzVUNEc4ZkhuR2VYSkhKWFN5eUItNjctU2g2VWRxYWlwMWNQVlE": 1794018636.4902654,
 "CNN|CBMiakFVX3lxTFBicWN5M3BHMnpSQkdtRndybXl6UjVVR3ZVaUJ4QTZCZF9SR0lkdklkZmZ5VVJ3dHUtQlNuWWFtU3VRM1ZZaERxSWxRaHNDOHhvU0JrallGRnI5blRZSHE4S1RrelpyTUJtUUE": 1794079838.2794526,
