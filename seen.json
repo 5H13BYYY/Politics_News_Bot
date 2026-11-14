@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3FkNERJRHo5eE1rWHlWOEZZRzVkdjZCdVpGWkJPamZfVDRwbmlOZF9GVGU1NWlpUFROM3F6eEhhbHZnQTFzYnNhTUJtM3VmYlN6V0MzWmhTdHp4eTU5VWVINXczT1BHbkM1UHJ6S2Z1dmFabDBtd0U0UDlMUHkydThjYkoteFU?oc=5",
-"src": "CNN",
-"title": "What's next for the global economy after Jensen Huang's stunning fall from Nvidia?",
-"ts": 1794569524.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUppMjBfME9GVDhOOVMteVNzZkNtc3JNNGtGV3k3U1ZxRGNsdmx4UlJER3V4QVg1Rng3MTZIM1VpZnNYbmU0NDNELWVvczJ1ZzZQeWx1UFN6YTMyN2cxMHU5UXhCUE9fUGM1MjVQUlozTzVUQnFCQzYyQXc4VmExRjhUSnpBajNMcmVodGlkRU9EUXFDREdB?oc=5",
-"src": "Reuters",
-"title": "COMMENTARY: Morning Bid: AI's no good, very bad week",
-"ts": 1794569798.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LaXE0SmdPSkNCQ2JoangyX1BZSHljOU9BNGVmbGFCZFJhRDNxZFRncDg1WVNTUTBCYmYzdk84ZXAyWGFqTVlDM1U0V2Q3SW5uV1JsaXdSd3pxc0pxblNUU2g1RkltUQ?oc=5",
 "src": "Reuters",
 "title": "Microsoft outage: cause unknown as businesses and governments hit",
@@ -2624,6 +2610,20 @@
 "src": "CNN",
 "title": "World Sport",
 "ts": 1794695947.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
+"src": "CNN",
+"title": "Zelensky: US floated idea of Ukraine swapping land for NATO membership",
+"ts": 1794699040.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+"ts": 1794699548.0
 }
 ],
 "seen": {
@@ -3488,7 +3488,7 @@
 "CNN|CBMilwFBVV95cUxQMXdCZ3paOWwweEM0Z0kwRUtMMXlwS2hfZzdBLW9Ddk1UM2M4QVZTLUw1alNVN3ViR1ZZZnRNUURGWF9QMm1RaUFGS2tMU2dKb1VKZ1I1aVg0SWZRQ3hTdlZpUDcwU0RkbnN5UGVfeDdwby1oc3dtYmxTV01OYjg4TzR0NVVSM2JLSlAwWEczb3Ewd3FoT0RJ": 1794361531.6724212,
 "CNN|CBMilwFBVV95cUxQVUVMbXBock5WRjNvN1hZM0VZSnZ4TTdqMEZiMnU1aFZ6TmVDb0dwNl9CRmZDVm1mU19lM3dPVy1CbjVpS0VTdU9vWGs4czcwdHQwX3gwMkJRaE1oSnlUTkFvamNxX1F5eENsbmVaWHlLVlVSTkZXbDFTQ0pZYUxpVXNxRDVTOUNOSTlBa1JpVUMtQ05wTmNN": 1794415527.5746453,
 "CNN|CBMilwFBVV95cUxQXzFLUDFFaFo1RTUtcEpTNXd4bEpMZ1RhdGVQZFdpVHR2bFRBTEw2c0lSbHdyU2NmNE04TlhiSWVjWEp3RzBONV9ZLXJQNFNlYnJEUUYwM1VFcGhJQ1gxWmNGSm9rS01ubHdOX2d2VVRVRmIzUkV6UDJBMV9aRkpfY09KZlozbXhIa2UwYjdOTFZ1b250OTZ3": 1794362441.1843257,
-"CNN|CBMimAFBVV95cUxNMFVWa2l2SkhZcmhRNmNwc1ludEZjakNMbktTaDdocWh4Ul9fQ29mZE40TTVqajhndDN5OHB4cUZtTE96WTg4UE00ckFLVkZLU09SMVVMZi1CZDI2NTFjUnIzRkhqeHZ5Ylo0ODZfc05LUEtIbXlzYkVoUFNxc2M5Y0NiNEF4MUJKY3ZCaHV6U3FHOE80dEF0Ng": 1794095126.8759794,
+"CNN|CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV": 1794699928.5639117,
 "CNN|CBMimAFBVV95cUxNNEtMakxsVUNDYm1VVHhKUnVOdjNCdmRNb0FqTl9SLWozVEEyRU5LVnYxbXJjTHlpWjVjNEpoRjVKNk8wMzhUcVFicWItTHhONXh4RTJzdElyT0dWN3E3dm9DNlI4T1dNWl9nZTdJcHE2V2RyNlh1dy1hdkVIeV9odk5WQmRRajVIWXdTdWRkWnQtLTN1REZ0WQ": 1794511836.8793907,
 "CNN|CBMimAFBVV95cUxNNWNsOVhQN3M0VU8zSm90S3cyMDAxUEFGM3daeTctR3N0ZGNBOFR4VHVvZmhFRm5zaWRCU2RBQWJKR1ZWbDl6UEFSa1FRcm9qQkZBVXNEdWFFckJiSnJtMXRwWjRIOFVza2I1YW9sOWhJMFlLd2s5cFVlZE1qc1l2TU1OeDFPQll3UWJKYmstX2xGVlEtYlJxLQ": 1794417331.9421513,
 "CNN|CBMimAFBVV95cUxNUXZtOEw5NU85dGY0eDZuZTVmVG16ZUVYTGpwQnE5Y0txTER5aDdEZk1hZ2x5UkRNZlhLT0NJRUcwZjgzcV9EanpBb3NZUC1Cekl4RHIzQS1LNHVNeVdHNDIzc3NtU2pnNFVUYVA0MEEtbURkN3g0dVRwQlcwcXFKUkYzY1pfenpuSG5EYl82dmtob2FNbFp3QQ": 1794522634.3729699,
@@ -4395,6 +4395,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html": 1794569433.3859904,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/13/mobilisation-du-14-novembre-la-prefecture-de-police-de-paris-redoute-une-manifestation-a-forte-coloration-anti-police_6809334_3224.html": 1794581129.4839892,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html": 1794656726.0645754,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html": 1794699928.5639117,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/11/12/ce-n-est-pas-normal-d-aller-manifester-et-de-finir-avec-ca-dans-le-corps-des-blesses-du-mouvement-social-temoignent_6809104_1669088.html": 1794488447.2625446,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html": 1794590128.775916,
 "Reuters|CBMi0AFBVV95cUxPOGpBcThTNEd3QmZ6QmJpRWZIaVEta1NySEZselBURjNOWlpvYXZPWDYyV2NocnB6YTZfYlFxQkhJblVVREVQSUdfYkZVOXVKd1VhekJzZ0FJMXd3NW5MTGZEWkh3b3RlbUU4a1dHbThaejVXR2ZmOFhkZ0RMaEtfdzZ1TFBjbm1IUzVVZlppSlBrTmZ5U1d1RXY2UzlzaVFSSVVaYW45aW1JZ3NkWEhDcjRjUnRFYS1BdXJzMThBWXYwbW1WcnRybnZyU0w3QnpO": 1794413728.4130306,
