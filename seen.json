@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0QVV5eG1ROF9pLXd5M2V3bjVRWGM4S3BYQkRfR19IcG85Q2p2UVNnbHVhcjRKUzVIYXozNHgweTNfd1VqNTVxdEY5aEtEajNWVUJaUW43ZUZZYmNMV09wdUtGSzc3dw?oc=5",
-"src": "Reuters",
-"title": "US stocks close lower as Nvidia drop outweighs energy gains",
-"ts": 1794528974.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96WnNXVzkycFNjTEcxcVp4MS1vM3F4RkpTd3NQc2VaUXVycEFLdk9ZTTBTQWtvY1NvOV9lVExTeTVZR1puTU1NTUIyUHZOUXlJOS1Fd0tsSVRJZ0xXT1kzMFo5UDNkUjg?oc=5",
-"src": "Reuters",
-"title": "US stocks close lower as Nvidia drop outweighs energy gains",
-"ts": 1794528974.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWl9WNXB3Y253bVpTamwyRENfNkpacTExWVh3UzFxaUl5WTFUal93V0xNQTdtM0ZlVzlvTWVQMDYxLVBmWGhINlJxZ3p6RWwzVEVyMkkyc043NnRPVFloRnNzWFZLSmhMUVlSUHEwM19UVVd0ZEpnc01GSEdqZzczOEdFNHFKWF9SUTFSUnlzUGY?oc=5",
-"src": "CNN",
-"title": "Microsoft outage strands office workers nationwide",
-"ts": 1794529620.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTlQYjFtcWhjRUNFVi13MVpIQXg2eE1EeFJ4eE55NUd3X3d2SE9kOEVHSHZTQlJ5VXZVbExCYVdQRm5TNGcyOVg1eFNxWERhWlh2MmxmQnl1RDF2X1c2MUpJdVZfYlRVUXNNWDJPSmVJUjdEYmVacGh3SXhMdkxtQWFRUElCTThXVjJFZUNHeG8zdzIyRm9UYVpmR1NubldIN2VuNTYtaXRkQzhIVG5OZDh1aWR3SWNCcHhrV2MyOE1VMjJyc3Z4MA?oc=5",
 "src": "CNN",
 "title": "Lutnick faces probe over handling of firm at center of Nvidia scandal",
@@ -107,13 +86,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWx1aUlfekVqbEdsdG8wX0F0amxfbk1telU1ZTN5eVFvcUlSWVl0a1h5cnRIS05RdDRSR3JLM3o0U0Q0d2pIN1otT0lsaExmUDFJVFpRZ2U3Ty1waDZNSk9XOEw1ZEsza2VzYXYwaWlDRjhmR0dhNnlVcl9Qamlrb0ExTkM3YUk3TVo2YkxGRQ?oc=5",
-"src": "CNN",
-"title": "Microsoft outage strands office workers nationwide",
-"ts": 1794529620.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHRqd2lSbXBZeDBDc2pSV2dDYjdMVmdnQjQ2R1dobU03Q1lXdng5R1RrZ0lhazVMVEctSU5WREhNYVlJbnVFVGtXRUY5X3lWRlBwRDlST2ZzUm1XUS1OSE1tTVFHZ1ZjbWRuTHJXOXNsWjdwYTg0N3RkdGQxZ3hOYg?oc=5",
 "src": "CNN",
 "title": "'He thought he was invincible': How Nvidia's CEO fell from grace",
@@ -139,13 +111,6 @@
 "src": "CNN",
 "title": "Van Hollen challenges Schumer for Democratic Senate Leader",
 "ts": 1794539284.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDlORF9vWS1LR2RiSnRFQ1lhRUJUUzRjNm1sajJyTVAtWDBNOTBrZm4wd2VudlJuV2FfaklzcWdzWEpBdFBwSmdPd1ZGWkQyWUo2UVdXRkRNZnkwSTVGc2ZBU1JVYjh4VTQxWmo5QXZDakJUZ0RjeW05eHJxVjQ4d1FJQTBXMjlyTFlYVmw5SV9zSlJWVmc?oc=5",
-"src": "CNN",
-"title": "Microsoft outage strands office workers nationwide",
-"ts": 1794529620.0
 },
 {
 "lang": "en",
@@ -2722,6 +2687,13 @@
 "src": "CNN",
 "title": "The Trump administration is diverting billions in health funding away from low-income countries, defying Congress’ plans",
 "ts": 1794657927.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+"ts": 1794658963.0
 }
 ],
 "seen": {
@@ -2793,6 +2765,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cm89zznj21ylo#1": 1794240932.84798,
 "BBC|https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#3": 1794364243.9818587,
 "BBC|https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#1": 1794233728.688592,
+"BBC|https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o#4": 1794659433.9885006,
 "BBC|https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0": 1794483039.5259848,
 "BBC|https://www.bbc.co.uk/news/articles/cmg46y7wev42o#1": 1794522634.3729699,
 "BBC|https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#0": 1794556839.3011,
@@ -3414,6 +3387,7 @@
 "CNN|CBMijAFBVV95cUxOOGpBWkpuS0RxS1YxR0pQckNYRWNCSW5MbDdrM1Zpd2E4eHRXaDJVWjdwdjBUV25ObHpVT0Nsa1UyQWxMZXZRdXZmdEtYS2pLaUgwM1hMbHhjYVRRTS1hak85VldlQ2VPYTRmcjAyd0FzWUtHR190ODhUd3RPSFB1MEVxTWtjVGo3NlM4dg": 1794277835.6574578,
 "CNN|CBMijAFBVV95cUxOOUtQWC1wWkhPbmVueTZ6VmJ5UWRiZFVZNDk5WElHQk44N0NlRVF6blZhc01ESEdYU0JUOE94bkVmQURYOU5RWDFCQTNZM0ZlbGpmckRzTlBPZkU5WGV0dkl0T24xZGt0a1VnclZGdmI3NTVwX2pfMklsTFVpai0tVmh3Wjd6UXpSN2h1cg": 1794450636.602461,
 "CNN|CBMijAFBVV95cUxOSFl5LUptcEZqdmdZM0IwLUU2YjZBY1hNWVdSZEkwMEZkWXFpWnNXbnI2VVdiRjZRUUhIdmhfZE1CRHBYanFzblZ1WVk3VEt6Qm9PM3ZMb3I3MmhKVUVzRzFIYUdUbjBPZklaV1c5cUE2X05WVVZkcnpjaUJldGxFV0pEX2h1NHR1a0tmaA": 1794255330.839107,
+"CNN|CBMijAFBVV95cUxOU1JQVlZaLXdCSFFzRlNvU1FTcEZRdzFZdDZXb0RIRlpKSmlMUGRYS2F2bkd5bW9XRHB3MHVocFFjbVV4RFM1MkNfYjNLZEZrWE9qNkwtVDVOWEhGMWFDZGRYZmZFSVJjV1BEWXJ4VHBDSDdPRDRPVEdPNzdqQlRKQjdJRmNfOG5zTnpGYw": 1794659433.9885006,
 "CNN|CBMijAFBVV95cUxOY3pZRms0OUJMQXhwbnhQMkVFLVlSNFN6MEwxejZKdjhmMXoxb0ViN1h5cEdsOG9XRVVGTkl3WjVxVTF3X09uRlFvVUJzY0RUNnFjTXppSjRLUWdtelZQSWpwUWlYQmY1ZHRlY1N2VkdXaV9pVUpndUFqTmpPS1lWOXowQkdpb0ZHRXYxaw": 1794339930.9466462,
 "CNN|CBMijAFBVV95cUxOZTctbDVkNE5Sei1lakxialM5VXFTeGwwMmR5NVhGQTVYVDUxNFMzbk1IbVFrSTNqTE5lc0M0YjlDUkRXbDRUVnFoY3ZUMXBjdDIyMHRrcHVOMjZJYmtQV2NLSEdMTUw3RnBiZlQ3eU1ISXhTRlJvNTRCRGdWV05lbXloOFV4SjRZNktEdQ": 1794231928.4513342,
 "CNN|CBMijAFBVV95cUxPLWstc1ZkVmNpbTFZZndqd3gzWEtHWmJlb1NWcFJhZDQtQzdpcTJ1bzIzQ1RDbG5pZC1DY00tUzBNdEJScHpObzc1S1VwU0lHbGw5Ylg5b2ROWVlqM0lwYjN2RXltYXlxMzVtS1cwaF94dmI4cUhva1ZvQThFMnZrR0RscVdTdVFVNFd6Xw": 1794157246.036045,
