@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/am%C3%A9riques/20261112-victoire-de-colom-dans-le-mississipi-quand-un-%C3%A9lectron-libre-du-parti-d%C3%A9mocrate-marque-l-histoire",
-"src": "France 24",
-"title": "Victoire de Colom dans le Mississipi : quand un électron libre du Parti démocrate marque l'Histoire",
-"ts": 1794507530.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Can Burnham avoid another Labour welfare rebellion?",
-"ts": 1794507698.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : du bloc central à l’extrême droite, la surenchère des suppressions de postes de fonctionnaires",
-"ts": 1794507812.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jYlNfdjhkZHB1V0N1VTYwS3kyWnBPeUR3c1FEWDVkdVBwYmtQR3pRR1VUTkJvWi00TEVZbHpCN2dvcFdmMG1hcmJ2V1NDaUstVk9qUTJSdXNVX3hrOVBTdTZJM2Vka243TzJtaFJnbkh3SzZOUEpZTjJn?oc=5",
-"src": "Reuters",
-"title": "The images that trace the departing Nvidia CEO's relationship with Alice Huang",
-"ts": 1794507870.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/disparitions/article/2026/11/12/jean-puech-ancien-ministre-de-l-agriculture-est-mort-a-l-age-de-84-ans_6809154_3382.html",
 "src": "Le Monde Politique",
 "title": "Jean Puech, ancien ministre de l’agriculture, est mort à l’âge de 84 ans",
@@ -71,13 +43,6 @@
 "ts": 1794509063.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObWxEVV9OVXJFY1Y4NGtBc2JsVmNRd0ZzUTVHMG5KTEZObHFtVUZFV1dvV0FtTWVLT1V2WVI0OXhqNG1pX1pVZkR0dE40TEZNeGxvU0dwblFwdW9ndTRIVmJZcklrWHFLVFRNdFFEaGZfelg4Tk5IRTdXMEREOUR6ZUFYTEluZnlPM1VUemFCbUh2WjcxdXpvSXU5dWcxdWt0ODkxekdWN0JFQVlvZTE1dExHeEtOLWVBUjB2VEhwRWNPc2h4QkEyRWZuckdPMnliLUJ4bjQzdTFtY3h5LXBHWA?oc=5",
-"src": "CNN",
-"title": "'Affordability and accountability are related.’ Oversight Democrat argues his party doesn’t need to choose between them",
-"ts": 1794507968.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html",
 "src": "Le Monde Politique",
@@ -97,13 +62,6 @@
 "src": "CNN",
 "title": "CNN Breaks It Down with Phil Mattingly",
 "ts": 1794511799.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZkhVRlgtYUZlRDNHVGl3Umt3T0VuUlJnYVl3NWlNRE93RE14S25Eam1CbG9yaFRtLXpsSFdGSWVJb3ZOLW5mM2RWNW9FVVpubDBMemR2QjJMVFE4SHpGOE1QR3QzVU0?oc=5",
-"src": "Reuters",
-"title": "Jeffries says Congress will investigate Nvidia espionage allegations",
-"ts": 1794507804.0
 },
 {
 "lang": "en",
@@ -149,24 +107,10 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJY0R6TVZrTGdoenBJel9CQVNLakI2S3BCLUlCXzdwYTI0eTFCUWFrVFhEcVNJVFZsamlnZ2Z6V2NzeUF4NGRrMUpJVEdyU3VmNHNxQjZuS2R3WVU3M0FJbmRpaENoUmZTa1daN1UxdDE3bjZ5RmdndkcybDdmQQ?oc=5",
-"src": "CNN",
-"title": "SpaceX’s next move is chasing the unprecedented ‘holy grail’ of rocketry. Here’s what’s at stake",
-"ts": 1794508020.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWg2d2tHMERrU1F0ZjVGQkI0RDVSZ1RPV3R4cDBvdm5zQWZQNjZwYm1iUEhhRDlGbVZRM0M0V0hHNUdwQlZfcnVVSGdlOVdxbmxZSjVhNmd4cmxoRmQyWjVBdEFyWlNaSWNIN0J0ai1Od19aWlk3dldCSWFiak1Ia2FFSHk5M2ZvbWpxUWtUUmQyZFlVZmFGdjdn?oc=5",
 "src": "Reuters",
 "title": "NEWSLETTER: Democrats prepare probes as Republicans harden ranks",
 "ts": 1794514260.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQjhyNlhmenNscjMzZFdkLW42UUZxN0VyVUNUQlRnbkNUT3N0Nk5ZdFNPZldiSUNIdThieGhLSlgxSGp1SEFTOUdWZURhdGZVcmd5VEZnaVJJWjdaN0RrRUtWRk1IZTA?oc=5",
-"src": "Reuters",
-"title": "DC police say gunman barricaded himself inside apartment after fatal shooting",
-"ts": 1794507854.0
 },
 {
 "lang": "en",
@@ -2911,6 +2855,41 @@
 "src": "BBC",
 "title": "Young people should have legal guarantee to job or training, says Milburn",
 "ts": 1794636004.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsdHc4WHE1cmtDeUVXWjRUZzhtcUROU3l4RDlOazBTYUtSa0RWYUkyN3Z2STk0SUZsUFRoOERvN3hZRVZwLWFxTV9yQU5EQzRwNkdZSGowRW9ob2tK?oc=5",
+"src": "Reuters",
+"title": "NYPD shoot and kill man thinking pipe was a gun",
+"ts": 1794626541.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84UUtYUUNRZnYtM1hhSzhveVpReHdLRHZqMzVEcmhieVhlOFRsRU9BaVpDRUVWUV9VVFBaekgxNGloMTZILUg5LVIyczUtbFJ4ZzcyYm5kODlEQ1VM?oc=5",
+"src": "Reuters",
+"title": "UK says Iranian boats blocked a British tanker",
+"ts": 1794632421.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRFh0dl9GRDhQLVc3cFZZem5GLVMtcXpBMmVtQkJNY2s3dmJVMnJTVzJUcDNueGw1enlvWkE3Z3htZkt6TmhXVllKMFFGWmJqY0RjUFVramZmeGZU?oc=5",
+"src": "Reuters",
+"title": "Ex-aide to Pompeo testifies in impeachment probe",
+"ts": 1794633185.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cb1Z6bXJGbm5Ua2FhVHZkZXFjNjRpejFWZ1ZiWmxzWHdqVGkyZ2IwNWJEaERqSTZjNkxleWJMRVBFVHdWMnlDb0gtamdBbUU1b3h0MjZfYUxHZks1?oc=5",
+"src": "Reuters",
+"title": "UK is going to leave the EU by Oct. 31: Gove",
+"ts": 1794633185.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
+"src": "Reuters",
+"title": "Canada, US make progress on trade deal, Carney says",
+"ts": 1794636960.0
 }
 ],
 "seen": {
@@ -4269,6 +4248,7 @@
 "France 24|503d7ff0-dac0-11f1-9728-1ba4d944ae6a": 1794066328.9890347,
 "France 24|51eae76e-dfae-11f1-b86c-339804d1b9fd": 1794609926.907134,
 "France 24|5235bbd0-df8c-11f1-bf8d-9f3bd2224b0d": 1794593725.956123,
+"France 24|52e7022a-dff3-11f1-8958-99822fa7fc3b": 1794637834.423084,
 "France 24|5328eb7c-dd55-11f1-9c5f-b1fbc0fc13d9": 1794349837.5789628,
 "France 24|5341f9ee-dfaa-11f1-a0c9-730bea92906d": 1794607245.4373248,
 "France 24|53581318-dc5e-11f1-8ec2-59c6b0e2c06e": 1794299438.0742986,
@@ -4736,6 +4716,7 @@
 "Reuters|CBMiXEFVX3lxTE03UGZsRkREaklsWGVMTXE5bjBtRWp4UU1XZkRTcmhoaVZGdmw5Q3g2SnZKTkFsUnl6SGdpa041NHpxTzhDRERmaHdFNTFHa040aDdveWNtMUFJUGxr": 1794309330.9183729,
 "Reuters|CBMiXEFVX3lxTE05SXZsdy1yTnBYX2hlRWVCQWZLV0dfTkpZRHZOWTZKQ0E4aW5GN0liY2p0eW5GeVJqMkdfaEk1cFNhUmNiVDk3N3VLdTNDOUJNUnZ0UTZ2dzhDV0Uz": 1794436238.3164294,
 "Reuters|CBMiXEFVX3lxTE0xNF85MEVGY2pGdTBLWmlrYm5MU3NFZjBBN0JHb0c0NENBcGNrdnA0NU0wNUJQMXBvekIwNGxRT0t4VHFSa3dFR2dMd3NDeEJoWTM2YVNNNEFzX0tG": 1794405645.4835598,
+"Reuters|CBMiXEFVX3lxTE0zRFh0dl9GRDhQLVc3cFZZem5GLVMtcXpBMmVtQkJNY2s3dmJVMnJTVzJUcDNueGw1enlvWkE3Z3htZkt6TmhXVllKMFFGWmJqY0RjUFVramZmeGZU": 1794637834.423084,
 "Reuters|CBMiXEFVX3lxTE10ZVZpNkRFemlBVThySWExRjhyYXQ5UV9YRjhPYUlXcE1BUnkzOHRjWkFDZHlXLXRYQXlSOVUzTXM1UEFRVU94dE9uWEVpbzdIRDVabndjdGwwOHZU": 1794280530.1749954,
 "Reuters|CBMiXEFVX3lxTE12cy1JUEVOQmxtY3NaUmVveG5Cb2dJa3E2bkRIdENfQ0txS0tVV2p5YjVKckhNTkJib1JWU05pNlE3YXdMMGJGZ0NIQWFNQlY5N3pkWE5rN19mQUph": 1794328240.9265742,
 "Reuters|CBMiXEFVX3lxTE13OWEtT0szWFRIS0h6MVRjeHRDMlVnRC1fcnNZVWxxX3V1TkRoTUdTWXdvNTJPLVJycG53Ynlwb3dkS3Y0U2N3Vm9mQmc3R3FYRFBMLXBvX0RxbHNx": 1794580236.4558582,
@@ -4782,6 +4763,7 @@
 "Reuters|CBMiXEFVX3lxTE80eGNCM2JHLUZrVDFWa29odTZjN0NfMy1IOHZncDNkallqbktyTHVFSWNXNzhlaEx1d2d1dUVfVXBPd19Dbk1wTmJKUnp4aGJSa29WdEZJRDM4b2dh": 1794337242.512274,
 "Reuters|CBMiXEFVX3lxTE81M0taNmIyaUdHM2YxTlRlY3VRN21ZbWNuZ2hqSVBSODY0elZyQ3lEdnJSM3Rzcy1qNUprWkZmUlNzWDBfSm1uR1luM1NmX2hUbHZxN2lIRm05WTFQ": 1794438927.897018,
 "Reuters|CBMiXEFVX3lxTE81bDRySl8wNGJ3SDlmd0d5dVNxSjM0ZUxIV1ZVWGloeHZWNV9BSUFYRjdCNGRqamRWbXZhdFlRdTRSVFhkY0o2emhpemFZRGliT25vQ0JSZGFKYWZM": 1794294928.262747,
+"Reuters|CBMiXEFVX3lxTE84UUtYUUNRZnYtM1hhSzhveVpReHdLRHZqMzVEcmhieVhlOFRsRU9BaVpDRUVWUV9VVFBaekgxNGloMTZILUg5LVIyczUtbFJ4ZzcyYm5kODlEQ1VM": 1794637834.423084,
 "Reuters|CBMiXEFVX3lxTE8wRVh3SmppRGRSSTk1MlpSX3hQbWZuRE1DYnNCTTBjYURvaFloNE8wajNTMmtLYTNWaUdXSm54LTNKdjlMek1VN2haOUJJQzFTNjBiZ1ExaGxBbnJj": 1794515436.6103718,
 "Reuters|CBMiXEFVX3lxTE8wanUtVTVCTFNnUkIyZERFbEZqbGpzOEdoeVhoRlpiM3YzNDBVVXgxMWZxaGxiQmV6RDV1b0p6RHAwaEE2MUJEdDF4ZVA0enQweVBkRzZxaWl1OGFF": 1794318331.60005,
 "Reuters|CBMiXEFVX3lxTE8wdV8yTGk0ZktpblU3NzV6TW1USF9WRklBelpuNVFxWUk3eWtkbGJHOV9iaTVtRm4zajlKSWZxY2xoc1Y2VHRaRFhwNW5lZkRhV0RYTjlOa2NrcUZ2": 1794090636.9501545,
@@ -4790,19 +4772,18 @@
 "Reuters|CBMiXEFVX3lxTE91VUpRQ3M5aGdqZHBwTFBCMFV2ZkhpS0ZYNmI5dGIzM0JaeGYzcVR2dWJZWm10dnJYandYYURRXzhXQ1laZ2I3djJwWlNyNEFpUEhrbEc5dzB0MExK": 1794337242.512274,
 "Reuters|CBMiXEFVX3lxTE95Tzh5WmRpR2ZsOXpNVHNPZmRiRDJmZVBQaFFkMEdsRUlFek43TEdGVWpKdTNZWmxXMUpwMUNJS25IbXJNR1hjZUhGakpKTWt5VlNOakx6UklZRk50": 1794423649.0579634,
 "Reuters|CBMiXEFVX3lxTE95amMtb184eWZxZURKNmJMT2JqUXNGSExuNzJKSEZja0UteWxMNG5LLUFWOXV0RnZKcEg2UmIxdFNYYU5GVmhfXzlSUjdQREdTdThFMWE5WHBHNTJf": 1794634233.8021371,
+"Reuters|CBMiXEFVX3lxTE9Cb1Z6bXJGbm5Ua2FhVHZkZXFjNjRpejFWZ1ZiWmxzWHdqVGkyZ2IwNWJEaERqSTZjNkxleWJMRVBFVHdWMnlDb0gtamdBbUU1b3h0MjZfYUxHZks1": 1794637834.423084,
 "Reuters|CBMiXEFVX3lxTE9DWHdaWmd6LUpWRzFWSjRMcWFVR1AwUXU2NnRrLWtvaHc1Q2hGdUF3Y28xdjkzQkYxbjZRUmR4SEphMTVRQ3hWNFFpakYycDBua1BYaVBsVmU4NWQx": 1794309330.9183729,
 "Reuters|CBMiXEFVX3lxTE9FQjBMMkZSS3RuZGNJWkw5MUNSRVJlWE9IblVxU2ZMb2VMX1FtT3gxZDFuVUpwNGZ4U1RBN0lmS3lMc0gtTURyQ2hwbGJZb1VJODZYZjZYaTgwTzJH": 1794591037.4309053,
 "Reuters|CBMiXEFVX3lxTE9GMUdyeV9QNDVieTAwNkxFRmlKS0RiZ0pnQkdDYlpnTUFVMkVTSGVjM01uWXVRWXJObVNzdm9aZWlpS1liRTFwU1VOR2Q3R2VoMlhORGp2cEp5M2NY": 1794440728.4818327,
 "Reuters|CBMiXEFVX3lxTE9IMEs2ano2Qmd0YzdmcUI3OFdiNmdhWmdPOVpVMV9HdVRYZzBueXRlNUhLUTB1ZHZ1VldlSzVQMk83aC1FTlFtbE9rLWI2MTRfMDlxSDV4c01FcDZ6": 1794430849.9188793,
 "Reuters|CBMiXEFVX3lxTE9NcVM5WlRhRzNhNWxRQXRGUDZ4OXV2eE96YWh2MHUyY25nNGdWdXg5enV4LVVVVTM2RnplVjR6UW5FZ25nZjlTRGdKb1kwcjNDTHFlenVteGlacktx": 1794582930.7858627,
-"Reuters|CBMiXEFVX3lxTE9PXzNoVm5xaUhGekhoc1U3dXJRczE4VDFwNzFwWmp2SkNwM2VYY3FrLVNVdDdua2xCMW1TU1BTai1nVnFhd3F1dnJSMUV1NzdmWExhZWFGRHRYOHdk": 1794033035.460916,
 "Reuters|CBMiXEFVX3lxTE9QUTcxd3BkWG1WZkdYRklxWDJsajZkRFhIb1VTeDlwQ2NCdW1UZjUxalBaa1FHRHU5TE5EZndQWHU0WUowLWhIQ3VEdkJ5ZWJyOFVXU1VySFotM0tl": 1794110444.7522824,
 "Reuters|CBMiXEFVX3lxTE9VdzRIcXNiT1cyYkt4cHNwVmtsajNpY3VZcldaeFZlMzJPQlVWOUdnZEpxSjFZcEI1bk45MmFSbTc0SGFGbVVyV2tRZV9FaXRGTEJSVHYwQ0t1SjB4": 1794423649.0579634,
 "Reuters|CBMiXEFVX3lxTE9YLVN3ZHRIODNNV0xlWkhqWUYzMEZBX3N2Q3FUc3dVZDZvQ2ZDQnl3VW4wMlR1SXpvNkpJdndLRjhwT1pJaDhwckhTbWRLNjFjUVVTWkNkRVNBYXlt": 1794356129.5657432,
 "Reuters|CBMiXEFVX3lxTE9YQ1VVZzlHUE0zMGlubUVHZ3lLQk9fTThBNUhNVGRxVzVaUXNRcU03LVJHYklLVzNkczl6cWdZRFVwRDdtSTFTaGFoR1ItdFlBdnczdUEzM0lkUW1x": 1794577528.459019,
 "Reuters|CBMiXEFVX3lxTE9ibnhfMmJiRTFVNEtOTWE3ZDZ1d0JobDRsTVFYU2NfUmxsdWdnYjJDSGVGMURTRlFscXJpdTN5N1JFMmhTWWZraHo1a2ZhRW4wNjlIMXNVNjhZTXh2": 1794348928.7940085,
 "Reuters|CBMiXEFVX3lxTE9idDlWNk5CTzlpVlp3R1dqQVdscXEyZEcwZjBvTlNSU2lWOXhfbXM1ckJrM3ZWUGUzYUszNFExWDlsU2s3R1N6RUl4emhKeEJ3R0xKQ3d1UHZjQmJQ": 1794383126.7791626,
-"Reuters|CBMiXEFVX3lxTE9pSDBod2hvMHdDeUJ5U0lQcTdmeTN1Ukx5M2hIbzYzZGpINmczbTUzYUs3UzlId2xySkZSS1FzcDR4V1FYZF90b3ZYajBCalpQaEhMSEtaYlBkUGdN": 1794033035.460916,
 "Reuters|CBMiXEFVX3lxTE9sVFlvanVOR2xjQ2M1ZG53UGFGTTM0THpWbnlLNnNIbHlwNm9yalNjdDNDeGktVVU4S2szeWJwOHZLMWlmVHRpVDluNlRTaHpMTVJheC13WEE1SWs5": 1794405645.4835598,
 "Reuters|CBMiXEFVX3lxTE9selZYU1NSeE9mUzFyanExTWhXSWhjX1lLaVhxQXE1aEJOSWtuSEdhV3Y0TV9ZNy1KQ3FSSS1HXzlKZkZHSlZNY1Y0Z3FMcWIwUnlsN2Y4TkdzZWtk": 1794078041.7588253,
 "Reuters|CBMiXEFVX3lxTE9uN3B5a0dpMUozZlljOEVvaTNXR0ViUmZDZ3dwNVhPNXVfYnlRbnF0ZzBnZjVQUnhIMFc0UlR2NHU3blNRaHFFc3RtcTBnMW9YVm9mQXA0N1g1MjFp": 1794416446.9049873,
@@ -4829,6 +4810,7 @@
 "Reuters|CBMiXEFVX3lxTFBoZjhHU2xCX2xuWW9KM0M2aVhGSDV4TWQ2UkJZd1hQZ2luNUVxSjdLZWFNVkdTdm04R3gwXzFUcGZMbkp4LTR5MDU2N19sUU1fWHZtM0x4dHh3RnNm": 1794428127.708573,
 "Reuters|CBMiXEFVX3lxTFBqTEE3bjUzaVVxdFc5NHZNTVlPREpQVjdzX2ZZeGdabjRWSXFRNjlhRG1aUlpwT2tFWmw3N0ZjT0haVEFkRzRpSkg0Ylp6bjcxSXNjWUtTcjY1dTZf": 1794049245.6440847,
 "Reuters|CBMiXEFVX3lxTFBqdzk4cFREcmp6Q3lEVC1GRTU2M09sRjM4N0phcEx1Nm5rV2RjNkhfemtoTTd4Z1dfeE5Ya3BvOEtUYUNJSEdLX1ZUVlNKeXlTdXh6dWFWblQyU05E": 1794035727.8808753,
+"Reuters|CBMiXEFVX3lxTFBsdHc4WHE1cmtDeUVXWjRUZzhtcUROU3l4RDlOazBTYUtSa0RWYUkyN3Z2STk0SUZsUFRoOERvN3hZRVZwLWFxTV9yQU5EQzRwNkdZSGowRW9ob2tK": 1794637834.423084,
 "Reuters|CBMiXEFVX3lxTFBwd09SNjNLOWxJYURpX3Mtay1UWlpFQzhuV3MzS0NwUW9VQlUzT2VPUzFNUnZiYVJXYXEtTEQ3SnMxZVMtNG1zdmh2ajdla1hYMWg3YkVKZ09zZUdE": 1794222047.3750374,
 "Reuters|CBMiXEFVX3lxTFBxWW85aHZqS1ZZSTk0bDg5SDFXbEJuM2NiQ1Y3OUlDYzJoSGhQZXdxZU5rcXMxYWxrOG4xdEY5TkZPLVJFNEE0ZEYtamlERGdoZC1uczhQU2h5eFlp": 1794434443.8307211,
 "Reuters|CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE": 1794536128.7260814,
@@ -5303,6 +5285,7 @@
 "Reuters|CBMingFBVV95cUxOUUZ3SHdRVnJZNF9xMFJzWDhoQ3RRQnB1c0RIYlpJVEktemJNcEVEVl9FUU9LaE9HYXduMTNCWGpEd2hGUHRpZWdyNjNXT1ZpRUJ6NFFFcVM3N0RfOWJhd3VDUUFmRll5VTBRbkJrSWdEYU83S1hlR1lCSk1jRDlLLTJDMmdUTjVibXFXOUU1OEZnb0otdU5TdTJzVWQtZw": 1794576638.1858933,
 "Reuters|CBMingFBVV95cUxPUVk5eXpCNG1CZFA3Q1ZocWlHMEJmdHpHN2ZueERRdFB0MWp4Szk5N09uRk40Skk5RWhMUHhmVy1mOGExMFg4UmNCNEJVc2lub2p4R0l2M1Y0VmtNLTBSS0g1WDh0ZXBjZVFyWHhRcWlEalpvVllwZ1FiUkV2R19KdjB1NFZKUzQ5dmNyeGtjR3RLU19VemJRalJlWHJpZw": 1794201328.1445081,
 "Reuters|CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw": 1794081640.9245064,
+"Reuters|CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw": 1794637834.423084,
 "Reuters|CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ": 1794483929.1530151,
 "Reuters|CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ": 1794569433.3859904,
 "Reuters|CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU": 1794412841.416497,
