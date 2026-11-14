@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
-"src": "Reuters",
-"title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-"ts": 1794499306.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGVHWjZEelgzdUZvS0xWdXhUbFlycGNtSjhpX19rdHU2N3BoOERVamZNVFNPZXRIWFBWMU1lal9TdW5PVm1BUmphMENYeU9nXzlhbjJoODNnLUlKX3FrVm1tYnRsR3FqREJXenJwMnRIZ1RpRnEwdEp1VE80YU5ObVlOMG12SkVrTl9xTw?oc=5",
-"src": "CNN",
-"title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
-"ts": 1794500128.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261112-sommet-en-irlande-les-europ%C3%A9ens-se-r%C3%A9unissent-%C3%A0-dublin",
 "src": "France 24",
@@ -41,13 +27,6 @@
 "src": "Le Monde Politique",
 "title": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur Franceinfo : Edouard Philippe maintient sa position : « Je ne me soumettrai pas à une primaire » de la droite et du centre",
 "ts": 1794501803.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
-"src": "Reuters",
-"title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia",
-"ts": 1794499939.0
 },
 {
 "lang": "en",
@@ -120,13 +99,6 @@
 "ts": 1794503152.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnl4RjlVd0VYeWFKTUM1eDh4Y1J4V2RsZXlIYTRDUjZGdzJoeHBJQnZXd0NCYTBXcVhUQjFYZ1JNUnk3SDhVWXBHZWJrbm1EQTREYWJzN2MxU1lkQUg1Y3JyWDV1bU1mN3Fha2VfejBDN3o5ZG5aZWdGMVdZT1NvbDBXM045V01GUHpvWEI5TmFTMTlyTkN6cDZhWmxsTVZxNE5mOW1Wb1lLMG04a0F3RXdRT1o1d0hld1h2Tg?oc=5",
-"src": "Reuters",
-"title": "Saudi Arabia puts pressure on EU to label Yemen's Houthis a terrorist group",
-"ts": 1794499491.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
 "src": "France 24",
@@ -153,13 +125,6 @@
 "src": "Le Monde Politique",
 "title": "Israël interdit à Jean-Luc Mélenchon l’entrée sur son territoire, jugeant LFI « extrêmement hostile » à son égard",
 "ts": 1794505168.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oMzVtUXZrMUlTQUNaTldGQXhIZmphMGptcUh2QkVzNldEMGV4TVF3enNQallJYUh3LWJUVjlKRC1yWGR0M0QxVWd4S2k4ZU1JYWNVUnFjdVhfSXBnRUlNc3hSdl9EOTA?oc=5",
-"src": "Reuters",
-"title": "Putin hosts US envoys Witkoff and Kushner in the Kremlin",
-"ts": 1794499668.0
 },
 {
 "lang": "fr",
@@ -3149,6 +3114,13 @@
 "src": "Reuters",
 "title": "Old air traffic control equipment regularly disrupts US flights",
 "ts": 1794624300.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/podcasts/article/2026/11/14/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809556_5463015.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : les gauches seront-elles vraiment irréconciliables ?",
+"ts": 1794628815.0
 }
 ],
 "seen": {
@@ -3319,6 +3291,7 @@
 "CNN|CBMiUEFVX3lxTE0yN3d5V3h2YWNtcV9yclhWZXhKQnJHaldvLWY4S1dGRTVld1Y3aktsU3R3VmY1NFZhMHoyeFd3X19VcWdwaTlYQ1d1RDdkekxT": 1794398442.015356,
 "CNN|CBMiUEFVX3lxTE1DMGJHQ1l1NU9PN2twSE1JWjlHNnV5T3BRbWVUcHUxOE56ZkNiWS1kV1pXNDgyeklwa2M3eUlLMlV4M2NHX2ZOMkdRa0psTk9j": 1794064527.604094,
 "CNN|CBMiUEFVX3lxTE1wa2h6WjJZUlRYVS1xcGlyMEJNQW04WFhvZHhORnY5Q3lfRzNtZTFmRW1odEFtc3ZOd2tFMnZJR0xvSVBrSmY2NkRrMjlseVRO": 1794072634.318204,
+"CNN|CBMiUEFVX3lxTE5FYVh1NVpYTHpUNDBhZ2NXaHR1REF3dFdGaGtZZHNDenZPMWpKcjdNTHdRUEppWWdOZ2RCUEwzVW1nc0p3MFpWN3VtVTduNkxP": 1794629725.9064214,
 "CNN|CBMiUEFVX3lxTE5LRGc1Z3ZzTWVSNzZLdzRrUGlvM0xuRXk3OUhwaFBJN0JLd2c2RDlxdWZ2YXpuZUxUd2RqeGw4Z1dQTDBodHlGSVVNNDNVWVhn": 1794087039.392503,
 "CNN|CBMiUEFVX3lxTE5VUWdsdmNTMlJJdXdGZDhTdy1KNVVtQWs4VzRfc0JaR1VobkRlWEY4SW96Rm9RSTFBUko2eElnRUtBWmFyQm9fd214YWpWZUlo": 1794066328.9890347,
 "CNN|CBMiUEFVX3lxTE5VVW44VHZ3ZzRKWG9mNnRxT0ZVT3JwOVZkam1BR1hiamYzZ3VyRFlyeFBjOEdSbXc1cm1RNVlCWjdzeUVtelhtb0pLTE5GVE9Q": 1794072634.318204,
@@ -3328,6 +3301,7 @@
 "CNN|CBMiUEFVX3lxTE8wMy1pVl9hamg3Z0oycUtsSFhoY01FeHpWcjBhb0xtaVNIbXlUNTV0cTVibXVKOEJ4bkczNUZVUkFaQ0dDX0hCWHNKcF9lckJv": 1794072634.318204,
 "CNN|CBMiUEFVX3lxTE94NnNzV2NiMWNvVHpDMmd1R1k0UDRnbUhFNkl6dEhFQ2ZUUWNBdDNJOGxMSnE2SnNMNTFmeEl2U1liU241dERHQlI0WEpLNlBh": 1794052843.2264345,
 "CNN|CBMiUEFVX3lxTE9ETU1UdGhKQldHN0pPTkpSTDdjUHc5d1ZsZ3FZSmM0TWVmUl80dGxHRlctY1VUTnh0RzZVOXRyd1ZIdVlxTEEwOWxHd05VV3ZH": 1794246330.1341383,
+"CNN|CBMiUEFVX3lxTE9SZDVyT1U4amtvZXNRMFRYZGFRbUgybXd3U2hfSmFDQnpZSy1kZGtUX1k2aFg2cExwd0hLQlczQlNBcTZtRUk5NGc5Y3Z6NEtZ": 1794629725.9064214,
 "CNN|CBMiUEFVX3lxTE9zcXFDaFlTSmVNX0JYWFdTXzBvcFpyMFVwTkwwY05JUGRLLWZHcEdmQUt6WWRwQVpDMGhNcWdfUTFiblI3OGtUYUhpZ1NNbnJl": 1794059128.53862,
 "CNN|CBMiUEFVX3lxTFA0Ym5SLXRvMG5fVnhLOTRYUWxHQUwyUVY5YzJKYlZyMmZ5NjlPRlBoQWtGbzkteGtPLU5hYVJ5NTZiMnpYQkpsNDRRX3daWlEt": 1794509125.7992437,
 "CNN|CBMiUEFVX3lxTFBGdE4xYXlOYXlSZDdHS1E3R3ItRVp0ZDFjSEhhZ2VLRkxjVHY2VTFHUVd5WkxoSlN2RlNBNXNERTI5WFJJcHB3VlowX1d4YnhG": 1794609926.907134,
@@ -4862,6 +4836,7 @@
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html": 1794546927.7555275,
 "Le Monde Politique|https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html": 1794402928.4602053,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/11/13/l-avenir-selon-la-france-insoumise-l-analyse-du-programme-de-jean-luc-melenchon_6809267_5463015.html": 1794543327.128772,
+"Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/11/14/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809556_5463015.html": 1794629725.9064214,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html": 1794048325.823577,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html": 1794048325.823577,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html": 1794044732.233242,
