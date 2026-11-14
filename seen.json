@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html",
-"src": "Le Monde Politique",
-"title": "Menaces, violences, intimidations : la liberté d’informer malmenée, dénoncent des sociétés de journalistes",
-"ts": 1794510003.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
 "src": "France 24",
 "title": "Mississippi : les démocrates remportent un siège au Sénat",
@@ -2848,6 +2841,13 @@
 "src": "Reuters",
 "title": "Canada, US make progress on trade deal, Carney says",
 "ts": 1794636960.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
+"src": "Le Monde Politique",
+"title": "Mobilisations sociales : une cinquantaine de cortèges attendus partout en France pour cet acte V, sur fond de revendications diverses",
+"ts": 1794638965.0
 }
 ],
 "seen": {
@@ -4621,6 +4621,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html": 1794586534.5745008,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/13/une-democratie-vit-mieux-avec-des-arguments-qu-avec-des-remparts_6809355_823448.html": 1794588335.3854744,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html": 1794635126.030286,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html": 1794639640.3263202,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html": 1794634233.8021371,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html": 1794224728.8407536,
@@ -4969,7 +4970,6 @@
 "Reuters|CBMiZkFVX3lxTE5Vd2JBUnZjYzlMeTE4S0NibHRNLVN5dS1XU2U3MDVsNmhYekI5cEdNa0ttUG1kcHM2UEl2RVREOXdVSlZiNlFNLVFKR0NSZmtMdld3aWNocWVTQUNNbFVMUDhNRGFfdw": 1794270640.7961733,
 "Reuters|CBMiZkFVX3lxTE5hTFBlaFYxWm5waklJUzRQN3NPMURVWEJtNWIxdWtTQmtGTzdQb1p5V0tFRGh4SjlLQjRERWU5SUo0aUd5Z1Y1ZEpKcE80RkFDYi1pR0pNOVZnX2h3d2NKa1JOM1VKZw": 1794356129.5657432,
 "Reuters|CBMiZkFVX3lxTE5vcnZCSTEya2ZzZnN6TnY4a0VfRUxDNFJLNUlBUnFXS1pxS05JMmpZVW5LVloxdi1jZ01Sbi1FSG1rYjhucmkwb1lrUlJKSm9xZWlpNV9aTEFTUzlUak1meEIxRXR4dw": 1794087926.5730245,
-"Reuters|CBMiZkFVX3lxTE85amw4c1pyWFRMbzk4cE5FY09oZS1CVHpaMEp4RXN1S21jQmZhZlV1ald3RWFDbFpmRWJLTHUwS3V2aE91TDZlRGhDcWo5QldkUlJLUGpvYWpyblhSY3RzU0NnLVVwUQ": 1794033928.3616395,
 "Reuters|CBMiZkFVX3lxTE90RThkMGV6U09fNC16cFF3Wk1ZTEdrdXlNU2Rib2FSREdlLXhnSm41bnpDWFg1eThQVlA2SnUwUGpZeDVFOGdwdFViRTczbW5lSUF0UU16NzNDNEw3N3U0aWgtNWdMQQ": 1794382235.486411,
 "Reuters|CBMiZkFVX3lxTE90WU9aLVowbEEtQUhPVDJXVTl6TGNETGZhd0Y5WFcwTnVRWVI4S05QMmVwbEFTdHoyM1dCSE5iLURuMHg3Z2VSTFUwMXAwdVdBQjdjajd4a1VxWnVleDNwMTBmU3lpUQ": 1794572127.1575396,
 "Reuters|CBMiZkFVX3lxTE91d3hhVTlNeXpfNnV3T19XMXNEVHYtYkMyVXAzZWc5bnoxUUpUdklsak9zcU5UcHpiYkN3UFI5VFJPSk1mUWpkVHJhbVBHaVdlUlM0R0RrRlZlelBudlBqZlplcU1Jdw": 1794286842.7872272,
@@ -5311,7 +5311,6 @@
 "Reuters|CBMipgFBVV95cUxObXFOU1ZVYjFKQ1k0Q29pTldrTHRlVVRKeDd0cHVJd2t6MU94S2Z0S1haVkZKekloSnlOUVA2cWJYTUw3Y3NGOVEyRXAzLWs0dkloZnJ1ZEhQTUlWMzZwdGdYckhiM1o0X1BFTWZlZUJXTXpLTVBOelZOTUVITFl0SXkyMzNjSEI5S2FVX0FQUk9GUXlYRklLbUpMWmRIc1BQY1gyVkp3": 1794400236.8236604,
 "Reuters|CBMipgFBVV95cUxOcFBLcjRMMHVGb04wendtcGkwRUhkY1FMN3hSVnlXUHp0ZmRXR0ZHclBfZXRIaEV2S2MwaTR6VmM3UjRZc2xmX0RiQ29PcDR2aTJ6ZnVMZ0daX3UtQ2xHeHBockIwYXRYSXAzRXU4UFlVMFowYzV4SW9Ebi1jX2FEcGwtTnRRTHV6M0hja0k3T3RJUE0wUzM5OEhSLWhkdjZpQURXMUlR": 1794468632.833037,
 "Reuters|CBMipgFBVV95cUxPQVJyc3l6OVJpb3ZDTFhVaXYxM005ZERScV9YMlk3bDVweGdGWW15TVU0enhiMTFra1Ftd0Z4RW9Bdl8zci1acS14WEJnZ05MOF92ZDE5cnduRzRqYmxZbk9LOFRueC1lNlQ3T0tnVUdERmM1NlZBVEVSdVYtdE5BYWdtQ3BWNnBra3BxbnJPTjZQR2hTTEpxVW02STI1aGpURGVoNG53": 1794455125.8007283,
-"Reuters|CBMipgFBVV95cUxPS0RKQ2VWLVF2RE1Ka3Z5VkdoRWkyU2trTmtWQVJ6OUVZZkdqSnpSS3lFYmdFczd5NXlfYkJkTm5rcmljRXdKSm4zYVNBYTE4WTAtT0h0T0xEUWF1SVNvekF0VDI5cldqZEFfMGt5bkdjYko4QjJHYXBCd29JRDhjRGFOWFVmYzktanZXVGttV0NlWXdadlRnQWl6TFJ1aFdsRUhQWVJ3": 1794033928.3616395,
 "Reuters|CBMipgFBVV95cUxPT0pjRl9FVXZmMXlIRDYxOGs3SUFjOFh6ZVd0czBEQ1Mya2Qwd3BZVkZiTUw2NlBqdkktdXh5OU5YM3Z0aHNjWDMwZFJJamJMQVNtUmQyZENSdmQ2a09rVHphZXNxaW1NdjVUSTVQVEh2YnhsNzRRZHJ6VHl0RWtmaF9oaUx3dzA0bVVXRXRETjRsRFlKSUd5MkFPRFlGcnZ1Ukh2aHRR": 1794064527.604094,
 "Reuters|CBMipgFBVV95cUxPT19WZ0FIUHZaYVB5aW9BU0hLbVhrYmZRNlBfRml3Nm1yMHZWdDh5alh1WnQtRXIzOG5WQnp6c0Z1YzktcHJzcWhLMVVsS0xfRGI5R0Z0V3lnLVdhVzE5ZzJJNFhRSFhmdUVlMEFOUzVxaFZWSlFoTjUzblJ0V3l4MjRJbEZqOHkzOURSU19DS25kZDV6R1IxSThISjZtYlo2N05aUzV3": 1794303942.8019438,
 "Reuters|CBMipgFBVV95cUxPUm9tMDhVdXpVaDRBaTdYbEJCblZiWDBjWGNPazdzdVY3VEJRRU9HM2Fja2RPVE1EOS14b2xIQWtPclRiVlZOelBkQmZLWDIxN2dxSFhXT1BUVXoxWWNkMjVlVmlsOEM0RE1YUllVd2FwTE0wcXI5RE9jWS05TzEwNTFVakJNUi1oNmlDVWgtSXRyWXRrZ1hqMzZHZFJkOG44anV2T2RB": 1794050126.8351421,
