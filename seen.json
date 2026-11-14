@@ -9,59 +9,10 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/ckdd17m79yldo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "MPs urge Labour ministers to get on with trophy hunting ban",
-"ts": 1794487717.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/12/les-balkany-pries-de-quitter-leur-moulin-de-giverny-n-en-ayant-plus-l-usufruit-apres-une-condamnation-pour-fraude-fiscale_6809103_3224.html",
-"src": "Le Monde Politique",
-"title": "Les Balkany priés de quitter leur moulin de Giverny, n’en ayant plus l’usufruit après une condamnation pour fraude fiscale",
-"ts": 1794487773.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/videos/video/2026/11/12/ce-n-est-pas-normal-d-aller-manifester-et-de-finir-avec-ca-dans-le-corps-des-blesses-du-mouvement-social-temoignent_6809104_1669088.html",
-"src": "Le Monde Politique",
-"title": "ENQUETE « C’est pas normal d’aller manifester et de finir avec ça dans le corps » : des blessés du mouvement social racontent",
-"ts": 1794487846.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TZ1NPdHI0S3JXUjVweXlxUGwyMGtNYUFtd1hVRkxVQzEyajdLakIyQ2R5NnlENHJPSDZiRDlQdl83OURqSW1ER0FZVWh1eEZkQzhLTkx3T2tLVHdDQTduSUE5UEtsVlo3ZHlpVVZyTlgzaTFlRURRXzY0Y1huZw?oc=5",
-"src": "Reuters",
-"title": "'The planet is not dying, it is being killed': Greta Thunberg at COP31",
-"ts": 1794487959.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2hxVXptWFBac1VNdFFUOE8zVi02NklWdlhCenlSNjROVGx3QVJpSERMN0lsbUEtWHpwODVGSVZFeV9CN3ZWb09xcHBCMnVfYkFaZHhiOU1YSWJFb3EtdWJwWW01UGRxTEtOVzlkVUxSTGotaVhfSVhFOVVVVFdfN0hKb3gtNjUtdUprOFFrVmxTa0lrYk5wWnNxVm9OaGFsNk1GRF93NUdrWXB4ZUItTFkzZFA2YjlpNGx5dmZZNjMwTUM5NmVNNg?oc=5",
-"src": "Reuters",
-"title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end",
-"ts": 1794488292.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms?oc=5",
-"src": "Reuters",
-"title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine",
-"ts": 1794488362.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uNm0xeVYwekNqaVUtWU1vZFplUzdzV3ZZVy10NHkyeTZSaVkycUJURFFjaVo5VTJ5bXBrZm5hYVZqb3Y1ZERZTjMxcmNvLTNESHZyNm1IOTZUeXdfUXRGeVh4U0huelZkUzFmYmRTT2VKdXVCRlBYX19B?oc=5",
 "src": "Reuters",
 "title": "US market jitters prompt a global rethink | Market Talk",
 "ts": 1794489204.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
-"src": "Reuters",
-"title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
-"ts": 1794488023.0
 },
 {
 "lang": "en",
@@ -268,13 +219,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
-"src": "Reuters",
-"title": "Italy seeks to curb impact of hoax bomb alerts as more threats received",
-"ts": 1794487562.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9xYTBTMXpRaHVLMVdybzRaZHZ1TVlfMDlfVkVPVVNQYWhlOE9DM0pDdXZxVzVBUk1PX09LNHRJUGs1aFhDLWNKM2dfQV9aRWpGTnpnemdjTS14eGFtVjVnQWUyekRTekcyaldHMlotbjcxSGdnQm1HUEZ0c21KSVRlbW56d0RCVF80d1haVDkxWHlNWGlXNQ?oc=5",
 "src": "Reuters",
 "title": "Hungary eases abortion rules in women's rights overhaul",
@@ -314,13 +258,6 @@
 "src": "Reuters",
 "title": "One person reported dead, multiple wounded in active shooting in Washington, DC",
 "ts": 1794498321.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZm96YnUwN3hGYVdzNlRXLVJIYi03ZDEtRTJaM19va01rU0JsblpMOWpoT3g2NjJwYVYwdl9qenN3N190N3o4OE9vR3gtODZGQ1c3Z3c0QnBUX3BmODVkTjdOLWFSV3I1aHM4MUk3UkZxWnhrWnJRNEgxUHpPOW5oLUt0NlRaR1NrZWlyMWtCeWRWRlJrUVUybUkxMF8ya0Zib2IyZmF2aHpDMERVN0E?oc=5",
-"src": "Reuters",
-"title": "Pakistan releases two of former PM Imran Khan's sisters from jail, lawyer says",
-"ts": 1794488066.0
 },
 {
 "lang": "en",
@@ -3443,6 +3380,20 @@
 "src": "Reuters",
 "title": "S&P 500, Nasdaq fall as Nvidia jitters drag down tech stocks",
 "ts": 1794616585.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblU2TU96bEJjM0JtNXpYYUdTOXNDOUN2ZDQtWk5waUxRVzl1RzhyT2RaNVZZQldhdXFQRUdGbUV5cGQ1eWVVS203RDk4cnliVnpmcng2SDRkLUhVZkdCNTBqOWVUTGNqX2RJYXVlNFdGR0ZKX1VPY1NvSy00WE9FMmRCb0NiZ3dIbEtTR0szMWdfUQ?oc=5",
+"src": "CNN",
+"title": "US air force responds to suspected drone activity over UK airbase",
+"ts": 1794606349.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHkwalNBMFB5YW5NRGRzRFJ1RFJZV3l2Qk11cHJaSk5GWmxDZkN3eDROVzRaQ0hiREN0QTlaTzJnakJVMW1RRXM3LU5WNWRtdkt5UDZHZ3d5dW5oaWRaVWM5NGlvU1JjR1BUSHJJZGdtN21RVXlOUDBQc2w3V0ItdExpaDFCQ3JZQ3c?oc=5",
+"src": "CNN",
+"title": "Voter polls: Election 2026",
+"ts": 1794609119.0
 }
 ],
 "seen": {
@@ -4066,6 +4017,7 @@
 "CNN|CBMiigFBVV95cUxNZ1Faa0FtbVlsYTg1bVJmMjhoU0JTa1BxaVBhNUtDTHFRTW9QTnl3VkxUTEZsNEdyd21zRVFDMTRWYUNpWmtvdDM2NlJRQ2xmNzFnakg5cXNGSUE1STZSY2xwdkgtcDlZX1dBOVhpdGJ0dGRQRlJEMjNIcEFsX1UtU3NNU1hGTENjeHc": 1794070844.9715154,
 "CNN|CBMiigFBVV95cUxNbHZzb183c3lPV24xQmFZOUg5NTBBUGdCWFVuU2EtRnQyT0F0bWVDVmxLQUxSSmR5WXNPY3dzclBld1ZybVBKTzNKUW9aZUF6ZF9qbUNhcDlKSklvNW1lS3ZJd2ZObmxfalpWOXJKbzBlTWdvUjBYRXZGcERmVWNFRXdHSS1nRmJPYWc": 1794425436.9815495,
 "CNN|CBMiigFBVV95cUxNdzNJcGhDS2FjN1hLMWdvei11Q01OT09TSUFBQ2N1V3dEdk9tTkVjc282Q19JT1hMR1VHaE5WWjg2eE42RHBxSEZ5OFd4OHBrdEN2VV9mcmRxZzBkWmxkaGJqVGxYbHl3alJpWjRacHpjMTg2ODgwS0hZWXpvUk9XcVlXUjBjZmt1elE": 1794581129.4839892,
+"CNN|CBMiigFBVV95cUxOMHkwalNBMFB5YW5NRGRzRFJ1RFJZV3l2Qk11cHJaSk5GWmxDZkN3eDROVzRaQ0hiREN0QTlaTzJnakJVMW1RRXM3LU5WNWRtdkt5UDZHZ3d5dW5oaWRaVWM5NGlvU1JjR1BUSHJJZGdtN21RVXlOUDBQc2w3V0ItdExpaDFCQ3JZQ3c": 1794618039.6292036,
 "CNN|CBMiigFBVV95cUxONmxuTHU5MW1seHFtUWNqVTJsYU9xZGJMNHN3Q1VSM21aZVFFaDhwbk9xX09IeDhlNmdyQk85aHNqRkhZZkVWVEZoemdoZzJJUXhHT0pRbEpaRFJMTWt1Wm9GVGJuQmJEQnVEUUY1SzhqVzJLLWRUREpJMkdydUdVY0VlLWJVT1dhTEE": 1794155438.5656717,
 "CNN|CBMiigFBVV95cUxOTF9PNnBoWmh6VXpvUUZHaVZxb2N4eUtZejF4OTI1dFNzVHYyVGxrOUNzTmQ3WHNvZ2JTU2kxQnlaTnpHZ2lQdjQ1WEtuQnBzLXlNZFJ6OGdCVUdmN3dJTExVZy00S3ZlUzNlYVl6QWVwbkIwUTZnN08xMXppQVBINlVzYXNzWGtKT1E": 1794289528.5302374,
 "CNN|CBMiigFBVV95cUxOcHJSNlB0VGlucmpfMWFpLTBxMF8xbC1md1FyY3FCOXQzVEtudTNwSkFXU3VUQ2Y4cXM1TVlIRmRiOFY5OXBDTGhwc0tTMXVBaTNmMzV2TFIzV1pLYnBJMkZQbmp5U3VMb1J4eXFtUm1nT1NJbW51ZXFWLXNlLVk2M1h1NW1NLUpyUlE": 1794344447.0122612,
@@ -4218,6 +4170,7 @@
 "CNN|CBMikgFBVV95cUxPeXhrSTZncWs3U2lCWmY5c1ZMemZwc3NnUFoyVS0wWU8wME53SmVILUFYX2NDMERLUlI4ampoS0JwN29kMzIyZVA2enRHN2czcE12WjZSY0F4OGJsZnJsREo0Rk9ZZXpiT1hBalY2cWVqYlBTcjcyZDdaZ2VNd0pHVVJDV2RoRlpDN0xRV29ocmFxdw": 1794465036.074209,
 "CNN|CBMikgFBVV95cUxQZUxqcElBRkNILUZuY3h4ZEZhZUZXRURsbE9mTnFJdHFWM185RXlyY0lFaDFyc0JmbEowZ1RVNkdlbHlOcnV4WFFBbzZKSXhzczQtVWFPeHFsWmg3MnNxLUV2eFVZRWg1VFEwU1VXWXY5NW9BVENCWnFmbUc2U01NejhHYzc5X0pNdXQtRW5nMnA4UQ": 1794423649.0579634,
 "CNN|CBMikgFBVV95cUxQazhNOFZLSUlGME1GSFhZNDg3YlpXeGFzdjRGR1NDeUs5NWs1ZVR0ZDZBUnZ3SjNUelJhYVg5Ni1aNThTMXBRZGE0azRwVnN3bzgxTWZnWmVudFZUYmlIT2o3Q1JuTkU5c0xhQ2JVWWJiaHpwbDBpUzdyQW5FRWtPLXplQ1FCYnF5WHUzd0podk1HUQ": 1794258929.7042334,
+"CNN|CBMikgFBVV95cUxQblU2TU96bEJjM0JtNXpYYUdTOXNDOUN2ZDQtWk5waUxRVzl1RzhyT2RaNVZZQldhdXFQRUdGbUV5cGQ1eWVVS203RDk4cnliVnpmcng2SDRkLUhVZkdCNTBqOWVUTGNqX2RJYXVlNFdGR0ZKX1VPY1NvSy00WE9FMmRCb0NiZ3dIbEtTR0szMWdfUQ": 1794618039.6292036,
 "CNN|CBMikwFBVV95cUxNQ2RPLUg4bXZUQWU5UUJvUkE1Rk1CWlVkajJFVGVLRWJ1Y2tQem1vS1NDTjRaX0RnRXV2Nm1QOE9hMVlFMkk2WFowX3RKbjZZREFxcHZuNXFTTlA3cDZNU1pyVmt0VGduc2hGYVVSWmpLZnVTb3ZGUnZCbjlCT1pYQmpUYng0VFlKV3EwUEY1cVVzSnM": 1794243646.3737514,
 "CNN|CBMikwFBVV95cUxNZ3pTZFdxSVBsTzVhR29tNkx4SjVaQWhaYjRfakh4U0JLT09fN0RsTUI2ZXNZQXQyUmRBMlBJLVNuZzBZWDlNSk85SFNzY0poTVpBVk9YMEJwMHNWVW9KU1NHejdQM0hhaXFmU295aGhfX3lNNzdLUVVMSlczWjdYN1VCR2F0ZVEtN24zNU56TEJycUU": 1794521726.5847437,
 "CNN|CBMikwFBVV95cUxNa043aVN6YVBzM0VsbUxUbXVYOWRGZzh0ekFHN2xVZl8xMkE0ekNBTUxSNnNQZ0U3d090WFV0LTRYTWpjTmFYZmZOMlZJMlhnX0g1STFlcklZbnVvM00xbW5DWDhoMGFxMUdQY1JpVzNaZEM5a2p3NlpsTW0zUU1IQXdEbmxJWWloT0MyZ3dwemo1dms": 1794457835.5806527,
@@ -5655,7 +5608,6 @@
 "Reuters|CBMiekFVX3lxTE5KVFZNVGxMNWMzbmczbExaWE04bmYyQm13WWFKRG42a2VWWWQ3b0g0TWt0V2dlLW41ZlY1dUdfNXFtMXd5T0I0LXI5Zm11eEh4MkJ3Q3JBZWs2djNQUTU5UEs5dEJWV0pHem5uMHFGZGtVdmcyVGdiZFN3": 1794223839.106101,
 "Reuters|CBMiekFVX3lxTE5KYVA1M2k4SllDeExhemltMGdzckRkOV8tbzdQaElocmMtalV6WUZWYi1zUHR0VzJjZVNBN3pwVUoxVk0wd0dRdkRKUjJUb2xKUUpEcTRTb3dRZFVGSmdQYkc5dTVZeEtOckFyR2poUEtIRm41R19FeTlR": 1794304841.9892094,
 "Reuters|CBMiekFVX3lxTE5KdXB1V2k0RGZvVTRTVW1RV1h6OVI5VFZQZmlhQldQYlRyRldtRG93cHNSaXlYeE0wR2VmeTFXZ0h0a3ZRX1lQT0tNc20wdm1zOGRUZzg0Wkw0aE9YMWs0dVFqRE9oaU9fMjdMRGZMRUNvWjlrbHJiVi1R": 1794015035.5060358,
-"Reuters|CBMiekFVX3lxTE5MQmhXWFRGaFhBUWhvOWtIZ0ZTWThSc042RkJ5SG01QlEySFdPSnZ1ZGplOERjYklBX3lpaUU4Sm9tVkNEdjh6dll5by1XTHFlYy1rZmYySGcyWEd2aG1hS0VfWGl3VXBjejBVS0g0NWlKbThiMjRqSTdR": 1794013239.6310096,
 "Reuters|CBMiekFVX3lxTE5PaGhFNlhsMTZidXNzN0ZsbjhxWGc2UzZJbnd0cUxyT3c1RHJyUm5YWjJTZU9YX2w1Wk92elZDSDBQMFRPdlZTVV9MMzBjT1dBa0o5X29aTjM5Tm1EMTFZX0ZxVW84Uk9SdU13WURMbHBxMUx0Q2VPNmxn": 1794208531.1038544,
 "Reuters|CBMiekFVX3lxTE5TUWVSdzg4clY5UVhnalhxeERobWtvUGRWdkhwM3NFcmZyZ1E2RzBHUEtmSHdmOThNUHlEaG12dTg2MEt4UWdXc195ZXRjc20yd2FxLTBMV3dLeHhrTTlPOFl1a3RleGhyel9DNnhmMGFoX3BQX191TnpR": 1794416446.9049873,
 "Reuters|CBMiekFVX3lxTE5aVTNwSjdOTWw3azhtWEtfRkUwbmVlX3VDVWUxOUQ4am41dm4yUXdCcFQwTFhRTkVrbGNld3dXc1hJQmwwVHNKVDVDcUo5NlUtQUNLNE92dktIaUVEd2FBeWpvUjRyR2RDNjRkeWYza3VXekpPaGQtUm93": 1794591926.2010014,
