@@ -72,13 +72,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkFYa1l2Q1d3RnhPSTU0VnZ4NnA3TmwwdlB0YzRxM0x2aWRNYVVheUZzeEozbTgwMHBXM3U3RkYyZ2o4NnpDaTRCVkpBSWprMHZmT0Vsczdoa2ZPN2w1ZjBYT3R0UzVPaEE0cWw3SnpqS1BnelBqTEdKb1VQS05HSzdOZ2lZVlVWVk5oWkl5XzdWSVMydzFwclFySThIME1LWW53dTl1T25tRGpI?oc=5",
-"src": "Reuters",
-"title": "Dutch government set for talks to stave off collapse after wealth tax row",
-"ts": 1794550680.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHJUYnA3N1BkeU9GR3djUy1pMzFjNHlJNjJXZWVFb3IwVkJFR1NCV0RwVkFhRld3YjNqam9RWWZTMVc1dnY2WHlOWkZNSzZtOHRqUDQyaTY2MXQxdjEwb1J2dm1Xb1ZVaFhrZURLR2xJbG5rRmlHZkdld01FMEFvak5tbG1MWjFDRk5rWlNHUHdjWVNiSWxYaUdfZV9UTUFpWEpnQjdyXy1LcUg2Vm5CRDdsN241clFaMTdoeXBB?oc=5",
 "src": "Reuters",
 "title": "South African rand steady as investors focus on next week's inflation data, rate decision",
@@ -202,13 +195,6 @@
 "src": "Reuters",
 "title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock",
 "ts": 1794565128.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c6zjrygynpgzo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Youth scheme branded 'failure' over success rate",
-"ts": 1794550698.0
 },
 {
 "lang": "en",
@@ -2694,6 +2680,20 @@
 "src": "Reuters",
 "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt",
 "ts": 1794679301.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Gérard Larcher invite les candidats de la droite et du centre à une réunion pour arrêter une « méthode de départage »",
+"ts": 1794680195.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms?oc=5",
+"src": "Reuters",
+"title": "Unclear if equipment or contractor error caused flight shutdown, says Duffy",
+"ts": 1794680908.0
 }
 ],
 "seen": {
@@ -4243,7 +4243,6 @@
 "France 24|bff9bdb6-e035-11f1-b92f-39863e6ec812": 1794668440.9511037,
 "France 24|c1805904-dc4f-11f1-b655-bf9ba91e3723": 1794239128.551484,
 "France 24|c1da040c-dd1e-11f1-93f7-e99001e73a3f": 1794329129.9549541,
-"France 24|c34bc19a-dad0-11f1-994a-bb2771b76686": 1794076234.8083625,
 "France 24|c544712c-de7c-11f1-850a-b7b084645358": 1794480332.2905986,
 "France 24|c554b092-dea3-11f1-a7bd-2b7a8fc97421": 1794497437.010251,
 "France 24|c5b287be-dca8-11f1-9827-436faffcf555": 1794300741.068464,
@@ -4453,6 +4452,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-sebastien-lecornu-peine-a-sortir-de-la-crise_6809785_823448.html": 1794635126.030286,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html": 1794639640.3263202,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html": 1794634233.8021371,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html": 1794681046.7296891,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html": 1794668440.9511037,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html": 1794224728.8407536,
@@ -4626,6 +4626,7 @@
 "Reuters|CBMiZ0FVX3lxTE1KY2h3M3YxbWlMNFY5d0RzeUJsblZCY1FScnNmNVd6T1VGUktaN19mR0tKU3dGNWl1MGRSNUkyQTlsTW9qU1hlVkZLT0loSEpkS1ZOVEU4NjlRM0loVlh1dnhycVRlcDg": 1794312043.5081048,
 "Reuters|CBMiZ0FVX3lxTE1LbUk4NW5SU0tDV0N3VlFuN2NpRzJEVjJObVozZ0REMnNFU2R1MUstckFqNHB5NkhiSnVnNFpWbHd4Y2pNbEc1Um5MOVJ3OUtkMVM4bC1vT2NqLUtXTzVVVm5xY0JHLTQ": 1794333644.4297557,
 "Reuters|CBMiZ0FVX3lxTE1Lc0RyYXo0RkNjM0xzd1JwZEp5eWE3N2htVWxUU1M3THRzNHlfcTB1Y3FJUEwxVW0zVi11bmhvU0l6aGRUWmZNVlBHM1UxaUo3MTR4NFFlUEkxdjltanFUazRsVlQwNFk": 1794596441.232183,
+"Reuters|CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms": 1794681046.7296891,
 "Reuters|CBMiZ0FVX3lxTE1MR0pjVzdNMXVnRWhpejJRNGQxVC1tcGpMS3hRUjJLTXFib1dZdlRKMWozc3JVbmM0emtDWlZOYlRTM1FLNnJUX1BhaGtucnB3Q0dySzI4eFdyTEduMHo1UXQzemJPOGs": 1794172527.123251,
 "Reuters|CBMiZ0FVX3lxTE1QNkpVVVdldlJkOFJIRDRMVVNhSUlrUXhNOVRNNG5YMnJGRk15Y1dmWmlyZlNIdEQ3QWswcnZtblc2MXN6a1VTMnZLTnZUdnl2QVpPbUlVQ2x5c3RMNVFKNzBGSkpnRG8": 1794328240.9265742,
 "Reuters|CBMiZ0FVX3lxTE1SN2RhWnFtMUdfZExvTkZKaDJFWG5BR2oybi1ieGpKU0VZdDY2N2x6SGxVbTFRai10N2FBcVJhR3FpNlhlaHNobDRlN3BqR2hnZ3plenhtQkxWMXhUTzBfQkFxZm14czQ": 1794430849.9188793,
