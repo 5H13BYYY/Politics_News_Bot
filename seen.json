@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SU1YyY1lWQzRMUUxCdjVtQWVCbHhrMmJpNGRJeUZjYU5JSnVuUTlIQndfQVdUbE5sY3RoN09BNFFteGdlMGQyYnh3cWZqSlFRdERCT3lZWmRpajdnclVVTkh1MUtXT1JpeWxVcQ?oc=5",
-"src": "CNN",
-"title": "FAA issues nationwide ground stop for all flights due to ‘extrodinary circumstances’ and safety",
-"ts": 1794604088.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRWhWdlRWdmhkVmVUY1k1Z0ZXNjU5WUdPdkNOdmVsN1ZONjhzN1VMaC1tVExMWFhOTnZMOE9vWDFlYW1DQnVoNmZqYUZFTU1rb2JYWFFSbU5hU0pCQk1nbjU1aFBYbTRSVUJBTERpd3VSdw?oc=5",
-"src": "CNN",
-"title": "FAA issues nationwide ground stop for all flights due to ‘extraordinary circumstances’ and safety",
-"ts": 1794604088.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdjYW5zSWFIS0EteUtrN214eHhRdnctUzZEeGNIa1dUVFRDUFczS3d0cjRsUEYxMEJlNGZmOEV4ajMzM3lXUVJWdnFuLWtSVXg5WlR3UlUzX3NCQTFKS2RnU3BUdF9tYzN0dFlKcEhxVU00RTJHNHJUQVBIVWJGTmhySXhxUDRMUVAyWQ?oc=5",
 "src": "CNN",
 "title": "US air force responds to suspected drone activity over UK airbase",
@@ -1756,6 +1742,20 @@
 "src": "CNN",
 "title": "Bomb threats pose a major question of Europe. But what’s the answer?",
 "ts": 1794732341.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+"src": "Le Monde Politique",
+"title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+"ts": 1794733217.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
+"src": "Le Monde Politique",
+"title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+"ts": 1794733217.0
 }
 ],
 "seen": {
@@ -3181,7 +3181,6 @@
 "France 24|7bf021b8-df78-11f1-9e9e-796db9974023": 1794642325.6604567,
 "France 24|7c17b770-da03-11f1-b2b5-77d9cb8283d1": 1794231928.4513342,
 "France 24|7c8c06b8-dcea-11f1-a325-1fb07f330d01": 1794313842.9969897,
-"France 24|7d0beec6-db20-11f1-9cae-8161830a7e1d": 1794129329.3074808,
 "France 24|7dfca066-e03c-11f1-99a8-bf15ccc8ee87": 1794671127.938682,
 "France 24|7e839eee-dbc4-11f1-9317-b305bbe44502": 1794205834.2786322,
 "France 24|7eab97c0-dcfd-11f1-93f4-178cc544b0cd": 1794313842.9969897,
@@ -3399,6 +3398,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html": 1794399328.1357994,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html": 1794447035.8070166,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html": 1794720634.2309227,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html": 1794734126.752982,
 "Le Monde Politique|https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html": 1794236448.5204864,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html": 1794213931.4022558,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html": 1794428127.708573,
@@ -3427,6 +3427,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html": 1794631538.6848493,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/mobilisations-sociales-sortir-de-la-spirale-de-violence-actuelle-requiert-de-refonder-les-institutions-democratiques_6809694_3232.html": 1794633332.7946377,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html": 1794720634.2309227,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html": 1794734126.752982,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html": 1794262527.1334195,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html": 1794287727.628503,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html": 1794323729.9717007,
