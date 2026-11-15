@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDZvMXVueFJJaXFVTXo1Nkc4SXk5c21waTRkanlVSG1FUUFWd0VrRXNfSGYwZVV1OFYwNmoyejlSa2UyNVRWWEszcW5zejZsYWx6TFVpcXBlNFl1Y1RxamYwSUpEZDg1NzR5UDRsS3BTRlhwMFRuRzFGdGxxdEN1SEowVm9oWkZ6SGsySzhDLVE3SjVaMFhfVGRTMA?oc=5",
-"src": "Reuters",
-"title": "Hungary recovers $20 million cash in probe of Orban minister",
-"ts": 1794640980.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/afrique/20261114-pr%C3%A9sidentielle-au-cap-vert-derri%C3%A8re-la-stabilit%C3%A9-politique-des-d%C3%A9fis-sociaux-%C3%A0-relever",
 "src": "France 24",
@@ -1917,6 +1910,13 @@
 "src": "CNN",
 "title": "Lions dominate Patriots as injuries loom large over Munich NFL game",
 "ts": 1794769812.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+"src": "Reuters",
+"title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+"ts": 1794759913.0
 }
 ],
 "seen": {
@@ -3579,7 +3579,6 @@
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html": 1794213931.4022558,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html": 1794428127.708573,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html": 1794172527.123251,
-"Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html": 1794166238.3777375,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html": 1794717034.890029,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html": 1794221130.534577,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html": 1794226538.3709297,
@@ -3787,6 +3786,7 @@
 "Reuters|CBMiXEFVX3lxTE5IUGZwdGhwaHZFejlvWVdlMjBwSUZnd1NrRHVxb3NTek8ySHliaDR6N0tkOE0wT2hseGFhdWdHSG5Xb3VUSEYwUXJremgzdUFlTkVsYWhYV2M0eHNS": 1794492929.031265,
 "Reuters|CBMiXEFVX3lxTE5LdUVpRG1SUVgzQUdBLVBScDhWblNRYTVZbWtnM3ZJQXpUa0xDWGU2MU45YzVWdDJHbGc2dlJ4Q1pUUjl3ZGxrVGdXZjRMbmJUc3N2ODRaV0JmYUNp": 1794768327.023904,
 "Reuters|CBMiXEFVX3lxTE5OSGRNTXRKRVV2MU90X0RhWldON0duMG42ZFM2UkNoS1d0UWFWTVJtdl96N3N5Q2ZMQzgyZHQwY2p6X2tUaWpqNU1mNHBGSUVBZXBianF1emdZbWtD": 1794541527.2756867,
+"Reuters|CBMiXEFVX3lxTE5RNlp6V2J5dVhxVTU2ZEFHR1pGTEl2dDRxdmt2bFR3UG9EbUxhZVNiY2JnSExpdXpWdDQ3aERGS0Y0RXU5M2c5V29oWkRxUlc1TTl2WEZ4SVcwSFkz": 1794771036.0151367,
 "Reuters|CBMiXEFVX3lxTE5ReXphRFFKekpJdlQtMTNQQjVUMUgyOFluZE4xRnp0SGI4aHdQS2ozcDVEdDRpUkxyRXAzMGhTQ2Y3UzVmbVFjay1TODM0ZlZFWVlwX3pmYkhMSVRm": 1794736840.5058265,
 "Reuters|CBMiXEFVX3lxTE5SYmRJV0RZRXBPaEFyWld3aVhYcnVuYlNEc2ZoQXp2OXd6YlpjUHZyNTkyV1FSNUFYSkdiM3Q4UmVzblBMelA1emZ1TnpWUUptbGc1UU91MTlnMFA0": 1794404729.9028966,
 "Reuters|CBMiXEFVX3lxTE5ZR0lWRXFXQ181aEZhNlh3Mm40WHJXVC1wa0tOMUFYbk1YdnNjcDVIRE83Z2pzaWtab3Bxc3o3eHo0YmVQZjh2MTQ1MTk5NVZxV09KX3otMnZPMDVL": 1794301249.838865,
@@ -4331,6 +4331,7 @@
 "Reuters|CBMingFBVV95cUxQUWI3OGxfWTRxVTVMY3diaEZFMWZmRlZGYnZ0dnJKSzZqYjN4U2xmMTIyMVJ4U3QxcnI1VEVSblhZck40NTZCaGVhamRFQ2l0VDZnNXhYLTRTRUNRSDNqVW9FQ2pHZXRfQzNQOUEzRG9vaU82Q094M2J0eGo4T3N3QWdadEVmQ3BJR3FPRGNHUXdmcWpWcWItVl9LVERRUQ": 1794726929.2062902,
 "Reuters|CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ": 1794483929.1530151,
 "Reuters|CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ": 1794569433.3859904,
+"Reuters|CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc": 1794771036.0151367,
 "Reuters|CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU": 1794412841.416497,
 "Reuters|CBMinwFBVV95cUxNcXJQckZZV1RqYWw0WGMwenZ6VFBGZkZjZjFaZXZtU0FLbmx2cXQxTW5tR282aElucG96NnZPdXVhVjBUMnVINlNwVFJxNEF2OXFDWXh5TDhfd0pJVEVqUHVDVkJHSGhmaV9ORzU5MXF5TjBFc0dWTURmTGN0amd2TTNxa3NBRjM0RldjSEJEZUxUNmhWZlotd3hySXlVZ00": 1794501039.2745605,
 "Reuters|CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs": 1794230128.0095983,
