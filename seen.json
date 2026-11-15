@@ -8,39 +8,11 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html",
-"src": "Le Monde Politique",
-"title": "Prime de risque : Laurent Nuñez propose une revalorisation jugée « insuffisante » voire « inadmissible » par les syndicats",
-"ts": 1794602834.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzFWY2ZYYUk1d1pNcFBCNExQaTRDYU9NNGluRkV0MU9HRHlieWVVLWdOdG9iUzJYWkxRVEJUcERUV3Qxd19fOTNsS1AxNEJ1M1BzMlVnUlNNV1FHa28tR3NBSzNzaENLNlJ6S2xtSzhENmVGbEJ6WGpfei1CQktXWmcwemxlRFFCUDViVUZwTkVmWVRCUnplbUFDRDhYZXQxd1ExVHduM2EwRG5lZGU5UHdzVUVmUG56UGc?oc=5",
-"src": "CNN",
-"title": "Jeffries interrupted by hecklers at conference for Democrats",
-"ts": 1794603000.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SU1YyY1lWQzRMUUxCdjVtQWVCbHhrMmJpNGRJeUZjYU5JSnVuUTlIQndfQVdUbE5sY3RoN09BNFFteGdlMGQyYnh3cWZqSlFRdERCT3lZWmRpajdnclVVTkh1MUtXT1JpeWxVcQ?oc=5",
 "src": "CNN",
 "title": "FAA issues nationwide ground stop for all flights due to ‘extrodinary circumstances’ and safety",
 "ts": 1794604088.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM1hhZ2pySkp3SHdfNllHQ2VsLUFteHIxRlFGVVR3QXFIbXJZX01HQkZ5Ml96SjBMSkJkOHh6TjNIakZkR3k5ME1WY0RyYTNBQkxvaF9qYTVtNm5GVEFqckVEalRReVdXUFJKZVhlSXEzcnotRFMyVVBMZllhdmJxUFBwRjByVExHbGhnR3luTDVqTlRxOG5TTjFVbmdBRmM?oc=5",
-"src": "Reuters",
-"title": "Yemen's Houthis say they fired missiles at Saudi forces in Jazan",
-"ts": 1794603259.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEdIekhTWWgxblBSSGxZVENTVFNnODhhU2NWamRNMEg2cTh4SE9QSXFfSW10elhzS0pxQVpJazd1Rkx0eWhOQkxLTlg3VnNwRHZzbTlCRk45aHpQRjVxRktyRXVfd25wOHk2VmVITXdoVGdoaDg2WlpxcW1vMVVaT3hTLXVtMWpfMGlOdlF5MVY4TlVYMllUTE1DM2VpMWtEbGkzdk8yZzNxZGloM3hpUWNEMmpjZXBRZ1p2OFoxSQ?oc=5",
-"src": "CNN",
-"title": "Jeffries interrupted by hecklers at conference for Democrats | CNN Politics",
-"ts": 1794603124.0
 },
 {
 "lang": "en",
@@ -174,13 +146,6 @@
 "src": "CNN",
 "title": "Paraguay looks to restore confidence to financial system following bank collapse",
 "ts": 1794608474.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZWlRWEMyNHRnYXpteElkV0lIVlJHb0JWeG5YVjlVYUgxeU8tLTVuUE9CYVc5SlJkd001U0paTm0zWVVLRlgxbVJqYUptQUVVZzVKTlJHTVJKRGtjTHVzVXppUDdCNGlVQndZSnZ5VGUxZVB6S25KdTExUXUyeDg?oc=5",
-"src": "CNN",
-"title": "These are the best arch-support socks for all-day comfort, according to podiatrists",
-"ts": 1794603600.0
 },
 {
 "lang": "en",
@@ -1784,6 +1749,13 @@
 "src": "France 24",
 "title": "\"GTA VI devrait décrire une Amérique en déclin tentant d'exister dans un monde qui a changé\"",
 "ts": 1794730751.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4V1E0TmN6SmtzREV6ejRhRzI4M3NoM0Y4ZjBsV2pGS2g4M3NudHdUS2RTdzh1cmpJcndXRXNHRV8zMzZybXNXRXF3QkxrbVotT0FQNmdhVzZvTFJlTUlXM1AxUHlwZUxpVmc3WDJncnFGa3dzRU9VM2syWQ?oc=5",
+"src": "CNN",
+"title": "Bomb threats pose a major question of Europe. But what’s the answer?",
+"ts": 1794732341.0
 }
 ],
 "seen": {
@@ -1819,6 +1791,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c9143zxyyvndo#0": 1794389433.7668605,
 "BBC|https://www.bbc.co.uk/news/articles/c9143zxyyvndo#1": 1794473127.079854,
 "BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#0": 1794508242.0299418,
+"BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#1": 1794733240.2222254,
 "BBC|https://www.bbc.co.uk/news/articles/c98rzzvde1llo#0": 1794380444.2623813,
 "BBC|https://www.bbc.co.uk/news/articles/c98rzzvde1llo#1": 1794505527.8352904,
 "BBC|https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1": 1794215728.8381066,
@@ -2151,6 +2124,7 @@
 "CNN|CBMie0FVX3lxTE9nZndDUU1kVzBKbUh5TnZOOGotT2VtRkpaeGRTUm1fYXFzYTJYQUVseEhkUWkyMnFjZ1pDVW50c09MQzJMRHpHNTYzeTBDd0hTMXNGUU5WMUtLM3FpLVdMYkowWW16djBwaXlDRUMzQVcxel9SWEsybTdaQQ": 1794582930.7858627,
 "CNN|CBMie0FVX3lxTE9taUF1U3pDc1hIVTY2bDVkQmxpY0lEcWI4ZUpYb3hKSElmaFRCWmhGdGhkdnMwb2t0MzU3a09zOFlEd1NrV2NUbEtXZk9DTEpHcEwzYUh1N2V3RVpCYWhJYXYxQ3V3eTR3aTBpVXNLWGVLeEhWUXFNWmlJTQ": 1794243646.3737514,
 "CNN|CBMie0FVX3lxTE9xYXlEZHVtZmwtdjF4YlBHV1doVEVWa0kzTlNlM2NLOXE0bEJTSXd0ajRrZndzZFRSckhNd2JnWDhfRVBiMy00TnlGdk5ubmtSR01PNmo1T19FWlNCdUJidlNMMDQwLWpJZi1adGZkQUctYzJwMDljVjcwTQ": 1794136526.2489667,
+"CNN|CBMie0FVX3lxTFA4V1E0TmN6SmtzREV6ejRhRzI4M3NoM0Y4ZjBsV2pGS2g4M3NudHdUS2RTdzh1cmpJcndXRXNHRV8zMzZybXNXRXF3QkxrbVotT0FQNmdhVzZvTFJlTUlXM1AxUHlwZUxpVmc3WDJncnFGa3dzRU9VM2syWQ": 1794733240.2222254,
 "CNN|CBMie0FVX3lxTFBId2xCQmVtdVRVOU4xanZ4SXlYUFV1MVJFZ1lnR3BwVm1SOTAtczc1eVNCZi1WVVpZbkl0bDBGOXNiQ1lBVURQRUFXdnIyMEFPWVNLdFBUbk9TdkpTcWpKcVJ5ZFNQdVN2aXZQeGxqbGE4cnpfSHVlLXZCdw": 1794177930.9390814,
 "CNN|CBMie0FVX3lxTFBLS2IteWtzbHV4Y0M3VExiZXVmTzlZTzhQZ3hoNjlISm5fMG1lNk91TVZLUy1iOU9tYnRWRUd0LTFzZGgwWkFQRjl1cXpicWZfM2pvUGE2cHlacWJOeWx6NjV5LXlGMkRsQmRFQWVsMlhXeDRGYWtiRktGbw": 1794451525.3887384,
 "CNN|CBMie0FVX3lxTFBRTS1ha1RQazMtTm1pbVRPdEF1V1pjalNVd2x2TTh6TFktR3YyR0Fhem9BWWpkOE9mcXRqLTR3V3JsUWVLQ081MjRLVHlSMVhhREtEVzdRdUJ2N1pHYnE5R1ZVU2hXVjFmbDAwTTJlY1dIejhFV05odTRpVQ": 1794407435.961119,
@@ -4592,7 +4566,6 @@
 "Reuters|CBMivwFBVV95cUxNQ0hpUFBLeDI4ZDJzc25aU0VuT0FKVkNBSHhEMHgyVUlXc0NGcXVyYjJZcDl3Vy1kN3NRX2wtSUVFZ1ctajJhMHQ3UC1PeEJYczNZZ0dZVEVIeEoySnN0X0lMQTlCd3F5OWVSUHlQNkZTdEZKRUZiX0NjOVNNaVhaek4yNVVkdXFzaURTdXJCVVk4QTN1NFdjcDYwZFdGal9KNVBaRWQwaDRTaEFYZ0x2WkZTVUZITHlUVHZqbDFRZw": 1794204930.2222698,
 "Reuters|CBMivwFBVV95cUxNQlZVTE9pbGdtWnM4dEZLRC1YWDlWbUhtM3pVd3JyVXd4R0FXanhyYmJTcDdyektDbDNIRDJmRlltUHFEdHg2Q1R0ZnZ6QUNqSmlHZ25RbG9peGdTNE1JN1pTS2dENkFzVlhfeWZ3eVc1dVJzYjhUNW92RmV0dFFWcllzb2U2TVRreW5HdXlIUzgxUm93OVl0SXhLbXdueWY2TGYyU09GNnhRMzl0NU5TN2hfZFFLdGEyVHB3Z0tvTQ": 1794489328.826725,
 "Reuters|CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ": 1794502851.2602317,
-"Reuters|CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ": 1794128439.2508273,
 "Reuters|CBMivwFBVV95cUxNWDNuV0ZtNUJSM09SdnhpOUNHcnJkU05iSHFPSUJicXNBLUI0aGVyODlnaThFZ2huUlJqZWpYSklNclJkOU1hdmFyeG5URzB5R3kxUTNTekd2Q0s2eEVEaHJETGVRNS1oVjFTMXdBaTBDYk9vUHM0cGp1Ykp4akRwUThxd0NYVHNnVEV5OVdZWEtVRDZDb1VJVjN5ZUlpVFZYLVV6VmdyQnl1OUVPUGxmWWRkQ2hzc3dRN1dnUVZfNA": 1794319253.088356,
 "Reuters|CBMivwFBVV95cUxNWEFrbS1jXzhrcGhDYkc5T0M5ODBOeFpBd25KdDZaUFB6MDFBUFlLWElsdk94c2ktOVZ3bjc0RTlsaVBXTGlMb3lPdGhYSlZkTHZtaFdEektzdjdlNWVQRmZZWE0zU2NEdGljcmZjUFJTQ2pIYU9ubThNUURmd1hjWkdKQndOMk84MmlXTXVLcFE0Mi1wek1WbnRwSmRHQnkwaU4wejNiaVJXN2NPbU5sSWxPZVlBV0tfLVhvZzJkdw": 1794398442.015356,
 "Reuters|CBMivwFBVV95cUxNWWNWODRLaU9OU0oxdU8ydVR2Vm1NNGk1X05hZ1dVUEY4bnJmYUF6bng1c1JYaEFNYnRUXzM4WWlUSVl6TFdSVU1ieFg1dzZjdlZLRkcxU3hWbmZ2a0lwcDJybnptQlJ1RkU3ajZWUV80dWlZU2ozMnZVVVVuZWRzVlJQczBMeUVBdEQ3azA1d3ZURi1JQjYyVW9COFZ0WE1fTDNZcXFnY253b0JvZER5Y0ZIV05pQXRvSVF2My13OA": 1794153648.3598208,
