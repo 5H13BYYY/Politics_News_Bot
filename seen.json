@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXF4YXJqb2l0cFp2S3JEbWhUYW9XNGtCelpBTi1oeGdiRk5EVFBBaGlPQWNGZjBJd0Uzb3VhWDVnU3NQc0haZG1kQjdEdFl6S2ZJbFRrYW92OG1icFR5OXFvR0pIaEptZHpNQ3I0OGM2YnNUTWxPQmZRRXdUNUJuNF8tbFJGVkR6ZnJydHFZZU96M1BiYmtOdHlxSmZNWEpHRldVaGRHOWJwQ0E?oc=5",
-"src": "Reuters",
-"title": "Polish President Nawrocki vetoes digital content bill for second time",
-"ts": 1794590698.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LWnp6WEthdFdtekI2U2lZLTNlOTNXcFZZemxWNEtTLW11YVZ1eW80cDFkYmxyWnY5TkZpaWJTVUVWbHhOVzlqemtBcFo0UDE4UnhWZERPUm9wMXBFUG04SDQtbngzelhlTTQxUHdjOFRqVlVyWnpHMlRXTEx4cjA?oc=5",
-"src": "CNN",
-"title": "Headphones & Earbuds",
-"ts": 1794590707.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html",
-"src": "Le Monde Politique",
-"title": "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage",
-"ts": 1794590753.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWlMRG5kMW1xdm92ZDJfRVFsLVprVFVDbzFHVGNFN2k2UEZndzVZVlo3ZFZJRjlQTDBObXJBczEwZVRxY244UTkxSWZ4cjg1cmMzUFR3c1lmTWZfN29RUW5zTTk3dVRHTTVSbkltbm05Q2RLenJHaVBIakwyclBRZDNETm0wMlR1QWNLNWJ0b01YMTFxaFpzczM0MUFXV0FhNEE?oc=5",
 "src": "CNN",
 "title": "Jeffries interrupted by hecklers at conference for Democrats",
@@ -237,13 +216,6 @@
 "src": "CNN",
 "title": "Democrats investigating sexual harassment allegation against incoming Ohio Congressman",
 "ts": 1794599289.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zejhTY3dySnhLYmE1SVVXeWlUc3dNTUdkaGJ4UVRxQm5lQ0o5RkYxSmh5Q191YzdBNDYzcjNPU1ZHbFF4X1FENERsY2xaS21uNUY5WnJOSkpGci1Ud3VkWGNYbUdkbV9nb1lRMS1pZ2R6cjhXemh2SDJEbw?oc=5",
-"src": "CNN",
-"title": "J.Crew Factory just marked down sweaters, coats and everyday basics by up to 80%",
-"ts": 1794591000.0
 },
 {
 "lang": "en",
@@ -2106,6 +2078,20 @@
 "src": "Reuters",
 "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
 "ts": 1794719040.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html",
+"src": "Le Monde Politique",
+"title": "« Les élections au Brésil, aux Etats-Unis et en Israël ont vu la défaite des partis qui ont misé sur la provocation sur les réseaux sociaux »",
+"ts": 1794719706.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+"src": "Le Monde Politique",
+"title": "Le lent déclin économique de la France face au reste de l’Europe",
+"ts": 1794719707.0
 }
 ],
 "seen": {
@@ -3749,6 +3735,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/08/moins-de-touristes-etrangers-dans-les-commerces-parisiens-autre-consequence-des-manifestations_6808417_3234.html": 1794131127.9000802,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html": 1794399328.1357994,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html": 1794447035.8070166,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html": 1794720634.2309227,
 "Le Monde Politique|https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html": 1794236448.5204864,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html": 1794213931.4022558,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html": 1794428127.708573,
@@ -3777,6 +3764,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html": 1794663927.4938285,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/magali-della-sudda-politiste-dans-le-courant-conservateur-du-feminisme-le-concept-de-nature-irrigue-une-tradition-racialiste-et-nationaliste_6809620_3232.html": 1794631538.6848493,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/mobilisations-sociales-sortir-de-la-spirale-de-violence-actuelle-requiert-de-refonder-les-institutions-democratiques_6809694_3232.html": 1794633332.7946377,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html": 1794720634.2309227,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html": 1794262527.1334195,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html": 1794287727.628503,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html": 1794323729.9717007,
