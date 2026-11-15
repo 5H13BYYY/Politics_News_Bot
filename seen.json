@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHo5eU5rQ25uV0ZrVk9WVEJ3a0QtOU1zU3hiWkZFYjcyWll3eGJndDJqTExYelBNUGhuS3pORlJqbElsWXBON3pfMlhmRm9ac3FZS1U4NmswS1ZEcm43VElVbkxDMnZOamRTZmFTTDhuTjNuMnVoeG9EaTI3RUxGdEhuZmQ2TEhPYXU3M0tfTldMTjVR?oc=5",
-"src": "Reuters",
-"title": "Pochettino bids tearful farewell to US Soccer",
-"ts": 1794594878.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
-"src": "France 24",
-"title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
-"ts": 1794595012.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cr5y139wplppo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Tories pay artist for Burnham images after legal threat",
-"ts": 1794595273.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHNWeFYxTlNOZElZQ1BSdDNZSXhJM3RtVWNhRXJ4SkcxVU5MU3ZIdW1Oc1gxa2Y3eXJ4NFc3b21Bb3lKT2pwZVNxMUtSa2NDS3JYSTI5ZzJzRkU4Z3ptRDlhVlBvWXNHdjh3MGNBLVg1bjRRV2poamg2eHo0Sl84ZGFPaS02RjhJMVo5RWtWMC1rc1pFNkE3UkUwS3VuUjJnejl2NHZIWGdrM3psTUZR?oc=5",
 "src": "Reuters",
 "title": "Supreme Court will weigh Trump's asylum restrictions at US-Mexico border",
@@ -128,13 +107,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yZDVJZ3lUY2piZ2VTQWFtaTY0djJwQS1NamZvWDdxYUViZGI2MVJCVzVWSFJxaGo0SEpkUm93VEdETlZhUWlkUlRsMldvTjEzLUMycWFlWlVpLWpHS2o5OXdTazBKT3M?oc=5",
-"src": "Reuters",
-"title": "Pochettino bids tearful farewell to US Soccer",
-"ts": 1794594878.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUVuQ2FwS09FalhDTXhjMVU0V3dlUGU5NFpGUFJrRmJuUGxwWGNIUE9RX3BtdDF1dnV3MU5GcG1qak9NVEVreUVyZ1hPbnNKWV9BSERYTlRSXzB0S1JrcjNlM2dqcENSZVpCbDQ0TFFVcXA5WE1mQzBZWkE4N1kxZXd3T2tUcE5qZ0pwQ1VWNmVoRlVIYWhZLVZhS0JjT3BIMTN6M1FlbmJSR094dnRpVG13cmxmcy1WYW5sTg?oc=5",
 "src": "Reuters",
 "title": "Foreign investors head to Caracas amid political transition in Venezuela, US",
@@ -153,13 +125,6 @@
 "src": "France 24",
 "title": "Jacques Nesi :\" les soldats salvadoriens sotn accueillis comme le Messie en Haïti\"",
 "ts": 1794600807.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Labour lost its connection with voters, says Welsh leader",
-"ts": 1794595451.0
 },
 {
 "lang": "fr",
@@ -188,13 +153,6 @@
 "src": "CNN",
 "title": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
 "ts": 1794601716.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZERTZGhOX0VNTVExQ19HN0xWOURhLVUySWZlMlgzQ2NGcE16eFRFMHJvVzBycnY2QUZhQ3VZWVdYRlVQaXZzMEJUU0d1Zkk3Ym90N3Y3REg1bm1lcXdFNDhldVdwNmdBVXBKcHltdnhySDBSZ09nTDFrSmJocm9IMzFpcmRPTDNRS3hDdTA3RTBycWg3TjRqalYyVQ?oc=5",
-"src": "Reuters",
-"title": "IDB board approves engagement note for Venezuela",
-"ts": 1794595000.0
 },
 {
 "lang": "en",
@@ -3254,6 +3212,7 @@
 "France 24|1b3a6744-dc11-11f1-b55d-9d0f7fbf1a92": 1794213035.5221248,
 "France 24|1b79abaa-df60-11f1-ab2f-9f89a4c8da1d": 1794587447.1831682,
 "France 24|1b872cd4-de8a-11f1-85b4-cfad23bd3329": 1794491129.0216165,
+"France 24|1c99bc86-e03d-11f1-bba1-5106f7442667": 1794725128.9626982,
 "France 24|1d13b8aa-ddf5-11f1-a227-ebc177c1d506": 1794430849.9188793,
 "France 24|1d22ed08-de9e-11f1-b3e1-e50d4ed20c33": 1794501927.4438345,
 "France 24|1dd57ce4-dcf9-11f1-89b8-b5effb280bb0": 1794313842.9969897,
