@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWlMRG5kMW1xdm92ZDJfRVFsLVprVFVDbzFHVGNFN2k2UEZndzVZVlo3ZFZJRjlQTDBObXJBczEwZVRxY244UTkxSWZ4cjg1cmMzUFR3c1lmTWZfN29RUW5zTTk3dVRHTTVSbkltbm05Q2RLenJHaVBIakwyclBRZDNETm0wMlR1QWNLNWJ0b01YMTFxaFpzczM0MUFXV0FhNEE?oc=5",
-"src": "CNN",
-"title": "Jeffries interrupted by hecklers at conference for Democrats",
-"ts": 1794591518.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2pNVXU3WUVfRW9HVWo2TmFyUjF1TU1nWl9tT2IzWkhleDZra0VscWtDXzZZVy0xT1FCbHEyOEtucGNpVUVWUTdpTU40MVdJMFkyUFBkU3Z6a3RWVHl0ZGVzdGhNakRlcTZCa2RCMkF0TVVrdjYyNUh0WlQzcnlJX29IRENjenMza1hKcjIwS0x4WXZzTHlzS0NISFJzTXFkNHlB?oc=5",
 "src": "CNN",
 "title": "Bessent blames Commerce Department in Nvidia scandal",
@@ -321,13 +314,6 @@
 "src": "CNN",
 "title": "Jeffries interrupted by hecklers at conference for Democrats",
 "ts": 1794603000.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3c1WDVKOVNJcWZEc3BZamtibGpDaVJSU1hnUnhnWkFMTUlCcUpYSVg0Zm1iV1N5d2ptcm9VM2x6OTBMMUxkdV9peG4wc2x6WXZrWUdXREhDZzBpUEhSSVNPakVVVUxyeHQ3VlVxNmszLVZOVzJwa19SSEZQUU5Gckh3ZVhPc1I5LW9HYXVVSDBWblhWWmhQODdEcnBHTHJiU3pHeUs2RDR5cHNLWkYyOHVzb290Vl9hSGR5bW93aE9YM3M?oc=5",
-"src": "Reuters",
-"title": "UK police investigate allegations against best-selling children's author Walliams",
-"ts": 1794591467.0
 },
 {
 "lang": "en",
@@ -2092,6 +2078,13 @@
 "src": "Le Monde Politique",
 "title": "Le lent déclin économique de la France face au reste de l’Europe",
 "ts": 1794719707.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2hERDJXQTJlNERXVWpFM0hEUkV3Nms0NkM2dU5OV05FNTJjWTctSDJveXRIdUpaa29RSTFWbExrY3ByRzdJT1Q1VWFvZWxyQUlYU0FmbzJ4MjBKNzdCYWJVSXQyYmZ0TjNIUEtRU1M4bDc2X2dacmotU3UwR0VWOWVHUkxHOFVHb2ZURw?oc=5",
+"src": "CNN",
+"title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
+"ts": 1794720615.0
 }
 ],
 "seen": {
@@ -2298,6 +2291,7 @@
 "CNN|CBMiZEFVX3lxTE5lVGJBRnJ0ZTFFZWZsRGhwYi1taXRXLUhyMGxZOEVPVDNNekVtZ1JKTnBWeHI0YzQ3OEV4MGZselNTOUwtbnF2Z3hpdGFBMzRPNERuNEJ4QlkzRlRoNm95R1VNaFo": 1794520845.0461998,
 "CNN|CBMiZEFVX3lxTE9tUEJGUnU2WFQxV1VyekhmZU8xb0F3bG9KbVJVSy1hUkhlYkFKVFBaNm9XckZaMDM5WlBxRTNfX0VJQlFCVDZaa3JnWWhBcjhFa18tblhVN3N1NWlfakpLRjRZX1M": 1794596441.232183,
 "CNN|CBMiZkFVX3lxTE03T05rd19VNmRxYURwRFBkOXNSX2w0V2lHWmVOb1lCTTA2M2RvTW5rRm52S1doc2Uza19JMy1pUi1yWFhId3Q2NURVYWxjWW9qLXkyQW0xdmhweFdEcGxveUIzRjhVQQ": 1794669365.2421284,
+"CNN|CBMiZkFVX3lxTE1uM2xWZ3RLbHB1NTlwbTBiMW1qaG0wTjJaZzNYOHRBdUZKMG81eFlsQ3lrUnFIMnJzMi1EWDdlMjBfUEMzYW11TE5RUXFnVmt2SWRSeVlnTzNyOVdRV2hPUkVoYVBiUQ": 1794721526.8441114,
 "CNN|CBMiZkFVX3lxTE5mZ1FwZzczaEZ5OHRwTGphT2F0dGlyUy1zLUZTM3BPUnJtLTI4d2FVUnVMOTNzU2p5cUFhazVZR2NRQ0htUXBzQmhIeDNqTVRUUmJXdWZ4angyRE9vbnhXSjBzcTkyUQ": 1794711647.5239077,
 "CNN|CBMiZkFVX3lxTFBZLW5TeGhyQkxsbk43ZjNPOENJTHlDVWRrRnpLSld4V1VuR3NzaU82aVAwbjh3TGhBS1hjZktlbnE1SEtqSExleUxFZk9ETVRCREE3Z21ESHpUcENtLWJybVpmdXJNdw": 1794499241.2949064,
 "CNN|CBMi_gFBVV95cUxQTml5Unl0dHl0MVZzQTNkbjZCNW1jMmQ5YUxUTlluSmV5S29MVEptdExpYkZzVE1HTEY5R25DWHpsME5XNVRGQVBhUDl4Z2h2aUdNSUpKVVRIMVRIM044endJM0d2bGJUU2o3U2ZqdzBtVHZUQ1NLSjZQc0g4OFprMWlNajNfRlczQ0hkOEZEWFdkWVE2eHdpRUhvVHlialY1WDFRZmlpZzJicVBQOHRaaGdKMDcyMmljbnZXYTVLczRYeEJFMVZpZUJnU0FxLWJqcFlCdnl4ZzlMR0NEYTU3WlR0ZlM4SWtjaHNfemN1TmVHWkdxMGJwV2tITG9rQQ": 1794584314.9469829,
@@ -2778,6 +2772,7 @@
 "CNN|CBMijAFBVV95cUxONHdiME9Udkw4M0d5Z1pjclNycjgwcUpHNG9pbWRncXVDS2p4NlZXMlpva2hMY0hpYUlvd29nRHhJTE02MktjaDVhUGVUTURpNDZxRTJpX2VJbWJ5TTZCdl9GT05LLXNqUlhqVDVxQmQtZnNjaUo3bTh0SmtaNXV0Ujk3eEtVem0xN2pMLQ": 1794688235.189422,
 "CNN|CBMijAFBVV95cUxOOGpBWkpuS0RxS1YxR0pQckNYRWNCSW5MbDdrM1Zpd2E4eHRXaDJVWjdwdjBUV25ObHpVT0Nsa1UyQWxMZXZRdXZmdEtYS2pLaUgwM1hMbHhjYVRRTS1hak85VldlQ2VPYTRmcjAyd0FzWUtHR190ODhUd3RPSFB1MEVxTWtjVGo3NlM4dg": 1794277835.6574578,
 "CNN|CBMijAFBVV95cUxOOUtQWC1wWkhPbmVueTZ6VmJ5UWRiZFVZNDk5WElHQk44N0NlRVF6blZhc01ESEdYU0JUOE94bkVmQURYOU5RWDFCQTNZM0ZlbGpmckRzTlBPZkU5WGV0dkl0T24xZGt0a1VnclZGdmI3NTVwX2pfMklsTFVpai0tVmh3Wjd6UXpSN2h1cg": 1794450636.602461,
+"CNN|CBMijAFBVV95cUxOS2hERDJXQTJlNERXVWpFM0hEUkV3Nms0NkM2dU5OV05FNTJjWTctSDJveXRIdUpaa29RSTFWbExrY3ByRzdJT1Q1VWFvZWxyQUlYU0FmbzJ4MjBKNzdCYWJVSXQyYmZ0TjNIUEtRU1M4bDc2X2dacmotU3UwR0VWOWVHUkxHOFVHb2ZURw": 1794721526.8441114,
 "CNN|CBMijAFBVV95cUxOSFl5LUptcEZqdmdZM0IwLUU2YjZBY1hNWVdSZEkwMEZkWXFpWnNXbnI2VVdiRjZRUUhIdmhfZE1CRHBYanFzblZ1WVk3VEt6Qm9PM3ZMb3I3MmhKVUVzRzFIYUdUbjBPZklaV1c5cUE2X05WVVZkcnpjaUJldGxFV0pEX2h1NHR1a0tmaA": 1794255330.839107,
 "CNN|CBMijAFBVV95cUxOU1JQVlZaLXdCSFFzRlNvU1FTcEZRdzFZdDZXb0RIRlpKSmlMUGRYS2F2bkd5bW9XRHB3MHVocFFjbVV4RFM1MkNfYjNLZEZrWE9qNkwtVDVOWEhGMWFDZGRYZmZFSVJjV1BEWXJ4VHBDSDdPRDRPVEdPNzdqQlRKQjdJRmNfOG5zTnpGYw": 1794659433.9885006,
 "CNN|CBMijAFBVV95cUxOY3pZRms0OUJMQXhwbnhQMkVFLVlSNFN6MEwxejZKdjhmMXoxb0ViN1h5cEdsOG9XRVVGTkl3WjVxVTF3X09uRlFvVUJzY0RUNnFjTXppSjRLUWdtelZQSWpwUWlYQmY1ZHRlY1N2VkdXaV9pVUpndUFqTmpPS1lWOXowQkdpb0ZHRXYxaw": 1794339930.9466462,
@@ -3743,7 +3738,6 @@
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html": 1794166238.3777375,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html": 1794717034.890029,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/08/contrairement-a-ce-que-semble-craindre-david-lisnard-la-memoire-ne-conduit-pas-necessairement-a-la-complaisance-ou-a-la-militance_6808421_3232.html": 1794136526.2489667,
-"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html": 1794116727.6666083,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html": 1794161728.293111,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html": 1794221130.534577,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html": 1794226538.3709297,
