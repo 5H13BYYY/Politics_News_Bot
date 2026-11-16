@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/asie-pacifique/20261114-sommet-francophonie-contrer-rwanda-rdc-favorable-au-candidat-roumain",
-"src": "France 24",
-"title": "Sommet de la francophonie : pour contrer le Rwanda, la RDC favorable au candidat roumain",
-"ts": 1794666870.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5",
-"src": "Reuters",
-"title": "Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps",
-"ts": 1794667050.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdzhXZ0RfZzl0WkNTS19HcldnTDVqaDRWalAtNC0yNEx6TDA5MnZ1c3I5U0ljUk16YmlGbTNXRjVNNjBxWTlSQzJESjBfckNTQW53eTQ2RGhUVjdwV3laemJtTGIwcjJsZWctT0dkWGJ2R3lDTzZvd2JUeUpEN18xcVctM1ZMWlVYTTdLNUdidmtVZEF5ZE5aWTdzQzNiZERnUDl3UkVRdWktdVJtbWlJVTZuNWdHYndjelM3ODBYU0NYWjhMRUpEbU02NjctZ2V4bmFyU282WFRQX0U?oc=5",
-"src": "CNN",
-"title": "Behind the scenes with Kaitlan Collins: Trump stands by Hegseth despite impeachment efforts",
-"ts": 1794667409.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
@@ -1987,6 +1966,13 @@
 "src": "Reuters",
 "title": "Deleted from India's voter rolls, some Muslims face detention, deportation",
 "ts": 1794795420.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/europe/20261116-tcheques-manifestent-en-masse-contre-reforme-financement-medias-publics-redevance-andrej-babis-liberte-presse",
+"src": "France 24",
+"title": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
+"ts": 1794796467.0
 }
 ],
 "seen": {
@@ -3465,6 +3451,7 @@
 "France 24|975976a8-de87-11f1-a2ad-0d7dba0cefc7": 1794485727.762882,
 "France 24|97d7f8ac-dc57-11f1-92a0-d5910e7dfcb7": 1794246330.1341383,
 "France 24|97e87e7c-dc4b-11f1-bf27-d778a734f017": 1794236448.5204864,
+"France 24|982f1e96-e163-11f1-a9f8-d3145b9c4877": 1794797006.968104,
 "France 24|98849e5c-ddbc-11f1-854c-132fd982fa1d": 1794395727.0769234,
 "France 24|9913a638-df6a-11f1-9c56-6f19e2f41d6b": 1794587447.1831682,
 "France 24|99a7c0a2-df7e-11f1-a1b2-cf3de098157e": 1794591037.4309053,
