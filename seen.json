@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Welsh Labour 'didn't focus on improving people's lives'",
-"ts": 1794674513.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTNtbklpVmpyZVlWc2p3ZWJ2VFRzLThyaHp1ajhWbU11QlIwY19iWHA4ZHhZTlg0UXRtN1NXSnNLeFU3MU9Jd2VXU2FWdkhNSGdndVh5T0c4dG9MVjNiNG9RZTlwd0Z6WU82d2xRSm9ObllJX3hjc2poeENrWVZpV1dPdVJPSHF0NFRVNHhpS3pjdzh2NFJBWG1YQzBKMDlFUUZYeXhLRm1mMEk?oc=5",
 "src": "Reuters",
 "title": "Pope Leo visits remote Andes town on special stop of Peru tour",
@@ -293,13 +286,6 @@
 "src": "France 24",
 "title": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
 "ts": 1794690850.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RM3U4Z0J4LXJVUm9pU2N0Ri1NdmY4LXJIak1TYjdJOHFKdmdzeXBUbHdNREVwRF9yVG1xb3pqQjBvZTZQd0llbGlOTFJ2TDFYRGxzTWRGWmNFY0xWYnlSNHNUdnZSNTQ?oc=5",
-"src": "Reuters",
-"title": "Escaped Alabama prison inmate seen leaving courthouse",
-"ts": 1794674474.0
 },
 {
 "lang": "en",
@@ -2001,6 +1987,13 @@
 "src": "Le Monde Politique",
 "title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
 "ts": 1794803345.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Marine Le Pen assume sa volonté d’abandonner l’Ukraine en mettant fin aux aides françaises",
+"ts": 1794803403.0
 }
 ],
 "seen": {
@@ -2309,7 +2302,6 @@
 "CNN|CBMickFVX3lxTFBKWXhkRE9uLTNUaHlsWExmMDdWSGhaMTJfRUZIV3dWWXlnM0t4NEZla2h4VDJzSjE2SFpCNHBwMVFkdzBKV1FWcnl4NG5BV3k2YzdrRHpOTWt0ZFI5M1hzekhYZFJaM2lnd3psenM2T0lfQQ": 1794455125.8007283,
 "CNN|CBMickFVX3lxTFBNa0FYMnVKLTBldDdzYTBLOXl2bVh0SFI1QXRTWV9ScnB3d2tuRjg3S21RUHg2S3FMeW5Fckc1eUZhSEloaUNVUTZmdDctblNRSnNCNkZ6MGJGN1VsMzkzaHVYTnRGWnprc3Nlc3JvdTNTZw": 1794240932.84798,
 "CNN|CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw": 1794565834.984634,
-"CNN|CBMickFVX3lxTFBubGxFYWQzTHpqaXJjYnk2dmw5ZkhUQWZqNGdhV1BGR1Q2SFJ6dm5VVVBiSUppaExiVVFsMDVCU0hkc2d5blRfdlVqOUhWdFJWeFFXcElkdEo3RzBvVjNhRmt6Ulc5N1ZiWGQ2TXlQZElydw": 1794199530.0413136,
 "CNN|CBMid0FVX3lxTE10czVTV0tYeWpTMExVR1hQbmY1SVNEbVlwS3lzbWhLOC1aM3d2cmRJanlLSXl5ZXhJTi1ybHI3TzVDZkVKQXhjVGhqYW9rcDhzU3VmeVZXVnByYmV2SXlLZEJENlZnSnYteEs3TEpZSjZheGtiaWJn": 1794616243.9495184,
 "CNN|CBMid0FVX3lxTE1JOE10ZkcxSXRCTEEyazBYTmluT184SEhGUkd5cmxwd2RhV19qM1RHR01lUkpZa0lyNUJLempiR0RMQUw1TnpRb1NmbWxwemd6aHNpSktJRWZubkp2ZmNnb2RkQ0RfN2F1TnR5cElGNGJPQVhiM0t3": 1794564040.2395601,
 "CNN|CBMid0FVX3lxTE1MTWlkcV9jcnJiRy1UTmJxbHNGUmhXNEx6QWRVR2RWUFRRSHNEcWZUZERzaVYzN29nanRMb0tZelFJWEFaYUstYXUwbVBINkNuZE5nSm1Wbk9fTlVZNXRJOW1JN0lLZ2VaeXVEbjhBOXk2MTVyMUtZ": 1794208531.1038544,
@@ -3091,7 +3083,6 @@
 "CNN|CBMisgFBVV95cUxPb1J6bU1XVmRuVXNfRUR5VV9LMnBXYTdZZEg3ODJDQkc4UXhSYXRGMUlXSFdidVBhVlJVMnBFMGFrUmZWbVIxVC1hTk9vMUc3Y2FheHpBbktoVXZld3hoeTl4Tk03UUtwc192QmN2U0NwY25RMjN2eWdvU3A5dmFUMHZWR0xCeExLOEQzc1BSbVRpQThxWVpTZS1ta1dFV2VTYm9nNVJJYks5WElRWVk2blR3": 1794210328.0284784,
 "CNN|CBMisgFBVV95cUxPc1ZjazZjemxIREZWU1NoSEVaRzhLUG50VHJxbFlDNWMtYlNIRjlKYnp5dVlZTDl1Q2t6UUVRSnR3MWlYZk5vZ1VQZzBtS3NtUEt4akczVmFvTDVJdFBhWm0yLU9uSWFtR3NUUkRsYnljX2EtRjRSVHppSGxKamRmVXY5cnJ1YVJqbFlyRGJINm1xa0liVnpLNnJsSzVXTDJUdTdJR0VYVFRtN3prQXNIWDdn": 1794483039.5259848,
 "CNN|CBMisgFBVV95cUxQY1RwNlo4SjNMOGZjc0pLcERIcy1mdDlFb1NxRlhsdGZuMXNib3lyeS1oSFlVTGs0dXFZbjRiUHVXTFlGVlRPaWxURW9JaEQyUlltQTMwOVhVVjhHNmk0bzBGZkRrbWtoWmdLNmw5cV83ajhCRTdHUlIwNWRNa1NqMFIwNXExbWhtUnZ3cnE5V25qTzlDXzFJOUJ5TkNWR1phYXpJbFducXlmb0FpSUlfSVpn": 1794272467.641642,
-"CNN|CBMiswFBVV95cUxNUjRTVEoxQ0tRUlVDWXJMVy1BYVQ3amIzZ2NLTVF2ZmtzNGhXZk1jVXlDVFhlaWYzejRtSFFaVjg4a1hhM3JGVTNreFRObHd2VTFWbDNneHNfU3dCcTl6UFNQR0NmTTlpaUpLcG9kU0piQmxsb3N4Y1I5UDBnSnFYVGtuMWNWMzZVQS0yVFk2NUY3eTEzdUhpMEdtVW44OFp6d2hSZVRIdVlvN2JBWUF2V3BpWQ": 1794199530.0413136,
 "CNN|CBMiswFBVV95cUxNdTBSaFFtWFBOblZQcHVsSXRLRkdWcWJ6M2YtbVAtWGstU3pDRk54eENBSWJWTWRtRlpYS1dqMDk5NXc3aGVxZTBXTkFXV1BTVjAxUm92emh0cUV4UHBCVHZPMHRNREdUUjJGOXM3c09NdkZlQ1NfUnZQWjI5UTVrcnhpeWdiQmpORF95cHdISVAtTGc5RmpIZ09JU2xTMUhuTS1ORVZkdHMxVXJOQkdMdjZCRQ": 1794482129.5153193,
 "CNN|CBMiswFBVV95cUxPY2I3aWJVVjh0YlJXRTUzTTJkOXV4UHBxOG0tOC1PNnBNb25lNlpVVEhXVEVIclhXY2lqRDROLVVNaWFnRkFjT25zRlpINUlsVnU1UnJpVGxJcE9BdldXOFRDNmU1ZTNabDR1TTRQdE12cUFBU0I2ejRORkhYTTlyT2Z3dmVmdlRxQ1NlTjBYX3ZPdHp6S0pOeHVxaE5BazZHT0w4NHNvcm44aVhoTlc3bTh0dw": 1794441642.602551,
 "CNN|CBMiswFBVV95cUxQRzRzUWluUktQNHNEOWNJaFFnUU84XzBkaEtUNkNNenIxY1VvaU0tTlpnQlYzLWQwZFhfM0xETk1oeTlDWHo5LXQ1R0VIX1JOOU5pd2w3TTRPakZKLXJ1UGJ3TlRGdVVGNXluQWFiZzEtVTZ6UlpPaTFlbF9PZDlVbnZ5aDBrRFlIRFdlUndDVHhYb1pDQThFRDF1Z21yVGwzczJGaTE5eERKYjI4bUR5cVRVYw": 1794339041.3944201,
@@ -3698,7 +3689,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html": 1794222047.3750374,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html": 1794251730.8492732,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html": 1794222047.3750374,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html": 1794199530.0413136,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-en-dehors-du-rn-et-de-lfi-l-offre-politique-s-apparente-a-un-marais-trouble-ou-les-candidats-eux-memes-semblent-patauger_6808671_823448.html": 1794242731.5335116,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-le-duo-glucksmann-jadot-presente-ses-100-jours-de-la-revolution-ecologique_6808651_823448.html": 1794229244.5785513,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/09/teddy-riner-annonce-etre-candidat-a-l-election-presidentielle-pousse-par-la-colere-sociale-et-l-envie-de-federer-les-francais_6808643_823448.html": 1794223839.106101,
@@ -3759,6 +3749,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html": 1794802528.8905563,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html": 1794803433.479111,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html": 1794803433.479111,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html": 1794804337.0600927,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html": 1794224728.8407536,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-sebastien-lecornu-recoit-les-partenaires-sociaux-a-matignon_6808627_823448.html": 1794213035.5221248,
