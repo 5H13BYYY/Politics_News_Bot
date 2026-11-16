@@ -8,25 +8,11 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa016TThvMDU4cV9UNUZla0d2MFI0U2R5WG5qSnNORHdYWEwta1hXWmZjd0ZiMGZlV0VaN2REMHZLM2R4NmNoVTNXS1V6T3VtYl9GVlltTFZLSU1yWS1iaFBuaFpWczdXSl9Sc0N6ZTB0NGZuemtPblF5LXBwemZHcGR6QWFGWEk?oc=5",
-"src": "CNN",
-"title": "Where is Trump? He hasn’t commented on FAA incident",
-"ts": 1794685140.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
 "src": "France 24",
 "title": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
 "ts": 1794686527.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHdiME9Udkw4M0d5Z1pjclNycjgwcUpHNG9pbWRncXVDS2p4NlZXMlpva2hMY0hpYUlvd29nRHhJTE02MktjaDVhUGVUTURpNDZxRTJpX2VJbWJ5TTZCdl9GT05LLXNqUlhqVDVxQmQtZnNjaUo3bTh0SmtaNXV0Ujk3eEtVem0xN2pMLQ?oc=5",
-"src": "CNN",
-"title": "Where is Trump? He hasn’t commented on FAA incident",
-"ts": 1794685263.0
 },
 {
 "lang": "fr",
@@ -1889,6 +1875,13 @@
 "src": "Reuters",
 "title": "Kazakh president sacks security chief after sovereign wealth fund arrest",
 "ts": 1794813420.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-lien-entre-activite-humaine-et-changement-climatique-s-impose-dans-l-opinion_6811600_823448.html",
+"src": "Le Monde Politique",
+"title": "« Fractures françaises » : le lien entre activité humaine et changement climatique s’impose dans l’opinion",
+"ts": 1794814202.0
 }
 ],
 "seen": {
@@ -2356,7 +2349,6 @@
 "CNN|CBMifkFVX3lxTE9JRW9udUxiUDFCbzNwUG9xeTFPR3hVUm0yMnlKaFQwOTBFOVRWQjk4cnBadTl5TEFaN2RRVGhLY0lNTHUzakdhSDdKVW9ReERDQzVpQldJVjNIdUZMWG1xaDZQeWdJNFZCU1VaZE5jU1N1MkRRV21BU1JIbm9yQQ": 1794690928.6232076,
 "CNN|CBMifkFVX3lxTE9NaGlrbEk3YUNVSHQwMkhUbGZWUjNGNk10eUpKTjhqWnJ1R2ZfSjI5dkY1Z2MzN1VtdUZYdHEySE1Ya0JJMVFLQjlfTVFWaFJZcnpJZWVlMmhhcHpNclFBdjlzcnI5bUp3ME9ucDdvYzNuSnkxYzR5WUZLNS1qUQ": 1794597333.1607115,
 "CNN|CBMifkFVX3lxTFA3YzFhcmZuU0oyRVF4U2pEZ2dfclNxcWlDVFFrdXEzbU1SX3E0THA3Qlh0SE1jalBZQkhjLTJKN0M2QjYxS1pxYWR6cllqTG81a1dlVXhlMzlmSnZMTjcyNndEWnAwTjVnZ2I1RHhRUjBBejUyaU82OE9mSkthQQ": 1794578442.3058329,
-"CNN|CBMifkFVX3lxTFBFQ3dqZkRwOGFXVjA4bUtjeS02S3VaNFU0bW5mWHNqZGVCSEdkWENiazNwVmRfQmIzbW1wQ2k0clZnY1hyRERKS0gwUnNxNzVZekJ6ZzBKSmZTUjJCc2pnTlZ6SEZVMmItOUo1bDBrRmxzbF9CZG9CU3ZqZVFqQQ": 1794210328.0284784,
 "CNN|CBMifkFVX3lxTFBJY0R6TVZrTGdoenBJel9CQVNLakI2S3BCLUlCXzdwYTI0eTFCUWFrVFhEcVNJVFZsamlnZ2Z6V2NzeUF4NGRrMUpJVEdyU3VmNHNxQjZuS2R3WVU3M0FJbmRpaENoUmZTa1daN1UxdDE3bjZ5RmdndkcybDdmQQ": 1794515436.6103718,
 "CNN|CBMifkFVX3lxTFBKdlR1NHVJLTVOQ0s5SGV0Nl8xa2pfd0QzQ01QZXVPUnhxTlVEcGxvN0hkVGllNmR6d3VPMDdIa202UzkzWFNES19BZkJmcEd4clF5WUVzOU9za19nVEtLMFUtYmtBR1g0RHg4cDBtcktCUkRUNU5JbTlDV0p5dw": 1794392126.517986,
 "CNN|CBMigAFBVV95cUxNQVE1VHlvN3NBNFdmaU9WSnA2Q2lpVVBGTzhyN0RkS0Mzc1hqVUtKdUljVThLZnA3NWlRWGtScmJVaTBpcmpMQnlEWVJnR1o0M2NBWk1Hb3M1V2FjazdfVEFKeVpEUXVyWW9aX0dPcDJVcVFmOGVxRE1lS0FPY2Fmeg": 1794408327.1454647,
@@ -2966,7 +2958,6 @@
 "CNN|CBMisgFBVV95cUxNajh1Nm10Qkp4NWY2OXdjOTJNMjhnT0dGSmFkNGlweTlHM0hIYXlrRjk0SGdMNXd3bWd4dTFSZmdyMzRXa2dWWlNCS3I0SHE3WXZyQ1BlcmgzbG5HWUpKbEhFNDR6ck1sWU1Rdk83Y3I2c0hiTGtvdVJMZUE2RnIyZF9IdVNWY2NLZ0w0RWR4UFNZSkRyd2hYVnk0bDNxbVMxRTZHdE9QWGIwX1BIdUpzR09n": 1794347980.1194553,
 "CNN|CBMisgFBVV95cUxNcEphR2ZWbFVLUW1wWm9GeGJsSVZpOWIxc3lxOUZqcmVYd1pPb0ZFSFQ4aW1hM2dfRHVoWHRBX3BvaDl0QU5VWXgyUWxNZFhvUktpRFZpQzM3bGh6TkcwN2QtaFh6N2h6Rk5BM2ctYWRfNHEwMFg0TTE4ZTh5X25NbHE0Q2VNMGU1akctMXE2R0hqOGJwY29SR2ktR2ZzQl9kYTFDNGJXWnFrQ21iT05VbFdB": 1794524438.1299994,
 "CNN|CBMisgFBVV95cUxNdy05Snp3WHBVTklOZFNHbmc0YVdQNTViejNzb1Uya0I3N2QzdnlLU2Y1Yy1BcU5YUWVCSmVOVlVpY2JjdjRkb3lBYTlSTV84RU9mejdxV0tZeFVwVzdrbkg1MnNEZTU0ejZpWXJHSEJ1cE5yZ0d0T201TWJjWnBWaE1zM0ViMkFDTzJaM1NnMGpqZWFsWUdjOFRfVGJJemtjYmFNcWNlU19xM2pEek84ZFR3": 1794654926.5571525,
-"CNN|CBMisgFBVV95cUxPb1J6bU1XVmRuVXNfRUR5VV9LMnBXYTdZZEg3ODJDQkc4UXhSYXRGMUlXSFdidVBhVlJVMnBFMGFrUmZWbVIxVC1hTk9vMUc3Y2FheHpBbktoVXZld3hoeTl4Tk03UUtwc192QmN2U0NwY25RMjN2eWdvU3A5dmFUMHZWR0xCeExLOEQzc1BSbVRpQThxWVpTZS1ta1dFV2VTYm9nNVJJYks5WElRWVk2blR3": 1794210328.0284784,
 "CNN|CBMisgFBVV95cUxPc1ZjazZjemxIREZWU1NoSEVaRzhLUG50VHJxbFlDNWMtYlNIRjlKYnp5dVlZTDl1Q2t6UUVRSnR3MWlYZk5vZ1VQZzBtS3NtUEt4akczVmFvTDVJdFBhWm0yLU9uSWFtR3NUUkRsYnljX2EtRjRSVHppSGxKamRmVXY5cnJ1YVJqbFlyRGJINm1xa0liVnpLNnJsSzVXTDJUdTdJR0VYVFRtN3prQXNIWDdn": 1794483039.5259848,
 "CNN|CBMisgFBVV95cUxQY1RwNlo4SjNMOGZjc0pLcERIcy1mdDlFb1NxRlhsdGZuMXNib3lyeS1oSFlVTGs0dXFZbjRiUHVXTFlGVlRPaWxURW9JaEQyUlltQTMwOVhVVjhHNmk0bzBGZkRrbWtoWmdLNmw5cV83ajhCRTdHUlIwNWRNa1NqMFIwNXExbWhtUnZ3cnE5V25qTzlDXzFJOUJ5TkNWR1phYXpJbFducXlmb0FpSUlfSVpn": 1794272467.641642,
 "CNN|CBMiswFBVV95cUxNdTBSaFFtWFBOblZQcHVsSXRLRkdWcWJ6M2YtbVAtWGstU3pDRk54eENBSWJWTWRtRlpYS1dqMDk5NXc3aGVxZTBXTkFXV1BTVjAxUm92emh0cUV4UHBCVHZPMHRNREdUUjJGOXM3c09NdkZlQ1NfUnZQWjI5UTVrcnhpeWdiQmpORF95cHdISVAtTGc5RmpIZ09JU2xTMUhuTS1ORVZkdHMxVXJOQkdMdjZCRQ": 1794482129.5153193,
@@ -3634,6 +3625,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html": 1794802528.8905563,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-la-violence-comme-marqueur-politique-determinant_6811535_823448.html": 1794812446.7197492,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html": 1794803433.479111,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-lien-entre-activite-humaine-et-changement-climatique-s-impose-dans-l-opinion_6811600_823448.html": 1794815137.0070627,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html": 1794803433.479111,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html": 1794804337.0600927,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
