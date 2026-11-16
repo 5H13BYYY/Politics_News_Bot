@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
-"src": "Le Monde Politique",
-"title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale jeune",
-"ts": 1794673793.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
-"src": "Reuters",
-"title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
-"ts": 1794673805.0
-},
-{
 "lang": "en",
 "link": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
@@ -34,13 +20,6 @@
 "src": "Reuters",
 "title": "Pope Leo visits remote Andes town on special stop of Peru tour",
 "ts": 1794675065.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-victorin-lurel-s%C3%A9nateur-ps-de-la-guadeloupe-l-oisivet%C3%A9-est-la-m%C3%A8re-de-tous-les-vices",
-"src": "France 24",
-"title": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
-"ts": 1794673690.0
 },
 {
 "lang": "fr",
@@ -2001,6 +1980,27 @@
 "src": "France 24",
 "title": "Israël : Gadi Eisenkot estime que Benjamin Netanyahu ne peut pas rester à la tête du gouvernement",
 "ts": 1794802084.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3dlZEQxckwyUkt6MHVHX0F4NUtiOGVEM3hDdnNVQ096TUktSU96c0xjZW5kS0pTVTE5eDNucGtJdDlRbUt5WEFnS2VYNVJ0RmR4N0w1WW16cFQ3eDNZejBqUG9vYWtlNUhSMmRscFZrdEhoek5MX3BURmYzTEQ1Z21qQzdQZE1selBDRDlWc1dkeHp3aHZxbXo1a1hvU3JLTTBqVkliSTg5QQ?oc=5",
+"src": "Reuters",
+"title": "UK's Prince William, Princess Kate arrive in Mumbai for three-day trip",
+"ts": 1794802320.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html",
+"src": "Le Monde Politique",
+"title": "« Fractures françaises » : le 17 octobre, une journée de mobilisations et de violences révélatrice du profond clivage générationnel",
+"ts": 1794802504.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html",
+"src": "Le Monde Politique",
+"title": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
+"ts": 1794803345.0
 }
 ],
 "seen": {
@@ -2017,7 +2017,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#0": 1794233728.688592,
 "BBC|https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1": 1794318331.60005,
 "BBC|https://www.bbc.co.uk/news/articles/c615j8pw1y81o#3": 1794432635.3225079,
-"BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#1": 1794198638.1078155,
 "BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#2": 1794232844.5948508,
 "BBC|https://www.bbc.co.uk/news/articles/c69vwp09d7vvo#0": 1794636928.8431118,
 "BBC|https://www.bbc.co.uk/news/articles/c69vwp09d7vvo#1": 1794782726.1513476,
@@ -2090,7 +2089,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2": 1794424527.220959,
 "BBC|https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0": 1794313842.9969897,
 "BBC|https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#1": 1794407435.961119,
-"BBC|https://www.bbc.co.uk/news/articles/cqkg5g2970epo#0": 1794198638.1078155,
 "BBC|https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1": 1794348928.7940085,
 "BBC|https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo#0": 1794425436.9815495,
 "BBC|https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo#1": 1794503728.4287832,
@@ -3147,7 +3145,6 @@
 "CNN|CBMivwFBVV95cUxPTEdIekhTWWgxblBSSGxZVENTVFNnODhhU2NWamRNMEg2cTh4SE9QSXFfSW10elhzS0pxQVpJazd1Rkx0eWhOQkxLTlg3VnNwRHZzbTlCRk45aHpQRjVxRktyRXVfd25wOHk2VmVITXdoVGdoaDg2WlpxcW1vMVVaT3hTLXVtMWpfMGlOdlF5MVY4TlVYMllUTE1DM2VpMWtEbGkzdk8yZzNxZGloM3hpUWNEMmpjZXBRZ1p2OFoxSQ": 1794607245.4373248,
 "CNN|CBMivwFBVV95cUxPaEVLOE5Rel9JM1dzRXZPSkE3RlpKOFJmUExPRUp6OFFBcGtMUGdmUWdrQVVsa2ZPbkFCY0RWdlRIeVdhc25IbHRaTi03c1JuSlY5clFDY2FEX2JhZDhVc3NEODFxS1NkdGlCVklCcW9BTnhmR0JILUdJQkZSNDB3ejhKMDJrRjN0emh3QmJMaElLcEJ4VFdTQUFwTGJPT3RvSjVPZjI2TGl6Tk9ZdGxTZVdnYjU3b3JLQ3ljdHkyaw": 1794437127.9829054,
 "CNN|CBMivwFBVV95cUxQOWtPY1VSajlHM1VMY3hmbDhLYWpfNEtaRjBtdlZSMEFDT0FaZGRGRDdTZ3pZNzNBSHNteWJ2MFdiS0hFbEs3TDJOYmwwczgyZzhiX1dHb2NHSWpibzh1cXR3Q0xIZXhQMEtWbXJNcWVtZmVLa0pPRlFEa3BGOVJCaGd1dDdHSGc0aWF0V3JjQkZKRkJmNUFvbU9EbHRxN05ZQm9jRjE3SlpaVzZ0VC1lSFBkelRXMk8yMGIxcVo5NA": 1794502851.2602317,
-"CNN|CBMiwAFBVV95cUxNTktFUEMya2JtdXplVlVEWmJ1QUxNR3NRZURxbU9LeFA5cmJiU3MzcGRxS3NHdU9XbEE3Yjl4RlZlT0dZOUJ1UVE2dkllbVp0VDB4NlY1RWpYQlZXSUdYVkNEQlY1eDlZLTNSSkVzNWVRRnNUWW1yNEhOU2R5ZXBOWHRHVTdNRHR5Z2lDd0JDMTVhZXZ4WHNNbS1LN0Vsbmk4N1hGZXF3REM0dUdsM1dqbk13SXRQck5xMmZNQzc5dHk": 1794198638.1078155,
 "CNN|CBMiwAFBVV95cUxOUzRiRzQ1a0MtWm5WbDBJMzlqOUwwYTFFdXRabnR0N0hwNFFoRncwZ05IWFlWZ0FZSzBIT3pNYWdiMXR4M3JMa1doTXFhNVpjOEhGNVBvVUZWNXZWNE9ZNEhueWE5b1RmSlVtSThXM2JmcDc0YjVlZThXcmpYRnZEZk9MVS1SRjY4VU1Jazh1UHF0RGlUTkZ5SDdFX1owU0gyX29PYkhJNm5TWHNTRm9MS1VVM1UzYnlWRmJrOFlZQzc": 1794422726.786134,
 "CNN|CBMiwAFBVV95cUxPNE9fa1A0T05kM2tRU19SM1ZDZzBIZks0aGJBNkw4TnVnWkFVTThaSHJKWE9tc2VXS2kwNE9uakthMU1fN0hjR2NBdEdMMnRvdG1aQkFpdU40bFlkYU1DV3hHMGVsYkhMUVlGbDd2dUk4LVJvQlI4Q25nZk85WU5jX2V1VnVzd01VYVFqd2FIT0RGbnpkT2hPWm5rODg2MDQ1S2RjTlJLTk9lZHNUR2YwdUFqckYwTDFhQy1ZaTE4ZTE": 1794371437.6751409,
 "CNN|CBMiwAFBVV95cUxPb1VkSERIMllWQ0FPRHRTOTA2QjFoUDVQaTFOaXJhUEJlc3pRM0tocFBkZ2NSRnhYdTlUQVluTWZzdHlndW1fY2RzQ19WZ2dlLUpKRmFRdXBLWFI0RWo5QjNweEpIVmFWYlJGVzVaaUZ6UVBvZENPZ2tHVzZuTkVPbWJIYkxfeXM2dkJqTVZPQzBtQU5mU0ZaV1ZqOUpCQk84UGFJal82TUlDdHB2Yl92WnB0WUg3MERTSnVUTFY1cVE": 1794688235.189422,
@@ -3760,6 +3757,8 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html": 1794759328.694131,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html": 1794717927.8558326,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html": 1794802528.8905563,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html": 1794803433.479111,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html": 1794803433.479111,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html": 1794238239.1765761,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html": 1794224728.8407536,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-sebastien-lecornu-recoit-les-partenaires-sociaux-a-matignon_6808627_823448.html": 1794213035.5221248,
@@ -4039,6 +4038,7 @@
 "Reuters|CBMiZ0FVX3lxTE5BNERXQU1KRXUxN1dzUWlnZjU0bDZ1MWZvTFFSOUZLd3lJUl9ZVHdaNG1taUJxUFU0Z192Q2pCQjgyZTgxcFYwSUUyQ1BqTFJrTzEtQ1FxdTlUVG1WYXRzME1xMHpkVWs": 1794802528.8905563,
 "Reuters|CBMiZ0FVX3lxTE5INUxUWnRxbXkyQ1pFYVdsdmVORkR5cXhSbm9rQ21yZ1lCbEpmVG5xZThZU3M0b1ZBaEtvdkREZ2pqbndPa005NUhTdnNWM2FYM3Rva2RXMHZ3WUtrRmVaSVViU3hLY0E": 1794447926.247272,
 "Reuters|CBMiZ0FVX3lxTE5IamNFaVV3Tkk3ZUJwczFBNzJ0RkpNQ2xJdndkWkJrM09PdFU5UmttOFN6SFBIVnZuMERwUGJRQUwtWVNCbjQ0OXlVQmlzUHBITENOZFo4R1BiSndWWVRxQnA0WHdXaTA": 1794232844.5948508,
+"Reuters|CBMiZ0FVX3lxTE5KaWJsVEhrcnpRampxcjB1ODBlMERub1N0OXgxblV2aFllYTBYWlRBVkFtOFd5ZnhCampnWk56NWdicmNrckVBa0Vzeno3WlB1U0NObGRUZThweEFza0R6dmZBbi1Kcm8": 1794803433.479111,
 "Reuters|CBMiZ0FVX3lxTE5LSXZYU2lpZ19Lel9XQUVpN2FUTlVwMnJlbXc2UXZKdFJBeERpdVltSE1sZDFhYUo1Q3BiWnRzT1FEZVo4N3FJcDYydEYxMWJiOS1LSm5QRV96bE5aZkJHcEJQTWdoSlU": 1794225645.6148558,
 "Reuters|CBMiZ0FVX3lxTE5LdkVkRTdLal9rNk9GU2JjWXMwUE4xVDRieEZIQzNmbE5qT2FWSHNnczZBeGIzUmNhc1p1UnhwQkFJMGNJcHo4STc4WTlEbVRJdGQtczBqOUk0V2ZHQmJRbDVaWlVucVU": 1794508242.0299418,
 "Reuters|CBMiZ0FVX3lxTE5PTXFENUtvWFYxbmdLQWNKMU9fNlUwNUdvUTViamxobW10UGRGRUlHMWY1bTBBamtTOGJYbXByUFp4aWhETWxYS0d0ZUx3N2s4OGpVMkg3RWdyRl9FZEx3R1VxU3ZlZzA": 1794747639.7304344,
@@ -4542,6 +4542,7 @@
 "Reuters|CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M": 1794403838.32868,
 "Reuters|CBMiqAFBVV95cUxPdjhrNnVSaVplT0J4bjRpMmxvSmlOVHYyb1F2eTV0UFlBbEs5cGhpdUlRVFRZZjhXSGRkTzJ1Q1h2R3ZrOWNaeWFwSWdTc3Z0MnpFNlFKRTlJalcxLUVKQURGRGU1dGFfczJPUEV4UFI5Wl9najhtZ29qYkViRlJTcXZ5VTdLQU9fUHhOMjNlVmtZbUdVM1lrQ2NnRUlIOHc0WjEySUNhRGg": 1794212128.2666523,
 "Reuters|CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms": 1794489328.826725,
+"Reuters|CBMiqgFBVV95cUxNS3dlZEQxckwyUkt6MHVHX0F4NUtiOGVEM3hDdnNVQ096TUktSU96c0xjZW5kS0pTVTE5eDNucGtJdDlRbUt5WEFnS2VYNVJ0RmR4N0w1WW16cFQ3eDNZejBqUG9vYWtlNUhSMmRscFZrdEhoek5MX3BURmYzTEQ1Z21qQzdQZE1selBDRDlWc1dkeHp3aHZxbXo1a1hvU3JLTTBqVkliSTg5QQ": 1794803433.479111,
 "Reuters|CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw": 1794546927.7555275,
 "Reuters|CBMiqgFBVV95cUxOVVAxUUdfRXZEOWdvenVBWG5GY1JHcGsxVmxQUzQ2NkZMNUhrR1NLb0NZYXdCTnVPX2FsRy03VTdTWHhEOWlmckdvRFQ5R0MxLUtNN3ZvSnVwZjRkQ19oOEFIRDVLOXVUM1VKdmJsTlF3VTR0MEtEZHhMWEI1MXIxbVh1ZjJSbDRod0JfWnUyUnZxdnk0dlpZT1VFY1F4U2RNNUpyS3l3bFlvUQ": 1794471328.7661312,
 "Reuters|CBMiqgFBVV95cUxPN3Nyb1VlX0k3WkZ2d2JxYi1jNEhxUW5EMEt3dmVyT012YVhRM19YUFZWTGZzaTYzNGRubW1nYzJCSzU4bjdLWVFXeGNJSXJDbFVQTEhXMjVjdUdiRzdvbG02bFVYZlYtYm02aWMxMHQ3czJTemRLTXpVc0tzZ003a01RTjhaUXVwMGhvU2NWcmNtU1hxQU5rMDBiZDVDNlgzU1QybTNILVJIZw": 1794502851.2602317,
