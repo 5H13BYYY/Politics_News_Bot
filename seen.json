@@ -9,41 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
-"src": "France 24",
-"title": "Présidentielle au Cap-Vert : début du dépouillement après une journée électorale calme",
-"ts": 1794775532.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-ariane-chemin-ce-bannissement-c-est-m%C3%A9langer-une-influenceuse-propagandiste-et-des-journalistes",
-"src": "France 24",
-"title": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\"",
-"ts": 1794775809.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkxOQWdxNXZHY21QMXJuMHVKYTRpSXdndGp4U0V1c0JjZjJkUEFvMGNGdFpOV3VQR084c2hXWHY5aGVoVjBDZnAxY25yTXZDMzBtVGVjTGdmUlFmN2MxRHJLRG1iZnZxX1A3WFBwLVZ1N0ROVWJzMG8tZlJBZTFPb0JOYktCeThLUkZPWWFzczRQSngyRVRvNzg2S05KbFZmWUFmOGJCVVpmQnZ5YkZrU0FIZy03NUMwcEQzYlRrSWxSdEVwQzRINHpB?oc=5",
-"src": "CNN",
-"title": "Trump, McDonald’s and Burger King among targets of past X posts that contain redirected website links",
-"ts": 1794775965.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
-"src": "Reuters",
-"title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
-"ts": 1794775622.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWN5UGQtZVhvRXhsck1VMGhldlNGUk1RcDJjN3owa2hhSTFlTHh3dXBHNmxadFhRbkw3aTNEc0xqNmY5NFdWYzVtcklDMjVPM3R2Z090OUx1X3lFWkZwUWZzbUNWRGRQcXhkckZ0T3ZQd1dVZkpvWjNGQ3BVbGduN0YwVkExWk5jNHFsaEVMZVdZdEVaZ29sNEhNOU9EZzhpR1JOVzU3aUhpUXNoVThhVWdic0daY0FsT19DRWlUMDdDck9JdXpwY3hZODE5cG8?oc=5",
-"src": "CNN",
-"title": "Political and corporate X posts have links redirecting to vulgar, racist or random websites",
-"ts": 1794775965.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
 "src": "France 24",
 "title": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
@@ -3275,6 +3240,13 @@
 "src": "Reuters",
 "title": "Britain's William and Kate ride e-rickshaw to meet climate prize finalists in Mumbai",
 "ts": 1794903913.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xU2VLVThmSDVHZERvRlgwQWRPYWhNN3NhUVpRVm5NZXhwbU9rWkdEbnRGOG9taFVzdndCSTFOSWhXR3AxSW55czdtTnpuc1FqUHdmRFRvOFhRRjllYnAxQVdkaTdjTHJUSHhCTVZ5MzF1RzZaTl9ONQ?oc=5",
+"src": "CNN",
+"title": "‘I tell it like it is’: Pope Leo talks cancer diagnosis, married priests and being hit in the face with a rosary",
+"ts": 1794905415.0
 }
 ],
 "seen": {
@@ -3679,6 +3651,7 @@
 "CNN|CBMie0FVX3lxTFBRUVN5UF9jM1E0YkRPVDdsRFhvYVhFZkwtdUdlUzY1VlJRODdGRkctS3lqZjJ0enVkcEYyVU1NaWNPdHg3UF9nZTl1aXljN1lJOTdlMFlBOHowM0NRemRsbHV3SXlheWR1NnhhQnVLaFZUdkVkU2xOX21iVQ": 1794311131.3586764,
 "CNN|CBMie0FVX3lxTFBaWUhZejdMZjJ3SDFuOGgxMWdOeUZIeW5sNmRZbF9JdnFEY0xZakZkSkdMMlNhVUMwMnpKQ211cDRPeDBVdGlzV1JRX0FmbS1QdDJfa0N5X0l2SmtMZFpFUTE4RnozY1puMDdlV19VeFA4T2ZEbm40Q2RUcw": 1794520845.0461998,
 "CNN|CBMieEFVX3lxTE1STDRvV0Vyd3oyN25FNXdzQnZCSVR3YXAtR0RDT2RjMHBibmlnUUszcHRLYlpmSjN4cFVZbkR6bzZ0RFowcl9wY1dqRzhkZnNBeUJXLUFQSi1HSGpxRkxkMkRQa092STkwUDdKUlMyXzBFTHpneHlJbg": 1794435331.1660388,
+"CNN|CBMieEFVX3lxTE4xU2VLVThmSDVHZERvRlgwQWRPYWhNN3NhUVpRVm5NZXhwbU9rWkdEbnRGOG9taFVzdndCSTFOSWhXR3AxSW55czdtTnpuc1FqUHdmRFRvOFhRRjllYnAxQVdkaTdjTHJUSHhCTVZ5MzF1RzZaTl9ONQ": 1794906042.4751477,
 "CNN|CBMieEFVX3lxTE51SHpRNE9BcThvVGZ0blljT3RlcDZmbWJheVRjbVcxNTlScnluTUhfNzExZzJUazQ1MjkwZS1xZzBROURCaXNtUTF1Y2NLZFY2WTJBUm9WRF9nc3RFTTV5VXppUHRtelZZNnBUTjR0TjZMSEUxazlxYw": 1794816929.1953135,
 "CNN|CBMieEFVX3lxTE5CTHNYWUhOTTFTWElzd0lSYWZUa3BoRnFWcTBOU2ZKTUswRnl3UFRZX19fUXNkbkYyMmN6eHNNLVlnN2ZHcFZLZ1Yzb3dURjI2aUFnUGFLRjZkS3RwMHFSSkxJOHB3T3hMVjVBTXI5b3JDSVIxVGd4LQ": 1794654926.5571525,
 "CNN|CBMieEFVX3lxTE5pa0s2WjVEVHk4MnRQOVpmS1Q5MExWMkhiR0pOTGpUZDhHSXFBWXNfdmlBVlNqRDNnYzJacmlVbFU4QjNwallKNzlIM0p0NXhDZC16cUpCWWZHanhTMjNmTkhJekZTYjRDWEV5emYzNjJrZWJXaFY3Xw": 1794361531.6724212,
@@ -4837,7 +4810,6 @@
 "France 24|c41b842a-e1ce-11f1-a4f2-e3d75fb7560d": 1794843038.3002346,
 "France 24|c544712c-de7c-11f1-850a-b7b084645358": 1794480332.2905986,
 "France 24|c554b092-dea3-11f1-a7bd-2b7a8fc97421": 1794497437.010251,
-"France 24|c5b287be-dca8-11f1-9827-436faffcf555": 1794300741.068464,
 "France 24|c650aa1a-deac-11f1-a9b6-0dfc890dcce4": 1794503728.4287832,
 "France 24|c6e71b68-dea1-11f1-9ed5-85b5ff6a8628": 1794492929.031265,
 "France 24|c7498a90-e19f-11f1-87a6-5b70f60db3bf": 1794825036.6451132,
@@ -4860,7 +4832,6 @@
 "France 24|d23501ee-dd46-11f1-865f-1b80226274d2": 1794485727.762882,
 "France 24|d265d466-e1d5-11f1-84ad-f7db50ffbd34": 1794845727.5396547,
 "France 24|d27e75e2-e0dc-11f1-bc22-f36a60279b85": 1794742234.020474,
-"France 24|d297f04c-dcd8-11f1-8a99-e76236113d8d": 1794300741.068464,
 "France 24|d32de73c-df12-11f1-ad63-570d0a32ed87": 1794545128.806474,
 "France 24|d36c2bbc-e112-11f1-8f1d-a13bf28009dc": 1794762047.3555305,
 "France 24|d4229982-df92-11f1-8932-c72ee891b0dc": 1794596441.232183,
@@ -5837,6 +5808,7 @@
 "Reuters|CBMiqgFBVV95cUxPZ2c3WmtTMHFMY25zOWE2ZzF5UjBVSEhkT3dnNTJBY0k2b2MxQW92emMwYjhuWWJ1bG9FUmtmYTZxTVdqd0szMk5fZDB4emVYM1RzY1MwTEJXeXI1RUdWdV8xN1dLeXRDVHl6RUxmeURsbUk1M3VKS2l0Wm0tOVZyUUprV3BRdF9VZ25kbnlNR1hBOC1Ha1VrSmc4VFB1cV92LTlkb0k3Q2NLUQ": 1794602734.771989,
 "Reuters|CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ": 1794554131.6327481,
 "Reuters|CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ": 1794442530.3395636,
+"Reuters|CBMiqgFBVV95cUxQMmtTMUtYTXIxeXB2T0RuYUpZMjBwTmpmWFVyY010TTVPbzE2akJxTEVYTjJzeTRoSlZpZDZSejM1MEhuWm0zSFQ5Mi1NX0tvVHRUX29VdHV0NkI3MUMwVUtxLTlKam1iQTZueGJ4eEZSY1c3S3diM3BSTGZoRjlGNm5kODVxS3BjcThWRjFIRzgtSzByTzFIVGV2V255RVpSZUlDbWZqZElPUQ": 1794906042.4751477,
 "Reuters|CBMiqgFBVV95cUxQNm9rS0xLSDBqSlJHQ3FiSmFNVFRqU2tyUlhlb2dUOUVaTFd4S2REX3duS0V6akpYMnJqeWNIU0VWWlZxbks2UndwNUtISG9aam5kSWNkQkVYaWFhTUhycTZwQTZZd2VxZUdhd1M5cU8xN2lUWnRpQ09ISzlENHBJSExvNXhTTVJlWUduTlVzYmxNMTM2SmdxLUJXU2hBSGRLY0RnVUx4UzBIQQ": 1794601836.3768063,
 "Reuters|CBMiqgFBVV95cUxQOEIxQ0NiTEZIUUZhUnFpZ25sTkN2SnBPd21rai1WWFlPRVg3Tkx4TWpqcXF5dzZTR3JVbHpXdFQ4NWliUkRIWkZVcDVZRFNRemdvWEd6N3gxcG1maTkxcWRzODhmdHRnTy1nbGs4OU1odFUwMWduSHZ2dGV0b0kybVY2SUgwZHVmTVBmQ2xyU3lENkQwUUtQb19VR1g5NG9IX2dhdFpWM25hUQ": 1794411034.555182,
 "Reuters|CBMiqgFBVV95cUxQTDZ1UlZYeWFzY0ZSVGVKM0trODhNV1JPQm8wSVljQmZ1OE11SWpVcEJGNlBxWE1odGljSlVqamE4OXRJSjI3aFE3aDMzZ3l6OTh5aXFuN3JTQVRoVEdNUXc1SnhMZlFUUVFXOWNjX3BZQ1lSSHZjaHQyMmVrU05nX3IyYk1zdXp1TFU0eVg5WWo1ZmVOSE5VQ2VwN25wV1JuanFXbmRMMlAydw": 1794900637.5549657,
