@@ -3849,6 +3849,20 @@
 "src": "Reuters",
 "title": "Italian lawmakers move to soften exit tax after criticism",
 "ts": 1794946664.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyaXdfdWRKZ3RZdFRDbHkzMEUwNTBTUkd2Qm5KOEtvZHdJSW5lQzg5MHdLTC1fcE1sbjVrZmtpdG5uV0FvWGFZNS1DbXo4dTIwUEpPM2FWMXlLX1dPeEtpaG9UYmxNQXI0b2k2c3dIbnZqdw?oc=5",
+"src": "CNN",
+"title": "Reliable Sources newsletter header - CNN",
+"ts": 1794931080.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html",
+"src": "Le Monde Politique",
+"title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+"ts": 1794947381.0
 }
 ],
 "seen": {
@@ -4189,6 +4203,7 @@
 "CNN|CBMickFVX3lxTE9XUlM3ZzlFZWFsVXpfNUxubHdxY3hPMUhTV29UWS1DTE90eUJIaU9tOVotTC1YMldoUzdQUGlpa0pyZUZuSDFiV1BRRnd6eHhFRFlvX1o0VnN2R25EaFNYVXYyNDZvMUhRclpkd2NEaVRUdw": 1794811531.3019524,
 "CNN|CBMickFVX3lxTE9zYnFvRjZ2OGZwbExLeVdwb1RjdFBmckhtN05FYV9NZEdBZ2IwR0RUb3d6a2t5bWI3WXNYMldvV2JidWdhSFRHdE9zd2t3dGNXal9ob0RnVV9iU3h2TVJIUThIcV9jMWxnQkZEWHZLNmlodw": 1794854728.0686758,
 "CNN|CBMickFVX3lxTFA0aUdGcnBMR2w5ZlZIT2oyNWFuU1RYdnN3NHdpZnJyNkdLenR4VS00TmlPSGhEVVBxaTl6eS1WMVdsZk84Tm9lQlkxWHVuczNRVjJ0VzB2Y3RhOEVKU28xdFBLeHAwTGFJVnNldWNiYlVidw": 1794827728.0643833,
+"CNN|CBMickFVX3lxTFAyaXdfdWRKZ3RZdFRDbHkzMEUwNTBTUkd2Qm5KOEtvZHdJSW5lQzg5MHdLTC1fcE1sbjVrZmtpdG5uV0FvWGFZNS1DbXo4dTIwUEpPM2FWMXlLX1dPeEtpaG9UYmxNQXI0b2k2c3dIbnZqdw": 1794947530.5609584,
 "CNN|CBMickFVX3lxTFAycVg2ZkhfVUtnX0tJMzlzWUt1TDJwalJNaWd1QXBNTjJsNldoUng1RXE2X1o5M0hvcWVLdkt5Vkh0Q0wtOXRqbmtNYkhlcmVXcUtWM081c0V1VHpDbTF4eTZsREIzQ1dET0U5SmN6TTlRUQ": 1794451525.3887384,
 "CNN|CBMickFVX3lxTFBKWXhkRE9uLTNUaHlsWExmMDdWSGhaMTJfRUZIV3dWWXlnM0t4NEZla2h4VDJzSjE2SFpCNHBwMVFkdzBKV1FWcnl4NG5BV3k2YzdrRHpOTWt0ZFI5M1hzekhYZFJaM2lnd3psenM2T0lfQQ": 1794455125.8007283,
 "CNN|CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw": 1794565834.984634,
@@ -5631,6 +5646,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html": 1794890729.9844115,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/l-etat-pousse-a-revoir-le-financement-des-collectivites-locales-pour-corriger-les-reformes-macron_6812961_823448.html": 1794914127.5887625,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html": 1794934844.2317722,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html": 1794947530.5609584,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/mobilisation-du-17-novembre-si-le-gouvernement-mise-sur-une-baisse-de-la-contestation-il-se-met-le-doigt-dans-l-il-estime-sophie-binet_6812722_823448.html": 1794873642.6252515,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html": 1794915929.1788237,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-franceinfo-edouard-philippe-maintient-sa-position-je-ne-me-soumettrai-pas-a-une-primaire-de-la-droite-et-du-centre_6809070_823448.html": 1794501927.4438345,
