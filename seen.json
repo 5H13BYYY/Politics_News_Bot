@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWhsZ01HeXgxX09FRFotT2JPWlJrSkdGOG9lblVxR1ExM2lPTkh1MExjU2Vfci01ZzI0NzlGSVFXTjBHcUhBdDJ1cVJneU9PNUUxaldjbHRZZndFRFRJYmluVDN0NHlxNUJoVXFWWTdzRG9ScTlITURqMi1wLXN0dFl6ZktNUkVxcVpjVlBhbDYwUQ?oc=5",
-"src": "Reuters",
-"title": "For investors, a truly safe haven is hard to find",
-"ts": 1794808980.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Workers should get paid time off to train for crises, say peers",
-"ts": 1794809064.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWVOeGpHOXIxUldtZG9iVVdhb2NNd1VjOEF2UzFYRTlxS2VHQTMzam1jNDZ4bURmRnVXc0dnQnY5Y0lES2JGUHhrYTg2MGp0N0NTZVhWVUUyaDcybnpSZkNUM1M4OER2alhKdEoxM2I3WWdfbzhWQ0doeV9YMDlrZ1U3RXZrQUhfTnI1b1BjQXQ1dTZGZkw1SGwweElDemdpOUpfNGlienBNQkc3Vk40SzhWMHhBbWVvdkpr?oc=5",
 "src": "Reuters",
 "title": "Why has the drive to verify India's billion voters put the poll body under scrutiny?",
@@ -338,34 +324,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Dc1hlNmFKdGQwV3Ztb0RSM19EZ1NiTlJsWTh0QnZ5WU9DeTUwcmFBLV9wV19YOEsyTjgxVklSbkNZbVR4MTBpQzhvOFJoQ1FEbVR5RnhySThBanJE?oc=5",
-"src": "Reuters",
-"title": "'Our country has lost a giant': Schumer at Cummings' service",
-"ts": 1794808988.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVN013QnQzd0g2dVJ4OURORVFtSklpazc4WjVrakNDSUtQNkN2LW1jUWMxZDdsNDRfWldfekJhZnp4cjNMb1BOMXRmZkFOckdSMDNPc1FxVFFXZ04t?oc=5",
-"src": "Reuters",
-"title": "Fresh trade worries drag European shares lower",
-"ts": 1794808988.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CUnRsWUxQOXJKSkJ2dVEteS1kM3pmLWQxZTdBSU9UbUNCNFJIQ0tqSVJ1ajBtS3Uxemlhck1wbklYUTc3dk9wTl8wZHR6VlVPOEotX0gwekt4U2Rm?oc=5",
-"src": "Reuters",
-"title": "\"Face us as a broken family\"- mother of UK teen killed in crash",
-"ts": 1794808988.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sQ3NKT0pPT2tzaFctcEJ3Q2NiNldBd1hwNEZmOGgtTUZxS21XbDlveUIwZXQ5bUk4azY5TUFFSWpoU3ozcllJcXppOFktNG5ES0VCUW1rSTdIc0hP?oc=5",
-"src": "Reuters",
-"title": "Plane crash victims' group urges Iran to share black boxes",
-"ts": 1794808988.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rbUxFUVVIRmwycjBwMXM5RVAxUzNlVlRWdHM4d3JSN3JBOUc5S0ptYmZtck16a3g0aFA1TGxQVThQSENJbFlKUTA4R3U5MlVDSWd3cUI3TGlPQnJfRERMdExuU3pnVzFneDNyQnR0cWJhSEppSEtKTm1BbksxUQ?oc=5",
 "src": "CNN",
 "title": "Lies, spies and sex are just one part of the Nvidia story. The real stakes are much bigger",
@@ -489,13 +447,6 @@
 "src": "Reuters",
 "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
 "ts": 1794825562.0
-},
-{
-"lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
-"ts": 1794808893.0
 },
 {
 "lang": "en",
@@ -3779,6 +3730,13 @@
 "src": "France 24",
 "title": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
 "ts": 1794936700.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html",
+"src": "Le Monde Politique",
+"title": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
+"ts": 1794938562.0
 }
 ],
 "seen": {
@@ -5083,6 +5041,7 @@
 "France 24|315a5df2-e109-11f1-80f6-e74575473ebc": 1794767332.3664985,
 "France 24|324a0320-df6a-11f1-9aa3-d19bd04731af": 1794581129.4839892,
 "France 24|33616c6c-e03c-11f1-899e-2fc136140861": 1794669329.1110208,
+"France 24|33dff87e-e2a9-11f1-868d-4937d01672fb": 1794939327.7535737,
 "France 24|344d5f52-e1b6-11f1-a7d8-c951e64d37a3": 1794837641.641186,
 "France 24|34d964ee-ded1-11f1-89f5-35908250c53c": 1794520845.0461998,
 "France 24|3603b82a-de80-11f1-8a93-e35ba55b1a30": 1794480332.2905986,
@@ -5550,6 +5509,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html": 1794847530.0264525,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html": 1794804337.0600927,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/a-lyon-toulouse-lille-ou-rennes-les-ressorts-d-une-revolte-sociale-qui-s-est-ancree-au-fil-des-semaines_6812893_823448.html": 1794890729.9844115,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html": 1794939327.7535737,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/budget-2027-le-senat-et-le-gouvernement-a-la-recherche-d-un-compromis-sur-la-mise-a-contribution-des-retraites_6812925_823448.html": 1794902444.9586818,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html": 1794871833.9662633,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/17/fonction-publique-malgre-les-annonces-du-gouvernement-les-fonctionnaires-attendent-des-reponses-structurelles-sur-la-question-salariale_6813014_823448.html": 1794935728.128494,
@@ -6086,6 +6046,7 @@
 "Reuters|CBMiiwFBVV95cUxNOWFGUXl3QjU4LTdvSEtXQkdZTW5iY2tDcXN6ajFBSHdJTmFPUjR3SzNOSHpJWFdEdDQxUTdKSkpWaGFUcHFSVDZkNzJHTzFSTE1qVEFpM0tvQ1NLYTVaYW1FY3Viazg2X2ZmajFjZHR6TmI5MjRpODUzNElGaXdqRURob0s2SjQ0RnUw": 1794343529.8280983,
 "Reuters|CBMiiwFBVV95cUxNYWdla05nRUhYdHdvcDdEZnM4TXFzLVo0TUVwNW5VX19lcVpBbmozdDhicEdsbHpWcm5uU0lsVW5jc1Z3OXo0S3JRLXF2eFdmcHdwM2pNczN0bHBpd2h0SUwyNllQZmZVSEpaQm45ZWd6SU5oS2ZpRDdlczY0ZTRwNnF1OERySm5XNDJZ": 1794807928.2227905,
 "Reuters|CBMiiwFBVV95cUxOS3VjcC1fM1VacUJUZVJsYzFnM0JmM0U4MXNsT1JlNGdpX21udjZyY3B4emFmMjgxc2RhM1FMRUpoZEprclJQUUpqV0cxMHpUVUF0M2QxMmtNRU03ek45dVpaUE5vMGNiTEFSQVA2R0tlamxNTDdjVnI1ZFk2UVhEZUNqMnNNOFpEUHcw": 1794485727.762882,
+"Reuters|CBMiiwFBVV95cUxOUlpaUHRxNFJlWnpJUnA5c050amY5N0hJdFlaV2lFUFF6TEFPMnFaYWNES3djVWdNY0pOYWh2dlVNd2h6cWxHQ0FpaFpLWE5rVFJaZ2hrWS1TUi1PMWl5ZzRwNk85bTBpb3JkWWtCNDVtSTJic0dMNG1yZ1o4YlBvRTdIa3J2STk1Q2s0": 1794939327.7535737,
 "Reuters|CBMiiwFBVV95cUxOWjhodGlOYk1VSGNjR2VjbkU5ckR5dnc1eFU5OV8yUTBCOWxnam9oWEFCYnhWWlV2dVE4dVNWZy1OT0h1dkRIbHpWNjF6UmViclYtQ1NXOHV1b1ZDZzN5dVZxbU41QmVHQm5taVA0UzB5LTJPN0hRaW13T2hPdXozbFJINmpfTS1LaW5v": 1794666637.529375,
 "Reuters|CBMiiwFBVV95cUxOYUlZZDNwSzg3ZktiQUYtazNSY3o3cF9qVEg1b0lSYW9IZExEaGROVGtlMDFlaVBRRmkzM3FKS2VCU19uTzlabVlRTm52RldQcC00ZGpkb1VkNjM5LWQ2YVdxcTlYYnRfVHJtX2JTZllrZ20wQXhCUGlhNnMweDJPR05ZNnc3NWpwcmZF": 1794578442.3058329,
 "Reuters|CBMiiwFBVV95cUxPMFVkQ3VlNVc2SHkwM25jeEFQTVQ4X19vdnhDTG42bWVIRktBZFUxYXpaLXpPSm1YUk9RTGpWdzBYYmlxSERpQlMwcnNLZkRidlJNM2Y2MnZoN2RGNnRJazRCS1M2R1N1aTEyMjk0cl9jelRBWXMwR083R01KajFfVlBnSUUxTm9TbHU0": 1794477641.4835513,
