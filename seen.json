@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDZ1UlZYeWFzY0ZSVGVKM0trODhNV1JPQm8wSVljQmZ1OE11SWpVcEJGNlBxWE1odGljSlVqamE4OXRJSjI3aFE3aDMzZ3l6OTh5aXFuN3JTQVRoVEdNUXc1SnhMZlFUUVFXOWNjX3BZQ1lSSHZjaHQyMmVrU05nX3IyYk1zdXp1TFU0eVg5WWo1ZmVOSE5VQ2VwN25wV1JuanFXbmRMMlAydw?oc=5",
-"src": "Reuters",
-"title": "South African rand steadies after hitting seven-month low",
-"ts": 1794899220.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
 "src": "Le Monde Politique",
@@ -83,13 +76,6 @@
 "src": "Le Monde Politique",
 "title": "Grève du 17 novembre : la circulation des trains perturbée dans plusieurs régions, les ports également bloqués",
 "ts": 1794906738.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5Jb0ZqQ1hLSlZCUmJPczQycG5oV1NjeGlTZHZqY2F6aER6MkJ4MnUxMXNmQjZpTlFadlgzV2lTSVBYSFhuLUtSTzRucllid1ZpSnkwUGFKVlBFVTMyLWVrcnRIRzkzRDk0WTZFck1HaU5lRlFqUDhQeEVDSnZIc1UyNk5ULThvVmdVSHEwdkFBSjQ2MEE?oc=5",
-"src": "Reuters",
-"title": "UK pay growth slows as job vacancies hit lowest since 2021",
-"ts": 1794899220.0
 },
 {
 "lang": "fr",
@@ -3709,6 +3695,20 @@
 "src": "CNN",
 "title": "Intel chief says tech outages not due to ‘coordinated or state-sponsored attack’",
 "ts": 1795027920.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkRPSzJYRXUyTG01UlZUMzk0UmZtWmtocEdfcjJyXzF1dmZwYy1jLUh6ZldGUUdIOVlaZm5fUHlDZWxZb2JiVGJ0NVlMOXpaSUFZVEtnbzlyQlJmMW1ucHBJU3ZtZjZFRjVRZ20xM2hBT3JJNnMyQmNjdTQxbDJITFo4OWlzTlNsdkhFb1ZHRDRMSnJjQ3RHN28zdnFmTmhzZDJ6ZXJHX1R5NDR1dV84dTBJbHcwd2dI?oc=5",
+"src": "Reuters",
+"title": "BoE's Bailey sees UK labour market no longer loosening, but some slack remains",
+"ts": 1795015063.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/m-le-mag/article/2026/11/18/tony-gomez-l-hote-des-stars-des-patrons-et-de-l-extreme-droite_6813199_4500055.html",
+"src": "Le Monde Politique",
+"title": "Tony Gomez, l’hôte des stars, des patrons et de l’extrême droite",
+"ts": 1795028414.0
 }
 ],
 "seen": {
@@ -5443,6 +5443,7 @@
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html": 1794991529.154102,
 "Le Monde Politique|https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html": 1794591037.4309053,
 "Le Monde Politique|https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html": 1794580236.4558582,
+"Le Monde Politique|https://www.lemonde.fr/m-le-mag/article/2026/11/18/tony-gomez-l-hote-des-stars-des-patrons-et-de-l-extreme-droite_6813199_4500055.html": 1795028889.115898,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/11/12/presidentielle-2027-comment-les-influenceurs-attisent-les-convoitises-des-equipes-de-campagne_6809062_4408996.html": 1794462326.8181815,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html": 1794546927.7555275,
 "Le Monde Politique|https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html": 1794891644.618442,
@@ -6526,6 +6527,7 @@
 "Reuters|CBMiuAFBVV95cUxOLWdVQnFPWGgwbThGVlNranpUSWhWTlpXUmdhejJvZjc0Nmd4cVdiY0pwZ19PSHpJTzVhd2t5ZkZyUnp6bnVMSzQ1X2NTOThMcHBQSTM2bDktLVBZRFk2UFlDNXhnZl83NmZzS1VYR0ExaEFGWGIzNEJJekNaY1NkaGZRMHExT0ZkSWRIQnRpNzN2QlhIYVBadTRzaTUxQ0tRc05UZ2Z4NlEzc2pMS094RTJzWjVUb3Bi": 1795007728.6548152,
 "Reuters|CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF": 1794660326.5002584,
 "Reuters|CBMiuAFBVV95cUxOWVdPY1lfOGVzUkw0ZlZTaEJKZjIwdTJHWjJ2ZHZFTGRZQ0g3S3E5NE4xVkxmcWhhWGlHM2lxRWh3LUVSOXFITzZUazk1N1VuTEZHTFFuM2FVYkRjNi1obW9TQXdudEdPRWJfaHByN2RQM0dzSERpX2lOaDQyYUlNWHh0UnNfeW1aTUNDMU9VWHBsV3FmN3N5YmF3SGREMC1vTXhPSHlHX05pY1h3RmNwSFM4RWdPMWlr": 1794452440.9938624,
+"Reuters|CBMiuAFBVV95cUxOZkRPSzJYRXUyTG01UlZUMzk0UmZtWmtocEdfcjJyXzF1dmZwYy1jLUh6ZldGUUdIOVlaZm5fUHlDZWxZb2JiVGJ0NVlMOXpaSUFZVEtnbzlyQlJmMW1ucHBJU3ZtZjZFRjVRZ20xM2hBT3JJNnMyQmNjdTQxbDJITFo4OWlzTlNsdkhFb1ZHRDRMSnJjQ3RHN28zdnFmTmhzZDJ6ZXJHX1R5NDR1dV84dTBJbHcwd2dI": 1795028889.115898,
 "Reuters|CBMiuAFBVV95cUxObElmT3AzdFNJbXhmTUJHejR0NTNhZlk4TzdOMnlxQnUxQ0dMRlNDbjc1VGJDaHNyY2RDR05NYU5fX2xFTzg5dmFKSXUwZ1JYX2dlQWZjYVpRNDZIcGNoSzFadGkyUWQzbU9fM3Zob2NtUXFiOUlteTVlcnlIbUo5MHV4dlhSN0lWdWJPUmxubHNsSjlObW80S1dnTlg0MGRVWXpzQ2JZQTZ4SWFPZ0xZVThTLVF1bHRS": 1794879034.5829694,
 "Reuters|CBMiuAFBVV95cUxOdkFHQnE4ZWppRXAxMGVYOUZXa1F1YnhLeUdVbVNlWTNQZjNyWnJCX05YbVVrT3AtNUxaVGUyYW1hVUNHanBNc2Q5ZmpnOXo0Y2lmeHBXOVRVQ3Fna21VWi1ScEQ5WGlmTEoyZ2Q5cGlobEMtQzhQclEwLWtJVzZvS1NXYU9GaFlHeFVhaW1Zc1RaRGlkSC1qZXowTXljV0Via1Y3V25wQkliTmN0bHpqZHdNQU1BV2tZ": 1794600926.297485,
 "Reuters|CBMiuAFBVV95cUxPM0VmMzhXalBmSHhhNS1CUkdHZ2RrVmoydG5SR0E0S1ZVOVZTYzBlaVRFb2pWV09CWkl4anRNdFBqNXZHZkQxbk1odUNiUVAtRm5wR2tTSC1vcm9NdkhseVd2M2d0NjNUVEt1Sk5pUE9JYU5HMlVTNkJhZVhpM2Y2bjBHaDF0ZzhvMzRETHcySE9UY3hjblVHZ3JpS3FNTDFwZ19vRGR0c1Q3UnZKNTRNWTV2aHRCNDcz": 1795027530.373672,
