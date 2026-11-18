@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMElzZFpVRVdZdFB2WFY3NjVyRVUzeHhWcDE5WGZoR3BjRXhkbUZJMkhYdF9Cb2t6X3YyVEltQ1VwZ3JfbHdtbTRLX1dQWVdqTmFuYk1IaFczNUJVelljOG83NjlRZXFsaGJtUE45YlF6VFJEVjZtNTBlcDRRN3hJRi1Ycy1EM2tteDF0SGhSeGNJRlduVlNCRmtETzFnSlFCVjdTVmlhTHVZVThCdnUteUNycW1RdVdmaHpCUWJIRmNGb2pGaGZrSG1qQQ?oc=5",
-"src": "Reuters",
-"title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
-"ts": 1794847663.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0xMS2JFcWlSWTlxSkpkMl9jWVV1UW56bjh3V3JtRElRMlNJay1nWkdvQ2Vvcm03VUdoOXk4X2VOM2w3QUtDTjdxUDQ5SVVkREw4clNZci1OamlQZjdKLWJXeTUyb2Q0RzE1VHc5bUdCajhCSEVrSGZQZ0pSXzdLc1hZSG9uZHFGcEM0U0c3b3BzUHM?oc=5",
-"src": "CNN",
-"title": "Trump: FAA Equipment ‘Had a Heart Attack’",
-"ts": 1794847792.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261116-apec-2026-vers-un-sommet-xi-trump-poutine",
-"src": "France 24",
-"title": "APEC 2026 : Vers un sommet Xi-Trump-Poutine",
-"ts": 1794848010.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTVlVnTHBWdFJURE54YTFuemo2TmNOR1B3VUFCci1obm9DM19Qb2lpdE5SNGt2MkRCNVZxc2dfTkJ0cHB1SHlmcEtjNUYyclgwU3lpTS04QmlIdWJ1em9NY3NqQUZXVEFibEY2NC14VHNQRGF3ZXc?oc=5",
 "src": "CNN",
 "title": "What we know about the Mississippi River collision that caused a cruise ship to capsize",
@@ -3541,6 +3520,20 @@
 "src": "Reuters",
 "title": "トランプ氏、クアッド首脳会合に初参加 米中ロ首脳会談を前に日米豪印の結束示す",
 "ts": 1794976977.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+"src": "Reuters",
+"title": "China's Xi calls for free and open trade at APEC summit",
+"ts": 1794972060.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html",
+"src": "Le Monde Politique",
+"title": "Midterms 2026 : malgré la polémique, les démocrates s’imposent en Alaska et parachèvent le basculement du Sénat américain",
+"ts": 1794977790.0
 }
 ],
 "seen": {
@@ -4690,7 +4683,6 @@
 "CNN|CBMitwFBVV95cUxQRzBQU0xWMURBTWd6bURKeEtVNktsLVNLaTJiRXA0ZTcxV2NFX3RSMzROdHZUWmdxbjNfUFdLMXQzaE1vcUtxZlduQXpkUkw1TDdjMWNpVkhhdDAtSll2RFU5WXBGcmtLWWxYdDVOeDl0OHlUWW12RDRHckN6eUVTVTlPQjQyTlE3Uk1XVXE3LXdQWWJUSmd6WURiYk5ZV2g5Nkc3WWhWQlVsckxkNllldjM5NXkxVjQ": 1794763837.1021914,
 "CNN|CBMiuAFBVV95cUxOWGpFYnVrUE5rZEdWTmJ3MU1VRm5pYm81bHJac1BZQU50UTBuSk9ZYzYyREFIR3lqNHFoWnFnNG9oNkNxazRDRFFHazJ6M0xUUUZjcFJld1VIQzNtd0NRdDRnNzh0aGM1cG1Wb0Y2YnFwUlk3MnppcXlLYnVPMVdvTzhvY1NjRHV1aTE1RTlybzZHNVE5N1pxWkUxdURkX2l4RVh3Tk13TjQyaDM1NTIxTGNHbkthWEl2": 1794545128.806474,
 "CNN|CBMiuAFBVV95cUxQRzRrd1ZKcmpnX2xoQW9BM3N1djYxd2lhQktfVEpnN3hTRnlQc3BQTGNsMkQ4T3d3ZHZmTXE1QlFYV2QxRHZQYURqZy1YcU8wVWhOaVhEejlMMmhaZlhOT1VndDJHNGZFdmxKRVhPcDI2ZHlMX01LTUdqdFBKc0txU2VUUHhLVFZoYWxyenZOZC1NdmFMMmN6LThlY0NLeHlWbnpNTTJrLXp3aThZTlQ3QmxjbDJpUEFU": 1794969927.763913,
-"CNN|CBMiugFBVV95cUxNQ1ZfZU0wMmVFV2s0NjFjUDBwb1NBQllyVVctdjBwekRaaElqb2pkbFJvR3hxSk1TOWI0S2J6LWNGNnhobHFkQ3BHb3A1NThvZE8tb2xDQmhINGNEVFZUV2owYzh6V2hSZUlPb3d2cEFRaWtIaHRaeVpPOEFsQ3BxSnhrcTVvNE5PVGMwbWpjQjE5ek5xcWpUODAyeGRXakgxY0ZaR0o2V096UDNnemNxVG95YVJCWXVGT0E": 1794373244.2719698,
 "CNN|CBMiugFBVV95cUxNR1NtV3FObmU3bi0yWmNidTNBdHBLQ0lPWi05MjRPLS11QjhDOHhkWTVvT0E2aDdhMnlRcko3T1JKWW5ldy1hbDFUYUtpaENFbDdVWmMycUpZeXMyc1MxdEE2aDQyRkpBcUx0eFdwRWtULXBEQ1k5R09GaEh0Qmk4ZTgtYnlXbEZobUVzX1pDWkJjMUlnVHFkRnY2VGdNTFlhVExhZVowR3ZPNWh4aEktVk1RZm82NVpiMVE": 1794520845.0461998,
 "CNN|CBMiugFBVV95cUxNVDZraUh5R2pBWlF3TUNUSzhjXzlfOGlZZmF2M3hCLXpWZ3NGWmNQU01veFBCTmpneGlCM3NDRkNhVWtvbmh3NXJqdXlsNTR0dHhPT1h1cGtxcE5WNUtONkRKOE5ETGxJZVRZNEFfeXZIRm01cXhmeDNhajl3V20xLXpfRVFHeVlDS3FZSWxjTXdrMU5PTUFNWEx3XzdtRGlTamtjaFRmV2o4cEJaX0ZzTVRYbzRMWm5mc2c": 1794974441.0162513,
 "CNN|CBMiugFBVV95cUxNZy0wT1NESkIwYkhudTRPOGFMOVROQl9zOXFFREF3M2pXMUt2WWU0N01zVG1sQlJxWEl1Nmw0UkpEcnRsdlI1bGtqWlBsN2RGdDNROWdQZENVN2t3R1VleDRWb0F5aUtVNWRMUWFWVnVQTGZscGwwblVuMXZ6ZEFtSERta2N4OWRfWnA3YjdmWDdtMlRiOG1yUmU2cU9Ga256d2hSVlkzdDlFUGxicmJ4bzdWdEo2aFpMX1E": 1794966332.7190652,
@@ -5266,6 +5258,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html": 1794749436.8163805,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html": 1794729640.5759432,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html": 1794869126.7947497,
+"Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html": 1794978040.0109122,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html": 1794595529.1367846,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html": 1794749436.8163805,
 "Le Monde Politique|https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html": 1794591037.4309053,
@@ -5403,6 +5396,7 @@
 "Reuters|CBMiW0FVX3lxTE5RM3dCbDRRdjB3V04yUDROeWFrQVdpTllSTHRsYTVpTl9RMy1WNlVENHdFaGlVaTdGWnRqUzl3OVRGNnhIV0VrTG5DakVEQW9wa2ZWZlY2NFhfcDQ": 1794439835.4077115,
 "Reuters|CBMiWEFVX3lxTE9vRlNMQjB4ZjZMZWxBOWwtN25FbmtxOUY1XzlibHVIR2k0RWprN200TVA5VFZkdUZCWU5tMnBVZklXaEJxTnVTaVJac25GV3JwM2twX1FOR2c": 1794953727.4658933,
 "Reuters|CBMiWkFVX3lxTE1xRlp2aXZEZHZXOTFMS3B2aU0zQU5jZUV2bE9Pc1RWRXZYZzhWYTlUR3dSOUROdUJHdnlMUS1BaTJDb3BIdlpPWW1GT2VzZHp5NWdSTDVFdlpSQQ": 1794387641.6731067,
+"Reuters|CBMiX0FVX3lxTE5LcVI4UC0yVFFjNDVsT1VRMXBKU2xXWVFRZ0J3SFg2cHktZHZmU0RIS0hPRWppTUFoOVZ1TVcxTi1GOUIyOUdaU3FOU284eGNsZm9DbnZyY082bVRHTlcw": 1794978040.0109122,
 "Reuters|CBMiXEFVX3lxTE01R0lxcTFMSnJOdFhUUnpCWXlXLXZGbXB3aDZEVHpkS0E3cGxwOWVORUo2bkR2MThuRGxWSHkxWDF5NkRBMEMxdERyakdYTEZxVVBIc256dlFRbERu": 1794512729.8407125,
 "Reuters|CBMiXEFVX3lxTE05SXZsdy1yTnBYX2hlRWVCQWZLV0dfTkpZRHZOWTZKQ0E4aW5GN0liY2p0eW5GeVJqMkdfaEk1cFNhUmNiVDk3N3VLdTNDOUJNUnZ0UTZ2dzhDV0Uz": 1794436238.3164294,
 "Reuters|CBMiXEFVX3lxTE0tcXc0OU92YzgzQmVGU3pFMmFZbVB6UHJKUXBWMUZKWDlrQWE0S01tX3g0QldiMjFsZjhhNVFjUW5LeGJqTmI0LVNUZHFudEF0anozX1BmY0Ziak5s": 1794711647.5239077,
@@ -5744,7 +5738,6 @@
 "Reuters|CBMidkFVX3lxTE9OYjJPc3Vlb0Q4SHFhZmRtUWM1Sk15S0hTd1BheFpId2g3QzgwQkRnVnk4dE0xdFgzU3pQT0EtOTFQY2c1T1VMRzdDQXY2aldwbTJBcjF3c2laaV9rTWpiaUpVUlJzYmRCdFRkRy1SNnVyb3g2YlE": 1794968131.0209777,
 "Reuters|CBMidkFVX3lxTFBjSmdCenNlM1ZDSGdhN1dLemljSUVEdmJWUUpEb05WQnN5T1A2MHBXMENCZTNLNHJmVC1vMENBeTNMYU84X285eWtDTU9oOHpNa0h1Q0dhcUNwVGQ3NUJ2czY4azI2cy1WeDZfb3FFUDZEUTl1NWc": 1794964538.451117,
 "Reuters|CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA": 1794470442.2779124,
-"Reuters|CBMieEFVX3lxTE11cUU3dWEwT3lhWmJIUXRqZGRzSGs2cXQxeVVmWFBzQ2xDYVZxX3JNZkdUb2VOWi1NSVFvbXlZZjBpdnBEM3duUjRKbV9HcEFhLVFoQWtKdmhpZko5dFByamJDVGFpc0RTVmhIRUZsSFB3UmJpRDBDWg": 1794373244.2719698,
 "Reuters|CBMieEFVX3lxTE1IVlF4TGxpS0xZN3dXN0NmTExvS3liUUVfWWlUMjNZMlJFakc5SFo4TmZsR0dzV3JZWGdZZVJYazlkUHJjUHJsRG5xblZEU2k1bGlVRkxKcVVGQzMtWXpsNmVCbVJlWmZuWjViVVRFRTd1Nm9UTk0tcQ": 1794423649.0579634,
 "Reuters|CBMieEFVX3lxTE52YS1lU1o5R3hfVFJkczlCUTdIT1p4T0xMZDRON05yRGFzOWdqYkJfcTYxQlRTMzFXc3pucFBxa3RhcF9ZSEdZQVJJUnlqSHJxY1RCbE5zTC1aTDlFLVpXUWc5VkNMMHI4Ukotd0xVRnVld1JvelE1cA": 1794960056.4364405,
 "Reuters|CBMieEFVX3lxTE5VMFRQek8ySTVvUE5CTDRMX1JlWV9QTC1lXzY0eFF6NlZsbHR1MzVVaWZ3d0N0ZHN4SFVNZG1hZ1RYM1VqNGhwbG13VjBaVGZDMzBMUmxvT2NEYi1aQ2MzZ245NEc0ZDhJYVh3LUplcnZDem9qVXJBdA": 1794799834.5262144,
@@ -5873,6 +5866,7 @@
 "Reuters|CBMiiwFBVV95cUxQZkQ0aG5OQUdsUnlEU2pVRmgtamxnU0Z6RDVMeHhKOE16N2pRb3l1TUtoSGZBOU52ZlVlWkRDbGsxY0dVREdNYnFQdFJ1anVtOVVtUDFNSmdfUEpxVmNDM00xaXNIbk0zRDV3aWZGTE8zaFU0bk1hMmZLWXBHUm1zQkMwR3R0a1huSDJj": 1794491129.0216165,
 "Reuters|CBMijAFBVV95cUxOMFcwV1BVYUpTLW9JUE1od2Rhazc1NVd4dEdNYW1JdmtvWkNSVjZKaDhkOWpsSXBDamNQSVlFZ1k2djA3UkNvUEtUbDhoQnJxWkZrSHFaS2pNSGFRSkg0YU1vdWRxc1luYk5xclp3ZWRYVjJ3U0tmMHhBOF8xSng4aDBHTmEteXVKUV9LUQ": 1794751239.8692768,
 "Reuters|CBMijAFBVV95cUxPNlZKel9fWTJpNnBrbG5hMWtsbmV4VnZPdTFGZHZOSURhMkdVdVNPMk40cnljYW5SbDd4LS1FeFhoSWJwQU9pWkVST19HdHZ5NkNGZFR2R2U4cE1lbGFiX0k3T2k5ZlpySEh4NEk5alVZb1A5YndWWU5oLUpuZ3pWMHlHS3ZzcTR6bUQ0Ng": 1794959127.4676023,
+"Reuters|CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR": 1794978040.0109122,
 "Reuters|CBMijwFBVV95cUxOa0hQVVFHWHJIc2xNUHA3SUF4VEVpeTV4UTJ1MVNVZng5OVIyc3NRRnVnQ1ZfQ1NDVU1ySTRmQ0tNR3NGdVpXSWZIdkJZdGlWbTZGQWFfMG9FQ21xY3JnOC1pUVpJMnBfOGowWVJGRDdjSUFMQ2pUdDlOREx5ZnZ6UzBZdG05ZDk1dXltTW55OA": 1794402928.4602053,
 "Reuters|CBMijwFBVV95cUxQQm83VGdRbElUTDBGZGNMeFZ3LXVKNFpHTDVhM2JJOUhQLTlORUh0a2otWEVYUHdfSHd1TGFKSkNfUmEzVFRSMjZmaTRxako4VjJoSnl2OG81Ti1HUE9majhfZEx5NnJJUjUxUmNVdnJvWFNSOWhSLU0wUHZPWmNnVGNDeWpQeEhBMUpjVWx1OA": 1794472233.7456002,
 "Reuters|CBMijwFBVV95cUxQZWdlckVrc1RwUGlOZjlzODlvdkxCYWwzZlhMMGMxUXp6ZDNQa0dTSXV0NmpVck9nd0dhaWtLdjNmSFhuLUJMOXJHeF91ZWw5N0ZmTkZfWnEtNzZvTU9UYjUwOWhQS0R6TlRha2pwWEp1NUdiQV9JVzhUTUQ5QzloNjg1b3lSdmFGRzFnOE5ORQ": 1794899728.8287709,
