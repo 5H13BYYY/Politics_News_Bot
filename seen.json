@@ -3499,6 +3499,27 @@
 "src": "Le Monde Politique",
 "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
 "ts": 1795014332.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-une-rencontre-tripartite-qui-ne-promet-aucune-avanc%C3%A9e-concr%C3%A8te",
+"src": "France 24",
+"title": "APEC : une rencontre tripartite qui ne promet aucune avancée concrète",
+"ts": 1795014855.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/asie-pacifique/20261118-rencontre-trump-poutine-et-xi-que-sait-on-de-ce-sommet-in%C3%A9dit-compar%C3%A9-%C3%A0-yalta",
+"src": "France 24",
+"title": "Rencontre Trump, Poutine et Xi : que sait-on de ce sommet inédit comparé à Yalta ?",
+"ts": 1795014910.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-detaillant-leurs-propositions-a-destination-des-candidats-a-l-election_6813152_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : les Jeunes Agriculteurs publient un « manifeste » détaillant leurs propositions à destination des candidats à l’élection",
+"ts": 1795015648.0
 }
 ],
 "seen": {
@@ -4750,6 +4771,7 @@
 "France 24|0950e064-de17-11f1-ac99-ffcea57a7613": 1794433530.6685166,
 "France 24|099518e6-de7c-11f1-b3c1-bdb3628cbdc2": 1794479435.019368,
 "France 24|0996fa30-e0d9-11f1-94f5-fb68ced2d287": 1794737732.404666,
+"France 24|0a3c686c-e359-11f1-a5ac-1f94eeab10bd": 1795015838.3020322,
 "France 24|0acfbd8a-de70-11f1-8c7e-dd3ec6814d64": 1794472233.7456002,
 "France 24|0c2f6f6c-e2a4-11f1-ae6f-9bfe38f4281a": 1794933939.8238747,
 "France 24|0c8d12e8-dfed-11f1-9f23-af4958826be8": 1794652235.8836935,
@@ -4996,6 +5018,7 @@
 "France 24|93f263c4-e0d7-11f1-9c45-b393a1f66d25": 1794736840.5058265,
 "France 24|94083790-e00e-11f1-9999-6b4b1b643d92": 1794651329.1227612,
 "France 24|941e6776-de7a-11f1-b3c6-fde36088db4d": 1794479435.019368,
+"France 24|9462fa04-e360-11f1-bc7c-eb707f815163": 1795015838.3020322,
 "France 24|949f343e-e1f7-11f1-9bdc-ffb319055cf9": 1794897928.0499086,
 "France 24|9500db1c-de8c-11f1-9d5b-69a6377e1036": 1794491129.0216165,
 "France 24|95b0343a-df6e-11f1-9710-07459da6ff6e": 1794661242.1113,
@@ -5017,12 +5040,14 @@
 "France 24|9d3cab44-e1cf-11f1-bfe7-4501db9e6a0a": 1794845727.5396547,
 "France 24|9e74c38c-dd08-11f1-bb86-b324cc31ae48": 1794412841.416497,
 "France 24|a187b1c4-de7f-11f1-bc80-07fe73521e0b": 1794478532.4395192,
+"France 24|a1ca96c4-e361-11f1-9747-dbf1d03d10d4": 1795015838.3020322,
 "France 24|a2aad692-e197-11f1-be57-f9af94a31c61": 1794819641.6741633,
 "France 24|a35afbe4-e2f5-11f1-8896-351c1c43064c": 1794997835.9014316,
 "France 24|a36d9d20-e0f3-11f1-a41b-599f94f057b3": 1794748529.7393816,
 "France 24|a4d549c2-dd12-11f1-8b92-8bf73647296b": 1794731435.4150162,
 "France 24|a503d9c8-df87-11f1-b8cd-45abc6549d62": 1794661242.1113,
 "France 24|a6bab8f8-df6a-11f1-8877-f77faabafdc3": 1794581129.4839892,
+"France 24|a8411478-e362-11f1-afa6-6b6a64095c7a": 1795015838.3020322,
 "France 24|a899dd14-e160-11f1-9573-25612992a347": 1794813331.2739704,
 "France 24|a8f8e7c6-e2d9-11f1-9674-2ba2fcecb78a": 1794958245.6670663,
 "France 24|a8fbd102-de97-11f1-85d8-494f5f40e853": 1794493836.117579,
@@ -5314,6 +5339,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-a-villeurbanne-raphael-glucksmann-ancre-sa-campagne-a-gauche-face-a-l-extreme-droite_6813091_823448.html": 1794990635.723035,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html": 1795003241.1748316,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-gerald-darmanin-appelle-bruno-retailleau-et-gabriel-attal-a-s-effacer-derriere-edouard-philippe-pour-barrer-la-route-a-jean-luc-melenchon_6813056_823448.html": 1794964538.451117,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-detaillant-leurs-propositions-a-destination-des-candidats-a-l-election_6813152_823448.html": 1795015838.3020322,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-sans-attendre-edouard-philippe-ses-adversaires-posent-la-premiere-pierre-d-une-primaire-de-la-droite-et-du-centre-incertaine_6813083_823448.html": 1794985253.4486167,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-franceinfo-edouard-philippe-maintient-sa-position-je-ne-me-soumettrai-pas-a-une-primaire-de-la-droite-et-du-centre_6809070_823448.html": 1794501927.4438345,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html": 1794484745.369888,
@@ -6081,7 +6107,6 @@
 "Reuters|CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ": 1794442530.3395636,
 "Reuters|CBMiqgFBVV95cUxQMmtTMUtYTXIxeXB2T0RuYUpZMjBwTmpmWFVyY010TTVPbzE2akJxTEVYTjJzeTRoSlZpZDZSejM1MEhuWm0zSFQ5Mi1NX0tvVHRUX29VdHV0NkI3MUMwVUtxLTlKam1iQTZueGJ4eEZSY1c3S3diM3BSTGZoRjlGNm5kODVxS3BjcThWRjFIRzgtSzByTzFIVGV2V255RVpSZUlDbWZqZElPUQ": 1794906042.4751477,
 "Reuters|CBMiqgFBVV95cUxQNm9rS0xLSDBqSlJHQ3FiSmFNVFRqU2tyUlhlb2dUOUVaTFd4S2REX3duS0V6akpYMnJqeWNIU0VWWlZxbks2UndwNUtISG9aam5kSWNkQkVYaWFhTUhycTZwQTZZd2VxZUdhd1M5cU8xN2lUWnRpQ09ISzlENHBJSExvNXhTTVJlWUduTlVzYmxNMTM2SmdxLUJXU2hBSGRLY0RnVUx4UzBIQQ": 1794601836.3768063,
-"Reuters|CBMiqgFBVV95cUxQOEIxQ0NiTEZIUUZhUnFpZ25sTkN2SnBPd21rai1WWFlPRVg3Tkx4TWpqcXF5dzZTR3JVbHpXdFQ4NWliUkRIWkZVcDVZRFNRemdvWEd6N3gxcG1maTkxcWRzODhmdHRnTy1nbGs4OU1odFUwMWduSHZ2dGV0b0kybVY2SUgwZHVmTVBmQ2xyU3lENkQwUUtQb19VR1g5NG9IX2dhdFpWM25hUQ": 1794411034.555182,
 "Reuters|CBMiqgFBVV95cUxQQjZZbTFLSVpBWlRjSmszOUY5d1YwSFp1cnlEV2ppX2l2bFJ3eDk5b2RRQmtnR2EzcnVmQ01TN3JDQUJ1N0NhczBiNmtUMlNQcFdxdFJQV3JDc1J0NDRLQ2UwSTZHUmVvaXBib1B3QmNORjlMbmE2RkU3Z1UwUmg3Q1R0c3J2UUxuUkVBV3pKWWNvWWNfRUpUTmNLNHFwU2puejZaeDhZWnVtdw": 1794917728.114598,
 "Reuters|CBMiqgFBVV95cUxQTDZ1UlZYeWFzY0ZSVGVKM0trODhNV1JPQm8wSVljQmZ1OE11SWpVcEJGNlBxWE1odGljSlVqamE4OXRJSjI3aFE3aDMzZ3l6OTh5aXFuN3JTQVRoVEdNUXc1SnhMZlFUUVFXOWNjX3BZQ1lSSHZjaHQyMmVrU05nX3IyYk1zdXp1TFU0eVg5WWo1ZmVOSE5VQ2VwN25wV1JuanFXbmRMMlAydw": 1794900637.5549657,
 "Reuters|CBMiqwFBVV95cUxNNVlveUI2ekRqQWdDUnE5Rk9IR0hVQWdqVmNFam5oRWZXWVQ2UHBOZjV5NFhEYUszSnNuWkhfb3ltV1NSbFdteXRaaXhTMldYNDBHeVNCSkM3d3Z0Sm1VcnU1R2FMZnBYZHhKTGZVSXlRZVhMMjZIWkNSbFpWcm9fYkpzS0xvQ3JpWnpxcmR0OXdIVU1kZzBleEhXZllNTTNOS1ViSEUxa3FXbjQ": 1794620729.1585522,
