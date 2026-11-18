@@ -3450,6 +3450,55 @@
 "src": "Reuters",
 "title": "Transcript - Reuters",
 "ts": 1795010400.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-la-r%C3%A9union-xi-trump-poutine-est-elle-une-simple-op%C3%A9ration-de-communication",
+"src": "France 24",
+"title": "APEC : la réunion Xi-Trump-Poutine est-elle une simple opération de communication ?",
+"ts": 1795013090.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales",
+"src": "France 24",
+"title": "Présidentielle 2027 : le candidat Édouard Philippe veut \"oser des réformes radicales\"",
+"ts": 1795013326.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261118-donald-trump-et-vladimir-poutine-en-chine-avant-un-sommet-in%C3%A9dit-avec-xi-jinping",
+"src": "France 24",
+"title": "Donald Trump et Vladimir Poutine en Chine avant un sommet inédit avec Xi Jinping",
+"ts": 1795013356.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3ZXUlBfYWs4b1g5TVJwNHRzcm1qZms1V1ZvU0gybWZ1Wm5OWW5yT3M2emlkSHA3ZlQ0dVlESVRlQUp1dy1kOFlzUVQ2Tnl1UGg1alp4OGtIT1hmYU96REZtajBpSVdGN3ZZOXh4MDQzMWd0TmVRMUN4NXhRQnR4Tg?oc=5",
+"src": "CNN",
+"title": "The Odds: Looking for Alaska",
+"ts": 1795013661.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261118-%C3%A9lection-pr%C3%A9sidentielle-fran%C3%A7aise-2027-%E2%80%93-%C3%A9pisode-2-le-grand-flou",
+"src": "France 24",
+"title": "Élection présidentielle française 2027 – épisode 2 : le grand flou",
+"ts": 1795013836.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVVjZjNMU1llNktlY290Ny1WLXp6ZEplN3Ryc29tSHlOQVRNOFk0MVp4LU5tZDBSNFQ3Ym9PR2NFU242UWE0a2lYNE5hamxfcFE0SHlwQS1iZ2o4U3Vma3NpQm5aV2hQMjNjMkptd2Y2N2R0MUR1aEF3eGRnSzg4dG9EUU12QWVqMl9hOTRpZWF4ZExac0dMeHVzeTRBUENx?oc=5",
+"src": "Reuters",
+"title": "OPEC speaks up for fossil fuels at COP31 climate talks",
+"ts": 1795014224.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
+"src": "Le Monde Politique",
+"title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
+"ts": 1795014332.0
 }
 ],
 "seen": {
@@ -4014,6 +4063,7 @@
 "CNN|CBMigAFBVV95cUxPTXo0V1BaaVNubzdvV0NJdW51eVYteU5fZFY2XzR3NnhRM0I1N2N2bDEwNnppNFZrREtoOWVPWmlmTkxmV05xTlRjb29oNjhITkV4aHN2WFRQbEhfeU83aWdBM09NSHloblRhTjlHNDNSLUhZbXVYWUFXcmp1YWlyXw": 1794969033.9701707,
 "CNN|CBMigAFBVV95cUxPU2Q1SUJhNW5FUUZlb1JSMFl0MWFodG1SdTdIOWtuX1NSOG14R1d0ZkIwUlpYdTFYX2dhTENldlZvMmF0SjdZek5ySGF4bm5ESk55R0FEclpLRTBxV2s2b2JjOTJXMG1sUXItR3BMaW1wY2o3ZEp1ZDk2eFFkcVJrWg": 1794991529.154102,
 "CNN|CBMigAFBVV95cUxPX0FIOFZrbVlvamlPNWZTbzV3dlJfX2hZX3ozREJHSTBtZUZ1OWdJN0xfajhkUUFRNjRrYXNsWmxWaHBLbW1lSmxOdVR6VWxPLTIwUzVJZ2pnajcwLTM2V1dSMnpqQXV2c2RPN2l1bER5SHEyOEd4N2dvZ0E0V1BoZg": 1794497437.010251,
+"CNN|CBMigAFBVV95cUxQM3ZXUlBfYWs4b1g5TVJwNHRzcm1qZms1V1ZvU0gybWZ1Wm5OWW5yT3M2emlkSHA3ZlQ0dVlESVRlQUp1dy1kOFlzUVQ2Tnl1UGg1alp4OGtIT1hmYU96REZtajBpSVdGN3ZZOXh4MDQzMWd0TmVRMUN4NXhRQnR4Tg": 1795014929.13376,
 "CNN|CBMigAFBVV95cUxQVHFMOGVOUDhOREtMQjBGcXRVemE3dkw5N2ViVU9Gd09XOW00NjZqX3ctOHhqTVoxaS11OGNHRjAycjZ4RlZub05USmZDb1RFTkplUk54Y0hEc2stU0ZhWU1aakxJcGtMWGZtcmJldjhQbWE5cTVmbWdoal8tMHNsYg": 1794654926.5571525,
 "CNN|CBMigAFBVV95cUxQWElVV19yajlYd2h6SEdJYjhUV3lydmZVNWNVUVU3SjBaQkJNSjVlTFRxQkF5T3RVYy1tSGpOQlg0R240TFhPd2s3OW9RTW53SXlEVEtkZ1RycE9IYWtBOElnUnBmNkl0WjZOZGYzclphMEtBUG44aWpHeFliaWU4Zw": 1794951925.7499976,
 "CNN|CBMigAFBVV95cUxQWTZ6djlUZzI4OGVmLW9jaVM2azFsUy10SnJpTmtUSXVMamZsRzVLTTNVcUdzVEFmRlZZX3ZwOFppUjR6QVVraTJjNzdkRGZ0Q2VBOEVHRk1zNWJrTlhTSllxT0lEQUFZMXhRbjBlUkFGeFVPUDRjRmxUemNZbGNaWA": 1794789037.286718,
@@ -4689,6 +4739,7 @@
 "France 24|067d2ca6-e1cf-11f1-9142-adb74491ed0f": 1794843038.3002346,
 "France 24|077cb59e-e1da-11f1-8427-cd75c91fbb61": 1794850234.339317,
 "France 24|0785227a-e1d4-11f1-be3b-9be425d63698": 1794852042.735301,
+"France 24|0794d444-e1cb-11f1-a708-c555493b4fb3": 1795014929.13376,
 "France 24|07b900b0-df4d-11f1-b52d-637c7763db87": 1794566728.806027,
 "France 24|07d62f18-e34a-11f1-a0f6-9710356cfaeb": 1795010445.1373608,
 "France 24|07e942f6-df80-11f1-bd88-4d43a9ba73c1": 1794591037.4309053,
@@ -4787,10 +4838,10 @@
 "France 24|3b1e0c76-de9d-11f1-93da-5df6f7186ae4": 1794491129.0216165,
 "France 24|3c1ea822-e1ab-11f1-bb65-dba5fd573abb": 1794828635.7547994,
 "France 24|3d33a828-e298-11f1-8a14-b996144fe932": 1794932130.278895,
-"France 24|3de84df8-ddb8-11f1-8890-1154febfc93f": 1794410129.323917,
 "France 24|3e24c8ea-df8a-11f1-90e5-796b9f8c79c9": 1794595529.1367846,
 "France 24|3e70aa7c-df52-11f1-b2dc-bbc3f7292a88": 1794587447.1831682,
 "France 24|3e855b64-e0f3-11f1-9d99-5dcbddb99b32": 1794748529.7393816,
+"France 24|3f16a4d6-e358-11f1-a958-1f94eeab10bd": 1795014929.13376,
 "France 24|3f32932c-e2c1-11f1-a222-83b61e3aa622": 1794946538.1490278,
 "France 24|3fbf7f10-e250-11f1-947e-0b970e13549f": 1794930329.4841983,
 "France 24|3fcd1c9e-e1db-11f1-86eb-17eb87f97227": 1794847530.0264525,
@@ -4804,7 +4855,6 @@
 "France 24|42b9d6c8-e1ad-11f1-969b-f38f820bc25c": 1794830442.669714,
 "France 24|42f3691e-e2a8-11f1-acf2-812d17e17a01": 1794938441.853177,
 "France 24|435b0c5e-df5b-11f1-85ed-cfbf7b39733d": 1794577528.459019,
-"France 24|44310932-ddb5-11f1-beb6-47fc4dae7fcf": 1794410129.323917,
 "France 24|448b44f6-e1ac-11f1-85f2-07ce4852ce8d": 1794830442.669714,
 "France 24|4587d2d0-e066-11f1-9a89-3d7e8c9ba9f2": 1794687327.4232652,
 "France 24|4672f1da-e259-11f1-93a1-ed6c132ff852": 1794909643.5209646,
@@ -4921,6 +4971,7 @@
 "France 24|81707fec-e0f5-11f1-972c-5d19fb76abb3": 1794754840.960045,
 "France 24|82b30fde-e2ba-11f1-9272-edbda18c4057": 1794983446.5229774,
 "France 24|82db9cdc-e1e9-11f1-b322-f5c2b6005cb3": 1794860129.9847298,
+"France 24|82fa8cca-e359-11f1-a9a9-fb22cf0d552d": 1795014929.13376,
 "France 24|838cc210-df8b-11f1-a90e-4dfc9231c2be": 1794595529.1367846,
 "France 24|838f5866-dfb5-11f1-93a6-9bfcb8111d3b": 1794611726.8253462,
 "France 24|857e44fe-e012-11f1-ba60-6992bd96fe30": 1794652235.8836935,
@@ -4929,12 +4980,13 @@
 "France 24|876dddbe-dfa0-11f1-ae66-31a5ca46cec9": 1794601836.3768063,
 "France 24|887cc624-e078-11f1-b0f1-e36b04d82a3f": 1794695433.661229,
 "France 24|88eceb80-e00e-11f1-a4a8-ef205f46f428": 1794651329.1227612,
+"France 24|897dfe2c-e356-11f1-87e1-eb4275e070c0": 1795014929.13376,
 "France 24|8a1d0098-de7f-11f1-905d-812138ae617c": 1794480332.2905986,
 "France 24|8b484a30-e1c3-11f1-88de-a9e3fd89e95e": 1794837641.641186,
+"France 24|8bd8c72a-e35a-11f1-b6e5-6346fdd719fa": 1795014929.13376,
 "France 24|8c87bcf2-e036-11f1-8015-4155d6e70041": 1794668440.9511037,
 "France 24|8cb6acb4-df51-11f1-8ef4-d1d6dc6cb4c2": 1794569433.3859904,
 "France 24|8d751dc6-e1ad-11f1-9b0e-cb397ab2c6bb": 1794832238.3513505,
-"France 24|8da077ea-dddf-11f1-9a48-ad5ab2952c35": 1794410129.323917,
 "France 24|902a148a-e1e0-11f1-8092-f38a56165042": 1794850234.339317,
 "France 24|906f1768-e2d2-11f1-afa6-1122a384f1a8": 1794958245.6670663,
 "France 24|91418a44-e012-11f1-a0ae-8dc97ea1e58d": 1794652235.8836935,
@@ -5142,6 +5194,7 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/17/greve-du-17-novembre-la-circulation-des-trains-perturbee-dans-plusieurs-regions-les-ports-egalement-bloques_6812393_3235.html": 1794906928.3921034,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html": 1794890729.9844115,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html": 1794925843.254503,
+"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html": 1795014929.13376,
 "Le Monde Politique|https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html": 1794428127.708573,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html": 1794717034.890029,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/la-presidentielle-de-2027-et-ses-enjeux-l-immigration-face-a-la-realite-des-chiffres_6813002_6205049.html": 1794931244.084954,
@@ -5925,6 +5978,7 @@
 "Reuters|CBMioAFBVV95cUxOalBTLXlQMGN3UEt5X1ZDYVZRa3JMTDRqaDNpeVRwN3dlOHRNVFQxMFFOdUFQb2ZLcmxJT2tZaXo1UG1VUFkySTM4U1ktQjVQTWVEU0wwRVdpaFp3SENHZ2lmdFk4S1dubmtadFo5N0FpT2l2NHVrbF8yZmhVbGUtMHA1RVItdVBKMG05ZmlWSEc5U2h0Vm43QW50ODhrT05S": 1794591037.4309053,
 "Reuters|CBMioAFBVV95cUxOeGFObjg4UngzenJzcUFtSU5TUDdiQnNkWUc0MGYtTXJLMEZncTc3SjJ4aS1jV0NQRHVqZGQ0TFI4Vy0yZ2NLTWItRXBZdk91cTFOdTJPeDlhVXZTTmNSNDNCZUowc080eFFiODVaMU9QVVFibzdUeHIyWmlSRVpxSWRLUDN0VnNzeHFvTEV6ZjY1M2VzY0QyRXM0X01uRnVM": 1794546039.658948,
 "Reuters|CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq": 1794964538.451117,
+"Reuters|CBMioAFBVV95cUxPZVVjZjNMU1llNktlY290Ny1WLXp6ZEplN3Ryc29tSHlOQVRNOFk0MVp4LU5tZDBSNFQ3Ym9PR2NFU242UWE0a2lYNE5hamxfcFE0SHlwQS1iZ2o4U3Vma3NpQm5aV2hQMjNjMkptd2Y2N2R0MUR1aEF3eGRnSzg4dG9EUU12QWVqMl9hOTRpZWF4ZExac0dMeHVzeTRBUENx": 1795014929.13376,
 "Reuters|CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3": 1794501927.4438345,
 "Reuters|CBMioAFBVV95cUxQbG96SWl0US1hdS1Hb29VRVpVLTg2QVF4a2tyeE9KTTZtRW1wNmhZVjkxWktzNk9QTmxPWVNDRXZaRnNVZTFrQUgtTmNGVkk4WlVxcWE5Q3ZuTktFTVhiVjBCRTVQSGtqZGZVLUdoSGlqQzc2emU1WmF5OFVLQkNzc3I3cUNzeEx3OGZSeVEwc3NsVWw4bHU5UXZDSkVDOU9f": 1794920442.3618543,
 "Reuters|CBMiogFBVV95cUxNTlI1YVViRE5DN05RNnpiMWppWHc4YXhtN043TGM4ZlhiZVh0SXZzUkVLQWM3cXdsMWtOWThGS2U3dWpuVUFESk9YRzkzSE9nLU14YUo3Q1A5ajB3aGpsZ2FRWTRPLWI1dXpUeTNzNnNHd1VwMVJCTFRBdDRzc0lXeTZCcjM0WWg3ZVdTSTlmRTlDV21od3BxZVJrVEtiNXk5MEE": 1794877243.7815309,
