@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tZUQ3cTFteXh0UWpOa0pBZFdnRXRFWGI3NV8ySXdkZTlRZjdmelhJb092ajJ6b3Z2bUhBU3FNY3EyRFZaRkVTLU1fSXNkUFFzanVfTVJLMmRVRXR4M1JCSV9qLWRSWS02UDFRU2Z3?oc=5",
-"src": "CNN",
-"title": "Trump lashes out at suggestions he focused on White House renovations over FAA ground stop",
-"ts": 1794849382.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOExHMHhYSmZUdF9OVlBnTkQ4N29jLTA4RmFPa09hdTgzMHQ0UlhYRkZmcHU3S19ZckE1MURrQU43U3FQOU9ENTdGZHZBTUZvT2hNcExZcWVPTUUzWEhtX1BvX3lpXzVXQktFMTBybkRMaTdsM3FfVFZnYTlnUVhRSGRob2paU0JMcXA1NmxKUjI0UkRGQmVSbFhuOVliZDYwbFhXZ2ZnanpBR1lmOGc?oc=5",
-"src": "Reuters",
-"title": "Bank of Canada Governor Macklem to step down once term ends in 2027",
-"ts": 1794849398.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-les-jeunes-sont-aux-premieres-loges-de-la-crise-du-logement-suivez-notre-live-consacre-a-la-vie-chere-avec-des-temoignages-des-analyses-et-des-graphiques_6811633_6205049.html",
-"src": "Le Monde Politique",
-"title": "EN DIRECT, présidentielle 2027 : les jeunes sont aux premières loges de la crise du logement... suivez notre live consacré à la vie chère, avec des témoignages, des analyses et des graphiques",
-"ts": 1794849896.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/16/marine-le-pen-assure-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue-presidente-de-la-republique_6812229_823448.html",
 "src": "Le Monde Politique",
@@ -104,13 +83,6 @@
 "src": "Reuters",
 "title": "AI Weekly: Jensen Huang makes an exit, AI makes music",
 "ts": 1794852675.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zX0JOZVR6ZDZVLUF4MGhIWnNKMHdwVnNZTVM5d016eHMyUnlSYVNBZHJscDd3SFZqUjJZektUZXl1ZFBFMFlXa3otQV9ZaUxKZ3RNbnJvYm5XTWM5bnNkYWhDUHFQODhuMUJtb2ZvOEhKOVE?oc=5",
-"src": "CNN",
-"title": "Trump lashes out at suggestions he focused on White House renovations over FAA ground stop",
-"ts": 1794849382.0
 },
 {
 "lang": "en",
@@ -328,13 +300,6 @@
 "src": "CNN",
 "title": "Latest News from CNN Politics",
 "ts": 1794864007.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjBVbjZKaURXWm1ua3J3Ni12OTdJVlpVSE5hU2FralRpOTlrNWhjMFZPMkxLVjF3cm1ZOWkwd0ZoS0ZoV2tsTnhuSzBrdldpYXRmZDQ0WHZNbzNZM3E0MS1WVGFKVmpKOFB2Z0NKTHFjN2Z5WExHRXNhTUQtZzhDTDdHN1BaMmdEM3hNakh3cE1QT01URkE?oc=5",
-"src": "Reuters",
-"title": "How control of the US Senate could flip this November",
-"ts": 1794849382.0
 },
 {
 "lang": "en",
@@ -3569,6 +3534,13 @@
 "src": "Reuters",
 "title": "Nvidia board shuts door on Jensen Huang’s return as CEO",
 "ts": 1794978664.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYXEzYmdrMUhuamVraXV6MFRNT2RzRzh0UDQxWVhwb2tOcVRXRC1XQTlVVkdUWFBrLUI1U3Z2M0s0emFSYVpja3VlT05FUzkzY2NPV3M4b3RENE5TZldiME40UzNBQ0Vhd3N0N20yaEhjc2pRRnYyWQ?oc=5",
+"src": "Reuters",
+"title": "金ジュエ氏が白銀にシュプール描く、正恩氏とスキー場を訪問 リゾート開発に注力する北朝鮮",
+"ts": 1794978476.0
 }
 ],
 "seen": {
@@ -5774,6 +5746,7 @@
 "Reuters|CBMidkFVX3lxTFBjSmdCenNlM1ZDSGdhN1dLemljSUVEdmJWUUpEb05WQnN5T1A2MHBXMENCZTNLNHJmVC1vMENBeTNMYU84X285eWtDTU9oOHpNa0h1Q0dhcUNwVGQ3NUJ2czY4azI2cy1WeDZfb3FFUDZEUTl1NWc": 1794964538.451117,
 "Reuters|CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA": 1794470442.2779124,
 "Reuters|CBMieEFVX3lxTE1IVlF4TGxpS0xZN3dXN0NmTExvS3liUUVfWWlUMjNZMlJFakc5SFo4TmZsR0dzV3JZWGdZZVJYazlkUHJjUHJsRG5xblZEU2k1bGlVRkxKcVVGQzMtWXpsNmVCbVJlWmZuWjViVVRFRTd1Nm9UTk0tcQ": 1794423649.0579634,
+"Reuters|CBMieEFVX3lxTE1PYXEzYmdrMUhuamVraXV6MFRNT2RzRzh0UDQxWVhwb2tOcVRXRC1XQTlVVkdUWFBrLUI1U3Z2M0s0emFSYVpja3VlT05FUzkzY2NPV3M4b3RENE5TZldiME40UzNBQ0Vhd3N0N20yaEhjc2pRRnYyWQ": 1794979836.968529,
 "Reuters|CBMieEFVX3lxTE52YS1lU1o5R3hfVFJkczlCUTdIT1p4T0xMZDRON05yRGFzOWdqYkJfcTYxQlRTMzFXc3pucFBxa3RhcF9ZSEdZQVJJUnlqSHJxY1RCbE5zTC1aTDlFLVpXUWc5VkNMMHI4Ukotd0xVRnVld1JvelE1cA": 1794960056.4364405,
 "Reuters|CBMieEFVX3lxTE5VMFRQek8ySTVvUE5CTDRMX1JlWV9QTC1lXzY0eFF6NlZsbHR1MzVVaWZ3d0N0ZHN4SFVNZG1hZ1RYM1VqNGhwbG13VjBaVGZDMzBMUmxvT2NEYi1aQ2MzZ245NEc0ZDhJYVh3LUplcnZDem9qVXJBdA": 1794799834.5262144,
 "Reuters|CBMieEFVX3lxTE8tTVBSYkR6ZjFpc2FOQ1hHaEtXQzZiVlBFLW1uU0pPMXJKc3JtbHBmUHprbEIxb0FaN000N3RyOUNBR3pXU1ZuYjA2c1RrbnhEUkVtQi03bFZMVGZtU1VlRERYV2hnNVp3VnQyOE9XRmF3M2l3bFdKeg": 1794897037.1592083,
