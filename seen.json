@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZU1SNUFwTlpUblNiZk1BUE8zcUk0azQ3UGtnSlpZa21LeHo2UW0yV3h3SEp3azB6ZGVrVVhGeV9EVmYxdlYtcG5meE13RGxCSGM4UDVvVnBfOGJvUGZ1N2k4dTlFN3c?oc=5",
-"src": "Reuters",
-"title": "Africa's richest man plans to invest in Ghana's sugar and cocoa",
-"ts": 1794936184.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZG5GdnJsdnpqTEhTd0RHOVMwX2xuS3ZkYXZma3JtdDhGUmx5ODEtMWkzYUU2U1NNb05DNG9uMGdYM1pBMEYwTl9hbDdZdlRyaW52bzV6ZEdfaFNiTkVpYnc0Tnd6Q00?oc=5",
-"src": "Reuters",
-"title": "Nvidia saga could spread beyond China to other Asian countries",
-"ts": 1794936184.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakc2UTUwTTFSd0ZVXzRyd1h6S1A1emIyNzNxMWlRTFZaRlE2aG8zWkhVTkZ6eTd4QlFrLTRWREdVb3lHQ0hKUlRxczI2Q1BYT0hINWNyTF9NZEhQQXZXSUwtNk1sdDJESldabWZISXZ2dEc2NXJhZGs4bl9tQXJXQ0FucGlzVmhJNHNXcEtJcDNEaG1yWHRhbUhtMENRaFotNDNLUGFoU25nNGc2?oc=5",
-"src": "Reuters",
-"title": "Turnout falls at largely peaceful public sector marches across France",
-"ts": 1794936463.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
 "src": "France 24",
@@ -41,13 +20,6 @@
 "src": "Le Monde Politique",
 "title": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
 "ts": 1794938562.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcW5rUERZbGVnSVIzRE5mN2hsLUd4THFITGNBdXZ3SmJwTE8zTXRIOE9zZ3NSdDl2RWVMem9qMFByYTZKZ05JYWRIQjhfOXJFb0xFYUJqdXZfblZUcnpOd051X1MxUUdRS0tDeXIwckQ2OHk3QUlMcUcxaWlvMFBfaE43U20?oc=5",
-"src": "CNN",
-"title": "Ecuadorian fishermen sue US over mysterious boat strike",
-"ts": 1794936134.0
 },
 {
 "lang": "en",
@@ -363,13 +335,6 @@
 "src": "CNN",
 "title": "Anthropic will go public before OpenAI. Does it matter?",
 "ts": 1794951202.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlZ0WEtRMXJVZ3ltWEczVXQ0YXQySzUxUXdGWFhnQ3Vtbnk5NC1haEZHR3FkZnVQeXVOMkotOUxaVWJSQkhVR3VwM05BQWdhVlhRcWdibzRaZURpUTVHenpUS3Z6UFNmRnlaNlF5aFV0N3B1N0tNVGlaR2EyREM0Nk9GZFN5VHpyZjFlNkFOLVlEdFFfbEd0TVJHMTlPYXl4ODlCdUJuV1ZZNFhRcXU3eEJtRndtQnI2Zk5jbW5JWVZIMTIx?oc=5",
-"src": "Reuters",
-"title": "Energean, BP Egypt asset talks stall without government backing, sources say",
-"ts": 1794936016.0
 },
 {
 "lang": "en",
@@ -3688,6 +3653,13 @@
 "src": "Reuters",
 "title": "Denmark expected to ratify Trump deal over Greenland on Thursday",
 "ts": 1795064520.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOY25IempOQ0pvNGMyRy02YlZwTDI5cFItajhaU202RHJWUW9LWGRpWGZZaVBLTkdaRkVMM0F4eXRMSW13bmthcGkwNW5uYUZUYkhFTzZJTTY2Tm1qZ0c1TjhsUTlrUTQ?oc=5",
+"src": "Reuters",
+"title": "Trump says he opposes 'globalist' AI regulation during APEC Summit",
+"ts": 1795065346.0
 }
 ],
 "seen": {
@@ -5242,6 +5214,7 @@
 "France 24|ae1b9ef6-e27f-11f1-9c99-595b50f332f8": 1794929438.57118,
 "France 24|af1b13ca-df4d-11f1-8ebc-3b879ed13877": 1794750328.264668,
 "France 24|afef77ec-e271-11f1-9380-0bfdf8f32768": 1794916400.29391,
+"France 24|b011a966-e384-11f1-83f7-e54f41ce3cc0": 1795066235.0849862,
 "France 24|b0415f38-df9e-11f1-b26b-85d5f6d6dc52": 1794600926.297485,
 "France 24|b0a0aace-e1c9-11f1-bfa2-e35ab2779ef1": 1794845727.5396547,
 "France 24|b25f55f2-dea1-11f1-a1bb-0934316afb74": 1794497437.010251,
@@ -5831,6 +5804,7 @@
 "Reuters|CBMiZ0FVX3lxTFBLQXlqTVlHVzF5cHk4RzVrOWM3WDVfWGJYLWIzeFpGUTc0UDdDQTFiQ3AtRlowYXFhcmRyaVpGdXpJNEVNd3NhMUMxRTdDMnBmWWFydTBHVTVyVm9CSmFrNElJajM3aGs": 1794596441.232183,
 "Reuters|CBMiZ0FVX3lxTFBLZ2FGN2lWRlktalJRcHVxYnRtTExjZFJXNTNTUGFKOFlnOWlkUGVoY05vZHlJN0hiT20taFJvUTdubUk4OEN0TGw4ZDZoZnMtcGJ2RTdkZlVRSWwtcmlEY1RjRXpKaUU": 1794553244.6170504,
 "Reuters|CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE": 1794609048.1180704,
+"Reuters|CBMiZ0FVX3lxTFBOY25IempOQ0pvNGMyRy02YlZwTDI5cFItajhaU202RHJWUW9LWGRpWGZZaVBLTkdaRkVMM0F4eXRMSW13bmthcGkwNW5uYUZUYkhFTzZJTTY2Tm1qZ0c1TjhsUTlrUTQ": 1795066235.0849862,
 "Reuters|CBMiZ0FVX3lxTFBPZ0dkdjRrT2dodVhsVzEyM2ZPdGp3ZEVJYTl2VEZnQ1ZvaXlCaEkzb1VZT29BTlFqeXFLU3c0TDNMaV9XUG9MNGNmX1dBcWM2NWYzM1h4NmU2Nlc5R3dBV0RjaUpsS0k": 1794664839.7958996,
 "Reuters|CBMiZ0FVX3lxTFBQOUYyWG1OVGdQbE5HV2Nvbl84Y1NpLVNIUnN5M05yMmw1Sk14RjN2QUI0SnFSbHFxM0c1ZFdpb3BfMHJudVZIR05hc09GcWtYQ3kxNkxEeTJMUkJMWGhnZjJUY0QxeDg": 1794598238.1771152,
 "Reuters|CBMiZ0FVX3lxTFBSenMyVHBtcHRpY3lZTnYtMnBSN1g1Vld6bm1tNktzZWdOWkJpWFAwUzJia1Q1SmxNTUU1QlcybUhWVzJVTDdtN2JRQ0lYZDE2NldrdFF1ckw4aktEbVZvd3N0bjhpaE0": 1794601836.3768063,
