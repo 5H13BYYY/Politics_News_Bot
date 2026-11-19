@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWElVV19yajlYd2h6SEdJYjhUV3lydmZVNWNVUVU3SjBaQkJNSjVlTFRxQkF5T3RVYy1tSGpOQlg0R240TFhPd2s3OW9RTW53SXlEVEtkZ1RycE9IYWtBOElnUnBmNkl0WjZOZGYzclphMEtBUG44aWpHeFliaWU4Zw?oc=5",
-"src": "CNN",
-"title": "Anthropic will go public before OpenAI. Does it matter?",
-"ts": 1794951202.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVU43MTA5bXhYUjhCcUhULXlDQWN3MnpHNU1FUEhvTndwdm5pam9HNExZc1lKY1R3WnJLZFF4elR6bmdGVkxQaEtCVHBpSmFLR0lQS0xrUENVcU1mNmpGQW9jYmxBY1M4dGMtdHFSUTFyT1pqcDUzSk9fbEZ3cVJ1SDdTaWE?oc=5",
 "src": "CNN",
 "title": "Paranoid about all of the tech outages? Read this",
@@ -3590,6 +3583,41 @@
 "src": "Reuters",
 "title": "The Exchange: 'Anthropic does look stronger than OpenAI'",
 "ts": 1795080558.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVNoSmdncGYteGl5V3RiejRGcTZXUjVpQzR1OFhoa3J2dTFMa3lVTlVsaVJ6WVp3UnRPR250ZmF5Z0szUGt0ZTAwc1haeHFYMHAxSEVFRW1DaXQwejFIWDlFc3hCaGRTV2Y5WURjQXB5Sk8tVlMwWTdFV0ZHVjVhbmYwVlpPaVlDMWl0OHdseXpkaW5zOHNv?oc=5",
+"src": "Reuters",
+"title": "'It's my friend': smiling Trump on Putin during APEC sidelines meeting",
+"ts": 1795075072.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2NqOUw3TUVxTjlFMHpIa1ZpdFhGVDNWWmN6WGdVd1NjOWVnc3Z0V0ZUeFF6NGY5aGFSOWJEZDE0UWlQRDZJdXpQaW56RWdCbXE3X2tfTEtfUTZGMEx5ekU4NjBNa3huNTNPWnlLWTR6cmk2Mmt4bjZmSE02R0JzXw?oc=5",
+"src": "CNN",
+"title": "What is ‘the Jackpot’? Are we in it? Will we die?",
+"ts": 1795078815.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUx5d2JPTWh4enZsc0tZVlR2VkFRTVI1OHdzNlY4bEtXN0NKVW1mZmJSajB2QjU4ZlJvZk55SGR4VDJfLUhtQ0h2cS1KZTI4ZFFXbUtETGlMUEdRSmk3SXo4a2lSYTgtVDJnd3AwT3ZVMzNMbmVqUUd6T2J3TVZVZXZiUGVwaW9NNFllS2Z4X1Q3OGRBVUtjdDdVeThsQQ?oc=5",
+"src": "CNN",
+"title": "Trump, Xi and Putin meet for unprecedented talks",
+"ts": 1795080385.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html",
+"src": "Le Monde Politique",
+"title": "Retraites : le RN piégé par ses promesses",
+"ts": 1795080609.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
+"ts": 1795080934.0
 }
 ],
 "seen": {
@@ -4131,7 +4159,7 @@
 "CNN|CBMigAFBVV95cUxONF9tZzRzbm5MOHFvdzNjVUhWd0sxenl4NTAzRU45UlRoTVdwMFhFZTBjQlZLa0l4T2ZkZXRzWkhQcU5PWDkwM096eExsTmhaa1dNdzZXQ003R09xUk1kTHRzZ2ljNUlhdGo4SkMzZUcxeGlUM1RraGxiaUpDbHU2dA": 1794582930.7858627,
 "CNN|CBMigAFBVV95cUxONXBHNFYtSHplWHh6VVlxSm1pZmxRMW9ieGMtVDB4alpRVTcwTzgwaVVzY3pSZE9Bd3ZzSlRjeVRSYk9KdXA3SFYyRkZOYmtfVWowRnhzdF9BTlpBbjNKaEVyejNxU2hJMlpxNE9JUnRXNVdyZWI1LXN0N1dnRG9iOQ": 1794498329.8963501,
 "CNN|CBMigAFBVV95cUxOQ0RWOW0xVGF5ckluOW0wSUdDTFQ2RG1URHBPX3k2eDUtcGFITEJIeVFBTHJ0TWRzTDZoNFp0MjBPS2VBOG44RWs3NEtZLTJZaU1fZmNIdWtfWU00ZElUNTdjN0EzcUR4NE9yc0ZIbjZlX1c3bkhwVWI1cFNlemdGdw": 1794974441.0162513,
-"CNN|CBMigAFBVV95cUxORUVxS3VIeTdqbWJvLWpWdVV1SnVQMmJHOG9BQ19zN3lVNklOQ3Iwd0l4M043Wkc0cWJDRXZlQnlCRFBMLWM5Q1RNUE5pSTVra0JCM2lwYUkzbE1YWVNwbEdsYVp2MmgxbDBrVW5kRXp5U0ZwbjhLZVU0aG93SGJyUA": 1794476732.175894,
+"CNN|CBMigAFBVV95cUxOQ2NqOUw3TUVxTjlFMHpIa1ZpdFhGVDNWWmN6WGdVd1NjOWVnc3Z0V0ZUeFF6NGY5aGFSOWJEZDE0UWlQRDZJdXpQaW56RWdCbXE3X2tfTEtfUTZGMEx5ekU4NjBNa3huNTNPWnlLWTR6cmk2Mmt4bjZmSE02R0JzXw": 1795081540.1810577,
 "CNN|CBMigAFBVV95cUxORjQ3S0JUVWRETnJCNzFxenhUbDkzcTktOGx3YlpiVlJscURvN2V3R096amFicGxZbnRZQ3lsYmRGZFR3ZEtVNXJ0SlhYZzB4QWx6ZHBDMTJTN1FUdUJSZXAwTDVLQlRhQnhrVUE2NmNUYzJpMlBNTHo3dzh5NnFwVg": 1794863747.1185596,
 "CNN|CBMigAFBVV95cUxOS2pUcVJadUdGbEJmZ1lQZ2E3TFh1aWlCNXpaVkMtb3gxQzNGTjVWTGt3UVBjTy1GekxickItZTZKYXlRcFE3dDlLVFB6LXFueFZhWUlXU1ZacXZobEFPNHlUOGxMZXNDUGE5ZE43UnB1VU5Obi1qa0xQYml4OWRqOQ": 1795041928.3478565,
 "CNN|CBMigAFBVV95cUxOSURIamY1WlFpSXFrTzM4ZXRYd2V4cUVMdnhrTjU2MC1ScmlNeWY1UExPZDBLTGNIaFgwOEE5NmxYb2dGdE81ZGlEbzVfUzcxUUx5Wk1TanBBVnlyN1UwZjR3UHhjb09EemhiR2IzbDdKVl9DRGZVMWlLYjZBcGlYbQ": 1794820545.290581,
@@ -4552,6 +4580,7 @@
 "CNN|CBMingFBVV95cUxPMUp1c1VlYXpwZmFjV0FSNXNhZmJXY2E2Sk04ODVtb1Y3cy10RWd3QnRvWG9aVG82b1JPclpjV2pxakh2ektub1ViTlJCV042eVhOR3BWNzRmQjBHV2VmNlFTVTlzcnBjaUJCOXVqbUQtZ0ZKVWNLaGg3aDlobDBkNzc2Z2tJMm9ySURxRDRUMTlMOG1WUGJjcVkxdTFoQQ": 1794834046.8862934,
 "CNN|CBMingFBVV95cUxPSjVraWtrRS16TnZQeFVYb2E0Yl9XTUQ2ZGloaENLcnpxMlZ3cGxoazA1bDU4T3UxV1NVV0d3dWt6WGsxaDV4OXhDbkNLWVBzTG1WUlk1cGV6UU9ZYXV6VzJQUjlTZEJYZ1lyU1piLVNJM2Q4dFRKdDNJakVHS1FzNXZVWENwTkxPUEZqeTVYTEhqUDhrRnAtWlo2cE0wQQ": 1794596441.232183,
 "CNN|CBMingFBVV95cUxPYUxoUDdWRGdKRG1vRUpJOEYyaU9MRGw0UnZXOVJ0c0Zzb0ZsVEl4MHh3RXVvLVhmRUhRTWdjdXpjU3RiX2R2QUltR1kxTGtRUEVxcXZVcUhveDNWRFhrZnRhOExDLTBFNHp0T1c3MklLYWlkYTgxaGNkZFVxajM0MTVheXJUUWFUek5GbVJoNU5LeGdSQVVnUFpTQnNrdw": 1794503728.4287832,
+"CNN|CBMingFBVV95cUxQMUx5d2JPTWh4enZsc0tZVlR2VkFRTVI1OHdzNlY4bEtXN0NKVW1mZmJSajB2QjU4ZlJvZk55SGR4VDJfLUhtQ0h2cS1KZTI4ZFFXbUtETGlMUEdRSmk3SXo4a2lSYTgtVDJnd3AwT3ZVMzNMbmVqUUd6T2J3TVZVZXZiUGVwaW9NNFllS2Z4X1Q3OGRBVUtjdDdVeThsQQ": 1795081540.1810577,
 "CNN|CBMingFBVV95cUxQR0ViX2FVc1RVV2VrM2xZdV9WczkyRXU3SENDaTAxVkFBaUYtaTZrdV9yekJ2LUk2bHh1LTVqeFI2dUJIVUlKM2dvbGlLMEx3c3BfX0JpNDhhWUFrOEFVeGpNdjEtNjlfZ0pCT0NDWEM1bGwxVTgyRjAxSXdHdmxLSzlLcXdOdG1KYTYwcnk0WVMzX0M1MkV4bjY3QzBHdw": 1794658526.2748563,
 "CNN|CBMingFBVV95cUxQRmFIY1VfdHZ0V2w0dF9mN2MtZlVZODItX0xwb3ZGemo3ZHMyR2tHOS1YSW00QnJqSmpZdnBEeU5uX0lzdWJoZ1lfZnJibWNUWXowaHBqTjRocWNfQnNEelFVM0gzajR5YkhELUROZ1BmbTN3ZVUwT2lWdkphMGVZMWl2cTE5UUw0T005eGlVdXo0ak9TS21oVzlmeEFOZw": 1794870042.0471618,
 "CNN|CBMingFBVV95cUxQVjJzT3AxRUota3BaRDRSalV2bVRucVgzR01RMUcySWhYNUF6QWdzSE1nQ28zWjBKX1c1c29uT2paUVpRaFNBZ2ZobndzRFJJYTI0N19LZjJUekZ3MHoxOVJwMW9TcU9EY1I2YTllVWMzVDRhXzc3LWVCQ3FnLVZpSVpRS3ZJTVk2LTBIbmJySG9lbkQySmc0M3c3SnQtQQ": 1795047343.548258,
@@ -5327,6 +5356,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/17/presidentielle-2027-la-primaire-apparue-a-l-origine-comme-un-outil-apte-a-reveiller-la-mobilisation-des-electeurs-est-en-train-de-devenir-l-arme-des-perdants_6812900_3232.html": 1794892526.4495647,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/18/la-candidature-de-raphael-glucksmann-tente-de-rassembler-les-nuances-de-la-gauche-antitotalitaire_6813145_3232.html": 1795013128.2516553,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html": 1794986139.4589336,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html": 1795081540.1810577,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html": 1794505527.8352904,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html": 1794590128.775916,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html": 1794633332.7946377,
@@ -5353,7 +5383,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/menaces-violences-intimidations-la-liberte-d-informer-malmenee-denoncent-des-societes-de-journalistes_6809155_823448.html": 1794510928.870254,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html": 1794492929.031265,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/plan-de-relance-agricole-la-ministre-annie-genevard-devoile-une-enveloppe-de-725-millions-d-euros_6809111_823448.html": 1794493836.117579,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-le-maire-presente-un-programme-pour-une-autre-france-sans-s-etre-encore-declare-candidat_6809082_823448.html": 1794476732.175894,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html": 1794508242.0299418,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-le-livre-programme-de-jean-luc-melenchon-l-avenir-en-commun-en-tete-des-ventes-de-livres-devant-le-prix-goncourt_6809100_823448.html": 1794485727.762882,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-les-territoires-d-outre-mer-pieces-maitresses-de-la-strategie-de-jean-luc-melenchon_6809135_823448.html": 1794503728.4287832,
@@ -5423,6 +5452,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/en-nouvelle-caledonie-une-campagne-pour-attirer-des-metropolitains-ravive-les-fractures-politiques_6813257_823448.html": 1795079726.1035151,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html": 1795065326.4575267,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html": 1795046446.2953098,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html": 1795081540.1810577,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-franceinfo-edouard-philippe-maintient-sa-position-je-ne-me-soumettrai-pas-a-une-primaire-de-la-droite-et-du-centre_6809070_823448.html": 1794501927.4438345,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html": 1794484745.369888,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html": 1794892526.4495647,
@@ -5997,6 +6027,7 @@
 "Reuters|CBMilwFBVV95cUxObjJ0dzZnV29yd1JOX014NTIzeHhmb2phcXBmZk5hU2xxNGRCdUh6TjZBcEx3SGV0U2pwREdsdVFjX2NtUk5WMjFMaFlsM1lVb3VZakxPb3ZtcDhCWDJoSFhWZHVHMzJid2dZd3pEWTJSMWVtQmF6Rjh1Z2VYRGFhMzN4Q0E2NEFTODdmUDlIY2k3WHg5YXlB": 1794483929.1530151,
 "Reuters|CBMilwFBVV95cUxPLWtrMFoyOTFqZlZqWDBRTk9xUVpJX1pGVmVOV09kNVI0NkRWN1gtTC1vUEV3YS1CNGpaLUFuUFQyZFJBbDNyUjhwSFZCeFBHWUtLaHNXLUlWR1hmY2g4MDVJaTVhTWtqT1pmSGNfYlVhZUxNVTl0Q090V1M3UTBTUGt2d2h0RkZBYjlDZEpRV3BCLTBsUlJ3": 1794988844.4823303,
 "Reuters|CBMilwFBVV95cUxPNjUyVXlGWDBRSzR6Y0hTdkpzOWEyNjMxRWo0QjZrOTFKeU90WW85QWY5d2RZdXBmRkgtekliWkF0WkpQdUFad2RKRV81d1VPQlkyMFZKQ2RfcTh2c2ZXM253TkFDN1dfSTZzdDNEZ3IzWjFrbUZNQXd2bzlfU1owZDJTWndZZ0lnLTl6MW54c21hc0stUFlj": 1795077036.7392542,
+"Reuters|CBMilwFBVV95cUxPOVNoSmdncGYteGl5V3RiejRGcTZXUjVpQzR1OFhoa3J2dTFMa3lVTlVsaVJ6WVp3UnRPR250ZmF5Z0szUGt0ZTAwc1haeHFYMHAxSEVFRW1DaXQwejFIWDlFc3hCaGRTV2Y5WURjQXB5Sk8tVlMwWTdFV0ZHVjVhbmYwVlpPaVlDMWl0OHdseXpkaW5zOHNv": 1795081540.1810577,
 "Reuters|CBMilwFBVV95cUxPQm8xYlVfeGdLRlRFSk14OWhYbjMzZWlpTG9QWnBuNlNQeFFzbFNqLUFOanpMdU0yWjhBenZsUElVLVRYTl9rQUNkeHRMVmxPVGdseGx0Rk5MeG1CYVAxT2RSS1JlendEWFdyREUySXVFSjBndGNzVWV4Qmo5NFJPRFZVZWJ0TjFMQlRiU2ZPbjdTeUhYWUZJ": 1795061725.6441245,
 "Reuters|CBMilwFBVV95cUxPSGdVLUQtWmVvWFd2bVUzdWthU1I1UFh0Z21rWFYzUzdSMG5jVEZXVzVrSnVlTkViWmhNZ0hIcklOMDZTblZod3NEaTBocHZfMWd3eXRXOGhENGItU19waDJWTnV5eU1RNlltaDR3dUNwX0FSa3FRbEJEcGtSQnlSbEphNmRza2pMcXh3anN1V0pvWE9Wbkxj": 1794490236.1645973,
 "Reuters|CBMilwFBVV95cUxPdW91SVZDTUthYmhfYnN2SjFZZ0ZLVzN3THdBVU1ETjlrc2NrVU1ZdVFMOEw3bHVESDlHTlVFOFdzblNQTlAyM2ZtU0F4d3FSLU1jM3VMVnhkMVJnY2piRTV6RVZuWXgyY3ppMnBwVDZBOENwcGFIVWNqOUF5QV9zT1lzUUtNLVFIMDJHYkU2ZU05UWVKbWs4": 1794811531.3019524,
