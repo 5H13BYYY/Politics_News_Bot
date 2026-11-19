@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGJTOXJEcU5oUzVFWFBqQklVNEJfQjZUQnN2b0VTN3lRaDFXSVl3MjRlZ2VIbXRsX29VUWVPdmNhaGg5bFZEa3BaVkJFaXN3M0ZaaVJaUE11OEkzN09vcHdodWhHRHdzcDVueG1iTkJMWUo3WVdTa2x4RjZPYnA0Rk5xbGVtQTZHV2t6LVN4QUUxd2xqYTBFQw?oc=5",
-"src": "CNN",
-"title": "Mary Peltola projected to win Alaska Senate race",
-"ts": 1794979860.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Burnham promises to 'move quickly' on Neets report",
@@ -160,13 +153,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : à Villeurbanne, Raphaël Glucksmann ancre sa campagne à gauche face à l’extrême droite",
 "ts": 1794989544.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hcEtWSHM3MlZMdEZNSHNrTlY3MzVRaUFtNk5hSEoySjNRdGZoM0kzbktwMFplZGZHYkdjMHo3ODRHZjZuT05HdzN4U2tfeGdPVGRlTjBoU09ON2k5aUdPMnp5bUFaX3k2N3RoN0lyNk5CaV90MnlTbXF3Zw?oc=5",
-"src": "CNN",
-"title": "Voter polls: Election 2026",
-"ts": 1794980308.0
 },
 {
 "lang": "en",
@@ -3961,6 +3947,27 @@
 "src": "CNN",
 "title": "Wall Street Welcomes Anthropic - CNN 5 Things - Podcast on CNN Podcasts",
 "ts": 1795108556.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0pJYUNub0t1bWJrUUFVM1R0amZ2SXVLUXFYQWt3QlktRFVpTDVPc3lkY0FCY2dyR2pvbXlUUmZkcENzcnJRLVhCdWY4VWpIdDZvUlZteWhfcTVqS05jUHN1RmY1b0JZLUlndVBGeVYzckFfcmVjekZxNzFkTkVDSkJ4SGx3N012V3NJN2lLRll5YlBFRDZv?oc=5",
+"src": "Reuters",
+"title": "Trump, Xi and Putin meet, but three sides remain far apart",
+"ts": 1795104375.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/19/encadrement-des-loyers-le-gouvernement-utilise-l-article-44-2-de-la-constitution-pour-contourner-une-obstruction-du-rn-a-l-assemblee_6813356_823448.html",
+"src": "Le Monde Politique",
+"title": "Encadrement des loyers : le gouvernement utilise l’article 44.2 de la Constitution pour contourner une « obstruction » du RN à l’Assemblée",
+"ts": 1795109355.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODRvVkpDZk16NXc4eTJsS2RFNnBxei11d3EzRnc2aFZFekV2RTJHSFY1d2JmWTRuc3lad2lMWTlZU0ViQjJyTmZYblQ2aE1od1RpX3hobThQWUk5YkNLTF9nalNjRGc3dnRPTzFYZ2hlVjFhQU5kTVVRZkFVU1dDemVkOF8xV2tNYjZV?oc=5",
+"src": "CNN",
+"title": "Sudden withdrawal of Trump’s FDA pick blindsided officials and left key senator fuming, sources say",
+"ts": 1795110028.0
 }
 ],
 "seen": {
@@ -3995,7 +4002,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o#1": 1794556839.3011,
 "BBC|https://www.bbc.co.uk/news/articles/c6p9dzmj514ko#0": 1794782726.1513476,
 "BBC|https://www.bbc.co.uk/news/articles/c6p9dzmj514ko#1": 1794867327.1035633,
-"BBC|https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo#0": 1794505527.8352904,
 "BBC|https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo#1": 1794558635.0579028,
 "BBC|https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#0": 1794780925.911867,
 "BBC|https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#2": 1794853838.1541076,
@@ -4006,7 +4012,6 @@
 "BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#0": 1794508242.0299418,
 "BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#1": 1794733240.2222254,
 "BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#2": 1794825940.1084747,
-"BBC|https://www.bbc.co.uk/news/articles/c98rzzvde1llo#1": 1794505527.8352904,
 "BBC|https://www.bbc.co.uk/news/articles/ce85y9lm81no#2": 1794728725.7819824,
 "BBC|https://www.bbc.co.uk/news/articles/ced75e7d11po#4": 1794728725.7819824,
 "BBC|https://www.bbc.co.uk/news/articles/ced75e7d11po#5": 1794826845.3865952,
@@ -4590,7 +4595,6 @@
 "CNN|CBMihAFBVV95cUxOZUMxa3V1WlZic2RObU0tanBjd2d3UGVDNThEVlpQSU81VDhJeGtvNEpuRkRZd2FVVzRsLWJUaXd6ZzloNTlScXF5b214QmFuclVxY2hZV0ZyWTZnTHItSjZoM0FIYlJybXBjNEd6SFZYdW4xdTZpRE9zUmNoZVQtZEpIcGc": 1794951035.5489872,
 "CNN|CBMihAFBVV95cUxOdWh3R1VkUXB2eUdfNS05Wkx1ZUtZelRrVnZIYW1wa2N1ZjJBSmlrbmFmUmRTRTlHbkkxZXJQUzNuMS10XzBZajl0SWg1WnkyLVR3dDh1dnUxbUMzLWZIYkExejM1OGlZRkdEYURVTUxGZDFPWmZGbzlYQW9JOUhiNWdscEQ": 1794761125.966879,
 "CNN|CBMihAFBVV95cUxOeTBoS2xtWGVockk4TG5KQXBYRUZlTkRQdEhzVXZuZDZwbXEwWll0Y01hbGxaWjlsVktvOTJlc1FsTWhsZUQyR0E1SXN1UFQ0dUdrNC13SkdOOVpwX010SzFXTGRudEJxdENZdlNzVjFzVU01bEJDUWluMGlBUm5OR0syRzY": 1794609048.1180704,
-"CNN|CBMihAFBVV95cUxPNVJzYVNrS0F6Y2xnTlo5VkdkTkFjX0EzM0w5dGFyc0g5YmJxRGtwTlZIVXBqdkNyQXp5Ql8yUmZ5OEdWdGgxdEEyVmdYTThKWWdoZDNJSkwzMThzdm9QdVQxN2s1bVF5ZU5VNDM0QlRHdUlVc1JnWEpRSUxad0N0WFB4a2w": 1794505527.8352904,
 "CNN|CBMihAFBVV95cUxPR3pJcDRnbUJuTFdZQy1hbHhkWmpMZXVKYmJHLWxEM1JMV19Wck5QQkRENW50U19KZmw2bG1zdThCdWtwRndMaHgxUGowQUdSZkFqZ1B5MkRBWUhZcGN6NEdhZzBnTHB1LVFtRkU2WjE5Y01GNmhYWHl5UmxhNk9tQVVYcWo": 1794641440.1197512,
 "CNN|CBMihAFBVV95cUxPZjAxbi03dXRqVWxIQnRZV3VKclRMSmVUOXJBNG50aG5KVWd4ZW5XQnoyTjVKem1XUzV2MEhyNlEtdENscEdNWHpmTUVRZlFDeHRWcHNRcnFPUTR5REUxN05XeW95aUdvMGlUUE5VMFNVbDdTbFNSdW1zNHh5WVl3THhQaUs": 1794792637.6058855,
 "CNN|CBMihAFBVV95cUxQLXpGaHRCSjBlUEhRcG9mNFR4S1hmQWlVa3cxTXJpdHo0ZTNrbUo4VkdiRTNGbVlnbDFnZFd0ZzJhQlpSVzZOSGNyVXNoSVdiRzBwQzE5OEtzN2RGSGdWS2lXdU96WGYxWVhuSjV4eVlCdmlLUmxkT2FlNWpHaVYwZnJ4YTY": 1794576638.1858933,
@@ -4696,6 +4700,7 @@
 "CNN|CBMiiwFBVV95cUxPdGg2Z01TbktteHlFclBITUtJckl2d1JRdWl1M2toY2kybFA2Zm9ibzQtOGE3cnRzYUs3Q0RLSjR1UC01UHl1RFA2VExpaHprZF9hYU5FSVdCYWF2SHRPekpFRTRaOW5zTlUyajFXMWRiVW13VUdCVkcxR2R2NG5yLWZPYTByOWFraVRn": 1794510042.9745643,
 "CNN|CBMiiwFBVV95cUxQLU81cUFObHdoYUJHeWhPUVlERWZYRDZiVzBKY0lsZUF0WXpfa2I2a00wMUdrUURXeklMQ1BUV3luQjhoOGFBUlJrS0ZRWVFMdGgySExlMURVUExZM2Q2ZWlwa2Q3aTdVeTJLcGRuWGZha2tUSzFKVTNKVTdSYXVRTmRyU003RUdXUVdV": 1795041928.3478565,
 "CNN|CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR": 1795052729.01088,
+"CNN|CBMiiwFBVV95cUxQODRvVkpDZk16NXc4eTJsS2RFNnBxei11d3EzRnc2aFZFekV2RTJHSFY1d2JmWTRuc3lad2lMWTlZU0ViQjJyTmZYblQ2aE1od1RpX3hobThQWUk5YkNLTF9nalNjRGc3dnRPTzFYZ2hlVjFhQU5kTVVRZkFVU1dDemVkOF8xV2tNYjZV": 1795110326.3647668,
 "CNN|CBMiiwFBVV95cUxQT1ZiM1cxVTY1X2pBR0R3NDR6Um1VQU1naUhZZVlybTVNRFdydzJoRVVRYXZNWEtQVGpQQTV3S0dDcnhPa1ZhZG5GNlQwZDJ2eHBkQzFjc2lLb1dMTHhqbjF1XzZJRzlFWkw4a3Z1akhMNXdhbjRDaUtyN1B0SHdQNkJ6bEhxUFBnbFE4": 1794642325.6604567,
 "CNN|CBMijAFBVV95cUxNNEl0dzNpRndId1lleHo2T1Jja25hR2t5d1M0TlRUVThKLUpSYWk3ODhRNGwxUWg0ZVdzUklaQ05obTNGSGllZHNrTEJjSC1XeDRsbzdDVm1SeUJmWEk0Y2xRemptVmZaaDhNX0FGd2tJZzFNM015UnpUQ3Y1S2NFaUFhcnZzQ0xJNnNkNw": 1794512729.8407125,
 "CNN|CBMijAFBVV95cUxNRk9zQjNMVDBEWV9xZ1NiWkdhN2VoOFBNVnZ1bURtT1NkUEdxbXRkeGtLOWpOaW9EOE5HcjNTTGdXdjdWbkhCd2tkNTBRTDUtRzJMSVEyWkhHY0tNZHM5ai1pa2dPaWZJamNON0xIMVhQRXQ5RG5GVktMOTFRS2x6bTBVQ0JMTzZpV1dpaQ": 1794554131.6327481,
@@ -5671,7 +5676,6 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html": 1794986139.4589336,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/19/apres-l-election-presidentielle-2027-le-role-tres-strategique-du-secretariat-general-du-gouvernement-en-cas-de-menace-pour-l-etat-de-droit_6813269_3232.html": 1795083338.855846,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html": 1795081540.1810577,
-"Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html": 1794505527.8352904,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html": 1794590128.775916,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html": 1794633332.7946377,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html": 1794749436.8163805,
@@ -5758,6 +5762,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/18/vif-echange-a-l-assemblee-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-la-chienlit-que-vous-organisez-les-francais-ne-vous-la-pardonneront-jamais_6813168_823448.html": 1795020337.8944108,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html": 1795079726.1035151,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/en-nouvelle-caledonie-une-campagne-pour-attirer-des-metropolitains-ravive-les-fractures-politiques_6813257_823448.html": 1795079726.1035151,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/encadrement-des-loyers-le-gouvernement-utilise-l-article-44-2-de-la-constitution-pour-contourner-une-obstruction-du-rn-a-l-assemblee_6813356_823448.html": 1795110326.3647668,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html": 1795065326.4575267,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-l-elue-invoque-des-faits-vieux-de-trente-ans_6813278_823448.html": 1795085126.5044694,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/19/le-depute-des-pyrenees-atlantiques-david-habib-ancien-vice-president-de-l-assemblee-est-mort_6813345_823448.html": 1795106728.2391205,
@@ -6335,6 +6340,7 @@
 "Reuters|CBMilgFBVV95cUxQanJKMzJaNDVraEhpYUJhZ0JYZjdwQU9QSG5xNGtvR3VWaEtRSGJ4ZE9fTkxDYnBObnB2c3Z4bk1kdWtFekF5bG9aZVJvMjk3S2dBWlp5QURJcngyNUVWZkFCZXFjZFRaNXRlN3NGeU9ybm9JWTMtY1NBQ2xjVkZxLU1HOTJnNTgzRjd6Qm5MNXYwbkQ1c1E": 1794987044.700565,
 "Reuters|CBMilwFBVV95cUxNMnVfMWNVQjZLeHB4LU9XaFV3Y2g5Vkt3a21JQjJ4RFNrcXg0QVNWTW5tMlVKQWZIQTJiLXNYS0pxM1FoUFp5YmtYZUxHdE1vVDZYSjRPQ0JjcVZwbE1MTGg2N3N2UWVPdEliWnVlalFkVEVVRkdhMnZXa3c3ZVczZmVKWWJWa3FmOGlYRms3b1pBcVF2aWJn": 1794996044.3065403,
 "Reuters|CBMilwFBVV95cUxNRjZkX1htWGpLUndjUDF6LTZTSS05QndHSzhzRm9wOUpvM2kzUHA2Zkt6QU1pWVlfalc5blNmVWdSYl9sV0tzcTdLZVhOOVpsdE1zaVJ2YUMwS3h0QjJkRHZfbFpuRmdyNGJxbEdDeGVMeTRKeXBVUW5xX2xmR3dXT24wa1lvOWc5V2pReWFJbktjaWIxNDRn": 1795061725.6441245,
+"Reuters|CBMilwFBVV95cUxNb0pJYUNub0t1bWJrUUFVM1R0amZ2SXVLUXFYQWt3QlktRFVpTDVPc3lkY0FCY2dyR2pvbXlUUmZkcENzcnJRLVhCdWY4VWpIdDZvUlZteWhfcTVqS05jUHN1RmY1b0JZLUlndVBGeVYzckFfcmVjekZxNzFkTkVDSkJ4SGx3N012V3NJN2lLRll5YlBFRDZv": 1795110326.3647668,
 "Reuters|CBMilwFBVV95cUxON09tYjVqS3ZVUUpPQ0dxTFlfbUJnM2pWWU5OQjhiUFRNckJPcGhlazZlUVRqZzdlQ3N2TTc5VzlBLUlKVXZiM1BUUDJpOV9wa2FGeGFVTUR6X2lXWGIza1F1aXllTUd4SURHZjFRUHpScjNVeXd4dno2UzhBVllpUEZqR2F4bE51RXVlejU1eE0yc21kRXNN": 1795060837.7882113,
 "Reuters|CBMilwFBVV95cUxONDVUOVFiV056QUJfZWlDWjFEUUM4WGl2a3U1Y2JNYkcxUGdxdGdwX1VabUxUMEFhLXlXbllfRGd1SE9GTl9td3pZOTVoclpDR2RBMXVpNGxPOHNjYmc5ekhYdm4xZnZ6RmFKT1RrdDdYd3lJWXJvLWV6S25BX0lpcWo3ZC1qMEFMaFlaenNCY2pwck9NeHB3": 1794755724.919222,
 "Reuters|CBMilwFBVV95cUxONndhVm1ra00tRHBpX19lZTFkVHJVeW9oVGdMejNEOGFnWW45YXllLUZhZ2tzb2h4Nkd3eUVTU3loMXJkMGpMSDBobU5Gb0x0MVJuNkxCYUhYLUdWMG4takZ4YjNwZXlySi1vZzZHcXh5Z01nbGQzNWd1aGYyV2pteEZiMkdmMUowRlV1LU1nR1hTVkZQdVpz": 1794828635.7547994,
@@ -6655,7 +6661,6 @@
 "Reuters|CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ": 1794663034.351287,
 "Reuters|CBMisAFBVV95cUxQZnR6dkQxcVVWVUUwYXhhZ2dLcXQ5YzFYSUx4Tl9qWjE4cWZ5bWhZb0tTNFB0NlJKU092MG9hUWthZGVvbnVIQld5V0l2N1JCMEJJUFhTcWpURHpScEllVVQ3bzZvTkRfQkRyeE1QRVpvQXNXUU9kdDVTNUppODN3OFVpZmZMM28wUUxfV0tiS3pOZ29kQ0lkOHRDQnRBS2RNdkIyOWY0STJXUzc0SnVXag": 1795025740.771779,
 "Reuters|CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA": 1795024841.1498108,
-"Reuters|CBMisAFBVV95cUxQdnE3SldzSjhfZmtuUkpsY1d2RGFQLWY5ZkkyekR0RXJGYmlBUnpLWmxYV3h6cXJjWjdMc0podnN6Y2N1dWdnQklSVUg4cm9CRkdNdEd6S1lFUEJUN2VSd3JLVzkzMjhYTElvM2s0cllDN05Mb3prNUpLVU5FUkFIZFNnVkx3cV9oR1NjaElOY0ZPT2QyQmM2enFrMFlHMmRvVHU3MVVRMkQ2cXpRRnRYaA": 1794505527.8352904,
 "Reuters|CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3": 1795010445.1373608,
 "Reuters|CBMisgFBVV95cUxNRUVHT2FYek84Slo5dkkyYWduejJDakFPUGZJZDU5OWkwRk1kUHg2T0pzWmRLYWJsRFYyMnJjNUMyMTJlRW9GZThrejVKalE3cjhVYW5xUHZhNi1GRkwtc0dhZUVGNGxIVDRXMDlKR0dMdllTMEVjTnpqMktFeTF0V1FRTjRJeVcwNUM2YkQxSlFfcE55RUdrOW9Ta0FTNE41WHk3eFR1Z1F0RWFTU3ZGb2Nn": 1795097729.1534386,
 "Reuters|CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3": 1794773728.2261858,
