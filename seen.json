@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0FSQ3QtZy1DcjRxdm9VOXBSM1B2dzlBSHR3X3l6VXNKTmNqdkEydUh0UU1HTVRYc0g2ZFZUQngzd2dOaWpMd1hKa2QxWWFScXk5WGpuSzFnM0tOdmhpOGo0YkJlU0RLV2ZvN2hRRVoxYVYwZ3Vxd3VZQkZHZmg4Y29jdzZiSExxZnVTRlFXR3lXMFNEb2pJdkNlVC1HdzFsTzlwdldjTHlMckU?oc=5",
-"src": "CNN",
-"title": "Hakeem Jeffries nominated to be first Black House speaker",
-"ts": 1795063898.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcG82VWpoSU5DekZRcnk1N0FHQ2szZnJiU0tacXdqbFYwVDZJRWtCcml2QXFqeUZxSWJaQ2ZKa2pJci1XVllOM25PRlRNdTRBMkI4RW93ekI1SWdTMFM1WTZfRk9ibjdHcEtGUVlRbUpjT2xKUFA5Y2pQaVVHODdXaEJvMlo2SHBtS0EwMmFpTW12N0ZIQWZCTnRHamVqOG4zVWtVaGJkcWc4akJPQW9pbmx3aWE3YW94d1ZxR1ZzUUhldzN5djFTYndzRQ?oc=5",
-"src": "Reuters",
-"title": "Illinois man indicted on 'terrorism' charges in foiled plot to target Hindu temple, police say",
-"ts": 1795063920.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html",
-"src": "Le Monde Politique",
-"title": "« GTA VI », le sixième épisode du jeu vidéo phénomène, une matière sensible pour le monde politique",
-"ts": 1795064440.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oTlhUeGlFbXQtZ3N4NERDejR6UHV0Zm5Icm93MlkyQ0J3VlRaVkRrdW1la1cxdk1DVndfZElVZVI4a1dZTTFWQkxvSW81ckEydUlHc1ozblZwMHJ1bFYxZVhfMjUzTGVHOUtBb1RhYkhNUVV1dmJmN0k5SS1FZw?oc=5",
 "src": "CNN",
 "title": "Why Big Tech could be a big boogeyman in 2028",
@@ -426,13 +405,6 @@
 "src": "France 24",
 "title": "La Coalition des volontaires pour l'Ukraine à Berlin concurrencée par le sommet tripartite en Chine",
 "ts": 1795082244.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iNm56Wk9sMjNhbFFmcEdWbFRESWstQnpiQjllMkJXa21TRVZwQjByN3VObkcycjVtQWlXcHp2ZVZ5aW9QOXctQWxPSV92cnU1WEpjcHRONEswVjVQdmdDNUM3NXdEV1NKekEwVXM5QTI2REtXNm9PaGQ4Yw?oc=5",
-"src": "CNN",
-"title": "Analysis: What should really scare Americans amid blitz of tech outages | CNN Politics",
-"ts": 1795063992.0
 },
 {
 "lang": "en",
@@ -3597,6 +3569,34 @@
 "src": "Reuters",
 "title": "Mongolian president's resignation sets stage for early election",
 "ts": 1795192303.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zN19DeG94RUtLWEVMN25TcFRNRzd0cWVJRnJBT0xJSU44YWxicDRXbXNQTTRnZ09ISDRpVGtWaHZMdzVTbjVnMEJUMGprYTNkT1E0QnhNaUtwV0ZtOHZlSDlVcVhjQQ?oc=5",
+"src": "Reuters",
+"title": "Worst week since 2020: Asian stocks take full force of AI jitters",
+"ts": 1795174578.0
+},
+{
+"lang": "en",
+"link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+"src": "BBC",
+"title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+"ts": 1795192912.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/20/la-ville-de-paris-decide-d-inscrire-les-noms-de-zyed-benna-et-bouna-traore-place-de-la-nation_6813667_823448.html",
+"src": "Le Monde Politique",
+"title": "La Ville de Paris décide d’inscrire les noms de Zyed Benna et Bouna Traoré place de la Nation",
+"ts": 1795193056.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html",
+"src": "Le Monde Politique",
+"title": "Contre la guerre et la vie chère, pour la jeunesse : les images des manifestations en Italie",
+"ts": 1795193711.0
 }
 ],
 "seen": {
@@ -3669,6 +3669,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/cly9rq35de8o#3": 1794832238.3513505,
 "BBC|https://www.bbc.co.uk/news/articles/clydn7r5pn1o#2": 1795030235.480869,
 "BBC|https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#2": 1794822340.9165316,
+"BBC|https://www.bbc.co.uk/news/articles/cm1wr029evnqo#0": 1795194042.8617408,
 "BBC|https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#1": 1794601836.3768063,
 "BBC|https://www.bbc.co.uk/news/articles/cm369259g0j2o#2": 1795164332.5364106,
 "BBC|https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#2": 1794728725.7819824,
@@ -4882,6 +4883,7 @@
 "France 24|10ec439c-dfaa-11f1-bfeb-2912531dfbcc": 1794605965.7454355,
 "France 24|11ebaaf8-e4f0-11f1-af7a-57d065e8beab": 1795188637.9855552,
 "France 24|13d252f0-e1a2-11f1-898d-fd8ff3c4ca96": 1794825940.1084747,
+"France 24|13dc99b8-e4fe-11f1-8d83-2befff986c43": 1795194042.8617408,
 "France 24|14aa578a-e06d-11f1-8ff7-7369908c2b8f": 1794690040.2316957,
 "France 24|14e4a762-e1e6-11f1-ac94-07600c859831": 1794853838.1541076,
 "France 24|154aaf2c-e276-11f1-922c-3fd91b8b9f7e": 1794916400.29391,
@@ -4971,6 +4973,7 @@
 "France 24|3fd3bea4-e1fa-11f1-b606-212a5f424b05": 1795018532.3924358,
 "France 24|4101b1de-e3ab-11f1-bdfb-073a3bfa4dab": 1795049127.8416488,
 "France 24|417577d6-e036-11f1-ae90-d72e44a9a917": 1794669329.1110208,
+"France 24|41c5cc1c-e500-11f1-bbbc-416266423215": 1795194042.8617408,
 "France 24|4265d2e6-e46c-11f1-b19b-a99719702e46": 1795130130.6346009,
 "France 24|42b98b5e-e334-11f1-812b-5da0ee59fd5d": 1794999645.579125,
 "France 24|42b9d6c8-e1ad-11f1-969b-f38f820bc25c": 1794830442.669714,
@@ -5177,11 +5180,13 @@
 "France 24|ae937202-e435-11f1-b592-3fdb82a74f7f": 1795133726.7477143,
 "France 24|af1b13ca-df4d-11f1-8ebc-3b879ed13877": 1794750328.264668,
 "France 24|af6d59e0-e444-11f1-939b-41d0c91ce3bc": 1795173326.894129,
+"France 24|afcc9eec-e4fc-11f1-b582-51d86bce9055": 1795194042.8617408,
 "France 24|afef77ec-e271-11f1-9380-0bfdf8f32768": 1794916400.29391,
 "France 24|b011a966-e384-11f1-83f7-e54f41ce3cc0": 1795066235.0849862,
 "France 24|b0415f38-df9e-11f1-b26b-85d5f6d6dc52": 1794600926.297485,
 "France 24|b0a0aace-e1c9-11f1-bfa2-e35ab2779ef1": 1794845727.5396547,
 "France 24|b0c9bf6c-e48b-11f1-a2cc-ddb3fa6b48b3": 1795163433.513393,
+"France 24|b13a5c52-e500-11f1-a216-63a2a254e376": 1795194042.8617408,
 "France 24|b30f8020-e1cc-11f1-8997-fb9428fb00c4": 1794845727.5396547,
 "France 24|b320a8da-e1ce-11f1-b6d1-e3d75fb7560d": 1794845727.5396547,
 "France 24|b43de462-e2dc-11f1-bce1-cf5dd621ce90": 1794960056.4364405,
@@ -5216,6 +5221,7 @@
 "France 24|c5b82842-e2cd-11f1-9add-cde29bc51b04": 1794958245.6670663,
 "France 24|c6c746ae-e4d6-11f1-8ffb-375f4fe00708": 1795176043.9205928,
 "France 24|c7498a90-e19f-11f1-87a6-5b70f60db3bf": 1794825036.6451132,
+"France 24|c758750a-e500-11f1-8abb-81b42dba9f2f": 1795194042.8617408,
 "France 24|c7cfea6c-dfb1-11f1-92e2-339797d60477": 1794609926.907134,
 "France 24|c8663984-e116-11f1-af32-99be3ff598f0": 1794762927.3726795,
 "France 24|c9b8fab2-e187-11f1-858f-1b42b7e5011f": 1794813331.2739704,
@@ -5361,6 +5367,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html": 1794978040.0109122,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html": 1795063525.8877308,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html": 1795191327.2615736,
+"Le Monde Politique|https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html": 1795194042.8617408,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html": 1794595529.1367846,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html": 1794749436.8163805,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html": 1794978928.3095505,
@@ -5450,6 +5457,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html": 1795133726.7477143,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/concert-interrompu-de-barbara-butch-a-grenoble-un-elu-local-lfi-allan-brunon-sera-juge-en-fevrier_6813650_823448.html": 1795185037.373047,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html": 1795149034.5727372,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/la-ville-de-paris-decide-d-inscrire-les-noms-de-zyed-benna-et-bouna-traore-place-de-la-nation_6813667_823448.html": 1795194042.8617408,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html": 1795137327.8611522,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html": 1795133726.7477143,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html": 1795168840.6020753,
@@ -5804,6 +5812,7 @@
 "Reuters|CBMiZkFVX3lxTE9RcTV1eG9zV0xCcUl0NC1FaWt1NXhHM3I5YUVyMmVCcVE4eTA3U042Tjl3VkRjZGUwRldrRVljMHVqek9VenJEcVVweTVTNDFHREtUdU9vZ29vWXZqeERXRWRWVFo1QQ": 1794612636.2818782,
 "Reuters|CBMiZkFVX3lxTE9fd3NUa1dLWU96eHM0MndFOE81ZExEMDloU1daU1RvTGNYSzB6b0RxYVR3ZGlrN3lNSXd5RE8yU3VVVzg5ZTQ1d0g1ek5GNTZIaE9Ndk1qU3Y2LVljX2h3dlJfZFdsZw": 1794684645.021792,
 "Reuters|CBMiZkFVX3lxTE9sRnVjcjViQktaN2NuaFBsbEtIdEI3bFVHSzk1RDVIaUhsMXg4dzRkMU9hVkZHbDRIZ1pwRWtYdUJqTFZIQVhfSXNtYW1va1RjejdYRGlPMmhHNnphOVVhQ2psUmM4Zw": 1794897037.1592083,
+"Reuters|CBMiZkFVX3lxTE9zN19DeG94RUtLWEVMN25TcFRNRzd0cWVJRnJBT0xJSU44YWxicDRXbXNQTTRnZ09ISDRpVGtWaHZMdzVTbjVnMEJUMGprYTNkT1E0QnhNaUtwV0ZtOHZlSDlVcVhjQQ": 1795194042.8617408,
 "Reuters|CBMiZkFVX3lxTFAzRkZvN3dVY3JYWDhyTUs1bWI5NnRiU2MxZnRiQzVxRFpYaGgtbm9oeHQ2ckc0ZzczUFVPOWZoSGFKTmQtN1R0ZHAtelA2c0ZFWjhIUG5EZS01RW5xWDZzS1I4TGp4UQ": 1794865527.2786026,
 "Reuters|CBMiZkFVX3lxTFBZQWJlcWdnYXJGd2dMX3l6dER3STdWWkZRRUUzV01yXy11alJKVWNRRjJoeUhiRXVmN2w3TU9vcld1M294MHE3R240UGFYTkthSWdyb1ZHNFpVSXMybVFsQ3NzSzNXQQ": 1794590128.775916,
 "Reuters|CBMiZkFVX3lxTFBqT0ZCMjdMN1ZoN3FIMXhGTVUwMm5lb1hEMXg5dFI2TkdTYTFxLWRXWS1EdGJhYWpzVTJGOWw3UkJLQ3hWM1FfRE84eWhFVDB0N3FfSUxrRlM3OVZkaGpsQnhrcjNOUQ": 1795108526.4845712,
