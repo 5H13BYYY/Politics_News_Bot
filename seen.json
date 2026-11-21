@@ -9,34 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html",
-"src": "Le Monde Politique",
-"title": "Enquête sur des fuites vers le RN : le préfet Hugues Moutouh convoqué par Laurent Nuñez vendredi",
-"ts": 1795122070.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGpudV9YSEhCSmRDMENwQUU4OXlEUEtPd0RlcEFLR2xPZHhRUXV3S21oTDZtWFZXUEVKb0VfODJrRkU4WnlEVDJaWkt2VG1ZSW9nYmFuemRIRnRaM05mb0RTb2ZlMlZlUDlLaDF4VFQ3b1FaUE1iVVVkRXZ2R0dnUUtRVS1ERmlIYTh0MlVIZVlWTHdpWHpOd0NYYjNvWXh0bUtVMXE0UGVDa01fajE2UElCeWlHdDJrMF9saEF4bGppZ00?oc=5",
-"src": "Reuters",
-"title": "Businesses urge faster action on electrification as COP31 enters final hours",
-"ts": 1795122223.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
-"src": "Reuters",
-"title": "Instant view: Anthropic hits $2 trillion market value in debut; major indexes fall",
-"ts": 1795122624.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUlM3bE11NkpycXhrdWNuOTVsb25pU0xIU0FOeW9BalNpX09sU2gtQmlQZG9xNnlSeVZyYmFpTzNhRjV6d3Fxb0hoY0dJMkdCTmRrSTBVN00yWFJ4elM2VUhpM0dkTWdSaU9EdzVmX3ZpMEh0QVE?oc=5",
-"src": "CNN",
-"title": "Fiona the hippo dies after eating knit hat",
-"ts": 1795122271.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html",
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection",
@@ -2911,6 +2883,13 @@
 "src": "CNN",
 "title": "Cartel kingpin on FBI’s most wanted list reportedly captured in dramatic Mexican military operation",
 "ts": 1795245654.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-comment-l-argument-du-barrage-anime-la-campagne-de-premier-tour-au-risque-de-l-affaiblir-au-second_6813960_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : comment l’argument du « barrage » anime la campagne de premier tour, au risque de l’affaiblir au second",
+"ts": 1795251623.0
 }
 ],
 "seen": {
@@ -4792,6 +4771,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html": 1795194941.9928415,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/une-intersyndicale-de-la-fonction-publique-appelle-a-une-nouvelle-journee-de-greve-le-1-decembre_6813641_823448.html": 1795182328.7974975,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html": 1795236326.0961106,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-comment-l-argument-du-barrage-anime-la-campagne-de-premier-tour-au-risque-de-l-affaiblir-au-second_6813960_823448.html": 1795252536.5783057,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html": 1794892526.4495647,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html": 1794907835.2831342,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html": 1794920442.3618543,
