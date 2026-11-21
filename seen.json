@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/19/le-depute-des-pyrenees-atlantiques-david-habib-ancien-vice-president-de-l-assemblee-est-mort_6813345_823448.html",
-"src": "Le Monde Politique",
-"title": "Le député des Pyrénées-Atlantiques David Habib, ancien vice-président de l’Assemblée, est mort",
-"ts": 1795106270.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/asie-pacifique/20261119-xi-jinping-r%C3%A9ellement-refus%C3%A9-serrer-main-poutine-sommet-apec",
-"src": "France 24",
-"title": "Xi Jinping a-t-il réellement refusé de serrer la main de Poutine au sommet de l'Apec ?",
-"ts": 1795106356.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/presidentielle-2027-edouard-philippe-propose-un-moratoire-de-cinq-ans-sur-l-interdiction-de-location-des-passoires-thermiques_6813346_6205049.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Edouard Philippe propose un « moratoire » de cinq ans sur l’interdiction de location des passoires thermiques",
-"ts": 1795106596.0
-},
-{
-"lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/19/le-dispositif-territoires-zero-chomeur-de-longue-duree-experimente-depuis-dix-ans-perennise-par-les-deputes_6813347_823448.html",
 "src": "Le Monde Politique",
 "title": "Le dispositif « Territoires zéro chômeur de longue durée », expérimenté depuis dix ans, pérennisé par les députés",
@@ -83,13 +62,6 @@
 "src": "CNN",
 "title": "Sudden withdrawal of Trump’s FDA pick blindsided officials and left key senator fuming, sources say",
 "ts": 1795110028.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFRFc211bUdTM2IzU2c5TkgyMmcxdWdZcU5ZZnRzLVVVQ3laQWFNRVVGRWJZMF9aR2s2OEJxRWNmS2ZRcTJ4bkpOenRJQkxKbElHZEpKSm95N3ZwcTgxX0RxZWt3LTBFcUd1UFZZdVlyREhzcnpBeGYtZV9KeTJMR2xsd3ZWdUU?oc=5",
-"src": "CNN",
-"title": "Nordstrom’s Black Friday sales are already live. These are the best deals we’re shopping early",
-"ts": 1795105980.0
 },
 {
 "lang": "en",
@@ -3261,6 +3233,20 @@
 "src": "CNN",
 "title": "America’s Cup: ARC Team USA unveil yacht ahead of run for famed trophy",
 "ts": 1795217028.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
+"src": "Le Monde Politique",
+"title": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+"ts": 1795235408.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
+"ts": 1795235416.0
 }
 ],
 "seen": {
@@ -5132,6 +5118,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html": 1795148128.903906,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html": 1795194941.9928415,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/20/une-intersyndicale-de-la-fonction-publique-appelle-a-une-nouvelle-journee-de-greve-le-1-decembre_6813641_823448.html": 1795182328.7974975,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html": 1795236326.0961106,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html": 1794892526.4495647,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html": 1794907835.2831342,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html": 1794920442.3618543,
@@ -5157,6 +5144,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html": 1795165242.7430918,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html": 1795201242.8890555,
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html": 1795130130.6346009,
+"Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html": 1795236326.0961106,
 "Le Monde Politique|https://www.lemonde.fr/vie-au-travail/article/2026/11/17/il-faut-aider-les-jeunes-a-se-construire-des-parcours-scolaires-et-professionnels-desirables_6812899_6768900.html": 1794892526.4495647,
 "Reuters|CBMi0AFBVV95cUxNalVnVHZ3UDJBcTVkUHlwRC1weTVyd0Etb3g4ZWJIZW8wWXI5elFlNDI4V1FqR1VZLUxwWGJiWEdXT2lIdmlnMndVZXRHc3ozMy1tdUs2c29EcGgwTks1bjlBaWhUUzg0bXFRX2s2ZXAzLXU1cmpKMVh0R2tmUFU4b190VU5XMzZYYktHVnNmT2dUUk5McU1PNEl3WDNRdlhwWjdXOUZkSU5MTS1xWUs3THBOZnhBbWJwR1pPRUpCc2hLR0JtSlhjQWJuaHhfSHFh": 1795019455.405468,
 "Reuters|CBMi0AFBVV95cUxOTFZyeFhkdkRKOWpCZUFFeWdZNzQ0QjVKMTUtZVd5My16Yk9RZjR1V2F2VHNER3BuSEE3ZXEzNExYUFluLVpRV1lmc1hFMzAwT2MzR1dnNmR4VFhmejZhSUJFMnpjNFB2WTlmSy1RaGdSdGdmbGxLUGZhT3lhWGRYOXJNTkE4RXVNaTN5REswcFpPUVd0aTY1ZWlNZkp5MlNaRG9GZ2c5RmdVWUJoVF95VGc3b0VqWmJzZHlCREltOUl1SFFEZUpxSmpuM1hNS1lh": 1795057251.1137197,
