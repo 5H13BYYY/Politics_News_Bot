@@ -8,27 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDNLZGZneFhVS1RrUTRtYTh0dUxZQWF5ZnNUWlZIQjVnNXEyM0FJWDNvbndxcEl0RDhHQzc4c0JRM3ZYeW12NmFmT0ZIR1BRUDNnYk1vVXZid0tISG9vNEl3YnRnVGZCWi00a0FETHlzdnVWNkRyTHg0eFVBU0Q2Wl9tcUc1REs0NEhPXzJkOVJRWGR2enM1RGRJc0hDNXRCYU9FRXEyY1Vyc0REVEo4dENFX2VMbW5jeWw4TGVMYw?oc=5",
-"src": "Reuters",
-"title": "Zimbabwe tweaks lithium export tax rule, mandates local sourcing by miners",
-"ts": 1795104944.0
-},
-{
-"lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261119-francophonie-macron-a-c%C3%A9d%C3%A9-chantage-congolais-dit-olivier-nduhungirehe-chef-diplomatie-rwandaise",
-"src": "France 24",
-"title": "Francophonie : Macron a cédé à un \"chantage congolais\", dit le chef de la diplomatie rwandaise",
-"ts": 1795105276.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHVPWHJmYm9kR0JMZUFGME1LSzZ6MTNzUHlFdWNtcElDeWFITjFmODRrVGhfekgwekxmT3ZaZ3ZDNUE5b1EwX2RjdzA0VG5rODhBSGU2ZXJwUklWdjFWVDRyTHo1cDRIbHFrWUliMXpfSUVCVUZzQ2c3QmZEWTZVZmc0TmdyX1VTU2wzQmNzcWppNTRYUDNGV1pR?oc=5",
-"src": "Reuters",
-"title": "AFRICA-FX-Most currencies seen under pressure",
-"ts": 1795105423.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/politique/article/2026/11/19/le-depute-des-pyrenees-atlantiques-david-habib-ancien-vice-president-de-l-assemblee-est-mort_6813345_823448.html",
 "src": "Le Monde Politique",
@@ -62,13 +41,6 @@
 "src": "Reuters",
 "title": "Anthropic's CEO talks AI risks as company rings Nasdaq opening bell",
 "ts": 1795106768.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FTmZXdXpvdTZ4bTF2d0Nhd0tFeGtaQzYtTGQwelB5eE1oTl9OcDFtNHR4cmdvZlJfdUtmdkVMWE5mSnR3LXhwd3M4Q0tPdHRzTDZFdDBQYXJHUTdpbVZWSXE3YlI?oc=5",
-"src": "CNN",
-"title": "Gas prices take biggest 3-week dive since 2008",
-"ts": 1795105176.0
 },
 {
 "lang": "en",
@@ -3282,6 +3254,13 @@
 "src": "CNN",
 "title": "Zohran Mamdani makes surprise appearance on CNN’s ‘Have I Got News for You’",
 "ts": 1795230000.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmVhS0diNFFOUzBPMXlmZ3F3NVhzbDlTdzJnY3FBMTB1TnEwSmhkUUFFS3Zha29XdWkyQUw2czBDa3RQVmtPRHZxWmJ4RVBZUm9ZYXdsM1NNTUt5eWdNdlVSVVRUcG8zZFVfRDRuSHNuRzVYdUg5ZnlpQmVoN2pOczRUekxNdHJNTXZWem9HdnJNQnNiWW9uVHN0b2lKVDNmUlNzVHVRbklmQldRUjIydlBOemZuZ28?oc=5",
+"src": "CNN",
+"title": "America’s Cup: ARC Team USA unveil yacht ahead of run for famed trophy",
+"ts": 1795217028.0
 }
 ],
 "seen": {
@@ -4442,6 +4421,7 @@
 "CNN|CBMitgFBVV95cUxPYXhzVmtWbGhfeXpWaTcyR2tvdld4aFZqYld2YTFYbWVzaHBJclBQWWFDajROVXpDSkhvajB4ZktHaHdLS1E2MWEzeHJkLUU1MFV2MnhTM0oxMGttUDhqTWpFU0daRll2dmdZVVBkNDZQWThKYzZOLVFkWFF5eUNaRlZlWUtDdlVkQUF4ZlJoc3NOVDFNd25pcnYtZTMxOWI4dTBUSEpUNFUzRUFONHIwTUQ1a3UwUQ": 1794915929.1788237,
 "CNN|CBMitgFBVV95cUxPc05ua2JkVU5GaUZDR1hQWjB0V09Ld1VaSVBaSl91WGdqQmtUbmJaTGFsRkpzeHBXY2JlVWNzbXRXZ2t4ZkNJblAzS0xuUnJzVlJJemg2SlkyMGhIS0tUcTZxbjd2ZVh4X2JiYVEzZl84SEoxMXJ4YXBpZUJxNUhKUWFIaDNPUi1acVRKOUFOcFdsM0dQMWprR2dVMTMtVTBRMkxlWHQ1VWpnNXF6bnFMTjRxQkRvZw": 1794831328.178085,
 "CNN|CBMitgFBVV95cUxQNmdSSU5OQ29HeXByY0ZsR3hmS25INFQ5Z3NUX3FwbUp2RXNJbjk4aExzdUdqWHJoT0RrdEplbC0ycWU5eGZrdUpsaDRfVnUteXQ0b1RVU0d3SWduc19ObjE1Q2trUDNfWGJzUlBFU3Q2c1VlMnMtUlRnRFhQRGFKa0NBZVdSWVA0ZzUyZXloVmpFejBaOTFMUGlhcTVoTDRHc1VZQlFLUzIzN3EzTE92anducVI0QQ": 1794846639.1614068,
+"CNN|CBMitwFBVV95cUxNQmVhS0diNFFOUzBPMXlmZ3F3NVhzbDlTdzJnY3FBMTB1TnEwSmhkUUFFS3Zha29XdWkyQUw2czBDa3RQVmtPRHZxWmJ4RVBZUm9ZYXdsM1NNTUt5eWdNdlVSVVRUcG8zZFVfRDRuSHNuRzVYdUg5ZnlpQmVoN2pOczRUekxNdHJNTXZWem9HdnJNQnNiWW9uVHN0b2lKVDNmUlNzVHVRbklmQldRUjIydlBOemZuZ28": 1795235435.2525775,
 "CNN|CBMitwFBVV95cUxNZDZnRWtZbVpSaWdrdW1yV281OG1MTkgwYTMwUy04ZFgzRzVCZkRxcy0yN3VFQ0dMVVBxb0lORnR2MFpNZTVVbENIUVhZVVM3UUVPc21SdTZnZlM0eTJ3YmxaUWp3aXpmQ2JLTHhIXzVZTHJFdXVERFMzUk5NMEVVZGJPemM5NFozWHhHSnpyVVI3aW1DSHhFLTlJQk40aGhfMmFyZW9pX2NCWTlMWTFaMnVrcF9YSTg": 1794776443.0508242,
 "CNN|CBMitwFBVV95cUxONHAwaTU1Nmt6MGJ2d0JwSHlPd0N0ZE1rb0F2QTdUeXUyb1VqMXNfQjRMSnJmcG1uRzRmQ2tPd3FkaWo0dHMybW5PcmpVRUpMVEVJOUg3QjE5REZmdXJxOWtKaTEwbGlQRzRaTjN0OHkwdWdkN1pYcXFXQkVURFZUb05ac3k0T3RQT2RoRUpic0JRT3VidlNVRWpPSW9UQjBfa1BWQjR1V0tncEt1ZjdaQjBWc3JWdlE": 1795210241.8119922,
 "CNN|CBMitwFBVV95cUxOUEtLYjQzRGFCd0s0QWt1dUU3d2JTU282VkFMUmxyMmExQmpJV0ViSnpYTThGZWxGRXlCMGI2WWwyZEktM3Nsd0s0bkN3UWt5YTV0akdnZnFxdUM2MWQ2eFVvejhDNS16bC1ocU1kYlhVczMyMFk0SFloZGFkUWc0eHF4am5yMEFyWFA5UWdrYVVpWFJHejFPeFBVdlNfeEZHaVREV21xOGM1RkhGby04X2RvYTdMUDg": 1794909643.5209646,
@@ -5269,6 +5249,7 @@
 "Reuters|CBMiXEFVX3lxTE90THlSbFFaVnRzN0xqdHVwenBuMWxCeGV4dFgtZ280dm1fYzBwa2diZXRMVkhpZEdLWFdhdnBXUlpUOENMejZmWno2bE1PZnFKM28zbjRXNWRBV0w0": 1794789929.604661,
 "Reuters|CBMiXEFVX3lxTE90WU0tN3hEeHFqa0I5b2ZNTTduSmdMNFRURkVVT2RoT3hGYmFTdk1Vd0RpV2wzTnRKU2Z2RmFmU19Ya0preVVHeGt4TVNQMjZ1UjU5T1RiR1prRHUt": 1794780925.911867,
 "Reuters|CBMiXEFVX3lxTE94VzFWa0VYOFZtZ2hwWm5GRzRVOHJhb0FJbEJHZkFVR1hqYmMwcDdvNUlaMXdkdGhLV0xFTWZtdC1uYzZiRFd6Snl0QVBwQWV4MmQxZ2R5ZDNuTmlf": 1794732327.2119765,
+"Reuters|CBMiXEFVX3lxTE94Y19CSGUwT003VE5GdV9Ca0FOTUtRaTNJVFpndUdVV1IxZTFGSWY4Z0p0dDl1VkRIci1yUnpuTzRPdkMwbkRwM0NXVHJ0Umd5NThYdVNRS2ExaEFf": 1795235435.2525775,
 "Reuters|CBMiXEFVX3lxTE94YVZZWWs4TGxrUTJVVDFLY2RjeDg2dy1lc0NSNVExMllTZXpOeUVmQ1IyTVVwbGFDSlB4bXdvbmhGc0N4RnlpN09paExhT0NhWUY5WGhUWlg0NWJL": 1794775528.0792596,
 "Reuters|CBMiXEFVX3lxTE95amMtb184eWZxZURKNmJMT2JqUXNGSExuNzJKSEZja0UteWxMNG5LLUFWOXV0RnZKcEg2UmIxdFNYYU5GVmhfXzlSUjdQREdTdThFMWE5WHBHNTJf": 1794634233.8021371,
 "Reuters|CBMiXEFVX3lxTE9CUnRsWUxQOXJKSkJ2dVEteS1kM3pmLWQxZTdBSU9UbUNCNFJIQ0tqSVJ1ajBtS3Uxemlhck1wbklYUTc3dk9wTl8wZHR6VlVPOEotX0gwekt4U2Rm": 1794823933.165905,
