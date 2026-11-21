@@ -36,13 +36,6 @@
 "ts": 1795116021.0
 },
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXZuZnVfZUVZT3kzMm8tOUdmbXVfYk9YeXl4Y1dndWtwTXRYRERISER0YURHWFRVc1dmNXdfejVWaXZwcFJzQm9VeTNjQkxmckZYLTREWU5TTHhVaXc1QW5Kd0JDU1BUNVd4VGNUcUh2a0s2VEtKeHJSM1p1NFlFcGlrUXlvbEQyTjhXdExqOF83SE43ZVlhLWhzcE5VMmVJYnNXVlZoZGVDelExdVpBc0J5MlRSZVdNMVluSjJ2STlYUnB4dWlv?oc=5",
-"src": "Reuters",
-"title": "Trump's defamation case against New York Times and Penguin Random House may proceed, judge rules",
-"ts": 1795113991.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
 "src": "Le Monde Politique",
@@ -3065,6 +3058,13 @@
 "src": "Reuters",
 "title": "PODCAST: Illustrating a year of turmoil inside Iran",
 "ts": 1795240800.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/moyen-orient/20261121-l-arabie-saoudite-dit-avoir-intercept%C3%A9-des-missiles-lanc%C3%A9s-par-les-houthis-vers-riyad",
+"src": "France 24",
+"title": "L'Arabie saoudite dit avoir intercepté des missiles lancés par les Houthis vers Riyad",
+"ts": 1795243920.0
 }
 ],
 "seen": {
@@ -4353,6 +4353,7 @@
 "France 24|0bd30afe-e3a0-11f1-a860-51c1f5e91f5b": 1795048238.117735,
 "France 24|0c2f6f6c-e2a4-11f1-ae6f-9bfe38f4281a": 1794933939.8238747,
 "France 24|0c8d12e8-dfed-11f1-9f23-af4958826be8": 1794652235.8836935,
+"France 24|0db8585e-e578-11f1-b9e0-f9bacfa757bc": 1795244439.0557535,
 "France 24|0dc5bf44-e50a-11f1-9923-5bc279a4f01b": 1795197640.775553,
 "France 24|0ddd9c2c-e4ba-11f1-bac6-695963b2b505": 1795167052.4858305,
 "France 24|0e0b47fc-e4b6-11f1-bbac-dd2c24e7b02a": 1795163433.513393,
@@ -4854,7 +4855,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html": 1794676526.1393592,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html": 1794654050.5542307,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html": 1794674727.6455698,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html": 1794639640.3263202,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html": 1794681046.7296891,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html": 1794668440.9511037,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html": 1794759328.694131,
