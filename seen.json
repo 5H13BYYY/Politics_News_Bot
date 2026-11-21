@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqT0ZCMjdMN1ZoN3FIMXhGTVUwMm5lb1hEMXg5dFI2TkdTYTFxLWRXWS1EdGJhYWpzVTJGOWw3UkJLQ3hWM1FfRE84eWhFVDB0N3FfSUxrRlM3OVZkaGpsQnhrcjNOUQ?oc=5",
-"src": "Reuters",
-"title": "Protesters blocking Nasdaq doors arrested ahead of Anthropic debut",
-"ts": 1795107864.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/19/municipales-2026-105-maires-de-grandes-villes-se-voient-refuser-le-remboursement-de-leurs-frais-de-campagne_6813354_823448.html",
-"src": "Le Monde Politique",
-"title": "Municipales 2026 : 105 maires de grandes villes se voient refuser le remboursement de leurs frais de campagne",
-"ts": 1795108481.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbm5uLVdZM01xX1VaLXBEOE5oNDJ6RmdiM2Jyck9Hdl9CS2k3dEpFVGZWdHM4WWRUc0VkQTJjbXRDOGpDWUg5SFFxanUtMjhsM08tejAyTEhhNGJJVDB4NEJ4X09FVklkclZEM2h3LUtuR28xWjZydUdjVVJOM0Z3NGRnODQ2LXBDTmgya2xPWHZOa1NMR0VocnRCZTdqX21laG1KcXpEZ0RQNUVmdkZOc3l4ckFXZ3M?oc=5",
-"src": "Reuters",
-"title": "Senegal parliament votes against 2027 budget bill, extending impasse",
-"ts": 1795108484.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ05leU1HU1NZVXRuR0s5YzE0XzR0Y2dQeUFQcjZlLThqbTRuUUNNdXNXUzYyRU9JTklySF85T0RLaV9xbUMwNUVIUFFlR1FQZUU0Zi1tWGJPd0RaYWFtbGFKdzVGVFZudlcyWml5WFNlU3hlYVJRd1dhdjZocFRINFlPeWptME1UelVuTFNBTzFnVmM?oc=5",
 "src": "CNN",
 "title": "Wall Street Welcomes Anthropic - CNN 5 Things - Podcast on CNN Podcasts",
@@ -3233,6 +3212,13 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
 "ts": 1795235416.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html",
+"src": "Le Monde Politique",
+"title": "« Nous sommes face à de nouvelles socialisations politiques » : les mobilisations en France, en Italie et en Allemagne vues par les philosophes Michaël Fœssel et Martin Rueff",
+"ts": 1795237206.0
 }
 ],
 "seen": {
@@ -4978,9 +4964,7 @@
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-les-jeunes-sont-aux-premieres-loges-de-la-crise-du-logement-suivez-notre-live-consacre-a-la-vie-chere-avec-des-temoignages-des-analyses-et-des-graphiques_6811633_6205049.html": 1794850234.339317,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-pouvoir-d-achat-posez-vos-questions-a-l-economiste-mathieu-plane_6811633_6205049.html": 1794835834.9430282,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-suivez-dans-notre-live-le-debat-entre-gabriel-attal-raphael-glucksmann-marine-le-pen-jean-luc-melenchon-et-bruno-retailleau-sur-la-vie-chere_6811633_6205049.html": 1794853838.1541076,
-"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html": 1794633332.7946377,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html": 1794663927.4938285,
-"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/14/mobilisations-sociales-sortir-de-la-spirale-de-violence-actuelle-requiert-de-refonder-les-institutions-democratiques_6809694_3232.html": 1794633332.7946377,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html": 1794720634.2309227,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html": 1794736840.5058265,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html": 1794734126.752982,
@@ -4996,7 +4980,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html": 1795081540.1810577,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html": 1795194941.9928415,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html": 1795149929.2677069,
-"Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html": 1794633332.7946377,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html": 1795238138.171145,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html": 1794749436.8163805,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html": 1794729640.5759432,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html": 1794869126.7947497,
@@ -6324,7 +6308,6 @@
 "Reuters|CBMiwwFBVV95cUxOUzVnd3QyRDl6eFhVVFBtdkJOVGdHcFRFckR6c2JEM1RpUXptUjdjT1N6bTB4c25zSHBNY3pRVlVRMHpUM2RIbFN5NkhxUnhtU2hPdmRmdWMxVkp3SnFxQURQWVNWUkNNclUtT1JKRE5LSTFkelJvb0JlV3FfWUUyXzRRNXN3N1QxczdtWUFMT2lySDRGSXROY2prNVc2NWZJNE1qSnlkcDBEUlc1UjRjZFNQVk9GdXFuUUpobU4tNjlhR2s": 1795002328.3684323,
 "Reuters|CBMiwwFBVV95cUxOV2lvd2E4QWdVQld5dXp1cGYzUU9URlo2Mm13c2RMSlBCakViMDJiOWJyMTlNb3ZsVC1oRXdNNWZadjd5WHM0S3c2RjJPLUZ6bFg3OU12dFpaWDc0VVZ1eG9SN0kyU3RqeDdBWThGcWNka3lKNEJUREJqb0JLNkVla0MxSi1FOUdkanp1WUcyVHJueV9hN3IxV3lTcTJGOS1ZaHFwX2h2eG51Q192TUV3cHFhVjBjeVkwOVMzWWFPZ1p6dmc": 1795018532.3924358,
 "Reuters|CBMiwwFBVV95cUxOVFM5OTAyUmN3V29IUG9fV21sUlZyMlJlaHF4ZWNPZHdLXzQ2S2V3T3lBbHp0SkhHNGp2WXhrVk1HcFdKRkVVMmctV25ITGNEY2plS2ZPU09EOVpSOFd6cGxYV1ZsZTlKSXotRkZlanNVRlVDVnc2X2FrV05kdzhFNTdOTTBCR1NScmoybmtRcGh3eGRrUlhCME9nMFl3UW5EX055eGpmREExRTJiRDYyVTVsRC02SVlyTVVkSTh5ckJtbjg": 1795158039.2937684,
-"Reuters|CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU": 1794633332.7946377,
 "Reuters|CBMiwwFBVV95cUxOa1FfUS1OenA3M3Y5X29pUkxZUU1MbXdnaDlwNmtGd2RJaktuV2J6LTdVUTBwLW5OR0VEMUNKUlNRQjBDdkxMM2duWTlrQmNVdjFJalhHQUM4UVlUWGNnc2Y4dUJPa1FzSFN4QkxJREZqLVExdWFCOUNzWnllMVRTb3gzdE5XSUZBMlpjTzNiTzVvYUhyaUlENWlBdmlZUFNFWEI0dkM3Ql9ZWmVUR1FuRUtqYjFjdEREVVhqX2czWHdlNVk": 1794976234.3529263,
 "Reuters|CBMiwwFBVV95cUxPRUhuX21XV1NJMFFOR3RCeWR6ZTEtYVhQX1FRX2Y0dmtmUl83bDFMekNMWWxxTjh3bHM3N2xsSTdxVFNlRUlMSWt2WWlOYzU3R0lLNXBvOV9nblltMzFXTXBvWndhbk9NdmxFNXU5QTF4dUZkb25DcWJVM0MyT0s5bG51VDdFaTM4UkE2TWxkQUtCWHRPaUhrRXU0TXVneVlYOWxEY1FpU08xd00tY3g1dWlsMmtkMUV4ekZvdVNGallhbmM": 1795050797.7089334,
 "Reuters|CBMiwwFBVV95cUxPSmZ5RHk1VFJGT0dBY05Belp3eXlUZERJY2xnQkg3MXFFd2hMQTZwZmNicGhTUmowNk52TXNoNFVDZ1pVVHFzR09EcmFQbW00NjFkWnF4UnRIOTdSUE1LTEI2aFZrSjI0MUo3QTR5Vk5oQkhvRFk1Nk9Rb25Pc1FpTDVaaDUzUklqR3NGT1FsekxVMU9QZEZhQVRGMGNtN2Q5b0lKakx4MzFkOEJEVVlvOXd0OUFGc2JjM3dENTE1QTRCUXM": 1795024841.1498108,
